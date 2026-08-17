@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JSA — Jonathan Glenn</title>
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0f1117;--s1:#181c27;--s2:#1e2335;--s3:#252d42;
+  --b1:#2a3045;--b2:#333d58;
+  --ink:#e4e8f0;--ink2:#8892a4;--ink3:#4a5568;
+  --blue:#4f8ef7;--bluedim:rgba(79,142,247,.12);
+  --green:#3ecf8e;--greendim:rgba(62,207,142,.1);
+  --amber:#f6ad55;--amberdim:rgba(246,173,85,.1);
+  --red:#f56565;--reddim:rgba(245,101,101,.1);
+  --mono:'JetBrains Mono',monospace;
+  --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+}
+html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--ink);font-size:14px;line-height:1.6}
+.shell{display:flex;height:100vh;overflow:hidden}
+
+/* SIDEBAR */
+.sidebar{width:210px;min-width:210px;background:var(--s1);border-right:1px solid var(--b1);display:flex;flex-direction:column}
+.brand{padding:20px 16px 14px;border-bottom:1px solid var(--b1)}
+.brand-name{font-size:13px;font-weight:700;color:var(--ink)}
+.brand-sub{font-family:var(--mono);font-size:10px;color:var(--blue);margin-top:3px;letter-spacing:.5px}
+.nav{padding:10px 8px;flex:1}
+.nav-btn{display:flex;align-items:center;gap:9px;width:100%;padding:9px 10px;border:none;border-radius:6px;background:none;color:var(--ink2);font-family:var(--sans);font-size:13px;font-weight:500;cursor:pointer;text-align:left;transition:all .12s;margin-bottom:2px}
+.nav-btn:hover{background:var(--s2);color:var(--ink)}
+.nav-btn.active{background:var(--bluedim);color:var(--blue)}
+.nav-badge{margin-left:auto;font-size:10px;font-weight:700;padding:1px 6px;border-radius:10px;min-width:18px;text-align:center}
+.nb-blue{background:var(--blue);color:#fff}
+.nb-green{background:var(--green);color:#fff}
+.nb-gray{background:var(--b2);color:var(--ink2)}
+.sidebar-foot{padding:12px 14px;border-top:1px solid var(--b1);font-family:var(--mono);font-size:10px;color:var(--ink3);line-height:1.8}
+
+/* MAIN */
+.main{flex:1;display:flex;flex-direction:column;overflow:hidden}
+.topbar{background:var(--s1);border-bottom:1px solid var(--b1);padding:14px 24px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
+.topbar-left .t-title{font-size:15px;font-weight:600;color:var(--ink)}
+.topbar-left .t-meta{font-family:var(--mono);font-size:10px;color:var(--ink3);margin-top:2px}
+.topbar-right{display:flex;gap:8px;align-items:center}
+.content{flex:1;overflow-y:auto;padding:24px}
+.page{display:none}
+.page.active{display:block}
+
+/* BUTTONS */
+.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:7px;border:1px solid var(--b2);background:var(--s2);color:var(--ink);font-family:var(--sans);font-size:13px;font-weight:500;cursor:pointer;transition:all .12s;white-space:nowrap}
+.btn:hover{border-color:var(--blue);color:var(--blue)}
+.btn:disabled{opacity:.4;cursor:not-allowed}
+.btn-primary{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn-primary:hover{background:#3a7be0;border-color:#3a7be0;color:#fff}
+.btn-sm{padding:5px 11px;font-size:12px}
+.btn-danger{border-color:var(--red);color:var(--red);background:none}
+.btn-danger:hover{background:var(--red);color:#fff;border-color:var(--red)}
+
+/* METRICS */
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
+.metric{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:16px 18px}
+.metric-label{font-family:var(--mono);font-size:10px;font-weight:500;color:var(--ink3);text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px}
+.metric-value{font-size:30px;font-weight:700;color:var(--ink);line-height:1}
+.mv-blue{color:var(--blue)}
+.mv-green{color:var(--green)}
+.mv-amber{color:var(--amber)}
+
+/* AUTH BANNER */
+.auth-banner{display:flex;align-items:center;gap:12px;background:var(--amberdim);border:1px solid var(--amber);border-radius:8px;padding:12px 16px;margin-bottom:18px;font-size:13px;color:var(--amber)}
+.auth-banner.ok{background:var(--greendim);border-color:var(--green);color:var(--green)}
+.auth-banner button{margin-left:auto;padding:5px 13px;border-radius:6px;border:1px solid currentColor;background:none;color:inherit;font-size:12px;font-weight:600;cursor:pointer}
+.auth-banner button:hover{background:var(--amber);color:#111;border-color:var(--amber)}
+.auth-banner.ok button:hover{background:var(--green);color:#111;border-color:var(--green)}
+
+/* CARD */
+.card{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:20px;margin-bottom:16px}
+.card-title{font-size:13px;font-weight:600;color:var(--ink);margin-bottom:14px}
+
+/* CRITERIA */
+.crit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.crit-label{font-family:var(--mono);font-size:10px;color:var(--ink3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:3px}
+.crit-value{font-size:13px;font-weight:500;color:var(--ink)}
+
+/* STATUS */
+.status-row{background:var(--s1);border:1px solid var(--b1);border-radius:8px;padding:11px 16px;display:flex;align-items:center;gap:10px;margin-bottom:10px;font-size:13px;color:var(--ink2)}
+.sdot{width:8px;height:8px;border-radius:50%;flex-shrink:0;background:var(--ink3)}
+.sdot.ok{background:var(--green)}
+.sdot.warn{background:var(--amber)}
+.sdot.err{background:var(--red)}
+
+/* FILTERS */
+.filters{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
+.finput{flex:1;min-width:160px;background:var(--s1);border:1px solid var(--b1);border-radius:7px;padding:7px 12px;font-family:var(--sans);font-size:13px;color:var(--ink);outline:none;transition:border-color .12s}
+.finput:focus{border-color:var(--blue)}
+.finput::placeholder{color:var(--ink3)}
+.fsel{background:var(--s1);border:1px solid var(--b1);border-radius:7px;padding:6px 10px;font-family:var(--sans);font-size:13px;color:var(--ink2);outline:none;cursor:pointer}
+
+/* JOB ROWS */
+.job-list{display:flex;flex-direction:column;gap:6px}
+.job-row{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:13px 16px;display:flex;align-items:center;gap:12px;transition:all .12s}
+.job-row:hover{border-color:var(--blue);background:var(--s2)}
+.job-row.unseen{border-left:3px solid var(--blue)}
+.job-logo{width:36px;height:36px;border-radius:8px;background:var(--s2);border:1px solid var(--b2);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:11px;color:var(--ink2);flex-shrink:0;text-transform:uppercase;font-family:var(--mono)}
+.job-body{flex:1;min-width:0;cursor:pointer}
+.job-title{font-size:14px;font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.job-co{font-size:12px;color:var(--ink2);margin-top:2px}
+.job-right{display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0}
+.chip{display:inline-flex;align-items:center;padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.3px;white-space:nowrap}
+.ch-new{background:var(--bluedim);color:var(--blue)}
+.ch-applied{background:var(--greendim);color:var(--green)}
+.ch-interviewing{background:var(--amberdim);color:var(--amber)}
+.ch-offer{background:var(--greendim);color:var(--green);border:1px solid var(--green)}
+.ch-rejected{background:var(--reddim);color:var(--red)}
+.ch-closed{background:var(--s2);color:var(--ink3)}
+.ch-src{background:var(--s2);color:var(--ink3);border:1px solid var(--b1)}
+.row-actions{display:none;gap:5px;flex-shrink:0;margin-left:4px}
+.job-row:hover .row-actions{display:flex}
+.row-btn{padding:5px 10px;border-radius:5px;border:1px solid var(--b2);background:var(--s2);color:var(--ink2);font-family:var(--mono);font-size:10px;font-weight:600;text-transform:uppercase;cursor:pointer;transition:all .12s;white-space:nowrap}
+.row-btn:hover{background:var(--blue);border-color:var(--blue);color:#fff}
+.row-btn.rm:hover{background:var(--red);border-color:var(--red);color:#fff}
+
+/* PIPELINE TABLE */
+.tbl-wrap{background:var(--s1);border:1px solid var(--b1);border-radius:10px;overflow:hidden}
+.tbl{width:100%;border-collapse:collapse}
+.tbl th{text-align:left;padding:10px 14px;font-family:var(--mono);font-size:10px;font-weight:500;color:var(--ink3);text-transform:uppercase;letter-spacing:.5px;background:var(--s2);border-bottom:1px solid var(--b1)}
+.tbl td{padding:10px 14px;border-bottom:1px solid var(--b1);font-size:13px;color:var(--ink);vertical-align:middle}
+.tbl tr:last-child td{border-bottom:none}
+.tbl tr:hover td{background:var(--s2)}
+.tbl-sel{background:var(--s2);border:1px solid var(--b1);border-radius:5px;padding:4px 8px;font-family:var(--sans);font-size:12px;color:var(--ink);cursor:pointer;outline:none}
+.days{font-family:var(--mono);font-size:12px;color:var(--ink3)}
+.days.stale{color:var(--amber)}
+
+/* OUTREACH */
+.outreach-form{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:18px 20px;margin-bottom:16px}
+.outreach-form .form-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:10px}
+.field-label{font-size:10px;font-family:var(--mono);color:var(--ink3);text-transform:uppercase;letter-spacing:.4px;display:block;margin-bottom:4px}
+.resp-chip{padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:10px;font-weight:600;text-transform:uppercase}
+.resp-pending{background:var(--amberdim);color:var(--amber)}
+.resp-yes{background:var(--greendim);color:var(--green)}
+.resp-no{background:var(--reddim);color:var(--red)}
+
+/* EMPTY */
+.empty{text-align:center;padding:56px 24px;color:var(--ink3)}
+.empty-ico{font-size:36px;margin-bottom:10px}
+.empty-title{font-size:15px;font-weight:600;color:var(--ink2);margin-bottom:6px}
+.empty-sub{font-size:13px;line-height:1.6}
+
+/* MODAL */
+.modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:200;align-items:center;justify-content:center}
+.modal{background:var(--s1);border:1px solid var(--b2);border-radius:12px;width:520px;max-width:95vw;overflow:hidden}
+.modal-head{padding:16px 20px;border-bottom:1px solid var(--b1);display:flex;justify-content:space-between;align-items:center;font-weight:600;font-size:14px}
+.modal-body{padding:20px;display:flex;flex-direction:column;gap:12px}
+.modal-foot{padding:12px 20px;border-top:1px solid var(--b1);display:flex;justify-content:flex-end;gap:8px}
+.frow{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+
+/* TOAST & SAVE */
+.toast{position:fixed;bottom:24px;right:24px;background:var(--s2);border:1px solid var(--b2);color:var(--ink);padding:10px 16px;border-radius:8px;font-size:13px;z-index:300;opacity:0;transform:translateY(8px);transition:all .2s;pointer-events:none;max-width:320px}
+.toast.show{opacity:1;transform:translateY(0)}
+.save-ind{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(8px);background:var(--s2);border:1px solid var(--green);color:var(--green);padding:5px 14px;border-radius:6px;font-family:var(--mono);font-size:11px;z-index:300;opacity:0;transition:all .2s;pointer-events:none}
+.save-ind.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.save-ind.fail{border-color:var(--red);color:var(--red)}
+</style>
+</head>
+<body>
+<div class="shell">
+
+<!-- SIDEBAR -->
+<aside class="sidebar">
+  <div class="brand">
+    <div class="brand-name">Jonathan Glenn</div>
+    <div class="brand-sub">JOB SEARCH AGENT</div>
+  </div>
+  <nav class="nav">
+    <button class="nav-btn active" onclick="goPage('overview',this)">⌂&nbsp; Overview</button>
+    <button class="nav-btn" onclick="goPage('postings',this)">◈&nbsp; Postings <span class="nav-badge nb-gray" id="badge-post">0</span></button>
+    <button class="nav-btn" onclick="goPage('pipeline',this)">◎&nbsp; Pipeline <span class="nav-badge nb-gray" id="badge-pipe">0</span></button>
+    <button class="nav-btn" onclick="goPage('outreach',this)">✉&nbsp; Outreach <span class="nav-badge nb-gray" id="badge-out">0</span></button>
+    <button class="nav-btn" onclick="goPage('settings',this)">⚙&nbsp; Settings</button>
+  </nav>
+  <div class="sidebar-foot">
+    <div id="foot-run">Last harvest: never</div>
+    <div id="foot-auth" style="color:var(--amber)">Google: not connected</div>
+  </div>
+</aside>
+
+<!-- MAIN -->
+<main class="main">
+
+<!-- OVERVIEW -->
+<div id="page-overview" class="page active">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="t-title">Overview</div>
+      <div class="t-meta" id="t-date"></div>
+    </div>
+    <div class="topbar-right">
+      <button class="btn" id="auth-btn" onclick="signIn()">Connect Google</button>
+      <button class="btn btn-primary" id="sync-btn" onclick="loadFromDrive(true)" disabled>↻&nbsp; Sync Drive</button>
+    </div>
+  </div>
+  <div class="content">
+    <div class="auth-banner" id="auth-banner">
+      <span>⚠ Connect Google to load your job data</span>
+      <button onclick="signIn()">Connect now</button>
+    </div>
+    <div class="metrics">
+      <div class="metric"><div class="metric-label">Total jobs</div><div class="metric-value" id="m-total">0</div></div>
+      <div class="metric"><div class="metric-label">Unseen</div><div class="metric-value mv-blue" id="m-unseen">0</div></div>
+      <div class="metric"><div class="metric-label">Applied</div><div class="metric-value mv-green" id="m-applied">0</div></div>
+      <div class="metric"><div class="metric-label">Interviews</div><div class="metric-value mv-amber" id="m-interview">0</div></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Harvest criteria — runs via Claude scheduled task at 9am</div>
+      <div class="crit-grid">
+        <div><div class="crit-label">Gmail keywords</div><div class="crit-value">job alert · analyst · hiring · job opportunities</div></div>
+        <div><div class="crit-label">Excluded</div><div class="crit-value">Senior · Sr. · Intern · Co-op · 7+ yrs exp</div></div>
+        <div><div class="crit-label">Locations</div><div class="crit-value">Atlanta · FL · SC · TX · Remote · Hybrid</div></div>
+        <div><div class="crit-label">Salary floor</div><div class="crit-value">$65,000 — shown, never filtered</div></div>
+        <div><div class="crit-label">Industries</div><div class="crit-value">All industries</div></div>
+        <div><div class="crit-label">Degree req.</div><div class="crit-value">Always shown — your call</div></div>
+      </div>
+    </div>
+    <div id="drive-status"></div>
+  </div>
+</div>
+
+<!-- POSTINGS -->
+<div id="page-postings" class="page">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="t-title">Job postings</div>
+      <div class="t-meta" id="post-count"></div>
+    </div>
+    <div class="topbar-right">
+      <button class="btn btn-sm" onclick="openAddModal()">+ Add manually</button>
+    </div>
+  </div>
+  <div class="content">
+    <div class="filters">
+      <input class="finput" type="text" placeholder="Search title or company..." oninput="renderJobs()" id="fsearch">
+      <select class="fsel" onchange="renderJobs()" id="fstatus">
+        <option value="">All statuses</option>
+        <option>New</option><option>Applied</option><option>Interviewing</option>
+        <option>Offer</option><option>Rejected</option><option>Closed</option>
+      </select>
+      <select class="fsel" onchange="renderJobs()" id="fsource"><option value="">All sources</option></select>
+    </div>
+    <div class="job-list" id="job-list">
+      <div class="empty"><div class="empty-ico">◈</div><div class="empty-title">No jobs yet</div><div class="empty-sub">Connect Google to load your job data.</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- PIPELINE -->
+<div id="page-pipeline" class="page">
+  <div class="topbar"><div class="topbar-left"><div class="t-title">Pipeline</div></div></div>
+  <div class="content">
+    <div class="metrics" style="grid-template-columns:repeat(3,1fr)">
+      <div class="metric"><div class="metric-label">Applied</div><div class="metric-value mv-blue" id="p-applied">0</div></div>
+      <div class="metric"><div class="metric-label">Interviewing</div><div class="metric-value mv-amber" id="p-interview">0</div></div>
+      <div class="metric"><div class="metric-label">Offers</div><div class="metric-value mv-green" id="p-offer">0</div></div>
+    </div>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <thead><tr><th>Company</th><th>Role</th><th>Applied</th><th>Days out</th><th>Status</th><th>Link</th></tr></thead>
+        <tbody id="pipe-body">
+          <tr><td colspan="6"><div class="empty" style="padding:28px"><div class="empty-title">Pipeline is empty</div><div class="empty-sub">Mark jobs Applied to track them here.</div></div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- OUTREACH -->
+<div id="page-outreach" class="page">
+  <div class="topbar">
+    <div class="topbar-left"><div class="t-title">Outreach</div><div class="t-meta" id="out-count"></div></div>
+    <div class="topbar-right"><button class="btn btn-sm" onclick="openOutreachModal()">+ Log contact</button></div>
+  </div>
+  <div class="content">
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Title</th>
+            <th>Company</th>
+            <th>LinkedIn</th>
+            <th>Response</th>
+            <th>Notes</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="out-body">
+          <tr><td colspan="7"><div class="empty" style="padding:28px"><div class="empty-title">No outreach logged</div><div class="empty-sub">Log contacts you have messaged alongside your applications.</div></div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- SETTINGS -->
+<div id="page-settings" class="page">
+  <div class="topbar"><div class="topbar-left"><div class="t-title">Settings</div></div></div>
+  <div class="content">
+    <div class="card">
+      <div class="card-title">Google Drive</div>
+      <p style="font-size:13px;color:var(--ink2);margin-bottom:12px">Job data is saved to <strong>jsa_jobs.json</strong> in your <strong>Job Search Agent</strong> folder. All status changes write back to Drive immediately.</p>
+      <button class="btn btn-sm" onclick="saveToDrive();toast('Force saved.')">Force save</button>
+    </div>
+    <div class="card">
+      <div class="card-title">Harvest</div>
+      <p style="font-size:13px;color:var(--ink2)">Harvest runs automatically at 9am via your Claude scheduled task. To run manually, open Claude Desktop and say <strong>"run harvest"</strong>. The scheduled task searches your Gmail, writes results here, and labels processed threads JSA-Reviewed.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Data</div>
+      <button class="btn btn-sm btn-danger" onclick="clearAll()">Clear all data</button>
+    </div>
+  </div>
+</div>
+
+</main>
+</div>
+
+<!-- ADD JOB MODAL -->
+<div class="modal-bg" id="add-modal">
+  <div class="modal">
+    <div class="modal-head">Add job manually <button class="btn btn-sm" onclick="closeAddModal()">✕</button></div>
+    <div class="modal-body">
+      <div class="frow">
+        <div><label class="field-label">Company</label><input class="finput" id="m-co" style="width:100%" placeholder="Company name"></div>
+        <div><label class="field-label">Title</label><input class="finput" id="m-title" style="width:100%" placeholder="Data Analyst"></div>
+      </div>
+      <div class="frow">
+        <div><label class="field-label">Location</label><input class="finput" id="m-loc" style="width:100%" placeholder="Remote / Atlanta, GA"></div>
+        <div><label class="field-label">Salary</label><input class="finput" id="m-sal" style="width:100%" placeholder="$70K-$85K"></div>
+      </div>
+      <div><label class="field-label">Job URL</label><input class="finput" id="m-url" style="width:100%" placeholder="https://..."></div>
+      <div><label class="field-label">Source</label>
+        <select class="fsel" id="m-src" style="width:100%">
+          <option>LinkedIn</option><option>Glassdoor</option><option>Indeed</option>
+          <option>ZipRecruiter</option><option>Builtin</option><option>Lensa</option>
+          <option>Recruiter outreach</option><option>Company website</option><option>Other</option>
+        </select>
+      </div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn btn-sm" onclick="closeAddModal()">Cancel</button>
+      <button class="btn btn-sm btn-primary" onclick="saveManualJob()">Add job</button>
+    </div>
+  </div>
+</div>
+
+<!-- OUTREACH MODAL -->
+<div class="modal-bg" id="out-modal">
+  <div class="modal">
+    <div class="modal-head">Log outreach contact <button class="btn btn-sm" onclick="closeOutreachModal()">✕</button></div>
+    <div class="modal-body">
+      <div class="frow">
+        <div><label class="field-label">Contact name</label><input class="finput" id="o-name" style="width:100%" placeholder="Jane Smith"></div>
+        <div><label class="field-label">Their title</label><input class="finput" id="o-title" style="width:100%" placeholder="Hiring Manager"></div>
+      </div>
+      <div class="frow">
+        <div><label class="field-label">Company</label><input class="finput" id="o-co" style="width:100%" placeholder="Company name"></div>
+        <div><label class="field-label">LinkedIn URL</label><input class="finput" id="o-li" style="width:100%" placeholder="linkedin.com/in/..."></div>
+      </div>
+      <div><label class="field-label">Response</label>
+        <select class="fsel" id="o-resp" style="width:100%">
+          <option value="Pending">Pending</option>
+          <option value="Yes">Yes — responded</option>
+          <option value="No">No response</option>
+        </select>
+      </div>
+      <div><label class="field-label">Notes</label><input class="finput" id="o-notes" style="width:100%" placeholder="Context, follow-up needed, etc."></div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn btn-sm" onclick="closeOutreachModal()">Cancel</button>
+      <button class="btn btn-sm btn-primary" onclick="saveOutreach()">Save contact</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+<div class="save-ind" id="save-ind"></div>
+
+<script>
+// ── CONSTANTS ─────────────────────────────────────────────
+const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleusercontent.com';
+const FOLDER_ID   = '1cm4TO0Pe1lWfFGpp5uAfqlnOGmJtqNih';
+const FILENAME    = 'jsa_jobs.json';
+const SCOPES      = 'https://www.googleapis.com/auth/drive.file';
+
+const SEED_JOBS = [
+  {id:'seed1',company:'Procure Analytics',title:'Operations Analyst',location:'Atlanta, GA',salary:'Not listed',url:'https://www.linkedin.com/company/procure-analytics/jobs/',source:'LinkedIn',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
+  {id:'seed2',company:'HD Supply',title:'Data Analytics Specialist',location:'Atlanta, GA',salary:'Not listed',url:'https://careers.hdsupply.com/job/R26004236',source:'Company website',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
+  {id:'seed3',company:'Spring Health',title:'Business Analyst, Operations Analytics',location:'Remote',salary:'$106,500-$118,000',url:'https://boards.greenhouse.io/springhealth',source:'Company website',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''}
+];
+
+// ── STATE ─────────────────────────────────────────────────
+let jobs      = [];
+let outreach  = [];
+let lastRun   = null;
+let fileId    = null;
+let token     = null;
+let tokenClient = null;
+let tokenExpiry = null;
+
+// ── GOOGLE AUTH ───────────────────────────────────────────
+function initGoogle() {
+  if (typeof google === 'undefined') { setTimeout(initGoogle, 400); return; }
+  tokenClient = google.accounts.oauth2.initTokenClient({
+    client_id: CLIENT_ID,
+    scope: SCOPES,
+    callback: async (resp) => {
+      if (resp.error) { toast('Auth failed: ' + resp.error); return; }
+      token = resp.access_token;
+      tokenExpiry = Date.now() + (resp.expires_in - 60) * 1000;
+      onAuthed();
+    }
+  });
+}
+
+function signIn() {
+  if (!tokenClient) { toast('Google not ready — wait a moment and try again.'); return; }
+  tokenClient.requestAccessToken();
+}
+
+function ensureToken() {
+  if (!token || Date.now() > tokenExpiry) { signIn(); return false; }
+  return true;
+}
+
+function onAuthed() {
+  document.getElementById('auth-btn').textContent = '✓ Connected';
+  document.getElementById('auth-btn').disabled = true;
+  document.getElementById('sync-btn').disabled = false;
+  const b = document.getElementById('auth-banner');
+  b.className = 'auth-banner ok';
+  b.innerHTML = '<span>✓ Google connected — Drive sync active</span><button onclick="loadFromDrive(true)">Sync now</button>';
+  document.getElementById('foot-auth').style.color = 'var(--green)';
+  document.getElementById('foot-auth').textContent = 'Google: connected';
+  loadFromDrive(false);
+}
+
+// ── DRIVE REST ────────────────────────────────────────────
+function authHeader() { return { 'Authorization': 'Bearer ' + token }; }
+
+async function loadFromDrive(showToast) {
+  if (!ensureToken()) return;
+  try {
+    setDriveStatus('Loading from Drive…', 'warn');
+    const q = encodeURIComponent(`name='${FILENAME}' and '${FOLDER_ID}' in parents and trashed=false`);
+    const r = await fetch(`https://www.googleapis.com/drive/v3/files?q=${q}&fields=files(id,name)`, { headers: authHeader() });
+    const d = await r.json();
+
+    if (d.files && d.files.length > 0) {
+      fileId = d.files[0].id;
+      const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
+      const parsed = await dl.json();
+      jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
+      outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
+      lastRun  = parsed.lastRun || null;
+      mergeSeedJobs();
+    } else {
+      jobs = [...SEED_JOBS];
+      outreach = [];
+      lastRun = null;
+      fileId = null;
+      await saveToDrive();
+    }
+    setDriveStatus('Drive sync active', 'ok');
+    if (showToast) toast('Synced from Drive — ' + jobs.length + ' jobs loaded');
+    render();
+  } catch(e) {
+    setDriveStatus('Drive load failed: ' + e.message, 'err');
+    jobs = [...SEED_JOBS];
+    render();
+  }
+}
+
+async function saveToDrive() {
+  if (!ensureToken()) return;
+  const body = JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() });
+  try {
+    if (fileId) {
+      const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
+        method: 'PATCH',
+        headers: { ...authHeader(), 'Content-Type': 'application/json' },
+        body
+      });
+      if (!r.ok) throw new Error('PATCH ' + r.status);
+    } else {
+      const meta = await fetch('https://www.googleapis.com/drive/v3/files', {
+        method: 'POST',
+        headers: { ...authHeader(), 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: FILENAME, parents: [FOLDER_ID], mimeType: 'application/json' })
+      });
+      const md = await meta.json();
+      fileId = md.id;
+      await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
+        method: 'PATCH',
+        headers: { ...authHeader(), 'Content-Type': 'application/json' },
+        body
+      });
+    }
+    showSaveInd('Saved to Drive', false);
+  } catch(e) {
+    showSaveInd('Save failed: ' + e.message, true);
+  }
+}
+
+function mergeSeedJobs() {
+  const ids = new Set(jobs.map(j => j.id));
+  SEED_JOBS.forEach(s => { if (!ids.has(s.id)) jobs.push(s); });
+}
+
+// ── RENDER ALL ────────────────────────────────────────────
+function render() {
+  updateMetrics();
+  updateFooter();
+  buildSourceFilter();
+  renderJobs();
+  renderPipeline();
+  renderOutreach();
+}
+
+// ── JOBS ──────────────────────────────────────────────────
+function renderJobs() {
+  const list = document.getElementById('job-list');
+  const q   = (document.getElementById('fsearch')?.value || '').toLowerCase();
+  const sf  = document.getElementById('fstatus')?.value || '';
+  const src = document.getElementById('fsource')?.value || '';
+
+  const filtered = jobs.filter(j => {
+    if (q && !j.company.toLowerCase().includes(q) && !j.title.toLowerCase().includes(q)) return false;
+    if (sf && j.status !== sf) return false;
+    if (src && j.source !== src) return false;
+    return true;
+  });
+
+  document.getElementById('post-count').textContent = filtered.length + ' of ' + jobs.length + ' jobs';
+  document.getElementById('badge-post').textContent = jobs.length;
+
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty"><div class="empty-ico">◈</div><div class="empty-title">${jobs.length ? 'No matches' : 'No jobs yet'}</div><div class="empty-sub">${jobs.length ? 'Clear filters.' : 'Connect Google to load your data.'}</div></div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map(j => {
+    const ini = j.company.split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase() || '??';
+    const statusClass = 'ch-' + (j.status || 'new').toLowerCase().replace(/\s/g,'-');
+    const applied = ['Applied','Interviewing','Offer'].includes(j.status);
+    return `<div class="job-row ${!j.viewed ? 'unseen' : ''}">
+      <div class="job-logo">${ini}</div>
+      <div class="job-body" onclick="openJob('${j.id}')">
+        <div class="job-title">${j.title}</div>
+        <div class="job-co">${j.company}${j.location ? ' · ' + j.location : ''}${j.salary ? ' · ' + j.salary : ''}</div>
+      </div>
+      <div class="job-right">
+        <span class="chip ${statusClass}">${j.status || 'New'}</span>
+        <span class="chip ch-src">${j.source}</span>
+      </div>
+      <div class="row-actions">
+        ${!applied ? `<button class="row-btn" onclick="markApplied(event,'${j.id}')">Applied</button>` : ''}
+        <button class="row-btn rm" onclick="removeJob(event,'${j.id}')">Remove</button>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+async function openJob(id) {
+  const j = jobs.find(x => x.id === id);
+  if (!j) return;
+  j.viewed = true;
+  await saveToDrive();
+  renderJobs(); updateMetrics();
+  if (j.url) window.open(j.url, '_blank');
+  else toast('No URL for this job.');
+}
+
+async function markApplied(e, id) {
+  e.stopPropagation();
+  const j = jobs.find(x => x.id === id);
+  if (!j) return;
+  j.status = 'Applied'; j.viewed = true;
+  await saveToDrive();
+  render();
+  toast('Marked Applied — ' + j.company + ' is in your Pipeline.');
+}
+
+async function removeJob(e, id) {
+  e.stopPropagation();
+  const j = jobs.find(x => x.id === id);
+  if (!j) return;
+  jobs = jobs.filter(x => x.id !== id);
+  await saveToDrive();
+  renderJobs(); updateMetrics();
+  toast(j.company + ' removed.');
+}
+
+// ── PIPELINE ─────────────────────────────────────────────
+function renderPipeline() {
+  const active = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status));
+  const body = document.getElementById('pipe-body');
+  const now = Date.now();
+  document.getElementById('badge-pipe').textContent = active.length;
+  document.getElementById('p-applied').textContent   = jobs.filter(j=>j.status==='Applied').length;
+  document.getElementById('p-interview').textContent = jobs.filter(j=>j.status==='Interviewing').length;
+  document.getElementById('p-offer').textContent     = jobs.filter(j=>j.status==='Offer').length;
+
+  if (!active.length) {
+    body.innerHTML = '<tr><td colspan="6"><div class="empty" style="padding:28px"><div class="empty-title">Pipeline is empty</div><div class="empty-sub">Mark jobs Applied to track them here.</div></div></td></tr>';
+    return;
+  }
+  body.innerHTML = active.map(j => {
+    const days = Math.floor((now - new Date(j.dateAdded).getTime()) / 86400000);
+    const stale = days >= 25;
+    return `<tr>
+      <td style="font-weight:500">${j.company}</td>
+      <td>${j.title}</td>
+      <td style="font-family:var(--mono);font-size:11px;color:var(--ink3)">${new Date(j.dateAdded).toLocaleDateString()}</td>
+      <td><span class="days ${stale?'stale':''}">${days}d${stale?' ⚠':''}</span></td>
+      <td><select class="tbl-sel" onchange="updateStatus('${j.id}',this.value)">
+        ${['Applied','Interviewing','Offer','Rejected','Closed'].map(s=>`<option ${j.status===s?'selected':''}>${s}</option>`).join('')}
+      </select></td>
+      <td>${j.url ? `<a href="${j.url}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">Open ↗</a>` : '—'}</td>
+    </tr>`;
+  }).join('');
+}
+
+async function updateStatus(id, status) {
+  const j = jobs.find(x => x.id === id);
+  if (!j) return;
+  j.status = status;
+  await saveToDrive();
+  renderPipeline(); updateMetrics();
+  toast('Status updated to ' + status);
+}
+
+// ── OUTREACH ──────────────────────────────────────────────
+function renderOutreach() {
+  const body = document.getElementById('out-body');
+  document.getElementById('badge-out').textContent = outreach.length;
+  document.getElementById('out-count').textContent = outreach.length + ' contact' + (outreach.length !== 1 ? 's' : '') + ' logged';
+
+  if (!outreach.length) {
+    body.innerHTML = '<tr><td colspan="7"><div class="empty" style="padding:28px"><div class="empty-title">No outreach logged</div><div class="empty-sub">Log contacts you have messaged alongside your applications.</div></div></td></tr>';
+    return;
+  }
+  body.innerHTML = outreach.map(o => {
+    const rc = o.response === 'Yes' ? 'resp-yes' : o.response === 'No' ? 'resp-no' : 'resp-pending';
+    return `<tr>
+      <td style="font-weight:500">${o.name}</td>
+      <td>${o.contactTitle}</td>
+      <td>${o.company}</td>
+      <td>${o.linkedin ? `<a href="${o.linkedin.startsWith('http')?o.linkedin:'https://'+o.linkedin}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">View ↗</a>` : '—'}</td>
+      <td><span class="chip resp-chip ${rc}">${o.response}</span></td>
+      <td style="font-size:12px;color:var(--ink2);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${o.notes || '—'}</td>
+      <td>
+        ${o.response==='Pending' ? `<button class="btn btn-sm" style="font-size:10px;padding:3px 8px" onclick="setResponse('${o.id}','Yes')">Responded</button>` : ''}
+        <button class="btn btn-sm btn-danger" style="font-size:10px;padding:3px 8px;margin-left:4px" onclick="removeOutreach('${o.id}')">✕</button>
+      </td>
+    </tr>`;
+  }).join('');
+}
+
+function openOutreachModal()  { document.getElementById('out-modal').style.display = 'flex'; }
+function closeOutreachModal() {
+  document.getElementById('out-modal').style.display = 'none';
+  ['o-name','o-title','o-co','o-li','o-notes'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('o-resp').value = 'Pending';
+}
+
+async function saveOutreach() {
+  const name = document.getElementById('o-name').value.trim();
+  const co   = document.getElementById('o-co').value.trim();
+  if (!name || !co) { toast('Name and company required.'); return; }
+  outreach.unshift({
+    id: uid(),
+    name,
+    contactTitle: document.getElementById('o-title').value.trim(),
+    company: co,
+    linkedin: document.getElementById('o-li').value.trim(),
+    response: document.getElementById('o-resp').value,
+    notes: document.getElementById('o-notes').value.trim()
+  });
+  await saveToDrive();
+  closeOutreachModal();
+  renderOutreach();
+  toast('Contact logged.');
+}
+
+async function setResponse(id, val) {
+  const o = outreach.find(x => x.id === id);
+  if (!o) return;
+  o.response = val;
+  await saveToDrive();
+  renderOutreach();
+  toast('Response updated.');
+}
+
+async function removeOutreach(id) {
+  outreach = outreach.filter(x => x.id !== id);
+  await saveToDrive();
+  renderOutreach();
+  toast('Contact removed.');
+}
+
+// ── MANUAL ADD ────────────────────────────────────────────
+function openAddModal()  { document.getElementById('add-modal').style.display = 'flex'; }
+function closeAddModal() {
+  document.getElementById('add-modal').style.display = 'none';
+  ['m-co','m-title','m-loc','m-sal','m-url'].forEach(id => document.getElementById(id).value = '');
+}
+
+async function saveManualJob() {
+  const co = document.getElementById('m-co').value.trim();
+  const ti = document.getElementById('m-title').value.trim();
+  if (!co || !ti) { toast('Company and title required.'); return; }
+  jobs.unshift({
+    id: uid(), company: co, title: ti,
+    location: document.getElementById('m-loc').value.trim(),
+    salary: document.getElementById('m-sal').value.trim(),
+    url: document.getElementById('m-url').value.trim(),
+    source: document.getElementById('m-src').value,
+    status: 'New', viewed: false,
+    dateAdded: new Date().toISOString(), notes: ''
+  });
+  await saveToDrive();
+  closeAddModal(); buildSourceFilter(); renderJobs(); updateMetrics();
+  toast('Job added.');
+}
+
+// ── NAV ───────────────────────────────────────────────────
+function goPage(id, el) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-' + id).classList.add('active');
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  if (el) el.classList.add('active');
+  if (id === 'postings') { buildSourceFilter(); renderJobs(); }
+  if (id === 'pipeline') renderPipeline();
+  if (id === 'outreach') renderOutreach();
+}
+
+// ── METRICS ───────────────────────────────────────────────
+function updateMetrics() {
+  document.getElementById('m-total').textContent     = jobs.length;
+  document.getElementById('m-unseen').textContent    = jobs.filter(j => !j.viewed).length;
+  document.getElementById('m-applied').textContent   = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status)).length;
+  document.getElementById('m-interview').textContent = jobs.filter(j => j.status === 'Interviewing').length;
+  document.getElementById('badge-post').textContent  = jobs.length;
+  document.getElementById('badge-pipe').textContent  = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status)).length;
+  document.getElementById('badge-out').textContent   = outreach.length;
+}
+
+function updateFooter() {
+  if (lastRun) {
+    const d = new Date(lastRun);
+    document.getElementById('foot-run').textContent = 'Last harvest: ' + d.toLocaleDateString() + ' ' + d.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+  }
+  document.getElementById('t-date').textContent = new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+}
+
+function buildSourceFilter() {
+  const sel = document.getElementById('fsource');
+  if (!sel) return;
+  const cur = sel.value;
+  const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
+  sel.innerHTML = '<option value="">All sources</option>' + sources.map(s => `<option ${s===cur?'selected':''}>${s}</option>`).join('');
+}
+
+// ── UTILS ─────────────────────────────────────────────────
+function uid() { return Date.now().toString(36) + Math.random().toString(36).slice(2,6); }
+
+function setDriveStatus(msg, state) {
+  const el = document.getElementById('drive-status');
+  const dot = state === 'ok' ? 'ok' : state === 'warn' ? 'warn' : 'err';
+  el.innerHTML = `<div class="status-row"><div class="sdot ${dot}"></div><span>${msg}</span></div>`;
+}
+
+let toastT;
+function toast(msg, dur=2800) {
+  const el = document.getElementById('toast');
+  el.textContent = msg; el.classList.add('show');
+  clearTimeout(toastT); toastT = setTimeout(() => el.classList.remove('show'), dur);
+}
+
+let saveT;
+function showSaveInd(msg, fail=false) {
+  const el = document.getElementById('save-ind');
+  el.textContent = msg;
+  el.className = 'save-ind' + (fail ? ' fail' : '') + ' show';
+  clearTimeout(saveT); saveT = setTimeout(() => el.classList.remove('show'), 2500);
+}
+
+async function clearAll() {
+  if (!confirm('Clear all jobs, pipeline, and outreach data? This cannot be undone.')) return;
+  jobs = []; outreach = []; lastRun = null;
+  await saveToDrive();
+  render(); toast('All data cleared.');
+}
+
+// ── INIT ──────────────────────────────────────────────────
+document.getElementById('t-date').textContent = new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+initGoogle();
+</script>
+</body>
+</html>
