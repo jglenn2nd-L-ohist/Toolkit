@@ -447,6 +447,7 @@ function authHeader() { return { 'Authorization': 'Bearer ' + token }; }
 
 async function loadFromDrive(showToast) {
   if (!ensureToken()) return;
+  fileId = null; // always re-discover the file — never use a stale cached ID
   try {
     setDriveStatus('Loading from Drive…', 'warn');
     const q = encodeURIComponent(`name='${FILENAME}' and '${FOLDER_ID}' in parents and trashed=false`);
