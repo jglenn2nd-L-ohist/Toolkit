@@ -389,7 +389,7 @@ const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleuse
 const FOLDER_ID   = '1cm4TO0Pe1lWfFGpp5uAfqlnOGmJtqNih';
 const FILENAME    = 'jsa_jobs.json';
 const FIXED_FILE_ID = '1rZtg25mIBLxZM-8MCoQDpKLfhIRvyy5q';
-const SCOPES      = 'https://www.googleapis.com/auth/drive.file';
+const SCOPES      = 'https://www.googleapis.com/auth/drive';
 
 const SEED_JOBS = [
   {id:'seed1',company:'Procure Analytics',title:'Operations Analyst',location:'Atlanta, GA',salary:'Not listed',url:'https://www.linkedin.com/company/procure-analytics/jobs/',source:'LinkedIn',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
@@ -448,10 +448,9 @@ function authHeader() { return { 'Authorization': 'Bearer ' + token }; }
 
 async function loadFromDrive(showToast) {
   if (!ensureToken()) return;
-  fileId = FIXED_FILE_ID; // hardcoded — never search, never create duplicates
   try {
     setDriveStatus('Loading from Drive…', 'warn');
-    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
+    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${FIXED_FILE_ID}?alt=media`, { headers: authHeader() });
     if (!dl.ok) throw new Error('File read failed: ' + dl.status);
     const parsed = await dl.json();
     jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
