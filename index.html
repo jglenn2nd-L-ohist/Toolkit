@@ -388,6 +388,7 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleusercontent.com';
 const FOLDER_ID   = '1cm4TO0Pe1lWfFGpp5uAfqlnOGmJtqNih';
 const FILENAME    = 'jsa_jobs.json';
+const FIXED_FILE_ID = '1rZtg25mIBLxZM-8MCoQDpKLfhIRvyy5q';
 const SCOPES      = 'https://www.googleapis.com/auth/drive.file';
 
 const SEED_JOBS = [
@@ -447,30 +448,18 @@ function authHeader() { return { 'Authorization': 'Bearer ' + token }; }
 
 async function loadFromDrive(showToast) {
   if (!ensureToken()) return;
-  fileId = null; // always re-discover the file — never use a stale cached ID
+  fileId = FIXED_FILE_ID; // hardcoded — never search, never create duplicates
   try {
     setDriveStatus('Loading from Drive…', 'warn');
-    const q = encodeURIComponent(`name='${FILENAME}' and '${FOLDER_ID}' in parents and trashed=false`);
-    const r = await fetch(`https://www.googleapis.com/drive/v3/files?q=${q}&fields=files(id,name)`, { headers: authHeader() });
-    const d = await r.json();
-
-    if (d.files && d.files.length > 0) {
-      fileId = d.files[0].id;
-      const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
-      const parsed = await dl.json();
-      jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
-      outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
-      lastRun  = parsed.lastRun || null;
-      mergeSeedJobs();
-    } else {
-      jobs = [...SEED_JOBS];
-      outreach = [];
-      lastRun = null;
-      fileId = null;
-      await saveToDrive();
-    }
+    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
+    if (!dl.ok) throw new Error('File read failed: ' + dl.status);
+    const parsed = await dl.json();
+    jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
+    outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
+    lastRun  = parsed.lastRun || null;
+    mergeSeedJobs();
     setDriveStatus('Drive sync active', 'ok');
-    if (showToast) toast('Synced from Drive — ' + jobs.length + ' jobs loaded');
+    if (showToast) toast('Synced — ' + jobs.length + ' jobs loaded');
     render();
   } catch(e) {
     setDriveStatus('Drive load failed: ' + e.message, 'err');
@@ -483,27 +472,12 @@ async function saveToDrive() {
   if (!ensureToken()) return;
   const body = JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() });
   try {
-    if (fileId) {
-      const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
-        method: 'PATCH',
-        headers: { ...authHeader(), 'Content-Type': 'application/json' },
-        body
-      });
-      if (!r.ok) throw new Error('PATCH ' + r.status);
-    } else {
-      const meta = await fetch('https://www.googleapis.com/drive/v3/files', {
-        method: 'POST',
-        headers: { ...authHeader(), 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name: FILENAME, parents: [FOLDER_ID], mimeType: 'application/json' })
-      });
-      const md = await meta.json();
-      fileId = md.id;
-      await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
-        method: 'PATCH',
-        headers: { ...authHeader(), 'Content-Type': 'application/json' },
-        body
-      });
-    }
+    const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${FIXED_FILE_ID}?uploadType=media`, {
+      method: 'PATCH',
+      headers: { ...authHeader(), 'Content-Type': 'application/json' },
+      body
+    });
+    if (!r.ok) throw new Error('Save failed: ' + r.status);
     showSaveInd('Saved to Drive', false);
   } catch(e) {
     showSaveInd('Save failed: ' + e.message, true);
