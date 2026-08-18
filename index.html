@@ -42,9 +42,9 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .topbar-left .t-title{font-size:15px;font-weight:600;color:var(--ink)}
 .topbar-left .t-meta{font-family:var(--mono);font-size:10px;color:var(--ink3);margin-top:2px}
 .topbar-right{display:flex;gap:8px;align-items:center}
-.content{flex:1;overflow-y:auto;padding:24px}
-.page{display:none}
-.page.active{display:block}
+.content{flex:1;overflow-y:auto;padding:24px;min-height:0}
+.page{display:none;height:100%}
+.page.active{display:flex;flex-direction:column;height:100%;overflow:hidden}
 
 /* BUTTONS */
 .btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:7px;border:1px solid var(--b2);background:var(--s2);color:var(--ink);font-family:var(--sans);font-size:13px;font-weight:500;cursor:pointer;transition:all .12s;white-space:nowrap}
@@ -391,6 +391,29 @@ const FILENAME    = 'jsa_jobs.json';
 const FIXED_FILE_ID = '1Bbk82ykKWFasy8L5bGQz0mgi5XXyx2M5';
 const SCOPES      = 'https://www.googleapis.com/auth/drive';
 
+// Title exclusion — applied client-side on render and on incoming jobs
+const EXCLUDE_TITLE_WORDS = [
+  'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff',
+  'intern', 'internship', 'co-op', 'coop',
+  'behavioral health', 'substance abuse', 'mental health counselor',
+  'director', 'vp ', 'vice president', 'head of', 'manager,'
+];
+
+function isTitleExcluded(title) {
+  if (!title) return false;
+  const t = title.toLowerCase();
+  return EXCLUDE_TITLE_WORDS.some(ex => t.includes(ex));
+}
+
+// Dedup key — URL primary, company+title secondary
+function dedupKey(j) {
+  return (j.url || '').trim().toLowerCase().replace(/[?#].*$/, '');
+}
+
+function dedupKeyAlt(j) {
+  return ((j.company || '') + '|' + (j.title || '')).toLowerCase().trim();
+}
+
 const SEED_JOBS = [
   {id:'seed1',company:'Procure Analytics',title:'Operations Analyst',location:'Atlanta, GA',salary:'Not listed',url:'https://www.linkedin.com/company/procure-analytics/jobs/',source:'LinkedIn',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
   {id:'seed2',company:'HD Supply',title:'Data Analytics Specialist',location:'Atlanta, GA',salary:'Not listed',url:'https://careers.hdsupply.com/job/R26004236',source:'Company website',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
@@ -484,8 +507,16 @@ async function saveToDrive() {
 }
 
 function mergeSeedJobs() {
-  const ids = new Set(jobs.map(j => j.id));
-  SEED_JOBS.forEach(s => { if (!ids.has(s.id)) jobs.push(s); });
+  const ids  = new Set(jobs.map(j => j.id));
+  const urls = new Set(jobs.map(j => dedupKey(j)).filter(Boolean));
+  const alts = new Set(jobs.map(j => dedupKeyAlt(j)).filter(Boolean));
+  SEED_JOBS.forEach(s => {
+    if (!ids.has(s.id) && !urls.has(dedupKey(s)) && !alts.has(dedupKeyAlt(s))) {
+      jobs.push(s);
+    }
+  });
+  // Also strip excluded titles from the full jobs array on load
+  jobs = jobs.filter(j => !isTitleExcluded(j.title));
 }
 
 // ── RENDER ALL ────────────────────────────────────────────
@@ -506,6 +537,7 @@ function renderJobs() {
   const src = document.getElementById('fsource')?.value || '';
 
   const filtered = jobs.filter(j => {
+    if (isTitleExcluded(j.title)) return false;
     if (q && !j.company.toLowerCase().includes(q) && !j.title.toLowerCase().includes(q)) return false;
     if (sf && j.status !== sf) return false;
     if (src && j.source !== src) return false;
