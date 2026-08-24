@@ -388,9 +388,22 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleusercontent.com';
 const FOLDER_ID   = '1cm4TO0Pe1lWfFGpp5uAfqlnOGmJtqNih';
 const FILENAME    = 'jsa_jobs.json';
-const FIXED_FILE_ID = '1CQ1EwLkr9xGpB8Y94zW_qNrlCQ9GQq9w';
 const SCOPES      = 'https://www.googleapis.com/auth/drive';
+let activeFileId = null;
 
+async function resolveFileId() {
+  if (activeFileId) return activeFileId;
+  const q = encodeURIComponent(`'${FOLDER_ID}' in parents and name = '${FILENAME}' and trashed = false`);
+  const r = await fetch(
+    `https://www.googleapis.com/drive/v3/files?q=${q}&orderBy=modifiedTime+desc&pageSize=10&fields=files(id,name,modifiedTime)`,
+    { headers: authHeader() }
+  );
+  if (!r.ok) throw new Error('Drive search failed: ' + r.status);
+  const data = await r.json();
+  if (!data.files || data.files.length === 0) throw new Error('No jsa_jobs.json found in Drive folder');
+  activeFileId = data.files[0].id;
+  return activeFileId;
+}
 // Title exclusion — applied client-side on render and on incoming jobs
 const EXCLUDE_TITLE_WORDS = [
   'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff',
@@ -473,8 +486,9 @@ async function loadFromDrive(showToast) {
   if (!ensureToken()) return;
   try {
     setDriveStatus('Loading from Drive…', 'warn');
-    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${FIXED_FILE_ID}?alt=media`, { headers: authHeader() });
-    if (!dl.ok) throw new Error('File read failed: ' + dl.status);
+    activeFileId = null;
+    const fileId = await resolveFileId();
+    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
     const parsed = await dl.json();
     jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
     outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
@@ -494,11 +508,12 @@ async function saveToDrive() {
   if (!ensureToken()) return;
   const body = JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() });
   try {
-    const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${FIXED_FILE_ID}?uploadType=media`, {
-      method: 'PATCH',
-      headers: { ...authHeader(), 'Content-Type': 'application/json' },
-      body
-    });
+      const fileId = activeFileId || await resolveFileId();
+      const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
+        method: 'PATCH',
+        headers: { ...authHeader(), 'Content-Type': 'application/json' },
+        body
+      });
     if (!r.ok) throw new Error('Save failed: ' + r.status);
     showSaveInd('Saved to Drive', false);
   } catch(e) {
