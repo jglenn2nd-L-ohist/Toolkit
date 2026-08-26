@@ -139,6 +139,11 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .resp-yes{background:var(--greendim);color:var(--green)}
 .resp-no{background:var(--reddim);color:var(--red)}
 
+
+/* BATCH BAR */
+.batch-bar{display:none;align-items:center;gap:10px;background:var(--s2);border:1px solid var(--blue);border-radius:8px;padding:10px 14px;margin-bottom:10px;font-size:13px;color:var(--ink)}
+.batch-bar .batch-count{color:var(--blue);font-weight:600;font-family:var(--mono);font-size:12px}
+
 /* EMPTY */
 .empty{text-align:center;padding:56px 24px;color:var(--ink3)}
 .empty-ico{font-size:36px;margin-bottom:10px}
@@ -244,6 +249,16 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
         <option>Offer</option><option>Rejected</option><option>Closed</option>
       </select>
       <select class="fsel" onchange="renderJobs()" id="fsource"><option value="">All sources</option></select>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+      <input type="checkbox" id="select-all" onchange="toggleSelectAll(this.checked)" style="accent-color:var(--blue);width:15px;height:15px;cursor:pointer">
+      <span style="font-size:12px;color:var(--ink3);font-family:var(--mono)">SELECT ALL</span>
+    </div>
+    <div class="batch-bar" id="batch-bar">
+      <span class="batch-count" id="batch-count">0 selected</span>
+      <button class="btn btn-sm btn-danger" onclick="batchRemove()">Remove selected</button>
+      <button class="btn btn-sm" onclick="batchApplied()">Mark Applied</button>
+      <button class="btn btn-sm" style="margin-left:auto" onclick="toggleSelectAll(false);document.getElementById('select-all').checked=false">Clear</button>
     </div>
     <div class="job-list" id="job-list">
       <div class="empty"><div class="empty-ico">◈</div><div class="empty-title">No jobs yet</div><div class="empty-sub">Connect Google to load your job data.</div></div>
@@ -389,10 +404,14 @@ const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleuse
 const FOLDER_ID   = '1cm4TO0Pe1lWfFGpp5uAfqlnOGmJtqNih';
 const FILENAME    = 'jsa_jobs.json';
 const SCOPES      = 'https://www.googleapis.com/auth/drive';
-let activeFileId = null;
+
+// Resolved at runtime — never hardcoded. Survives harvest creating new files.
+let activeFileId  = null;
 
 async function resolveFileId() {
+  // Return cached ID if we already resolved this session
   if (activeFileId) return activeFileId;
+  // Search Drive folder for all files named jsa_jobs.json, pick most recently modified
   const q = encodeURIComponent(`'${FOLDER_ID}' in parents and name = '${FILENAME}' and trashed = false`);
   const r = await fetch(
     `https://www.googleapis.com/drive/v3/files?q=${q}&orderBy=modifiedTime+desc&pageSize=10&fields=files(id,name,modifiedTime)`,
@@ -402,8 +421,10 @@ async function resolveFileId() {
   const data = await r.json();
   if (!data.files || data.files.length === 0) throw new Error('No jsa_jobs.json found in Drive folder');
   activeFileId = data.files[0].id;
+  console.log('Resolved file ID:', activeFileId, '(modified:', data.files[0].modifiedTime, ')');
   return activeFileId;
 }
+
 // Title exclusion — applied client-side on render and on incoming jobs
 const EXCLUDE_TITLE_WORDS = [
   'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff',
@@ -486,9 +507,11 @@ async function loadFromDrive(showToast) {
   if (!ensureToken()) return;
   try {
     setDriveStatus('Loading from Drive…', 'warn');
+    // Always resolve fresh — picks up new file if harvest created one
     activeFileId = null;
     const fileId = await resolveFileId();
     const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
+    if (!dl.ok) throw new Error('File read failed: ' + dl.status);
     const parsed = await dl.json();
     jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
     outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
@@ -508,12 +531,13 @@ async function saveToDrive() {
   if (!ensureToken()) return;
   const body = JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() });
   try {
-      const fileId = activeFileId || await resolveFileId();
-      const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
-        method: 'PATCH',
-        headers: { ...authHeader(), 'Content-Type': 'application/json' },
-        body
-      });
+    // Use the file we loaded from — if not yet resolved, resolve now
+    const fileId = activeFileId || await resolveFileId();
+    const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
+      method: 'PATCH',
+      headers: { ...authHeader(), 'Content-Type': 'application/json' },
+      body
+    });
     if (!r.ok) throw new Error('Save failed: ' + r.status);
     showSaveInd('Saved to Drive', false);
   } catch(e) {
@@ -545,6 +569,56 @@ function render() {
 }
 
 // ── JOBS ──────────────────────────────────────────────────
+let selectedIds = new Set();
+
+function toggleSelect(id, checked) {
+  checked ? selectedIds.add(id) : selectedIds.delete(id);
+  updateBatchBar();
+}
+
+function toggleSelectAll(checked) {
+  const boxes = document.querySelectorAll('.job-cb');
+  boxes.forEach(cb => {
+    cb.checked = checked;
+    checked ? selectedIds.add(cb.dataset.id) : selectedIds.delete(cb.dataset.id);
+  });
+  updateBatchBar();
+}
+
+function updateBatchBar() {
+  const bar = document.getElementById('batch-bar');
+  const cnt = document.getElementById('batch-count');
+  if (!bar) return;
+  if (selectedIds.size > 0) {
+    bar.style.display = 'flex';
+    cnt.textContent = selectedIds.size + ' selected';
+  } else {
+    bar.style.display = 'none';
+  }
+}
+
+async function batchRemove() {
+  if (!selectedIds.size) return;
+  const n = selectedIds.size;
+  jobs = jobs.filter(j => !selectedIds.has(j.id));
+  selectedIds.clear();
+  document.getElementById('select-all').checked = false;
+  await saveToDrive();
+  renderJobs(); updateMetrics(); updateBatchBar();
+  toast(n + ' job' + (n>1?'s':'') + ' removed.');
+}
+
+async function batchApplied() {
+  if (!selectedIds.size) return;
+  const n = selectedIds.size;
+  jobs.forEach(j => { if (selectedIds.has(j.id)) { j.status = 'Applied'; j.viewed = true; } });
+  selectedIds.clear();
+  document.getElementById('select-all').checked = false;
+  await saveToDrive();
+  render(); updateBatchBar();
+  toast(n + ' job' + (n>1?'s':'') + ' marked Applied.');
+}
+
 function renderJobs() {
   const list = document.getElementById('job-list');
   const q   = (document.getElementById('fsearch')?.value || '').toLowerCase();
@@ -571,7 +645,9 @@ function renderJobs() {
     const ini = j.company.split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase() || '??';
     const statusClass = 'ch-' + (j.status || 'new').toLowerCase().replace(/\s/g,'-');
     const applied = ['Applied','Interviewing','Offer'].includes(j.status);
+    const chk = selectedIds.has(j.id) ? 'checked' : '';
     return `<div class="job-row ${!j.viewed ? 'unseen' : ''}">
+      <input type="checkbox" class="job-cb" data-id="${j.id}" ${chk} onchange="toggleSelect('${j.id}',this.checked)" style="margin-right:2px;accent-color:var(--blue);width:15px;height:15px;flex-shrink:0;cursor:pointer">
       <div class="job-logo">${ini}</div>
       <div class="job-body" onclick="openJob('${j.id}')">
         <div class="job-title">${j.title}</div>
