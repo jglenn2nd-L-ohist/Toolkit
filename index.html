@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>JSA — Jonathan Glenn</title>
-<script src="https://accounts.google.com/gsi/client" async defer></script>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -20,8 +19,6 @@
 }
 html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--ink);font-size:14px;line-height:1.6}
 .shell{display:flex;height:100vh;overflow:hidden}
-
-/* SIDEBAR */
 .sidebar{width:210px;min-width:210px;background:var(--s1);border-right:1px solid var(--b1);display:flex;flex-direction:column}
 .brand{padding:20px 16px 14px;border-bottom:1px solid var(--b1)}
 .brand-name{font-size:13px;font-weight:700;color:var(--ink)}
@@ -35,8 +32,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .nb-green{background:var(--green);color:#fff}
 .nb-gray{background:var(--b2);color:var(--ink2)}
 .sidebar-foot{padding:12px 14px;border-top:1px solid var(--b1);font-family:var(--mono);font-size:10px;color:var(--ink3);line-height:1.8}
-
-/* MAIN */
 .main{flex:1;display:flex;flex-direction:column;overflow:hidden}
 .topbar{background:var(--s1);border-bottom:1px solid var(--b1);padding:14px 24px;display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
 .topbar-left .t-title{font-size:15px;font-weight:600;color:var(--ink)}
@@ -45,8 +40,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .content{flex:1;overflow-y:auto;padding:24px;min-height:0}
 .page{display:none;height:100%}
 .page.active{display:flex;flex-direction:column;height:100%;overflow:hidden}
-
-/* BUTTONS */
 .btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:7px;border:1px solid var(--b2);background:var(--s2);color:var(--ink);font-family:var(--sans);font-size:13px;font-weight:500;cursor:pointer;transition:all .12s;white-space:nowrap}
 .btn:hover{border-color:var(--blue);color:var(--blue)}
 .btn:disabled{opacity:.4;cursor:not-allowed}
@@ -55,51 +48,37 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .btn-sm{padding:5px 11px;font-size:12px}
 .btn-danger{border-color:var(--red);color:var(--red);background:none}
 .btn-danger:hover{background:var(--red);color:#fff;border-color:var(--red)}
-
-/* METRICS */
 .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
 .metric{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:16px 18px}
 .metric-label{font-family:var(--mono);font-size:10px;font-weight:500;color:var(--ink3);text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px}
 .metric-value{font-size:30px;font-weight:700;color:var(--ink);line-height:1}
-.mv-blue{color:var(--blue)}
-.mv-green{color:var(--green)}
-.mv-amber{color:var(--amber)}
-
-/* AUTH BANNER */
-.auth-banner{display:flex;align-items:center;gap:12px;background:var(--amberdim);border:1px solid var(--amber);border-radius:8px;padding:12px 16px;margin-bottom:18px;font-size:13px;color:var(--amber)}
-.auth-banner.ok{background:var(--greendim);border-color:var(--green);color:var(--green)}
-.auth-banner button{margin-left:auto;padding:5px 13px;border-radius:6px;border:1px solid currentColor;background:none;color:inherit;font-size:12px;font-weight:600;cursor:pointer}
-.auth-banner button:hover{background:var(--amber);color:#111;border-color:var(--amber)}
-.auth-banner.ok button:hover{background:var(--green);color:#111;border-color:var(--green)}
-
-/* CARD */
+.mv-blue{color:var(--blue)}.mv-green{color:var(--green)}.mv-amber{color:var(--amber)}
+.gh-banner{display:flex;align-items:center;gap:12px;background:var(--amberdim);border:1px solid var(--amber);border-radius:8px;padding:12px 16px;margin-bottom:18px;font-size:13px;color:var(--amber)}
+.gh-banner.ok{background:var(--greendim);border-color:var(--green);color:var(--green)}
+.gh-banner button{margin-left:auto;padding:5px 13px;border-radius:6px;border:1px solid currentColor;background:none;color:inherit;font-size:12px;font-weight:600;cursor:pointer}
 .card{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:20px;margin-bottom:16px}
 .card-title{font-size:13px;font-weight:600;color:var(--ink);margin-bottom:14px}
-
-/* CRITERIA */
 .crit-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
 .crit-label{font-family:var(--mono);font-size:10px;color:var(--ink3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:3px}
 .crit-value{font-size:13px;font-weight:500;color:var(--ink)}
-
-/* STATUS */
 .status-row{background:var(--s1);border:1px solid var(--b1);border-radius:8px;padding:11px 16px;display:flex;align-items:center;gap:10px;margin-bottom:10px;font-size:13px;color:var(--ink2)}
 .sdot{width:8px;height:8px;border-radius:50%;flex-shrink:0;background:var(--ink3)}
-.sdot.ok{background:var(--green)}
-.sdot.warn{background:var(--amber)}
-.sdot.err{background:var(--red)}
-
-/* FILTERS */
-.filters{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
+.sdot.ok{background:var(--green)}.sdot.warn{background:var(--amber)}.sdot.err{background:var(--red)}
+.filters{display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap}
 .finput{flex:1;min-width:160px;background:var(--s1);border:1px solid var(--b1);border-radius:7px;padding:7px 12px;font-family:var(--sans);font-size:13px;color:var(--ink);outline:none;transition:border-color .12s}
 .finput:focus{border-color:var(--blue)}
 .finput::placeholder{color:var(--ink3)}
 .fsel{background:var(--s1);border:1px solid var(--b1);border-radius:7px;padding:6px 10px;font-family:var(--sans);font-size:13px;color:var(--ink2);outline:none;cursor:pointer}
-
-/* JOB ROWS */
+.batch-bar{display:none;align-items:center;gap:10px;background:var(--s2);border:1px solid var(--blue);border-radius:8px;padding:9px 14px;margin-bottom:10px;font-size:13px}
+.batch-bar.show{display:flex}
+.batch-count{color:var(--blue);font-weight:700;font-family:var(--mono);font-size:12px}
+.sel-all-row{display:flex;align-items:center;gap:8px;margin-bottom:6px;padding:0 2px}
+.sel-all-row label{font-size:11px;color:var(--ink3);font-family:var(--mono);text-transform:uppercase;letter-spacing:.4px;cursor:pointer}
 .job-list{display:flex;flex-direction:column;gap:6px}
-.job-row{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:13px 16px;display:flex;align-items:center;gap:12px;transition:all .12s}
+.job-row{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:13px 16px;display:flex;align-items:center;gap:10px;transition:all .12s}
 .job-row:hover{border-color:var(--blue);background:var(--s2)}
 .job-row.unseen{border-left:3px solid var(--blue)}
+.job-cb{accent-color:var(--blue);width:15px;height:15px;flex-shrink:0;cursor:pointer}
 .job-logo{width:36px;height:36px;border-radius:8px;background:var(--s2);border:1px solid var(--b2);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:11px;color:var(--ink2);flex-shrink:0;text-transform:uppercase;font-family:var(--mono)}
 .job-body{flex:1;min-width:0;cursor:pointer}
 .job-title{font-size:14px;font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -118,8 +97,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .row-btn{padding:5px 10px;border-radius:5px;border:1px solid var(--b2);background:var(--s2);color:var(--ink2);font-family:var(--mono);font-size:10px;font-weight:600;text-transform:uppercase;cursor:pointer;transition:all .12s;white-space:nowrap}
 .row-btn:hover{background:var(--blue);border-color:var(--blue);color:#fff}
 .row-btn.rm:hover{background:var(--red);border-color:var(--red);color:#fff}
-
-/* PIPELINE TABLE */
 .tbl-wrap{background:var(--s1);border:1px solid var(--b1);border-radius:10px;overflow:hidden}
 .tbl{width:100%;border-collapse:collapse}
 .tbl th{text-align:left;padding:10px 14px;font-family:var(--mono);font-size:10px;font-weight:500;color:var(--ink3);text-transform:uppercase;letter-spacing:.5px;background:var(--s2);border-bottom:1px solid var(--b1)}
@@ -129,36 +106,21 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .tbl-sel{background:var(--s2);border:1px solid var(--b1);border-radius:5px;padding:4px 8px;font-family:var(--sans);font-size:12px;color:var(--ink);cursor:pointer;outline:none}
 .days{font-family:var(--mono);font-size:12px;color:var(--ink3)}
 .days.stale{color:var(--amber)}
-
-/* OUTREACH */
-.outreach-form{background:var(--s1);border:1px solid var(--b1);border-radius:10px;padding:18px 20px;margin-bottom:16px}
-.outreach-form .form-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:10px}
 .field-label{font-size:10px;font-family:var(--mono);color:var(--ink3);text-transform:uppercase;letter-spacing:.4px;display:block;margin-bottom:4px}
 .resp-chip{padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:10px;font-weight:600;text-transform:uppercase}
 .resp-pending{background:var(--amberdim);color:var(--amber)}
 .resp-yes{background:var(--greendim);color:var(--green)}
 .resp-no{background:var(--reddim);color:var(--red)}
-
-
-/* BATCH BAR */
-.batch-bar{display:none;align-items:center;gap:10px;background:var(--s2);border:1px solid var(--blue);border-radius:8px;padding:10px 14px;margin-bottom:10px;font-size:13px;color:var(--ink)}
-.batch-bar .batch-count{color:var(--blue);font-weight:600;font-family:var(--mono);font-size:12px}
-
-/* EMPTY */
 .empty{text-align:center;padding:56px 24px;color:var(--ink3)}
 .empty-ico{font-size:36px;margin-bottom:10px}
 .empty-title{font-size:15px;font-weight:600;color:var(--ink2);margin-bottom:6px}
 .empty-sub{font-size:13px;line-height:1.6}
-
-/* MODAL */
 .modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:200;align-items:center;justify-content:center}
 .modal{background:var(--s1);border:1px solid var(--b2);border-radius:12px;width:520px;max-width:95vw;overflow:hidden}
 .modal-head{padding:16px 20px;border-bottom:1px solid var(--b1);display:flex;justify-content:space-between;align-items:center;font-weight:600;font-size:14px}
 .modal-body{padding:20px;display:flex;flex-direction:column;gap:12px}
 .modal-foot{padding:12px 20px;border-top:1px solid var(--b1);display:flex;justify-content:flex-end;gap:8px}
 .frow{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-
-/* TOAST & SAVE */
 .toast{position:fixed;bottom:24px;right:24px;background:var(--s2);border:1px solid var(--b2);color:var(--ink);padding:10px 16px;border-radius:8px;font-size:13px;z-index:300;opacity:0;transform:translateY(8px);transition:all .2s;pointer-events:none;max-width:320px}
 .toast.show{opacity:1;transform:translateY(0)}
 .save-ind{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(8px);background:var(--s2);border:1px solid var(--green);color:var(--green);padding:5px 14px;border-radius:6px;font-family:var(--mono);font-size:11px;z-index:300;opacity:0;transition:all .2s;pointer-events:none}
@@ -168,8 +130,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 </head>
 <body>
 <div class="shell">
-
-<!-- SIDEBAR -->
 <aside class="sidebar">
   <div class="brand">
     <div class="brand-name">Jonathan Glenn</div>
@@ -184,29 +144,22 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
   </nav>
   <div class="sidebar-foot">
     <div id="foot-run">Last harvest: never</div>
-    <div id="foot-auth" style="color:var(--amber)">Google: not connected</div>
+    <div id="foot-gh" style="color:var(--amber)">GitHub: not connected</div>
   </div>
 </aside>
-
-<!-- MAIN -->
 <main class="main">
 
-<!-- OVERVIEW -->
 <div id="page-overview" class="page active">
   <div class="topbar">
-    <div class="topbar-left">
-      <div class="t-title">Overview</div>
-      <div class="t-meta" id="t-date"></div>
-    </div>
+    <div class="topbar-left"><div class="t-title">Overview</div><div class="t-meta" id="t-date"></div></div>
     <div class="topbar-right">
-      <button class="btn" id="auth-btn" onclick="signIn()">Connect Google</button>
-      <button class="btn btn-primary" id="sync-btn" onclick="loadFromDrive(true)" disabled>↻&nbsp; Sync Drive</button>
+      <button class="btn btn-primary" id="sync-btn" onclick="loadFromGitHub(true)">↻&nbsp; Sync</button>
     </div>
   </div>
   <div class="content">
-    <div class="auth-banner" id="auth-banner">
-      <span>⚠ Connect Google to load your job data</span>
-      <button onclick="signIn()">Connect now</button>
+    <div class="gh-banner" id="gh-banner">
+      <span>⚠ GitHub token not set — go to Settings to connect</span>
+      <button onclick="goPage('settings',document.querySelectorAll('.nav-btn')[4])">Settings</button>
     </div>
     <div class="metrics">
       <div class="metric"><div class="metric-label">Total jobs</div><div class="metric-value" id="m-total">0</div></div>
@@ -218,27 +171,21 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       <div class="card-title">Harvest criteria — runs via Claude scheduled task at 9am</div>
       <div class="crit-grid">
         <div><div class="crit-label">Gmail keywords</div><div class="crit-value">job alert · analyst · hiring · job opportunities</div></div>
-        <div><div class="crit-label">Excluded</div><div class="crit-value">Senior · Sr. · Intern · Co-op · 7+ yrs exp</div></div>
+        <div><div class="crit-label">Excluded</div><div class="crit-value">Senior · Sr. · Intern · Co-op · No URL</div></div>
         <div><div class="crit-label">Locations</div><div class="crit-value">Atlanta · FL · SC · TX · Remote · Hybrid</div></div>
         <div><div class="crit-label">Salary floor</div><div class="crit-value">$65,000 — shown, never filtered</div></div>
         <div><div class="crit-label">Industries</div><div class="crit-value">All industries</div></div>
         <div><div class="crit-label">Degree req.</div><div class="crit-value">Always shown — your call</div></div>
       </div>
     </div>
-    <div id="drive-status"></div>
+    <div id="gh-status"></div>
   </div>
 </div>
 
-<!-- POSTINGS -->
 <div id="page-postings" class="page">
   <div class="topbar">
-    <div class="topbar-left">
-      <div class="t-title">Job postings</div>
-      <div class="t-meta" id="post-count"></div>
-    </div>
-    <div class="topbar-right">
-      <button class="btn btn-sm" onclick="openAddModal()">+ Add manually</button>
-    </div>
+    <div class="topbar-left"><div class="t-title">Job postings</div><div class="t-meta" id="post-count"></div></div>
+    <div class="topbar-right"><button class="btn btn-sm" onclick="openAddModal()">+ Add manually</button></div>
   </div>
   <div class="content">
     <div class="filters">
@@ -250,23 +197,22 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       </select>
       <select class="fsel" onchange="renderJobs()" id="fsource"><option value="">All sources</option></select>
     </div>
-    <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
-      <input type="checkbox" id="select-all" onchange="toggleSelectAll(this.checked)" style="accent-color:var(--blue);width:15px;height:15px;cursor:pointer">
-      <span style="font-size:12px;color:var(--ink3);font-family:var(--mono)">SELECT ALL</span>
+    <div class="sel-all-row">
+      <input type="checkbox" id="sel-all" class="job-cb" onchange="toggleSelectAll(this.checked)">
+      <label for="sel-all">Select all visible</label>
     </div>
     <div class="batch-bar" id="batch-bar">
       <span class="batch-count" id="batch-count">0 selected</span>
       <button class="btn btn-sm btn-danger" onclick="batchRemove()">Remove selected</button>
       <button class="btn btn-sm" onclick="batchApplied()">Mark Applied</button>
-      <button class="btn btn-sm" style="margin-left:auto" onclick="toggleSelectAll(false);document.getElementById('select-all').checked=false">Clear</button>
+      <button class="btn btn-sm" style="margin-left:auto" onclick="clearSelection()">Clear</button>
     </div>
     <div class="job-list" id="job-list">
-      <div class="empty"><div class="empty-ico">◈</div><div class="empty-title">No jobs yet</div><div class="empty-sub">Connect Google to load your job data.</div></div>
+      <div class="empty"><div class="empty-ico">◈</div><div class="empty-title">No jobs yet</div><div class="empty-sub">Set your GitHub token in Settings to load data.</div></div>
     </div>
   </div>
 </div>
 
-<!-- PIPELINE -->
 <div id="page-pipeline" class="page">
   <div class="topbar"><div class="topbar-left"><div class="t-title">Pipeline</div></div></div>
   <div class="content">
@@ -278,15 +224,12 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
     <div class="tbl-wrap">
       <table class="tbl">
         <thead><tr><th>Company</th><th>Role</th><th>Applied</th><th>Days out</th><th>Status</th><th>Link</th></tr></thead>
-        <tbody id="pipe-body">
-          <tr><td colspan="6"><div class="empty" style="padding:28px"><div class="empty-title">Pipeline is empty</div><div class="empty-sub">Mark jobs Applied to track them here.</div></div></td></tr>
-        </tbody>
+        <tbody id="pipe-body"></tbody>
       </table>
     </div>
   </div>
 </div>
 
-<!-- OUTREACH -->
 <div id="page-outreach" class="page">
   <div class="topbar">
     <div class="topbar-left"><div class="t-title">Outreach</div><div class="t-meta" id="out-count"></div></div>
@@ -295,41 +238,36 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
   <div class="content">
     <div class="tbl-wrap">
       <table class="tbl">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Title</th>
-            <th>Company</th>
-            <th>LinkedIn</th>
-            <th>Response</th>
-            <th>Notes</th>
-            <th></th>
-          </tr>
-        </thead>
-        <tbody id="out-body">
-          <tr><td colspan="7"><div class="empty" style="padding:28px"><div class="empty-title">No outreach logged</div><div class="empty-sub">Log contacts you have messaged alongside your applications.</div></div></td></tr>
-        </tbody>
+        <thead><tr><th>Name</th><th>Title</th><th>Company</th><th>LinkedIn</th><th>Response</th><th>Notes</th><th></th></tr></thead>
+        <tbody id="out-body"></tbody>
       </table>
     </div>
   </div>
 </div>
 
-<!-- SETTINGS -->
 <div id="page-settings" class="page">
   <div class="topbar"><div class="topbar-left"><div class="t-title">Settings</div></div></div>
   <div class="content">
     <div class="card">
-      <div class="card-title">Google Drive</div>
-      <p style="font-size:13px;color:var(--ink2);margin-bottom:12px">Job data is saved to <strong>jsa_jobs.json</strong> in your <strong>Job Search Agent</strong> folder. All status changes write back to Drive immediately.</p>
-      <button class="btn btn-sm" onclick="saveToDrive();toast('Force saved.')">Force save</button>
-    </div>
-    <div class="card">
-      <div class="card-title">Harvest</div>
-      <p style="font-size:13px;color:var(--ink2)">Harvest runs automatically at 9am via your Claude scheduled task. To run manually, open Claude Desktop and say <strong>"run harvest"</strong>. The scheduled task searches your Gmail, writes results here, and labels processed threads JSA-Reviewed.</p>
+      <div class="card-title">GitHub Token</div>
+      <p style="font-size:13px;color:var(--ink2);margin-bottom:12px">Your token is stored in this browser session only — never saved to the repo. You'll need to re-enter it if you close the tab. Needs <strong>repo</strong> scope.</p>
+      <div style="display:flex;gap:8px;align-items:center">
+        <input class="finput" type="password" id="token-input" placeholder="ghp_..." style="flex:1;max-width:400px">
+        <button class="btn btn-sm btn-primary" onclick="saveToken()">Connect</button>
+        <button class="btn btn-sm" onclick="clearToken()">Disconnect</button>
+      </div>
+      <div id="token-status" style="margin-top:10px;font-size:12px;font-family:var(--mono);color:var(--ink3)"></div>
     </div>
     <div class="card">
       <div class="card-title">Data</div>
-      <button class="btn btn-sm btn-danger" onclick="clearAll()">Clear all data</button>
+      <div style="display:flex;gap:8px">
+        <button class="btn btn-sm" onclick="saveToGitHub();toast('Force saved.')">Force save to GitHub</button>
+        <button class="btn btn-sm btn-danger" onclick="clearAll()">Clear all data</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">Harvest</div>
+      <p style="font-size:13px;color:var(--ink2)">Harvest runs automatically at 9am via your Claude scheduled task. Job data is stored in <strong>jsa_jobs.json</strong> in your GitHub repo. The harvest writes directly to GitHub — no Drive dependency.</p>
     </div>
   </div>
 </div>
@@ -337,7 +275,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 </main>
 </div>
 
-<!-- ADD JOB MODAL -->
 <div class="modal-bg" id="add-modal">
   <div class="modal">
     <div class="modal-head">Add job manually <button class="btn btn-sm" onclick="closeAddModal()">✕</button></div>
@@ -354,8 +291,8 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       <div><label class="field-label">Source</label>
         <select class="fsel" id="m-src" style="width:100%">
           <option>LinkedIn</option><option>Glassdoor</option><option>Indeed</option>
-          <option>ZipRecruiter</option><option>Builtin</option><option>Lensa</option>
-          <option>Recruiter outreach</option><option>Company website</option><option>Other</option>
+          <option>ZipRecruiter</option><option>Builtin</option><option>Recruiter outreach</option>
+          <option>Company website</option><option>Other</option>
         </select>
       </div>
     </div>
@@ -366,7 +303,6 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
   </div>
 </div>
 
-<!-- OUTREACH MODAL -->
 <div class="modal-bg" id="out-modal">
   <div class="modal">
     <div class="modal-head">Log outreach contact <button class="btn btn-sm" onclick="closeOutreachModal()">✕</button></div>
@@ -400,39 +336,16 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 
 <script>
 // ── CONSTANTS ─────────────────────────────────────────────
-const CLIENT_ID   = '72896562524-bgoui117avd6jj34g73hvorh7aqmfpd8.apps.googleusercontent.com';
-const GITHUB_TOKEN = 'PASTE_TOKEN_AT_RUNTIME';
-const GITHUB_REPO  = 'jglenn2nd-L-ohist/Toolkit';
-const GITHUB_FILE  = 'jsa_jobs.json';
-const FILENAME    = 'jsa_jobs.json';
-const SCOPES      = 'https://www.googleapis.com/auth/drive';
+const GITHUB_REPO = 'jglenn2nd-L-ohist/Toolkit';
+const GITHUB_FILE = 'jsa_jobs.json';
+const GITHUB_RAW  = 'https://raw.githubusercontent.com/' + GITHUB_REPO + '/main/' + GITHUB_FILE;
+const GITHUB_API  = 'https://api.github.com/repos/' + GITHUB_REPO + '/contents/' + GITHUB_FILE;
 
-// Resolved at runtime — never hardcoded. Survives harvest creating new files.
-let activeFileId  = null;
-
-async function resolveFileId() {
-  // Return cached ID if we already resolved this session
-  if (activeFileId) return activeFileId;
-  // Search Drive folder for all files named jsa_jobs.json, pick most recently modified
-  const q = encodeURIComponent(`'${FOLDER_ID}' in parents and name = '${FILENAME}' and trashed = false`);
-  const r = await fetch(
-    `https://www.googleapis.com/drive/v3/files?q=${q}&orderBy=modifiedTime+desc&pageSize=10&fields=files(id,name,modifiedTime)`,
-    { headers: authHeader() }
-  );
-  if (!r.ok) throw new Error('Drive search failed: ' + r.status);
-  const data = await r.json();
-  if (!data.files || data.files.length === 0) throw new Error('No jsa_jobs.json found in Drive folder');
-  activeFileId = data.files[0].id;
-  console.log('Resolved file ID:', activeFileId, '(modified:', data.files[0].modifiedTime, ')');
-  return activeFileId;
-}
-
-// Title exclusion — applied client-side on render and on incoming jobs
 const EXCLUDE_TITLE_WORDS = [
-  'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff',
-  'intern', 'internship', 'co-op', 'coop',
-  'behavioral health', 'substance abuse', 'mental health counselor',
-  'director', 'vp ', 'vice president', 'head of', 'manager,'
+  'senior','sr.','sr ','lead','principal','staff',
+  'intern','internship','co-op','coop',
+  'behavioral health','substance abuse','mental health counselor',
+  'director','vp ','vice president','head of','manager,'
 ];
 
 function isTitleExcluded(title) {
@@ -441,161 +354,143 @@ function isTitleExcluded(title) {
   return EXCLUDE_TITLE_WORDS.some(ex => t.includes(ex));
 }
 
-// Dedup key — URL primary, company+title secondary
-function dedupKey(j) {
-  return (j.url || '').trim().toLowerCase().replace(/[?#].*$/, '');
-}
-
-function dedupKeyAlt(j) {
-  return ((j.company || '') + '|' + (j.title || '')).toLowerCase().trim();
-}
-
-const SEED_JOBS = [
-  {id:'seed1',company:'Procure Analytics',title:'Operations Analyst',location:'Atlanta, GA',salary:'Not listed',url:'https://www.linkedin.com/company/procure-analytics/jobs/',source:'LinkedIn',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
-  {id:'seed2',company:'HD Supply',title:'Data Analytics Specialist',location:'Atlanta, GA',salary:'Not listed',url:'https://careers.hdsupply.com/job/R26004236',source:'Company website',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''},
-  {id:'seed3',company:'Spring Health',title:'Business Analyst, Operations Analytics',location:'Remote',salary:'$106,500-$118,000',url:'https://boards.greenhouse.io/springhealth',source:'Company website',status:'Applied',viewed:true,dateAdded:'2026-08-16T00:00:00.000Z',notes:''}
-];
+function dedupKey(j) { return (j.url||'').trim().toLowerCase().replace(/[?#].*$/,'').replace(/\/$/,''); }
+function dedupKeyAlt(j) { return ((j.company||'')+'|'+(j.title||'')).toLowerCase().trim(); }
 
 // ── STATE ─────────────────────────────────────────────────
-let jobs      = [];
-let outreach  = [];
-let lastRun   = null;
-let fileId    = null;
-let token     = null;
-let tokenClient = null;
-let tokenExpiry = null;
+let jobs     = [];
+let outreach = [];
+let lastRun  = null;
+let fileSha  = null; // GitHub file SHA for updates
+let selectedIds = new Set();
 
-// ── GOOGLE AUTH ───────────────────────────────────────────
-function initGoogle() {
-  if (typeof google === 'undefined') { setTimeout(initGoogle, 400); return; }
-  tokenClient = google.accounts.oauth2.initTokenClient({
-    client_id: CLIENT_ID,
-    scope: SCOPES,
-    callback: async (resp) => {
-      if (resp.error) { toast('Auth failed: ' + resp.error); return; }
-      token = resp.access_token;
-      tokenExpiry = Date.now() + (resp.expires_in - 60) * 1000;
-      onAuthed();
-    }
-  });
+// ── GITHUB AUTH ───────────────────────────────────────────
+function getToken() { return sessionStorage.getItem('gh_token') || ''; }
+
+function saveToken() {
+  const t = document.getElementById('token-input').value.trim();
+  if (!t) { toast('Enter a token first.'); return; }
+  sessionStorage.setItem('gh_token', t);
+  document.getElementById('token-input').value = '';
+  updateTokenStatus();
+  loadFromGitHub(true);
 }
 
-function signIn() {
-  if (!tokenClient) { toast('Google not ready — wait a moment and try again.'); return; }
-  tokenClient.requestAccessToken();
+function clearToken() {
+  sessionStorage.removeItem('gh_token');
+  fileSha = null;
+  updateTokenStatus();
+  toast('Disconnected.');
 }
 
-function ensureToken() {
-  if (!token || Date.now() > tokenExpiry) { signIn(); return false; }
-  return true;
-}
-
-function onAuthed() {
-  document.getElementById('auth-btn').textContent = '✓ Connected';
-  document.getElementById('auth-btn').disabled = true;
-  document.getElementById('sync-btn').disabled = false;
-  const b = document.getElementById('auth-banner');
-  b.className = 'auth-banner ok';
-  b.innerHTML = '<span>✓ Google connected — Drive sync active</span><button onclick="loadFromDrive(true)">Sync now</button>';
-  document.getElementById('foot-auth').style.color = 'var(--green)';
-  document.getElementById('foot-auth').textContent = 'Google: connected';
-  loadFromDrive(false);
-}
-
-// ── DRIVE REST ────────────────────────────────────────────
-function authHeader() { return { 'Authorization': 'Bearer ' + token }; }
-
-async function loadFromDrive(showToast) {
-  if (!ensureToken()) return;
-  try {
-    setDriveStatus('Loading from Drive…', 'warn');
-    // Always resolve fresh — picks up new file if harvest created one
-    activeFileId = null;
-    const fileId = await resolveFileId();
-    const dl = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, { headers: authHeader() });
-    if (!dl.ok) throw new Error('File read failed: ' + dl.status);
-    const parsed = await dl.json();
-    jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
-    outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
-    lastRun  = parsed.lastRun || null;
-    mergeSeedJobs();
-    setDriveStatus('Drive sync active', 'ok');
-    if (showToast) toast('Synced — ' + jobs.length + ' jobs loaded');
-    render();
-  } catch(e) {
-    setDriveStatus('Drive load failed: ' + e.message, 'err');
-    jobs = [...SEED_JOBS];
-    render();
+function updateTokenStatus() {
+  const t = getToken();
+  const el = document.getElementById('token-status');
+  const foot = document.getElementById('foot-gh');
+  const banner = document.getElementById('gh-banner');
+  if (t) {
+    el.textContent = '✓ Token set (session only)';
+    el.style.color = 'var(--green)';
+    foot.textContent = 'GitHub: connected';
+    foot.style.color = 'var(--green)';
+    banner.className = 'gh-banner ok';
+    banner.innerHTML = '<span>✓ GitHub connected</span><button onclick="loadFromGitHub(true)">Sync now</button>';
+  } else {
+    el.textContent = 'No token set';
+    el.style.color = 'var(--ink3)';
+    foot.textContent = 'GitHub: not connected';
+    foot.style.color = 'var(--amber)';
+    banner.className = 'gh-banner';
+    banner.innerHTML = '<span>⚠ GitHub token not set — go to Settings to connect</span><button onclick="goPage(\'settings\',document.querySelectorAll(\'.nav-btn\')[4])">Settings</button>';
   }
 }
 
-async function saveToDrive() {
-  if (!ensureToken()) return;
-  const body = JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() });
+// ── GITHUB REST ───────────────────────────────────────────
+async function loadFromGitHub(showToast) {
+  setGhStatus('Loading…', 'warn');
   try {
-    // Use the file we loaded from — if not yet resolved, resolve now
-    const fileId = activeFileId || await resolveFileId();
-    const r = await fetch(`https://www.googleapis.com/upload/drive/v3/files/${fileId}?uploadType=media`, {
-      method: 'PATCH',
-      headers: { ...authHeader(), 'Content-Type': 'application/json' },
-      body
+    // Use raw URL — no auth needed for public repo
+    const r = await fetch(GITHUB_RAW + '?t=' + Date.now());
+    if (!r.ok) throw new Error('Fetch failed: ' + r.status);
+    const parsed = await r.json();
+    jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
+    outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
+    lastRun  = parsed.lastRun || null;
+    // Get SHA for subsequent writes
+    await fetchSha();
+    applyExclusions();
+    setGhStatus('GitHub sync active', 'ok');
+    if (showToast) toast('Synced — ' + jobs.length + ' jobs loaded');
+    render();
+  } catch(e) {
+    setGhStatus('Load failed: ' + e.message, 'err');
+  }
+}
+
+async function fetchSha() {
+  const t = getToken();
+  if (!t) return;
+  try {
+    const r = await fetch(GITHUB_API, { headers: { 'Authorization': 'token ' + t, 'Accept': 'application/vnd.github.v3+json' }});
+    if (r.ok) { const d = await r.json(); fileSha = d.sha; }
+  } catch(e) { /* non-fatal */ }
+}
+
+async function saveToGitHub() {
+  const t = getToken();
+  if (!t) { showSaveInd('No token — go to Settings', true); return; }
+  if (!fileSha) { await fetchSha(); }
+  const content = btoa(unescape(encodeURIComponent(
+    JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() }, null, 2)
+  )));
+  try {
+    const body = { message: 'JSA update ' + new Date().toISOString().slice(0,10), content, sha: fileSha };
+    const r = await fetch(GITHUB_API, {
+      method: 'PUT',
+      headers: { 'Authorization': 'token ' + t, 'Content-Type': 'application/json', 'Accept': 'application/vnd.github.v3+json' },
+      body: JSON.stringify(body)
     });
-    if (!r.ok) throw new Error('Save failed: ' + r.status);
-    showSaveInd('Saved to Drive', false);
+    if (!r.ok) { const e = await r.json(); throw new Error(e.message || r.status); }
+    const d = await r.json();
+    fileSha = d.content.sha;
+    showSaveInd('Saved to GitHub', false);
   } catch(e) {
     showSaveInd('Save failed: ' + e.message, true);
   }
 }
 
-function mergeSeedJobs() {
-  const ids  = new Set(jobs.map(j => j.id));
-  const urls = new Set(jobs.map(j => dedupKey(j)).filter(Boolean));
-  const alts = new Set(jobs.map(j => dedupKeyAlt(j)).filter(Boolean));
-  SEED_JOBS.forEach(s => {
-    if (!ids.has(s.id) && !urls.has(dedupKey(s)) && !alts.has(dedupKeyAlt(s))) {
-      jobs.push(s);
-    }
-  });
-  // Also strip excluded titles from the full jobs array on load
+function applyExclusions() {
   jobs = jobs.filter(j => !isTitleExcluded(j.title));
 }
 
-// ── RENDER ALL ────────────────────────────────────────────
-function render() {
-  updateMetrics();
-  updateFooter();
-  buildSourceFilter();
-  renderJobs();
-  renderPipeline();
-  renderOutreach();
-}
-
-// ── JOBS ──────────────────────────────────────────────────
-let selectedIds = new Set();
-
+// ── BATCH SELECT ──────────────────────────────────────────
 function toggleSelect(id, checked) {
   checked ? selectedIds.add(id) : selectedIds.delete(id);
   updateBatchBar();
 }
 
 function toggleSelectAll(checked) {
-  const boxes = document.querySelectorAll('.job-cb');
-  boxes.forEach(cb => {
+  document.querySelectorAll('.job-cb[data-id]').forEach(cb => {
     cb.checked = checked;
     checked ? selectedIds.add(cb.dataset.id) : selectedIds.delete(cb.dataset.id);
   });
   updateBatchBar();
 }
 
+function clearSelection() {
+  selectedIds.clear();
+  document.querySelectorAll('.job-cb').forEach(cb => cb.checked = false);
+  updateBatchBar();
+}
+
 function updateBatchBar() {
   const bar = document.getElementById('batch-bar');
   const cnt = document.getElementById('batch-count');
-  if (!bar) return;
   if (selectedIds.size > 0) {
-    bar.style.display = 'flex';
+    bar.classList.add('show');
     cnt.textContent = selectedIds.size + ' selected';
   } else {
-    bar.style.display = 'none';
+    bar.classList.remove('show');
   }
 }
 
@@ -604,8 +499,8 @@ async function batchRemove() {
   const n = selectedIds.size;
   jobs = jobs.filter(j => !selectedIds.has(j.id));
   selectedIds.clear();
-  document.getElementById('select-all').checked = false;
-  await saveToDrive();
+  document.getElementById('sel-all').checked = false;
+  await saveToGitHub();
   renderJobs(); updateMetrics(); updateBatchBar();
   toast(n + ' job' + (n>1?'s':'') + ' removed.');
 }
@@ -613,19 +508,26 @@ async function batchRemove() {
 async function batchApplied() {
   if (!selectedIds.size) return;
   const n = selectedIds.size;
-  jobs.forEach(j => { if (selectedIds.has(j.id)) { j.status = 'Applied'; j.viewed = true; } });
+  jobs.forEach(j => { if (selectedIds.has(j.id)) { j.status='Applied'; j.viewed=true; } });
   selectedIds.clear();
-  document.getElementById('select-all').checked = false;
-  await saveToDrive();
+  document.getElementById('sel-all').checked = false;
+  await saveToGitHub();
   render(); updateBatchBar();
   toast(n + ' job' + (n>1?'s':'') + ' marked Applied.');
 }
 
+// ── RENDER ALL ────────────────────────────────────────────
+function render() {
+  updateMetrics(); updateFooter(); buildSourceFilter();
+  renderJobs(); renderPipeline(); renderOutreach();
+}
+
+// ── JOBS ──────────────────────────────────────────────────
 function renderJobs() {
   const list = document.getElementById('job-list');
-  const q   = (document.getElementById('fsearch')?.value || '').toLowerCase();
-  const sf  = document.getElementById('fstatus')?.value || '';
-  const src = document.getElementById('fsource')?.value || '';
+  const q   = (document.getElementById('fsearch')?.value||'').toLowerCase();
+  const sf  = document.getElementById('fstatus')?.value||'';
+  const src = document.getElementById('fsource')?.value||'';
 
   const filtered = jobs.filter(j => {
     if (isTitleExcluded(j.title)) return false;
@@ -639,28 +541,28 @@ function renderJobs() {
   document.getElementById('badge-post').textContent = jobs.length;
 
   if (!filtered.length) {
-    list.innerHTML = `<div class="empty"><div class="empty-ico">◈</div><div class="empty-title">${jobs.length ? 'No matches' : 'No jobs yet'}</div><div class="empty-sub">${jobs.length ? 'Clear filters.' : 'Connect Google to load your data.'}</div></div>`;
+    list.innerHTML = `<div class="empty"><div class="empty-ico">◈</div><div class="empty-title">${jobs.length?'No matches':'No jobs yet'}</div><div class="empty-sub">${jobs.length?'Clear filters.':'Set GitHub token in Settings.'}</div></div>`;
     return;
   }
 
   list.innerHTML = filtered.map(j => {
-    const ini = j.company.split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase() || '??';
-    const statusClass = 'ch-' + (j.status || 'new').toLowerCase().replace(/\s/g,'-');
+    const ini = j.company.split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase()||'??';
+    const sc = 'ch-'+(j.status||'new').toLowerCase().replace(/\s/g,'-');
     const applied = ['Applied','Interviewing','Offer'].includes(j.status);
-    const chk = selectedIds.has(j.id) ? 'checked' : '';
-    return `<div class="job-row ${!j.viewed ? 'unseen' : ''}">
-      <input type="checkbox" class="job-cb" data-id="${j.id}" ${chk} onchange="toggleSelect('${j.id}',this.checked)" style="margin-right:2px;accent-color:var(--blue);width:15px;height:15px;flex-shrink:0;cursor:pointer">
+    const chk = selectedIds.has(j.id)?'checked':'';
+    return `<div class="job-row ${!j.viewed?'unseen':''}">
+      <input type="checkbox" class="job-cb" data-id="${j.id}" ${chk} onchange="toggleSelect('${j.id}',this.checked)">
       <div class="job-logo">${ini}</div>
       <div class="job-body" onclick="openJob('${j.id}')">
         <div class="job-title">${j.title}</div>
-        <div class="job-co">${j.company}${j.location ? ' · ' + j.location : ''}${j.salary ? ' · ' + j.salary : ''}</div>
+        <div class="job-co">${j.company}${j.location?' · '+j.location:''}${j.salary?' · '+j.salary:''}</div>
       </div>
       <div class="job-right">
-        <span class="chip ${statusClass}">${j.status || 'New'}</span>
+        <span class="chip ${sc}">${j.status||'New'}</span>
         <span class="chip ch-src">${j.source}</span>
       </div>
       <div class="row-actions">
-        ${!applied ? `<button class="row-btn" onclick="markApplied(event,'${j.id}')">Applied</button>` : ''}
+        ${!applied?`<button class="row-btn" onclick="markApplied(event,'${j.id}')">Applied</button>`:''}
         <button class="row-btn rm" onclick="removeJob(event,'${j.id}')">Remove</button>
       </div>
     </div>`;
@@ -668,52 +570,51 @@ function renderJobs() {
 }
 
 async function openJob(id) {
-  const j = jobs.find(x => x.id === id);
+  const j = jobs.find(x=>x.id===id);
   if (!j) return;
   j.viewed = true;
-  await saveToDrive();
+  await saveToGitHub();
   renderJobs(); updateMetrics();
-  if (j.url) window.open(j.url, '_blank');
+  if (j.url) window.open(j.url,'_blank');
   else toast('No URL for this job.');
 }
 
-async function markApplied(e, id) {
+async function markApplied(e,id) {
   e.stopPropagation();
-  const j = jobs.find(x => x.id === id);
+  const j = jobs.find(x=>x.id===id);
   if (!j) return;
-  j.status = 'Applied'; j.viewed = true;
-  await saveToDrive();
+  j.status='Applied'; j.viewed=true;
+  await saveToGitHub();
   render();
-  toast('Marked Applied — ' + j.company + ' is in your Pipeline.');
+  toast('Marked Applied — '+j.company+' is in your Pipeline.');
 }
 
-async function removeJob(e, id) {
+async function removeJob(e,id) {
   e.stopPropagation();
-  const j = jobs.find(x => x.id === id);
+  const j = jobs.find(x=>x.id===id);
   if (!j) return;
-  jobs = jobs.filter(x => x.id !== id);
-  await saveToDrive();
+  jobs = jobs.filter(x=>x.id!==id);
+  await saveToGitHub();
   renderJobs(); updateMetrics();
-  toast(j.company + ' removed.');
+  toast(j.company+' removed.');
 }
 
-// ── PIPELINE ─────────────────────────────────────────────
+// ── PIPELINE ──────────────────────────────────────────────
 function renderPipeline() {
-  const active = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status));
+  const active = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status));
   const body = document.getElementById('pipe-body');
   const now = Date.now();
   document.getElementById('badge-pipe').textContent = active.length;
   document.getElementById('p-applied').textContent   = jobs.filter(j=>j.status==='Applied').length;
   document.getElementById('p-interview').textContent = jobs.filter(j=>j.status==='Interviewing').length;
   document.getElementById('p-offer').textContent     = jobs.filter(j=>j.status==='Offer').length;
-
   if (!active.length) {
     body.innerHTML = '<tr><td colspan="6"><div class="empty" style="padding:28px"><div class="empty-title">Pipeline is empty</div><div class="empty-sub">Mark jobs Applied to track them here.</div></div></td></tr>';
     return;
   }
   body.innerHTML = active.map(j => {
-    const days = Math.floor((now - new Date(j.dateAdded).getTime()) / 86400000);
-    const stale = days >= 25;
+    const days = Math.floor((now-new Date(j.dateAdded).getTime())/86400000);
+    const stale = days>=25;
     return `<tr>
       <td style="font-weight:500">${j.company}</td>
       <td>${j.title}</td>
@@ -722,140 +623,126 @@ function renderPipeline() {
       <td><select class="tbl-sel" onchange="updateStatus('${j.id}',this.value)">
         ${['Applied','Interviewing','Offer','Rejected','Closed'].map(s=>`<option ${j.status===s?'selected':''}>${s}</option>`).join('')}
       </select></td>
-      <td>${j.url ? `<a href="${j.url}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">Open ↗</a>` : '—'}</td>
+      <td>${j.url?`<a href="${j.url}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">Open ↗</a>`:'—'}</td>
     </tr>`;
   }).join('');
 }
 
-async function updateStatus(id, status) {
-  const j = jobs.find(x => x.id === id);
+async function updateStatus(id,status) {
+  const j = jobs.find(x=>x.id===id);
   if (!j) return;
   j.status = status;
-  await saveToDrive();
+  await saveToGitHub();
   renderPipeline(); updateMetrics();
-  toast('Status updated to ' + status);
+  toast('Status updated to '+status);
 }
 
 // ── OUTREACH ──────────────────────────────────────────────
 function renderOutreach() {
   const body = document.getElementById('out-body');
   document.getElementById('badge-out').textContent = outreach.length;
-  document.getElementById('out-count').textContent = outreach.length + ' contact' + (outreach.length !== 1 ? 's' : '') + ' logged';
-
+  document.getElementById('out-count').textContent = outreach.length+' contact'+(outreach.length!==1?'s':'')+' logged';
   if (!outreach.length) {
-    body.innerHTML = '<tr><td colspan="7"><div class="empty" style="padding:28px"><div class="empty-title">No outreach logged</div><div class="empty-sub">Log contacts you have messaged alongside your applications.</div></div></td></tr>';
+    body.innerHTML = '<tr><td colspan="7"><div class="empty" style="padding:28px"><div class="empty-title">No outreach logged</div></div></td></tr>';
     return;
   }
   body.innerHTML = outreach.map(o => {
-    const rc = o.response === 'Yes' ? 'resp-yes' : o.response === 'No' ? 'resp-no' : 'resp-pending';
+    const rc = o.response==='Yes'?'resp-yes':o.response==='No'?'resp-no':'resp-pending';
     return `<tr>
-      <td style="font-weight:500">${o.name}</td>
-      <td>${o.contactTitle}</td>
-      <td>${o.company}</td>
-      <td>${o.linkedin ? `<a href="${o.linkedin.startsWith('http')?o.linkedin:'https://'+o.linkedin}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">View ↗</a>` : '—'}</td>
+      <td style="font-weight:500">${o.name}</td><td>${o.contactTitle}</td><td>${o.company}</td>
+      <td>${o.linkedin?`<a href="${o.linkedin.startsWith('http')?o.linkedin:'https://'+o.linkedin}" target="_blank" style="color:var(--blue);font-size:12px;text-decoration:none">View ↗</a>`:'—'}</td>
       <td><span class="chip resp-chip ${rc}">${o.response}</span></td>
-      <td style="font-size:12px;color:var(--ink2);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${o.notes || '—'}</td>
+      <td style="font-size:12px;color:var(--ink2);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${o.notes||'—'}</td>
       <td>
-        ${o.response==='Pending' ? `<button class="btn btn-sm" style="font-size:10px;padding:3px 8px" onclick="setResponse('${o.id}','Yes')">Responded</button>` : ''}
+        ${o.response==='Pending'?`<button class="btn btn-sm" style="font-size:10px;padding:3px 8px" onclick="setResponse('${o.id}','Yes')">Responded</button>`:''}
         <button class="btn btn-sm btn-danger" style="font-size:10px;padding:3px 8px;margin-left:4px" onclick="removeOutreach('${o.id}')">✕</button>
       </td>
     </tr>`;
   }).join('');
 }
 
-function openOutreachModal()  { document.getElementById('out-modal').style.display = 'flex'; }
+function openOutreachModal() { document.getElementById('out-modal').style.display='flex'; }
 function closeOutreachModal() {
-  document.getElementById('out-modal').style.display = 'none';
-  ['o-name','o-title','o-co','o-li','o-notes'].forEach(id => document.getElementById(id).value = '');
-  document.getElementById('o-resp').value = 'Pending';
+  document.getElementById('out-modal').style.display='none';
+  ['o-name','o-title','o-co','o-li','o-notes'].forEach(id=>document.getElementById(id).value='');
+  document.getElementById('o-resp').value='Pending';
 }
 
 async function saveOutreach() {
   const name = document.getElementById('o-name').value.trim();
   const co   = document.getElementById('o-co').value.trim();
-  if (!name || !co) { toast('Name and company required.'); return; }
-  outreach.unshift({
-    id: uid(),
-    name,
-    contactTitle: document.getElementById('o-title').value.trim(),
-    company: co,
-    linkedin: document.getElementById('o-li').value.trim(),
-    response: document.getElementById('o-resp').value,
-    notes: document.getElementById('o-notes').value.trim()
-  });
-  await saveToDrive();
-  closeOutreachModal();
-  renderOutreach();
+  if (!name||!co) { toast('Name and company required.'); return; }
+  outreach.unshift({ id:uid(), name, contactTitle:document.getElementById('o-title').value.trim(),
+    company:co, linkedin:document.getElementById('o-li').value.trim(),
+    response:document.getElementById('o-resp').value, notes:document.getElementById('o-notes').value.trim() });
+  await saveToGitHub();
+  closeOutreachModal(); renderOutreach();
   toast('Contact logged.');
 }
 
-async function setResponse(id, val) {
-  const o = outreach.find(x => x.id === id);
+async function setResponse(id,val) {
+  const o = outreach.find(x=>x.id===id);
   if (!o) return;
-  o.response = val;
-  await saveToDrive();
-  renderOutreach();
+  o.response=val;
+  await saveToGitHub(); renderOutreach();
   toast('Response updated.');
 }
 
 async function removeOutreach(id) {
-  outreach = outreach.filter(x => x.id !== id);
-  await saveToDrive();
-  renderOutreach();
+  outreach = outreach.filter(x=>x.id!==id);
+  await saveToGitHub(); renderOutreach();
   toast('Contact removed.');
 }
 
 // ── MANUAL ADD ────────────────────────────────────────────
-function openAddModal()  { document.getElementById('add-modal').style.display = 'flex'; }
+function openAddModal() { document.getElementById('add-modal').style.display='flex'; }
 function closeAddModal() {
-  document.getElementById('add-modal').style.display = 'none';
-  ['m-co','m-title','m-loc','m-sal','m-url'].forEach(id => document.getElementById(id).value = '');
+  document.getElementById('add-modal').style.display='none';
+  ['m-co','m-title','m-loc','m-sal','m-url'].forEach(id=>document.getElementById(id).value='');
 }
 
 async function saveManualJob() {
-  const co = document.getElementById('m-co').value.trim();
-  const ti = document.getElementById('m-title').value.trim();
-  if (!co || !ti) { toast('Company and title required.'); return; }
-  jobs.unshift({
-    id: uid(), company: co, title: ti,
-    location: document.getElementById('m-loc').value.trim(),
-    salary: document.getElementById('m-sal').value.trim(),
-    url: document.getElementById('m-url').value.trim(),
-    source: document.getElementById('m-src').value,
-    status: 'New', viewed: false,
-    dateAdded: new Date().toISOString(), notes: ''
-  });
-  await saveToDrive();
+  const co=document.getElementById('m-co').value.trim();
+  const ti=document.getElementById('m-title').value.trim();
+  if (!co||!ti) { toast('Company and title required.'); return; }
+  jobs.unshift({ id:uid(),company:co,title:ti,
+    location:document.getElementById('m-loc').value.trim(),
+    salary:document.getElementById('m-sal').value.trim(),
+    url:document.getElementById('m-url').value.trim(),
+    source:document.getElementById('m-src').value,
+    status:'New',viewed:false,dateAdded:new Date().toISOString(),notes:'' });
+  await saveToGitHub();
   closeAddModal(); buildSourceFilter(); renderJobs(); updateMetrics();
   toast('Job added.');
 }
 
 // ── NAV ───────────────────────────────────────────────────
-function goPage(id, el) {
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  document.getElementById('page-' + id).classList.add('active');
-  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+function goPage(id,el) {
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById('page-'+id).classList.add('active');
+  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
   if (el) el.classList.add('active');
-  if (id === 'postings') { buildSourceFilter(); renderJobs(); }
-  if (id === 'pipeline') renderPipeline();
-  if (id === 'outreach') renderOutreach();
+  if (id==='postings') { buildSourceFilter(); renderJobs(); }
+  if (id==='pipeline') renderPipeline();
+  if (id==='outreach') renderOutreach();
+  if (id==='settings') updateTokenStatus();
 }
 
 // ── METRICS ───────────────────────────────────────────────
 function updateMetrics() {
   document.getElementById('m-total').textContent     = jobs.length;
-  document.getElementById('m-unseen').textContent    = jobs.filter(j => !j.viewed).length;
-  document.getElementById('m-applied').textContent   = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status)).length;
-  document.getElementById('m-interview').textContent = jobs.filter(j => j.status === 'Interviewing').length;
+  document.getElementById('m-unseen').textContent    = jobs.filter(j=>!j.viewed).length;
+  document.getElementById('m-applied').textContent   = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status)).length;
+  document.getElementById('m-interview').textContent = jobs.filter(j=>j.status==='Interviewing').length;
   document.getElementById('badge-post').textContent  = jobs.length;
-  document.getElementById('badge-pipe').textContent  = jobs.filter(j => ['Applied','Interviewing','Offer'].includes(j.status)).length;
+  document.getElementById('badge-pipe').textContent  = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status)).length;
   document.getElementById('badge-out').textContent   = outreach.length;
 }
 
 function updateFooter() {
   if (lastRun) {
     const d = new Date(lastRun);
-    document.getElementById('foot-run').textContent = 'Last harvest: ' + d.toLocaleDateString() + ' ' + d.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('foot-run').textContent = 'Last harvest: '+d.toLocaleDateString()+' '+d.toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
   }
   document.getElementById('t-date').textContent = new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
 }
@@ -864,44 +751,47 @@ function buildSourceFilter() {
   const sel = document.getElementById('fsource');
   if (!sel) return;
   const cur = sel.value;
-  const sources = [...new Set(jobs.map(j => j.source).filter(Boolean))].sort();
-  sel.innerHTML = '<option value="">All sources</option>' + sources.map(s => `<option ${s===cur?'selected':''}>${s}</option>`).join('');
+  const sources = [...new Set(jobs.map(j=>j.source).filter(Boolean))].sort();
+  sel.innerHTML = '<option value="">All sources</option>'+sources.map(s=>`<option ${s===cur?'selected':''}>${s}</option>`).join('');
 }
 
 // ── UTILS ─────────────────────────────────────────────────
-function uid() { return Date.now().toString(36) + Math.random().toString(36).slice(2,6); }
+function uid() { return Date.now().toString(36)+Math.random().toString(36).slice(2,6); }
 
-function setDriveStatus(msg, state) {
-  const el = document.getElementById('drive-status');
-  const dot = state === 'ok' ? 'ok' : state === 'warn' ? 'warn' : 'err';
+function setGhStatus(msg,state) {
+  const el = document.getElementById('gh-status');
+  const dot = state==='ok'?'ok':state==='warn'?'warn':'err';
   el.innerHTML = `<div class="status-row"><div class="sdot ${dot}"></div><span>${msg}</span></div>`;
 }
 
 let toastT;
-function toast(msg, dur=2800) {
-  const el = document.getElementById('toast');
-  el.textContent = msg; el.classList.add('show');
-  clearTimeout(toastT); toastT = setTimeout(() => el.classList.remove('show'), dur);
+function toast(msg,dur=2800) {
+  const el=document.getElementById('toast');
+  el.textContent=msg; el.classList.add('show');
+  clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove('show'),dur);
 }
 
 let saveT;
-function showSaveInd(msg, fail=false) {
-  const el = document.getElementById('save-ind');
-  el.textContent = msg;
-  el.className = 'save-ind' + (fail ? ' fail' : '') + ' show';
-  clearTimeout(saveT); saveT = setTimeout(() => el.classList.remove('show'), 2500);
+function showSaveInd(msg,fail=false) {
+  const el=document.getElementById('save-ind');
+  el.textContent=msg;
+  el.className='save-ind'+(fail?' fail':'')+' show';
+  clearTimeout(saveT); saveT=setTimeout(()=>el.classList.remove('show'),2500);
 }
 
 async function clearAll() {
-  if (!confirm('Clear all jobs, pipeline, and outreach data? This cannot be undone.')) return;
-  jobs = []; outreach = []; lastRun = null;
-  await saveToDrive();
+  if (!confirm('Clear all jobs, pipeline, and outreach? Cannot be undone.')) return;
+  jobs=[]; outreach=[]; lastRun=null;
+  await saveToGitHub();
   render(); toast('All data cleared.');
 }
 
 // ── INIT ──────────────────────────────────────────────────
 document.getElementById('t-date').textContent = new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
-initGoogle();
+updateTokenStatus();
+
+// Load from GitHub on start (public repo, no auth needed to read)
+loadFromGitHub(false);
 </script>
 </body>
 </html>
