@@ -1,0 +1,28 @@
+name: JSA Daily Harvest
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 9am ET (UTC-5)
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+      - name: Run JSA scraper
+        env:
+          GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.JSA_GITHUB_TOKEN }}
+        run: python jsa_scraper.py
