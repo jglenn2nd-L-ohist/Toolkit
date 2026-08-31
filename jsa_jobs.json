@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a06f18001aa",
-      "company": "Aston Carter",
-      "title": "Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460807050/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f18002bb",
       "company": "Oldcastle APG",
       "title": "Sales Operations Analyst - Entry Level",
@@ -978,5 +965,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T12:00:00.000Z",
-  "savedAt": "2026-08-31T12:00:00.000Z"
+  "savedAt": "2026-08-31T20:00:45.298Z"
 }
