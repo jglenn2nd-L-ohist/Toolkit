@@ -8,8 +8,8 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4459433082/",
       "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
+      "status": "Applied",
+      "viewed": true,
       "dateAdded": "2026-08-31T12:00:00.000Z",
       "notes": ""
     },
@@ -939,5 +939,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T12:00:00.000Z",
-  "savedAt": "2026-08-31T20:00:52.238Z"
+  "savedAt": "2026-08-31T20:03:28.367Z"
 }
