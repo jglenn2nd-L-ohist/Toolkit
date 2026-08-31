@@ -14,19 +14,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f18006ff",
-      "company": "City of Atlanta",
-      "title": "Management Analyst I",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459463561/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180071a",
       "company": "Nasdaq",
       "title": "Revenue Operations Specialist",
@@ -939,5 +926,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T12:00:00.000Z",
-  "savedAt": "2026-08-31T20:03:28.367Z"
+  "savedAt": "2026-08-31T20:03:43.272Z"
 }
