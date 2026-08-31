@@ -27,19 +27,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f180082b",
-      "company": "Terracon",
-      "title": "Data Analyst I",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460800591/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180093c",
       "company": "Hertz",
       "title": "Operations Excellence Analyst",
@@ -926,5 +913,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-08-31T22:34:14.649Z"
+  "savedAt": "2026-08-31T23:32:35.864Z"
 }
