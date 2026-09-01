@@ -159,7 +159,7 @@ def extract_urls(html, text=''):
     href_matches = re.findall(r'href=["\'](https?://[^"\'\s>]+)["\'\s>]', html, re.IGNORECASE)
 
     # Secondary: extract from plain text
-    text_matches = re.findall(r'https?://[^\s<>"'\)\]\\]+', text)
+    text_matches = re.findall(r"https?://[^\s<>)\]\\]+", text)
 
     for url in href_matches + text_matches:
         url = url.rstrip('.,;)&')
