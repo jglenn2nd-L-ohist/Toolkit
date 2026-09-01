@@ -92,19 +92,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f180305f",
-      "company": "Capgemini",
-      "title": "Business System Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460127820/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180349d",
       "company": "Stripe",
       "title": "Fraud Patterns Analyst",
@@ -757,5 +744,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:10:32.220Z"
+  "savedAt": "2026-09-01T01:12:25.988Z"
 }
