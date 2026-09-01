@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "mti1krc11szu",
+      "company": "Anovaeon, LLC",
+      "title": "Junior Data Analyst",
+      "location": "Remote",
+      "salary": "",
+      "url": "",
+      "source": "Glassdoor",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-09-01T02:22:17.185Z",
+      "notes": ""
+    },
+    {
       "id": "mti119nb229e",
       "company": "Endava",
       "title": "Product Operations Analyst",
@@ -601,5 +614,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T02:07:12.726Z"
+  "savedAt": "2026-09-01T02:22:17.185Z"
 }
