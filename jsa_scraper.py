@@ -22,6 +22,7 @@ from googleapiclient.discovery import build
 
 # GitHub API
 import urllib.request
+import urllib.parse
 import urllib.error
 
 # ── CONFIGURATION ─────────────────────────────────────────
@@ -35,39 +36,26 @@ LOOKBACK_DAYS = 3  # Overlap window to catch missed emails
 
 # Job board domains for URL extraction
 JOB_DOMAINS = [
-    # LinkedIn — direct and email tracking
+    # LinkedIn
     'linkedin.com/jobs', 'linkedin.com/comm/jobs',
-    'email.linkedin.com', 'lnkd.in',
-
-    # Glassdoor — direct and email tracking
-    'glassdoor.com/job-listing', 'glassdoor.com/partner/jobListing', 'glassdoor.com/partner/jobListing',
-    'email.glassdoor.com', 'click.email.glassdoor.com', 'links.glassdoor.com',
-
-    # Indeed — direct and email tracking
+    # Glassdoor
+    'glassdoor.com/job-listing', 'glassdoor.com/partner/jobListing',
+    'glassdoor.com/apply', 'glassdoor.com/job',
+    # Indeed — direct and tracking
     'indeed.com/viewjob', 'indeed.com/rc/clk', 'indeed.com/applystart',
-    'click.indeed.com', 'email.indeed.com',
-
-    # ZipRecruiter — direct and email tracking
-    'ziprecruiter.com/c/', 'ziprecruiter.com/jobs/',
-    'email.ziprecruiter.com', 'click.ziprecruiter.com',
-
-    # Builtin
+    'indeed.com/pagead/clk',
+    # ZipRecruiter — /km/ and /ekm/ are their apply tracking links
+    'ziprecruiter.com/km/', 'ziprecruiter.com/ekm/', 'ziprecruiter.com/c/',
+    # Monster tracking
+    'click.monster.com',
+    # Builtin — decoded from awstrack
     'builtin.com/job', 'builtinatlanta.com',
-
-    # Monster
-    'monster.com/job', 'jobview.monster.com',
-    'email.monster.com', 'click.email.monster.com',
-
-    # Recruiter / Staffing
-    'talent.aquent.com', 'remotehunter.com',
-
-    # ATS platforms (where jobs actually live)
+    # ATS platforms
     'lever.co', 'greenhouse.io', 'workday.com', 'myworkdayjobs.com',
     'icims.com', 'smartrecruiters.com', 'jobvite.com', 'taleo.net',
-    'successfactors.com', 'bamboohr.com', 'breezy.hr', 'recruitee.com',
-
-    # Generic career pages
-    'careers.', '/jobs/', 'job-listing', 'job_detail', 'apply/job',
+    'successfactors.com', 'bamboohr.com',
+    # Recruiter
+    'talent.aquent.com', 'remotehunter.com',
 ]
 
 # Title exclusion words
@@ -135,15 +123,33 @@ def is_location_ok(location_str):
 
 # Gmail search queries
 SEARCH_QUERIES = [
+    # Broad keyword searches — catch everything regardless of sender
     'subject:"job alert" analyst',
-    'subject:"data analyst" OR subject:"business analyst" OR subject:"operations analyst"',
+    'subject:"job alert" data',
+    'subject:"job alert" business',
+    'subject:"jobs for you"',
+    'subject:"new jobs" analyst',
+    'subject:"jobs in" analyst',
+    'subject:"is hiring" analyst',
+    'subject:"are hiring" analyst',
+    'subject:"hiring" analyst atlanta',
+    'subject:"data analyst" (job OR hiring OR apply OR alert)',
+    'subject:"business analyst" (job OR hiring OR apply OR alert)',
+    'subject:"operations analyst" (job OR alert)',
+    # Sender-specific (verified senders from Gmail)
     'from:jobalerts-noreply@linkedin.com',
-    'from:noreply@glassdoor.com analyst',
-    'from:@indeed.com analyst',
-    'from:@ziprecruiter.com analyst',
-    'from:@builtin.com analyst',
-    'from:@monster.com analyst',
+    'from:jobalerts@linkedin.com',
+    'from:noreply@glassdoor.com',
+    'from:alert@glassdoor.com',
+    'from:jobs@glassdoor.com',
+    'from:noreply@ziprecruiter.com',
+    'from:noreply@builtin.com',
     'from:noreply@aquent.com',
+    # Generic job notification emails
+    'from:jobnotifications',
+    'subject:"job matches"',
+    'subject:"recommended jobs"',
+    'subject:"apply now" analyst',
 ]
 
 def is_excluded(title):
@@ -155,15 +161,34 @@ def extract_urls(html, text=''):
     job_urls = []
     seen = set()
 
-    # Primary: extract from HTML href attributes (catches Glassdoor/LinkedIn tracking links)
-    href_matches = re.findall(r'href=["\'](https?://[^"\'\s>]+)["\'\s>]', html, re.IGNORECASE)
+    # Primary: extract from HTML href attributes
+    href_matches = re.findall(r'href=["\'](https?://[^"\']{10,})["\'\s>]', html, re.IGNORECASE)
 
     # Secondary: extract from plain text
     text_matches = re.findall(r"https?://[^\s<>)\]\\]+", text)
 
     for url in href_matches + text_matches:
-        url = url.rstrip('.,;)&')
-        url = url.replace('&amp;', '&')
+        url = url.rstrip('.,;)&').replace('&amp;', '&')
+
+        # Decode AWS tracking URLs (Builtin uses these)
+        # Format: https://xxxxx.awstrack.me/L0/https:%2F%2Fbuiltin.com%2F...
+        if 'awstrack.me/L0/' in url:
+            try:
+                encoded_part = url.split('/L0/')[1]
+                url = urllib.parse.unquote(encoded_part)
+            except Exception:
+                pass
+
+        # Skip non-job URLs
+        skip_patterns = ['.png', '.jpg', '.gif', '.svg', '.ico', '.woff',
+                        '/assets/', '/images/', 'unsubscribe', 'optout',
+                        'mailto:', 'tel:', 'facebook.com', 'twitter.com',
+                        'instagram.com', 'privacy-policy', 'terms-of-service',
+                        'manage-preferences', 'fonts.googleapis', 'fonts.gstatic',
+                        'email-preferences', '/account/login', '/account/settings']
+        if any(skip in url.lower() for skip in skip_patterns):
+            continue
+
         if any(domain in url for domain in JOB_DOMAINS):
             base = url.split('?')[0].lower().rstrip('/')
             if base not in seen:
@@ -250,290 +275,189 @@ def decode_body(payload):
     walk(payload)
     return ' '.join(html_parts), ' '.join(text_parts)
 def extract_jobs_from_email(body_html, body_text, subject):
-    """
-    Extract job listings from email body.
-    For LinkedIn single-job alerts: extract the one job.
-    For digest emails: extract all job URLs found.
-    """
+    """Extract job listings from email body."""
     jobs = []
-    urls = extract_urls(body_html, body_text)
 
-    if not urls:
-        return jobs
+    JUNK_ANCHORS = {
+        'apply','view job','view jobs','view all jobs','view jobs in last 7 days',
+        '1-click apply','here','apply now','create','easy apply',
+        'show me more →','show me more','privacy policy','contact us',
+        'sign in','sign up','your profile','unsubscribe.','unsubscribe',
+        'manage job alerts','manage alerts','view all','see all jobs',
+        'manage my alerts','settings','terms','help center',
+        'download app','get the app','view on website','share your feedback',
+        'get more recommendations','job preferences','view job',
+    }
 
-    # Try to extract company/title from LinkedIn single-job alerts
-    # Subject format: '"Title" at Company - ...' or 'Title at Company posted on...'
-    linkedin_match = re.match(r'^["\u201c\u201d]?(.+?)["\u201c\u201d]?\s+at\s+(.+?)(?:\s*[-\u2013]|\s+posted)', subject)
+    JOB_WORDS = ['analyst', 'analytics', 'engineer', 'consultant', 'specialist',
+                 'scientist', 'coordinator', 'advisor', 'intelligence',
+                 'reporting', 'pricing', 'revenue', 'strategy analyst',
+                 'data analyst', 'business analyst', 'financial analyst',
+                 'operations analyst', 'marketing analyst', 'risk analyst',
+                 'fraud analyst', 'compliance analyst', 'actuarial',
+                 'business intelligence', 'data quality', 'procurement analyst',
+                 'logistics analyst', 'planning analyst', 'research analyst',
+                 'systems analyst', 'insights analyst', 'performance analyst']
 
-    if linkedin_match and len(urls) <= 3:
-        # Single job alert
-        title = linkedin_match.group(1).strip().strip('"')
-        company = linkedin_match.group(2).strip()
-        if not is_excluded(title) and urls[0]:
-            jobs.append({
-                'id': uid(),
-                'company': company,
-                'title': title,
-                'location': '',
-                'salary': '',
-                'url': urls[0],
-                'source': detect_source(urls[0]),
-                'status': 'New',
-                'viewed': False,
-                'dateAdded': datetime.now(timezone.utc).isoformat(),
-                'notes': ''
-            })
-    else:
-        # Digest — extract all job URLs with titles from anchor text
-        for url in urls[:30]:  # cap per email
-            # Method 1: Extract title from anchor text surrounding this URL
-            url_fragment = url.split('?')[0][-30:]  # use end of base URL as unique fragment
-            anchor_pattern = rf'<a[^>]*href=["\'][^"\']*{re.escape(url_fragment)}[^"\']*["\'][^>]*>(.*?)</a>'
-            anchor_match = re.search(anchor_pattern, body_html, re.IGNORECASE | re.DOTALL)
-            title = ''
-            if anchor_match:
-                title = re.sub(r'<[^>]+>', '', anchor_match.group(1)).strip()
-                title = re.sub(r'\s+', ' ', title).strip()
+    SKIP_URL = ['.png', '.jpg', '.gif', '.svg', '.ico', '.woff',
+                '/assets/', '/images/', 'unsubscribe', 'optout',
+                'mailto:', 'tel:', 'facebook.com', 'twitter.com',
+                'instagram.com', 'privacy-policy', 'terms-of-service',
+                'manage-preferences', 'fonts.googleapis', 'fonts.gstatic',
+                'email-preferences', '/account/login', '/account/settings',
+                'form.jotform', 'feedback', 'survey']
 
-            # Method 2: Extract from surrounding HTML context
-            if not title or len(title) < 5:
-                idx = body_html.find(url_fragment)
-                if idx > -1:
-                    context = body_html[max(0, idx-400):idx+300]
-                    clean = re.sub(r'<[^>]+>', ' ', context)
-                    clean = re.sub(r'\s+', ' ', clean).strip()
-                    title_match = re.search(
-                        r'([A-Z][A-Za-z\s,&\-/]{8,60}(?:Analyst|Analytics Engineer|Engineer|Specialist|Consultant|Developer|Scientist|Associate|Coordinator|Advisor))',
-                        clean
-                    )
-                    if title_match:
-                        title = title_match.group(1).strip()
+    # Step 1: Extract ALL (url, raw_inner_text) pairs from anchors
+    anchor_pairs = []
+    for m in re.finditer(r'<a\s([^>]+)>(.*?)</a>', body_html, re.DOTALL):
+        attrs, inner = m.group(1), m.group(2)
+        href_m = re.search(r'href=["\']([^"\'>]+)["\']', attrs)
+        if not href_m:
+            continue
+        href = href_m.group(1).rstrip('.,;)&').replace('&amp;', '&')
+        
+        # Decode Builtin AWS tracking URLs
+        if 'awstrack.me/L0/' in href:
+            try:
+                href = urllib.parse.unquote(href.split('/L0/')[1])
+            except Exception:
+                pass
 
-            # Method 3: LinkedIn numeric ID URLs — keep URL, generic title
-            if not title and 'linkedin.com/jobs/view/' in url:
-                title = 'Analyst Role'
-
-            if not title or len(title) < 5:
-                continue
-
-            if is_excluded(title):
-                continue
-
-            # Try to extract company from context
-            company = 'See posting'
-            idx = body_html.find(url_fragment)
-            if idx > -1:
-                context = body_html[max(0, idx-400):idx+400]
-                clean = re.sub(r'<[^>]+>', ' ', context)
-                clean = re.sub(r'\s+', ' ', clean).strip()
-                # Company often appears after the title
-                title_pos = clean.find(title[:20])
-                if title_pos > -1:
-                    after = clean[title_pos+len(title):title_pos+len(title)+100].strip()
-                    company_match = re.match(r'^[·\-–—]?\s*([A-Z][A-Za-z\s&,\.]+?)\s*[·\-–—|]', after)
-                    if company_match:
-                        company = company_match.group(1).strip()
-
-            jobs.append({
-                'id': uid(),
-                'company': company,
-                'title': title,
-                'location': '',
-                'salary': '',
-                'url': url,
-                'source': detect_source(url),
-                'status': 'New',
-                'viewed': False,
-                'dateAdded': datetime.now(timezone.utc).isoformat(),
-                'notes': ''
-            })
-
-    return jobs
-
-def read_github_file(token):
-    """Read current jsa_jobs.json from GitHub, return (data, sha)."""
-    req = urllib.request.Request(
-        GITHUB_API,
-        headers={
-            'Authorization': f'token {token}',
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'JSA-Scraper'
-        }
-    )
-    with urllib.request.urlopen(req) as r:
-        meta = json.loads(r.read())
-    sha = meta['sha']
-    content = base64.b64decode(meta['content']).decode('utf-8')
-    data = json.loads(content)
-    return data, sha
-
-def write_github_file(token, data, sha, message):
-    """Write updated data to GitHub."""
-    content = base64.b64encode(json.dumps(data, indent=2).encode('utf-8')).decode('utf-8')
-    body = json.dumps({'message': message, 'content': content, 'sha': sha}).encode('utf-8')
-    req = urllib.request.Request(
-        GITHUB_API,
-        data=body,
-        method='PUT',
-        headers={
-            'Authorization': f'token {token}',
-            'Content-Type': 'application/json',
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'JSA-Scraper'
-        }
-    )
-    with urllib.request.urlopen(req) as r:
-        result = json.loads(r.read())
-    return result['content']['sha']
-
-def dedup_key_url(j):
-    return j.get('url', '').strip().lower().rstrip('/')
-
-def dedup_key_alt(j):
-    return (j.get('company', '') + '|' + j.get('title', '')).lower().strip()
-
-def main():
-    print(f"JSA Scraper starting — {datetime.now(timezone.utc).isoformat()}")
-
-    github_token = os.environ.get('GITHUB_TOKEN')
-    if not github_token:
-        raise RuntimeError('GITHUB_TOKEN environment variable not set')
-
-    # Read current GitHub data
-    print("Reading current jsa_jobs.json from GitHub...")
-    current_data, sha = read_github_file(github_token)
-    existing_jobs = current_data.get('jobs', [])
-    dismissed_urls = set(current_data.get('dismissed', []))  # permanent blocklist
-    last_run = current_data.get('lastRun')
-    print(f"Current: {len(existing_jobs)} jobs, {len(dismissed_urls)} dismissed, lastRun: {last_run}")
-
-    # Build dedup sets — include dismissed URLs so they never return
-    existing_urls = set(dedup_key_url(j) for j in existing_jobs if j.get('url'))
-    existing_urls.update(u.lower().rstrip('/') for u in dismissed_urls)
-    existing_alts = set(dedup_key_alt(j) for j in existing_jobs)
-
-    # Connect to Gmail
-    print("Connecting to Gmail...")
-    gmail_service, creds = get_gmail_service()
-    label_id = get_or_create_label(gmail_service, JSA_LABEL)
-
-    # Calculate search date
-    if last_run:
-        since = datetime.fromisoformat(last_run.replace('Z', '+00:00')) - timedelta(days=LOOKBACK_DAYS)
-    else:
-        since = datetime.now(timezone.utc) - timedelta(days=30)
-    after_date = since.strftime('%Y/%m/%d')
-    print(f"Searching emails after: {after_date}")
-
-    # Collect all message IDs across all queries
-    all_message_ids = {}
-    for query in SEARCH_QUERIES:
-        full_query = f'{query} after:{after_date} -label:{JSA_LABEL}'
-        try:
-            result = gmail_service.users().messages().list(
-                userId='me', q=full_query, maxResults=100
-            ).execute()
-            messages = result.get('messages', [])
-            for m in messages:
-                all_message_ids[m['id']] = True
-            print(f"Query '{query[:40]}': {len(messages)} messages")
-        except Exception as e:
-            print(f"Query failed: {e}")
-
-    print(f"Total unique messages to process: {len(all_message_ids)}")
-
-    # Process each message
-    new_jobs = []
-    labeled_count = 0
-    excluded_count = 0
-    duped_count = 0
-
-    for msg_id in all_message_ids:
-        try:
-            msg = gmail_service.users().messages().get(
-                userId='me', id=msg_id, format='full'
-            ).execute()
-
-            # Get subject
-            headers = {h['name']: h['value'] for h in msg['payload'].get('headers', [])}
-            subject = headers.get('Subject', '')
-
-            # Decode body — get both HTML and plain text
-            body_html, body_text = decode_body(msg['payload'])
-
-            # Extract jobs
-            jobs = extract_jobs_from_email(body_html, body_text, subject)
-            # DEBUG: log what was found
-            raw_urls_html = re.findall(r'href=["\']([^"\']{10,})["\']', body_html, re.IGNORECASE)[:5]
-            raw_urls_text = re.findall(r'https?://[^\s]{10,}', body_text)[:5]
-            print(f'  MSG {msg_id[:8]}: subject={subject[:50]!r}, html={len(body_html)}b, text={len(body_text)}b, href_urls={len(raw_urls_html)}, text_urls={len(raw_urls_text)}, jobs_extracted={len(jobs)}')
-            if raw_urls_html: print(f'    Sample hrefs: {raw_urls_html[:2]}')
-
-            for j in jobs:
-                if is_excluded(j['title']):
-                    excluded_count += 1
-                    continue
-                if not j.get('url'):
-                    excluded_count += 1
-                    continue
-                # Salary floor check
-                salary_check = parse_salary(j.get('salary', ''))
-                if salary_check is False:
-                    excluded_count += 1
-                    continue
-                # Location filter
-                if not is_location_ok(j.get('location', '')):
-                    excluded_count += 1
-                    continue
-                url_key = dedup_key_url(j)
-                alt_key = dedup_key_alt(j)
-                if url_key in existing_urls or alt_key in existing_alts:
-                    duped_count += 1
-                    continue
-                new_jobs.append(j)
-                existing_urls.add(url_key)
-                existing_alts.add(alt_key)
-
-            # Label the thread
-            thread_id = msg.get('threadId')
-            if thread_id:
-                gmail_service.users().threads().modify(
-                    userId='me',
-                    id=thread_id,
-                    body={'addLabelIds': [label_id]}
-                ).execute()
-                labeled_count += 1
-
-        except Exception as e:
-            print(f"Error processing message {msg_id}: {e}")
+        if any(s in href.lower() for s in SKIP_URL):
             continue
 
-    print(f"\nResults:")
-    print(f"  New jobs found: {len(new_jobs)}")
-    print(f"  Excluded: {excluded_count}")
-    print(f"  Duplicates: {duped_count}")
-    print(f"  Threads labeled: {labeled_count}")
+        # Clean inner text
+        text = re.sub(r'<[^>]+>', ' ', inner)
+        text = text.replace('&amp;', '&').replace('&nbsp;', ' ').replace('&#39;', "\'")                   .replace('&#x2F;', '/').replace('&lt;', '<').replace('&gt;', '>')                   .replace('\u2605', '').replace('\u2192', '')
+        text = re.sub(r'\s+', ' ', text).strip()
 
-    if new_jobs:
-        # Write to GitHub
-        updated_data = {
-            'jobs': new_jobs + existing_jobs,
-            'outreach': current_data.get('outreach', []),
-            'dismissed': list(dismissed_urls),
-            'lastRun': datetime.now(timezone.utc).isoformat(),
-            'savedAt': datetime.now(timezone.utc).isoformat()
-        }
-        today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-        new_sha = write_github_file(
-            github_token, updated_data, sha,
-            f'JSA harvest {today}: {len(new_jobs)} new jobs'
-        )
-        print(f"  Written to GitHub. New SHA: {new_sha[:8]}")
-        print(f"  Total jobs now: {len(updated_data['jobs'])}")
-    else:
-        print("  No new jobs — GitHub file unchanged.")
+        anchor_pairs.append((href, text))
 
-    print(f"\nDone — {datetime.now(timezone.utc).isoformat()}")
+    # Step 2: For each job domain URL, find the best title
+    seen_urls = set()
+    seen_alts = set()
 
-if __name__ == '__main__':
-    main()
+    for href, text in anchor_pairs:
+        # Is this a job URL?
+        if not any(d in href for d in JOB_DOMAINS):
+            continue
+        
+        base = href.split('?')[0].lower().rstrip('/')
+        if base in seen_urls:
+            continue
+
+        title = ''
+        company = ''
+        salary = ''
+        location = ''
+
+        # Try the anchor text first
+        if text and len(text) > 4 and text.lower().strip('.→') not in JUNK_ANCHORS:
+            
+            # Glassdoor: "Company 4.0 ★ Title Location $Salary"
+            if 'glassdoor.com' in href:
+                # Remove company name and rating: "Company Name 4.0 ★ Title..."
+                # Remove rating numbers and star symbol
+                clean = re.sub(r'\d+\.\d+\s*[★\u2605]?\s*', '', text)
+                # If still has company prefix, find where title starts
+                for kw in ['Analyst','Engineer','Consultant','Specialist','Developer',
+                           'Scientist','Associate','Coordinator','Manager','Data ','Business ',
+                           'Financial ','Marketing ','Sales ','Research ','Strategy ']:
+                    ki = clean.find(kw)
+                    if ki > 0:
+                        clean = clean[ki:]
+                        break
+                # Split on location/salary (2+ spaces or city names)
+                parts = re.split(r'\s{2,}|\s+(?=Remote|Atlanta|Georgia|Florida|Texas|\$[0-9])', clean)
+                title = parts[0].strip()
+                if len(parts) > 1: location = parts[1].strip()
+                if len(parts) > 2: salary = parts[2].strip()
+
+            # Builtin: "CompanyNameJob Title..."
+            elif 'builtin.com' in href:
+                # Builtin packs "CompanyTitle Location Salary" 
+                # Company name is CamelCase with no space before title keyword
+                JOB_STARTS = ['Threat ','Risk ','Fraud ','Analyst','Engineer','Consultant',
+                              'Specialist','Developer','Scientist','Associate','Coordinator',
+                              'Manager','Advisor','Data ','Business ','Financial ',
+                              'Marketing ','Sales ','Operations ','Intelligence ',
+                              'Reporting ','Pricing ','Research ','Strategy ']
+                matched = False
+                for kw in JOB_STARTS:
+                    ki = text.find(kw)
+                    if ki > 0:
+                        company = text[:ki].strip()
+                        title = text[ki:].strip()
+                        # Remove location/salary from end of title
+                        title = re.split(r'\s+(Hybrid|Remote|In Office|USA|\$|\d{5})', title)[0].strip()
+                        matched = True
+                        break
+                if not matched:
+                    title = text
+
+            # ZipRecruiter, Monster, LinkedIn, Indeed: title is directly in anchor
+            else:
+                title = text
+
+        # If no title from anchor, try Monster-specific: find next title anchor
+        if not title or len(title) < 4:
+            if 'click.monster.com' in href or 'monster.com' in href:
+                # Monster puts title in a nearby anchor — scan next 5 anchor pairs
+                href_idx = next((i for i,(h,_) in enumerate(anchor_pairs) 
+                                 if h == href), None)
+                if href_idx is not None:
+                    for _h, next_text in anchor_pairs[href_idx+1:href_idx+6]:
+                        nt = next_text.strip()
+                        if (len(nt) > 8 
+                            and nt.lower() not in JUNK_ANCHORS
+                            and any(w in nt.lower() for w in JOB_WORDS)):
+                            title = nt
+                            break
+
+        # If still no title, try nearby HTML context
+        if not title or len(title) < 4:
+            idx = body_html.find(href[:50])
+            if idx > -1:
+                ctx = body_html[max(0,idx-400):idx+200]
+                ctx_clean = re.sub(r'<[^>]+>', ' ', ctx).replace('&nbsp;', ' ')
+                ctx_clean = re.sub(r'\s+', ' ', ctx_clean).strip()
+                tm = re.search(
+                    r'([A-Z][A-Za-z\s&,\-/]{8,60}(?:Analyst|Engineer|Consultant|Specialist|Developer|Scientist|Associate|Coordinator|Operations|Intelligence|Research|Advisor))',
+                    ctx_clean
+                )
+                if tm:
+                    title = tm.group(1).strip()
+
+        # Validate title
+        if not title or len(title) < 4:
+            continue
+        if title.lower().strip('.→') in JUNK_ANCHORS:
+            continue
+        if not any(w in title.lower() for w in JOB_WORDS):
+            continue
+        if is_excluded(title):
+            continue
+
+        # Dedup by title+company
+        alt_key = title.lower().strip()
+        if alt_key in seen_alts:
+            continue
+
+        seen_urls.add(base)
+        seen_alts.add(alt_key)
+
+        jobs.append({
+            'id': uid(),
+            'company': company or 'See posting',
+            'title': title,
+            'location': location,
+            'salary': salary,
+            'url': href,
+            'source': detect_source(href),
+            'status': 'New',
+            'viewed': False,
+            'dateAdded': datetime.now(timezone.utc).isoformat(),
+            'notes': ''
+        })
+
+    return jobs
