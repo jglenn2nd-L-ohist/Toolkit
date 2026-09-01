@@ -217,41 +217,38 @@ def get_or_create_label(service, label_name):
     return created['id']
 
 def decode_body(payload):
-    """Recursively extract both raw HTML and plain text from email payload.
-    Handles both base64 body data and quoted-printable content encoding."""
-    html = ''
-    text = ''
-    if payload.get('body', {}).get('data'):
-        try:
-            raw_bytes = base64.urlsafe_b64decode(payload['body']['data'])
-            # Check content-transfer-encoding header
-            headers = {h['name'].lower(): h['value'] for h in payload.get('headers', [])}
-            cte = headers.get('content-transfer-encoding', '').lower()
-            if 'quoted-printable' in cte:
-                raw = quopri.decodestring(raw_bytes).decode('utf-8', errors='replace')
-            else:
-                raw = raw_bytes.decode('utf-8', errors='replace')
-            # Also attempt QP decode if we see =3D patterns (common in email HTML)
-            if '=3D' in raw or '=2F' in raw:
-                try:
-                    raw = quopri.decodestring(raw_bytes).decode('utf-8', errors='replace')
-                except Exception:
-                    pass
-            mime = payload.get('mimeType', '')
-            if 'html' in mime:
-                html += raw
-            else:
-                text += raw
-        except Exception:
-            pass
-    for part in payload.get('parts', []):
+    """Extract all text content from Gmail API message payload.
+    Handles multipart, base64, and quoted-printable encoding."""
+    html_parts = []
+    text_parts = []
+    
+    def walk(part):
         mime = part.get('mimeType', '')
-        if mime in ('text/plain', 'text/html') or mime.startswith('multipart/'):
-            h, t = decode_body(part)
-            html += h
-            text += t
-    return html, text
-
+        body = part.get('body', {})
+        data = body.get('data', '')
+        
+        if data:
+            try:
+                raw_bytes = base64.urlsafe_b64decode(data + '==')  # pad for safety
+                # Always try QP decode — it's safe even on non-QP content
+                try:
+                    decoded = quopri.decodestring(raw_bytes).decode('utf-8', errors='replace')
+                except Exception:
+                    decoded = raw_bytes.decode('utf-8', errors='replace')
+                
+                if 'html' in mime:
+                    html_parts.append(decoded)
+                else:
+                    text_parts.append(decoded)
+            except Exception:
+                pass
+        
+        # Recurse into all parts regardless of mime type
+        for subpart in part.get('parts', []):
+            walk(subpart)
+    
+    walk(payload)
+    return ' '.join(html_parts), ' '.join(text_parts)
 def extract_jobs_from_email(body_html, body_text, subject):
     """
     Extract job listings from email body.
@@ -466,6 +463,11 @@ def main():
 
             # Extract jobs
             jobs = extract_jobs_from_email(body_html, body_text, subject)
+            # DEBUG: log what was found
+            raw_urls_html = re.findall(r'href=["\']([^"\']{10,})["\']', body_html, re.IGNORECASE)[:5]
+            raw_urls_text = re.findall(r'https?://[^\s]{10,}', body_text)[:5]
+            print(f'  MSG {msg_id[:8]}: subject={subject[:50]!r}, html={len(body_html)}b, text={len(body_text)}b, href_urls={len(raw_urls_html)}, text_urls={len(raw_urls_text)}, jobs_extracted={len(jobs)}')
+            if raw_urls_html: print(f'    Sample hrefs: {raw_urls_html[:2]}')
 
             for j in jobs:
                 if is_excluded(j['title']):
