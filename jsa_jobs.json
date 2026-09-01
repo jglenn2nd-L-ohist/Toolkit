@@ -66,19 +66,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f18015fc",
-      "company": "Global Payments Inc.",
-      "title": "Risk Analyst Specialist - Risk Intelligence",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4441478496/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180160d",
       "company": "RaceTrac",
       "title": "Actualization Analyst",
@@ -874,5 +861,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T00:19:39.728Z"
+  "savedAt": "2026-09-01T00:19:43.396Z"
 }
