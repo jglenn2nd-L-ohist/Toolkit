@@ -461,3 +461,131 @@ def extract_jobs_from_email(body_html, body_text, subject):
         })
 
     return jobs
+
+
+
+
+def main():
+    print(f"JSA Scraper starting — {datetime.now(timezone.utc).isoformat()}")
+
+    github_token = os.environ.get('JSA_GH_TOKEN') or os.environ.get('GITHUB_TOKEN')
+    if not github_token:
+        raise RuntimeError('JSA_GH_TOKEN environment variable not set')
+
+    # Read current GitHub data
+    print("Reading current jsa_jobs.json from GitHub...")
+    current_data, sha = read_github_file(github_token)
+    existing_jobs = current_data.get('jobs', [])
+    dismissed_urls = set(current_data.get('dismissed', []))
+    last_run = current_data.get('lastRun')
+    print(f"Current: {len(existing_jobs)} jobs, {len(dismissed_urls)} dismissed, lastRun: {last_run}")
+
+    # Build dedup sets
+    existing_urls = set(dedup_key_url(j) for j in existing_jobs if j.get('url'))
+    existing_urls.update(u.lower().rstrip('/') for u in dismissed_urls)
+    existing_alts = set(dedup_key_alt(j) for j in existing_jobs)
+
+    # Connect to Gmail
+    print("Connecting to Gmail...")
+    gmail_service, creds = get_gmail_service()
+    label_id = get_or_create_label(gmail_service, JSA_LABEL)
+
+    # Calculate search date
+    if last_run:
+        since = datetime.fromisoformat(last_run.replace('Z', '+00:00')) - timedelta(days=LOOKBACK_DAYS)
+    else:
+        since = datetime.now(timezone.utc) - timedelta(days=30)
+    after_date = since.strftime('%Y/%m/%d')
+    print(f"Searching emails after: {after_date}")
+
+    # Collect all message IDs across all queries
+    all_message_ids = {}
+    for query in SEARCH_QUERIES:
+        full_query = f'{query} after:{after_date} -label:{JSA_LABEL}'
+        try:
+            result = gmail_service.users().messages().list(
+                userId='me', q=full_query, maxResults=100
+            ).execute()
+            messages = result.get('messages', [])
+            for m in messages:
+                all_message_ids[m['id']] = True
+            print(f"Query '{query[:50]}': {len(messages)} messages")
+        except Exception as e:
+            print(f"Query failed: {e}")
+
+    print(f"Total unique messages to process: {len(all_message_ids)}")
+
+    # Process each message
+    new_jobs = []
+    labeled_count = 0
+    excluded_count = 0
+    duped_count = 0
+
+    for msg_id in all_message_ids:
+        try:
+            msg = gmail_service.users().messages().get(
+                userId='me', id=msg_id, format='full'
+            ).execute()
+
+            headers = {h['name']: h['value'] for h in msg['payload'].get('headers', [])}
+            subject = headers.get('Subject', '')
+
+            body_html, body_text = decode_body(msg['payload'])
+
+            jobs = extract_jobs_from_email(body_html, body_text, subject)
+
+            print(f"  MSG {msg_id[:8]}: subject={subject[:40]!r}, jobs_extracted={len(jobs)}")
+
+            for j in jobs:
+                url_key = dedup_key_url(j)
+                alt_key = dedup_key_alt(j)
+                if url_key in existing_urls or alt_key in existing_alts:
+                    duped_count += 1
+                    continue
+                new_jobs.append(j)
+                existing_urls.add(url_key)
+                existing_alts.add(alt_key)
+
+            # Label the thread
+            thread_id = msg.get('threadId')
+            if thread_id:
+                gmail_service.users().threads().modify(
+                    userId='me',
+                    id=thread_id,
+                    body={'addLabelIds': [label_id]}
+                ).execute()
+                labeled_count += 1
+
+        except Exception as e:
+            print(f"Error processing message {msg_id}: {e}")
+            continue
+
+    print(f"\nResults:")
+    print(f"  New jobs found: {len(new_jobs)}")
+    print(f"  Excluded: {excluded_count}")
+    print(f"  Duplicates: {duped_count}")
+    print(f"  Threads labeled: {labeled_count}")
+
+    if new_jobs:
+        updated_data = {
+            'jobs': new_jobs + existing_jobs,
+            'outreach': current_data.get('outreach', []),
+            'dismissed': list(dismissed_urls),
+            'lastRun': datetime.now(timezone.utc).isoformat(),
+            'savedAt': datetime.now(timezone.utc).isoformat()
+        }
+        today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+        new_sha = write_github_file(
+            github_token, updated_data, sha,
+            f'JSA harvest {today}: {len(new_jobs)} new jobs'
+        )
+        print(f"  Written to GitHub. New SHA: {new_sha[:8]}")
+        print(f"  Total jobs now: {len(updated_data['jobs'])}")
+    else:
+        print("  No new jobs — GitHub file unchanged.")
+
+    print(f"\nDone — {datetime.now(timezone.utc).isoformat()}")
+
+
+if __name__ == '__main__':
+    main()
