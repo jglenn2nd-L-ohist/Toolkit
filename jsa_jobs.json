@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "mti09bezhqdj",
+      "company": "Applied Research Institute",
+      "title": "Business Analyst",
+      "location": "Remote",
+      "salary": "100,000-120,000",
+      "url": "https://www.glassdoor.com/recruiter/job-view?matchId=f468a5dd-da7e-4869-9040-9489ce72ab4c&tab=APPLY_START&pos=101&ao=1136043&s=370&guid=000001a05a321df6b9fbb8c4e2988fdb&src=GD_JOB_AD&t=SM_REC_JOBS&vt=n&uido=0508DA602D78A665563ABA464D8E1595&ugo=a3bf5cf6-a965-42bb-bc1b-5d449afdf8a0&cs=1_5eac2563&cb=1788219629135&jobListingId=1010243021488&jrtk=5-yul1-3-1k1d347gm294ri00",
+      "source": "Glassdoor",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-09-01T01:45:23.723Z",
+      "notes": ""
+    },
+    {
       "id": "1a059aa0d83akYC",
       "company": "See posting",
       "title": "Data Solutions Specialist",
@@ -575,5 +588,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:43:07.907Z"
+  "savedAt": "2026-09-01T01:45:23.723Z"
 }
