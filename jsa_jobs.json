@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "id": "mti119nb229e",
+      "company": "Endava",
+      "title": "Product Operations Analyst",
+      "location": "Remote",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/Endava/744000146066119-product-operations-analyst-",
+      "source": "Glassdoor",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-09-01T02:07:07.799Z",
+      "notes": ""
+    },
+    {
       "id": "mti09bezhqdj",
       "company": "Applied Research Institute",
       "title": "Business Analyst",
@@ -588,5 +601,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:45:28.439Z"
+  "savedAt": "2026-09-01T02:07:07.799Z"
 }
