@@ -92,19 +92,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f180373c",
-      "company": "CharterUP",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4440556864/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180384d",
       "company": "Boston Consulting Group (BCG)",
       "title": "Financial Analyst",
@@ -705,5 +692,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:38:44.468Z"
+  "savedAt": "2026-09-01T01:38:53.336Z"
 }
