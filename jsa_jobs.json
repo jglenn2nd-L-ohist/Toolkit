@@ -22,7 +22,7 @@
       "url": "https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FPE1EfpyQmi5aYEgHPq4dQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-01T15:01:07.432771+00:00",
       "notes": ""
     },
@@ -848,5 +848,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-09-01T15:01:16.944956+00:00",
-  "savedAt": "2026-09-01T15:25:15.863Z"
+  "savedAt": "2026-09-01T15:25:27.931Z"
 }
