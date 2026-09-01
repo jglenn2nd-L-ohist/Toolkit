@@ -79,19 +79,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f180261b",
-      "company": "Calero",
-      "title": "Audit Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4458960497/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a06f180272c",
       "company": "Dealstitch AI",
       "title": "Data Analyst II",
@@ -796,5 +783,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:06:53.378Z"
+  "savedAt": "2026-09-01T01:07:10.768Z"
 }
