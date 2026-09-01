@@ -8,8 +8,8 @@
       "salary": "",
       "url": "https://jobs.smartrecruiters.com/Endava/744000146066119-product-operations-analyst-",
       "source": "Glassdoor",
-      "status": "New",
-      "viewed": false,
+      "status": "Applied",
+      "viewed": true,
       "dateAdded": "2026-09-01T02:07:07.799Z",
       "notes": ""
     },
@@ -601,5 +601,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T02:07:07.799Z"
+  "savedAt": "2026-09-01T02:07:12.726Z"
 }
