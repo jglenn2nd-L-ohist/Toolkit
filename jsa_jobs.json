@@ -92,45 +92,6 @@
       "notes": ""
     },
     {
-      "id": "1a06f180316a",
-      "company": "Transfr",
-      "title": "Revenue Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4430715597/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
-      "id": "1a06f180327b",
-      "company": "Truist",
-      "title": "Process Analyst II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4458542914/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
-      "id": "1a06f180338c",
-      "company": "Bridgepointe Technologies",
-      "title": "Commissions Analyst I",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4453049029/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-08-31T12:00:00.000Z",
-      "notes": ""
-    },
-    {
       "id": "1a04013jsg",
       "company": "James Search Group",
       "title": "Data Analyst",
@@ -614,5 +575,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-08-31T21:11:52.964946+00:00",
-  "savedAt": "2026-09-01T01:42:34.236Z"
+  "savedAt": "2026-09-01T01:43:07.907Z"
 }
