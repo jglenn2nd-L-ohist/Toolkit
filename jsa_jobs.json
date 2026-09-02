@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0633337e5kcW1",
-      "company": "See posting",
-      "title": "Data Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4460077118/?trackingId=je1%2FxBAFh%2BT0GekgDevBng%3D%3D&refId-gWbC8bA%2Bjk246LxIxUJw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Ba0PoFqguRfaz4362WKs%2F4w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1u21-iKK3WPso1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4460077118_ssid_8367968258_fmid_q9jfse~mtka13tk~84&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4460077118_ssid_8367968258_fmid_q9jfse~mtka13tk~84-null-q9jfse~mtka13tk~84-null-null&eid=q9jfse-mtka13tk-84&otpToken=NTRhMmEwNzEzZTg1Y2Y5MjA3NGRmMzM2NDdlYjc5NjFmYzk1YWI2ZDQxYTRiMTdlYmQ3N2NhOTU2NzUwYzA5YzY2MzJiMDc1OWExZmM2NWFiNjg1OTY0OGU2ODlmODdjNjVkNTdiZTk1ZTY4N2Y0ZWUyYWMzYjRlNGIxZGIwNDg0NTZmMjBlZjg4ZjA4M2IzZWYsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-02T17:38:16.165734+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0633337e5prSj",
       "company": "See posting",
       "title": "Supply Chain Operations Analyst",
@@ -745,5 +732,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-02T17:38:17.078712+00:00",
-  "savedAt": "2026-09-02T17:44:25.324Z"
+  "savedAt": "2026-09-02T17:44:40.156Z"
 }
