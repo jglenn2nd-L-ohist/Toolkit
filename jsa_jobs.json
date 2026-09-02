@@ -22,7 +22,7 @@
       "url": "https://www.linkedin.com/comm/jobs/search-results/?keywords=Business+Strategy+Analyst&geoId\u00103644278&origin=BYV_JOB_TITLE_JOBS_EMAIL&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_viewed_job_reminder_01%3BDI87PsyKSNCtP3OFP4WAJQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1KfK3vqlMaPso1&trk=eml-email_jobs_viewed_job_reminder_01-null-0-null&trkEmail=eml-email_jobs_viewed_job_reminder_01-null-0-null-null-q9jfse~mtk1gghz~a-null-null&eid=q9jfse-mtk1gghz-a&otpToken=ZDAzMjJkYzlmNGUzNmMxYzUwMDUyNDZlYjVlOWQ3NzFlN2RlZDczMWM3YmNkNTY4YjQyYjc1ZjA5YmRjMDAzZGVjMmIzZjhiMmFiOTYwODFjNzdkN2QwYzllZDkxYjdmZTFhM2ZiZTJmNTA0NDkwZWY1NjM3M2I4MTMzMDJlYmM0MjNhYjEzOWJhMDlmODVlZmEsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-02T14:37:46.255159+00:00",
       "notes": ""
     },
@@ -1394,5 +1394,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-09-02T14:37:57.888270+00:00",
-  "savedAt": "2026-09-02T14:57:29.784Z"
+  "savedAt": "2026-09-02T14:57:32.264Z"
 }
