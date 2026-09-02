@@ -207,6 +207,12 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       <button class="btn btn-sm" onclick="batchApplied()">Mark Applied</button>
       <button class="btn btn-sm" style="margin-left:auto" onclick="clearSelection()">Clear</button>
     </div>
+    <div style="text-align:right;margin-bottom:6px">
+      <button class="btn btn-sm" id="restore-btn" style="display:none;border-color:var(--amber);color:var(--amber)" onclick="restoreLastRemoved()">↩ Restore last removed</button>
+    </div>
+    <div style="display:flex;justify-content:flex-end;margin-bottom:6px">
+      <button class="btn btn-sm" id="restore-btn" style="display:none;border-color:var(--amber);color:var(--amber)" onclick="restoreLastRemoved()">↩ Restore last removed</button>
+    </div>
     <div class="job-list" id="job-list">
       <div class="empty"><div class="empty-ico">◈</div><div class="empty-title">No jobs yet</div><div class="empty-sub">Set your GitHub token in Settings to load data.</div></div>
     </div>
@@ -358,10 +364,12 @@ function dedupKey(j) { return (j.url||'').trim().toLowerCase().replace(/[?#].*$/
 function dedupKeyAlt(j) { return ((j.company||'')+'|'+(j.title||'')).toLowerCase().trim(); }
 
 // ── STATE ─────────────────────────────────────────────────
-let jobs     = [];
-let outreach = [];
-let lastRun  = null;
-let fileSha  = null; // GitHub file SHA for updates
+let jobs      = [];
+let outreach  = [];
+let lastRun   = null;
+let fileSha   = null;
+let dismissed = [];
+let lastRemoved = null;
 let selectedIds = new Set();
 
 // ── GITHUB AUTH ───────────────────────────────────────────
@@ -413,9 +421,10 @@ async function loadFromGitHub(showToast) {
     const r = await fetch(GITHUB_RAW + '?t=' + Date.now());
     if (!r.ok) throw new Error('Fetch failed: ' + r.status);
     const parsed = await r.json();
-    jobs     = Array.isArray(parsed.jobs) ? parsed.jobs : [];
-    outreach = Array.isArray(parsed.outreach) ? parsed.outreach : [];
-    lastRun  = parsed.lastRun || null;
+    jobs      = Array.isArray(parsed.jobs) ? parsed.jobs : [];
+    outreach  = Array.isArray(parsed.outreach) ? parsed.outreach : [];
+    dismissed = Array.isArray(parsed.dismissed) ? parsed.dismissed : [];
+    lastRun   = parsed.lastRun || null;
     // Get SHA for subsequent writes
     await fetchSha();
     applyExclusions();
@@ -441,7 +450,7 @@ async function saveToGitHub() {
   if (!t) { showSaveInd('No token — go to Settings', true); return; }
   if (!fileSha) { await fetchSha(); }
   const content = btoa(unescape(encodeURIComponent(
-    JSON.stringify({ jobs, outreach, lastRun, savedAt: new Date().toISOString() }, null, 2)
+    JSON.stringify({ jobs, outreach, dismissed, lastRun, savedAt: new Date().toISOString() }, null, 2)
   )));
   try {
     const body = { message: 'JSA update ' + new Date().toISOString().slice(0,10), content, sha: fileSha };
