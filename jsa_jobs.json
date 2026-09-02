@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0628df298G2zw",
-      "company": "See posting",
-      "title": "Business Intelligence Manager - Manheim Client Consulting",
-      "location": "",
-      "salary": "",
-      "url": "http://click.monster.com/f/a/kG3MV-HgInC6D6IRjDCPMQ~~/AAAAARA~/WIdRAIdfCM2aX8f1P5lcoPt0GcNzPZaWr0cryiyl4fdJtEeBS0sbaDn3g94Ba5n9Am-O4eoO2EuHBdn46AMO-6Uoz_zEHU77yW2wWNpDQX26PuF5l_5_zmGjgMIADALlknVZ6D2uwJkiGBpf4e1MOfwAVkWLZsBnhIJ51rv4v72-36jhlYd2EUwJu8k4XAxu-jeVH7RxGYnfHeNjghiHukkQJpsXnlxEPy5bbjj7suhCYdr-aOCDXKE9eL6E_PhkgA0GCnNVTGT0Geqx1ZOHBz7ra1lw5TyIoAs_S32q05c~",
-      "source": "Monster",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-02T14:37:44.984398+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0628df2986oMS",
       "company": "See posting",
       "title": "Forward Deployed Engineer",
@@ -1550,5 +1537,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-09-02T14:37:57.888270+00:00",
-  "savedAt": "2026-09-02T14:45:33.806Z"
+  "savedAt": "2026-09-02T14:49:37.567Z"
 }
