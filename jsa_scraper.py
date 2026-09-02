@@ -167,6 +167,29 @@ def detect_source(url):
 def uid():
     return hex(int(time.time() * 1000))[2:] + base64.urlsafe_b64encode(os.urandom(3)).decode()[:4]
 
+def fetch_linkedin_company(url):
+    """Fetch company name from LinkedIn job posting via public API."""
+    try:
+        job_id_match = re.search(r'/jobs/view/(\d+)', url)
+        if not job_id_match:
+            return ''
+        job_id = job_id_match.group(1)
+        api_url = f'https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}'
+        req = urllib.request.Request(api_url, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'text/html,application/xhtml+xml',
+        })
+        with urllib.request.urlopen(req, timeout=8) as r:
+            html = r.read().decode('utf-8', errors='replace')
+        co_match = re.search(r'class="topcard__org-name-link[^"]*"[^>]*>\s*([^<]+)', html)
+        if not co_match:
+            co_match = re.search(r'"companyName"\s*:\s*"([^"]+)"', html)
+        if co_match:
+            return co_match.group(1).strip()
+    except Exception:
+        pass
+    return 
+
 def dedup_url(j):
     return j.get('url', '').strip().lower().rstrip('/')
 
@@ -486,6 +509,14 @@ def main():
     print(f"  New jobs: {len(new_jobs)}")
     print(f"  Duplicates: {duped}")
     print(f"  Labeled: {labeled}")
+
+    # Enrich LinkedIn jobs missing company name
+    for j in new_jobs:
+        if j.get('company') in ('', 'See posting') and 'linkedin.com' in j.get('url', ''):
+            co = fetch_linkedin_company(j['url'])
+            if co:
+                j['company'] = co
+                print(f"  Enriched: {j['title']} → {co}")
 
     if new_jobs:
         updated = {
