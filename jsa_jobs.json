@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0628df298-EDF",
-      "company": "See posting",
-      "title": "Fiscal Policy Analyst 1",
-      "location": "",
-      "salary": "",
-      "url": "http://click.monster.com/f/a/ueCaVN2dZ2lzUFaKtltgtQ~~/AAAAARA~/OVzDca400aWC5XfE5qKwRkhigrJVZnTkBNHfw9pENWuyTUQ-bjSdciPeG_1Q-L7TizHZf_8Id1UVnOUZ1hBHB0V-fOlZhKIHQgmf4a9t9ScliMHwN6nphvaSPtjiSNtEkOLFKgm7x2xrLVjS3ry6_gskRR2FZlb06DVIyH9m2rw_iMa_EWbnqwE1xiJIHABQwfe4DlgspHpamNuLhIqBV6aUNY_aoX1TFUw-q6w7Fx-qTmL088QLEiIWvs9S8dZAXqrCASjgjhNH3kc7i2d8FTloUtNWEYoCWBeWT4zDyD671tHizz4uq262jYTkFGxSKkuTG3ZvRHRrPWmpGbc6fvis5qou8T4HTjzIjSi4LYX-6Cah_8WuCrhpzLs-AtVG-Rq1xY_xtaYwUuz032jmqULFe2UlamGZc17k7hkMFu74hDYDKjkLk4UDnEGvm4lYIPv8bOPojxKhp4yFb_DvlMv3Ytx8k_KB5i6X1W15JQdUoGePqZYNAEZmLrCkatveQEmpj5xqdKoZXeSda2NkUJ4-kPFRLFe98rgPh2xDjOLdJl55EXQGMZ0bY0Wdr0f2veGiFHyM6Iyh60L1rLdbt4jdPZNl8sPTWBjVkLcbg8-5HZoMDDibl2eNq5ectdTfEUAv3Kdf9qNLYHWhMCQDuwLsr0z8Z3DziJRg67d3PAnVm6rTNhckUaOnFiKVbKtyXnr43jFaJTAaPBJmVqZ-3w~~",
-      "source": "Monster",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-02T14:37:44.984530+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0628df2988PaJ",
       "company": "See posting",
       "title": "Program Analyst III",
@@ -22,7 +9,7 @@
       "url": "http://click.monster.com/f/a/9Sve_pY6J48SxkyR-fy8Ng~~/AAAAARA~/l6QKkrrhxTe-cikPf2a7sKehCOl2LwNYSWOPt1Bf3pSsviyBB2Kx37pn9J24O2hLDGFEur54jAhZGkmk_LdDM_cQrxH2-dJg7qC3bbsp3eI9kaE7Wv1xac_gB7UlyoO5bGgnQRcY49dizQXumENNFlPMlgJ9jOf0CxBO5Kizxd9d_XVVqgj_v99M7FjvxjjIX70xvCJGwiXRjZb8ISJt3QpxX_TBjfLHoNlX2LM_hFEOGLQulCHgMd_pfnxxbFU9gIleSyDUdEJJVD8XHRNW41gaFqqjjDK6Apaczr4RJ0xPil0MtVfuTDYJiyWYyKoR_FIS03oI5Pgo7RRGbjwKL9NLEJtngDbCEOcLLXsxoqbp5Fxd9boqB3iKxfu0L-amgHhik38GZSY1ipqWU09tMdYa7taTANjevRdOUchOHiznSW4fmXPDYuC7CiTuity5dDJTpnOby9xa8KyGTScZGmiipjCAByp6qgA4sjijrVRtpbVUDcfud1XZLbD6Ey3QIQBRR635VXGeO3TWN3ODd0tfFyNnPi1VbXOklZ26Sodzy-Wy1lpAynPRMxpTXUKalgQ4J0ZsUhdf7uxZ9HH02EYbPD8gcq7zwH88ZuWAyKK94g8xq-Y0AAYjXynegHBlvUJXONOEKPjRjHY1m15t7YT4uHTAEwmzpbyGlhhiyhODsaETk8sa3zRev7YPTiuHhgsS9Ij3bfMnN0tuIs1XEA~~",
       "source": "Monster",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-02T14:37:44.984552+00:00",
       "notes": ""
     },
@@ -1498,5 +1485,5 @@
   ],
   "outreach": [],
   "lastRun": "2026-09-02T14:37:57.888270+00:00",
-  "savedAt": "2026-09-02T14:50:43.402Z"
+  "savedAt": "2026-09-02T14:50:52.304Z"
 }
