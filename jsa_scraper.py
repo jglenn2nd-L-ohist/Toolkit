@@ -191,7 +191,12 @@ def fetch_linkedin_company(url):
     return 
 
 def dedup_url(j):
-    return j.get('url', '').strip().lower().rstrip('/')
+    url = j.get('url', '').strip().lower().rstrip('/')
+    # Normalize LinkedIn URLs: comm/jobs/view/ID and jobs/view/ID are the same job
+    m = re.search(r'/jobs/view/(\d+)', url)
+    if m:
+        return f'linkedin.com/jobs/view/{m.group(1)}'
+    return url.split('?')[0]
 
 def dedup_alt(j):
     return (j.get('company', '') + '|' + j.get('title', '')).lower().strip()
