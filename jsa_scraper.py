@@ -17,7 +17,7 @@ GITHUB_REPO = 'jglenn2nd-L-ohist/Toolkit'
 GITHUB_FILE = 'jsa_jobs.json'
 GITHUB_API  = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}'
 JSA_LABEL   = 'JSA-Reviewed'
-LOOKBACK_DAYS = 3
+LOOKBACK_DAYS = 1
 
 JOB_DOMAINS = [
     'linkedin.com/jobs', 'linkedin.com/comm/jobs',
