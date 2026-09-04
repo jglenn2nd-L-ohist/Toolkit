@@ -17,7 +17,6 @@ GITHUB_REPO = 'jglenn2nd-L-ohist/Toolkit'
 GITHUB_FILE = 'jsa_jobs.json'
 GITHUB_API  = f'https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}'
 JSA_LABEL   = 'JSA-Reviewed'
-LOOKBACK_DAYS = 1
 
 JOB_DOMAINS = [
     'linkedin.com/jobs', 'linkedin.com/comm/jobs',
@@ -454,7 +453,7 @@ def main():
     label_id = get_or_create_label(gmail_service, JSA_LABEL)
 
     if last_run:
-        since = datetime.fromisoformat(last_run.replace('Z', '+00:00')) - timedelta(days=LOOKBACK_DAYS)
+        since = datetime.fromisoformat(last_run.replace('Z', '+00:00'))
     else:
         since = datetime.now(timezone.utc) - timedelta(days=30)
     after_date = since.strftime('%Y/%m/%d')
