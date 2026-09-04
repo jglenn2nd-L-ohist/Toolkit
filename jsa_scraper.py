@@ -137,17 +137,12 @@ SEARCH_QUERIES = [
     'subject:"data analyst" (job OR hiring OR apply OR alert)',
     'subject:"business analyst" (job OR hiring OR apply OR alert)',
     'subject:"operations analyst" (job OR alert)',
-    'from:jobalerts-noreply@linkedin.com',
-    'from:jobalerts@linkedin.com',
-    'from:noreply@glassdoor.com',
-    'from:noreply@ziprecruiter.com',
-    'from:support@builtin.com',
-    'from:noreply@aquent.com',
-    'from:monster@notifications.monster.com',
-    'from:jobnotifications',
-    'subject:"job matches"',
-    'subject:"recommended jobs"',
+    'subject:"analyst job matches"',
+    'subject:"job matches" analyst',
     'subject:"apply now" analyst',
+    'subject:"new jobs" data',
+    'subject:"analyst" (atlanta OR georgia OR remote OR hybrid)',
+    'subject:"analyst" hiring',
 ]
 
 # ── HELPERS ───────────────────────────────────────────────
