@@ -314,29 +314,34 @@ def extract_jobs_from_email(body_html, body_text, subject):
         if text and len(text) > 4 and tl not in JUNK_ANCHORS and not tl.startswith('your job alert for'):
 
             if 'glassdoor.com' in href:
-                clean = re.sub(r'\d+\.\d+\s*[★\u2605]?\s*', '', text)
-                # Extract salary if present
-                salary_split = re.split(r'\s+(\$[\d,K\-]+)', clean)
-                if len(salary_split) > 1:
-                    salary = salary_split[1].strip()
-                    clean = salary_split[0].strip()
-                # Find where title starts (strip company prefix)
-                for kw in ['Analyst','Engineer','Consultant','Specialist','Developer',
-                           'Scientist','Associate','Data ','Business ','Financial ']:
-                    ki = clean.find(kw)
-                    if ki > 0:
-                        clean = clean[ki:]
-                        break
-                # Extract trailing "City, ST" or "City ST" pattern as location
-                # But don't cut into the job title itself
-                loc_pattern = re.search(r'\s+([A-Za-z\s]+,\s*[A-Z]{2}|Long Island[\w\-\s]*)$', clean)
-                if loc_pattern:
-                    potential_loc = loc_pattern.group(1).strip()
-                    # Only treat as location if it's not part of the title
-                    if not any(w in potential_loc.lower() for w in ['analyst','engineer','consultant','specialist']):
-                        location = potential_loc
-                        clean = clean[:loc_pattern.start()].strip()
-                title = clean.strip()
+                # Split on star rating to remove company prefix
+                if '★' in text or '\u2605' in text:
+                    _parts = re.split(r'[★\u2605]\s*', text, maxsplit=1)
+                    _after = _parts[1] if len(_parts) > 1 else text
+                else:
+                    _after = text
+                # Strip "and X more jobs"
+                _after = re.sub(r'\s+and\s+\d+\s+more.*$', '', _after, flags=re.IGNORECASE).strip()
+                # Strip salary
+                _sal_m = re.search(r'\s+(\$[\d,K\.\-]+(?:\s*[-–]\s*\$[\d,K\.]+)?)', _after)
+                if _sal_m:
+                    salary = _sal_m.group(1).strip()
+                    _after = _after[:_sal_m.start()].strip()
+                # Strip Remote/Hybrid
+                _after = re.sub(r'\s+(?:Remote|Hybrid)$', '', _after, flags=re.IGNORECASE).strip()
+                # Strip trailing city/state: find ", XX" at end and remove preceding city word
+                _st_m = re.search(r',\s*(GA|FL|TX|NC|SC|LA|AL|NY|CA|IL|OH|PA|MA|CO|WA|MN|WI|MO|KY|IN|OK|KS|NE|IA|UT|AZ|NV|ID|MT|ND|SD|WY|NM|AK|HI|ME|VT|NH|RI|CT|DE|MD|DC|NJ|VA|MI|TN)$', _after)
+                if _st_m:
+                    _before = _after[:_st_m.start()]
+                    _city_m = re.search(r'\s+\S+$', _before)
+                    if _city_m:
+                        _city = _city_m.group().strip()
+                        _job_wds = ['analyst','engineer','consultant','data','business',
+                                    'financial','operations','marketing','intelligence',
+                                    'systems','solutions','revenue','strategy','pricing']
+                        if not any(w in _city.lower() for w in _job_wds):
+                            _after = _before[:_city_m.start()].strip()
+                title = _after.strip()
 
             elif 'builtin.com' in href:
                 for kw in ['Threat ','Risk ','Fraud ','Analyst','Engineer','Consultant',
