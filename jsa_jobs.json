@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a06a7aafc0lOzv",
-      "company": "See posting",
-      "title": "Textron 3.7 2027 Business Analyst",
-      "location": "",
-      "salary": "$76K - $105K",
-      "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00101&ao\u001136043&s",
-      "source": "Glassdoor",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-04T03:33:40.416380+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a06a7ac8b4ouh3",
       "company": "Globe Life",
       "title": "Data Analyst I (Remote)",
@@ -966,5 +953,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-04T03:33:52.893623+00:00",
-  "savedAt": "2026-09-04T03:40:51.237Z"
+  "savedAt": "2026-09-04T03:41:06.001Z"
 }
