@@ -9,7 +9,7 @@
       "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00101&ao\u001136043&s",
       "source": "Glassdoor",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-04T16:46:07.113759+00:00",
       "notes": ""
     },
@@ -979,5 +979,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-04T16:46:15.836703+00:00",
-  "savedAt": "2026-09-07T14:13:10.570Z"
+  "savedAt": "2026-09-07T14:13:13.498Z"
 }
