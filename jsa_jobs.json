@@ -1,19 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a06d503109ziHP",
-      "company": "See posting",
-      "title": "Bristol Myers Squibb 3.7 Discovery Research Domain Analyst, IT Business Analyst",
-      "location": "",
-      "salary": "$76K - $101K",
-      "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00101&ao\u001136043&s",
-      "source": "Glassdoor",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-04T16:46:07.113759+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a06d503f6aNXWv",
       "company": "KPI Solutions",
       "title": "Supply Chain Data Analyst",
@@ -979,5 +966,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-04T16:46:15.836703+00:00",
-  "savedAt": "2026-09-07T14:13:13.498Z"
+  "savedAt": "2026-09-07T14:13:34.301Z"
 }
