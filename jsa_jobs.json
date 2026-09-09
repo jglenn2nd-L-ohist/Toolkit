@@ -87,7 +87,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4396326529/?trackingId=d%2FSKhF1VEbRTtvo6%2BsNSSQ%3D%3D&refId=Zax3kYgy6RZ61shNcsTdUw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3ByWeBzJzuS3mLYe1%2FxJiiZg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2_6utd3RKaYIo1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4396326529_ssid_8797982178_fmid_q9jfse~mttke5lk~ch&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4396326529_ssid_8797982178_fmid_q9jfse~mttke5lk~ch-null-q9jfse~mttke5lk~ch-null-null&eid=q9jfse-mttke5lk-ch&otpToken=YTdjYWFhNzk1ODc1ZGI1ZGVjOWM4ZTJlNzU4ZmQ4OTlkYzA5ZDA0YjA0ZDUzMDYyN2YyODg4MzVkMWNhOTZhOTFhM2JmNzRkNWU2YzFjOTdmN2RmODRmMzRiYjQ2ZGZjOWNmZjJmNWRiNDg1YjU1MGFkOWU1Y2Q0NmQzN2RhNzc2NTdjOWE3MDA1ZWI0NDAwYTQsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-09T17:04:00.578714+00:00",
       "notes": ""
     },
@@ -100,7 +100,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4464343299/?trackingId=ExbiIkV%2B366xRFwAcWLrbQ%3D%3D&refId=o7oVs%2BavsANvp%2Bj%2FIYfCWg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BJeKE5%2Fr5QVSYQRZ5Lx7rWQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2sAIiTlZaqYso1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4464343299_ssid_8352402866_fmid_q9jfse~mttbti86~6n&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4464343299_ssid_8352402866_fmid_q9jfse~mttbti86~6n-null-q9jfse~mttbti86~6n-null-null&eid=q9jfse-mttbti86-6n&otpToken=MGM4NzliNjhhNjJkYjY3YzEzZDAzOWJmMGZlOTJiYzFlYWE5NGMyMTU2NWVmMGU2NDBlOTAwZjI0MWI5M2QyZTNiODIwNzRmZWZlY2YyOWY4MjQ5NzkxZjkwMDYyY2JkN2NlMzA0ZTk4MGQ0MWVhODVjOTllY2Q5NzNjNzNlYjA0ZDJkZDQ2YzgwNDBkODcyNjcsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-09T17:04:01.645893+00:00",
       "notes": ""
     },
@@ -966,5 +966,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-09T17:44:20.800Z"
+  "savedAt": "2026-09-09T17:46:01.584Z"
 }
