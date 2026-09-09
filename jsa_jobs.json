@@ -40,19 +40,6 @@
       "notes": ""
     },
     {
-      "id": "1a084a81743wF9Y",
-      "company": "Salesforce",
-      "title": "Financial Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464918928/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T05:33:23.651709+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a084a820b9zAkX",
       "company": "Georgia Institute of Technology",
       "title": "Financial Analyst (Advanced Professional)",
@@ -1473,5 +1460,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-08T18:03:11.944407+00:00",
-  "savedAt": "2026-09-09T14:19:15.637Z"
+  "savedAt": "2026-09-09T14:19:45.480Z"
 }
