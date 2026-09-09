@@ -53,19 +53,6 @@
       "notes": ""
     },
     {
-      "id": "1a0849d7e55kPbt",
-      "company": "Affirm",
-      "title": "Revenue Operations Analyst II",
-      "location": "Remote US",
-      "salary": "",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7871460003",
-      "source": "Greenhouse",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:21:49.141446+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a07d0f0591rhFr",
       "company": "The Home Depot",
       "title": "Data Analyst - Speed to Customer",
@@ -927,5 +914,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-08T18:03:11.944407+00:00",
-  "savedAt": "2026-09-09T14:36:04.923Z"
+  "savedAt": "2026-09-09T14:36:32.396Z"
 }
