@@ -1,71 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a084a626d6ZKCN",
-      "company": "ExamWorks",
-      "title": "Business Data Analyst (32706)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464905265/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:31:16.566656+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a084a654cfaEs2",
-      "company": "RaceTrac",
-      "title": "Business Intelligence &amp; Systems Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4452294815/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:31:28.335456+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a084a669375XXK",
-      "company": "Lattice Semiconductor",
-      "title": "Sales Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464692064/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:31:33.559368+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a084a679a5CFrY",
-      "company": "INABA FOODS (USA), INC.",
-      "title": "Sales Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459248743/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:31:37.765243+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a084a68819f1c2",
-      "company": "Koch",
-      "title": "Real Estate Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462564265/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T05:31:41.465198+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a084a69a008JaB",
       "company": "NFI",
       "title": "CES Operations Analyst",
@@ -1642,5 +1577,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-08T18:03:11.944407+00:00",
-  "savedAt": "2026-09-09T14:04:22.845Z"
+  "savedAt": "2026-09-09T14:06:48.464Z"
 }
