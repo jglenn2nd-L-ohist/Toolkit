@@ -289,20 +289,6 @@
       ]
     },
     {
-      "id": "1a0884865bd9Jth",
-      "company": "Amazon",
-      "title": "Business Analyst III - AMZ27093.1",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455796107/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-09T22:27:21.149122+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088488cb8pmNB",
       "company": "Osaic",
       "title": "Data &amp; Customer Insights Analyst, Client Experience",
@@ -436,20 +422,6 @@
       "flags": []
     },
     {
-      "id": "1a088498c43hbeV",
-      "company": "Affirm",
-      "title": "Revenue Operations Analyst II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454793312/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:28:36.547215+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088499646cPdo",
       "company": "NFI",
       "title": "CES Operations Analyst",
@@ -477,20 +449,6 @@
       "status": "New",
       "viewed": false,
       "dateAdded": "2026-09-09T22:28:48.422859+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a08849d5d6vddS",
-      "company": "Integrated Resources, Inc ( IRI )",
-      "title": "Finance Sales Operations Analyst 2",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464910088/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:28:55.382968+00:00",
       "notes": "",
       "flags": []
     },
@@ -676,20 +634,6 @@
       "status": "New",
       "viewed": false,
       "dateAdded": "2026-09-09T22:32:56.062091+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a0884d8a36h8Dx",
-      "company": "Scalian",
-      "title": "Data Analyst F/H – Défense",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465061803/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:32:58.166212+00:00",
       "notes": "",
       "flags": []
     },
@@ -950,34 +894,6 @@
       "flags": []
     },
     {
-      "id": "1a0884edfbfH37E",
-      "company": "Lam Research",
-      "title": "Business Operations Analyst 2",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463879380/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:34:25.599325+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a0884eef95mUJV",
-      "company": "Conduent",
-      "title": "Business Operations Analyst II",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464982756/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:34:29.653110+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a0884ef5e0Ev0Q",
       "company": "Texas Instruments",
       "title": "Operations Analyst",
@@ -1072,20 +988,6 @@
       "status": "New",
       "viewed": false,
       "dateAdded": "2026-09-09T22:35:02.452537+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a0884f6fb40XjM",
-      "company": "Affirm",
-      "title": "Legal Operations Analyst II",
-      "location": "Remote US",
-      "salary": "",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7808202003",
-      "source": "Greenhouse",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-09T22:35:02.452924+00:00",
       "notes": "",
       "flags": []
     },
@@ -1977,5 +1879,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T06:03:07.674Z"
+  "savedAt": "2026-09-10T06:04:51.158Z"
 }
