@@ -87,62 +87,6 @@
       ]
     },
     {
-      "id": "1a088e8ffadCD3E",
-      "company": "Torentify",
-      "title": "Data Analyst, - Remote",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465316971/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:46.317437+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e90809vC__",
-      "company": "Spring EQ",
-      "title": "Mortgage Data Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465099452/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:48.457937+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e90e20Ylf0",
-      "company": "Air Apps",
-      "title": "Data Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463004995/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:50.016451+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e91f449w46",
-      "company": "Hippo Insurance",
-      "title": "Data Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460687377/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:54.404249+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088e92772jzGH",
       "company": "Steampunk, Inc.",
       "title": "Data Analyst - UTEP",
@@ -2173,5 +2117,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T05:44:48.207Z"
+  "savedAt": "2026-09-10T05:48:54.153Z"
 }
