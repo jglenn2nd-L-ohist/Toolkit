@@ -133,34 +133,6 @@
       "flags": []
     },
     {
-      "id": "1a088e95d6ckZ2K",
-      "company": "Medpace",
-      "title": "Business Analyst – Software Development",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4354941329/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:10.316425+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e97393-q93",
-      "company": "FBT Gibbons",
-      "title": "Business Analyst, Legal Innovation",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465068002/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:15.987740+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088e97be1a_z-",
       "company": "QODE",
       "title": "Business Analyst",
@@ -209,76 +181,6 @@
       ]
     },
     {
-      "id": "1a088e9ae59mG8j",
-      "company": "Fidelity Investments",
-      "title": "Private Markets Business Analyst - Alternative Investments",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465309000/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:31.033455+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e9ba83K5xq",
-      "company": "AARATECH",
-      "title": "Business Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463862584/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:34.147400+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e9c1a328Mi",
-      "company": "GreenState Credit Union",
-      "title": "Payment Systems Business Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463806366/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:35.971830+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e9d482IrSy",
-      "company": "Almac Group",
-      "title": "Business Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465302179/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:40.802679+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
-      "id": "1a088e9ec79knwe",
-      "company": "Amazon Web Services (AWS)",
-      "title": "Operations Analyst, RI Operations",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455927053/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:46.937196+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088e9f616_Azv",
       "company": "Deferit",
       "title": "Operations Analyst",
@@ -293,20 +195,6 @@
       "flags": [
         "Databricks"
       ]
-    },
-    {
-      "id": "1a088ea062ai1aw",
-      "company": "Stratus®",
-      "title": "Project Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464966480/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:53.514770+00:00",
-      "notes": "",
-      "flags": []
     },
     {
       "id": "1a088ea0ee36TaT",
@@ -341,20 +229,6 @@
       ]
     },
     {
-      "id": "1a088ea44d2ul08",
-      "company": "CGI",
-      "title": "Operations Analyst - Local to Pittsburgh, PA",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462580029/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:24:09.554154+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088ea4a5d6q-a",
       "company": "TalentHop",
       "title": "Operations Analyst",
@@ -369,20 +243,6 @@
       "flags": [
         "5+ yr exp"
       ]
-    },
-    {
-      "id": "1a088ea5265nwva",
-      "company": "Bank of America",
-      "title": "Transaction Management Operations Analyst – 401(k) Payroll Processing",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463089330/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:24:13.029761+00:00",
-      "notes": "",
-      "flags": []
     },
     {
       "id": "1a088ea5a25u1ni",
@@ -2117,5 +1977,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T05:55:34.653Z"
+  "savedAt": "2026-09-10T06:02:57.116Z"
 }
