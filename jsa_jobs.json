@@ -71,20 +71,6 @@
       "flags": []
     },
     {
-      "id": "1a088e8db8fdIwZ",
-      "company": "MeeBoss",
-      "title": "Data Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463859636/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:37.071395+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088e8e9d0L8Kg",
       "company": "Galapagos Federal Systems",
       "title": "Data Analyst",
@@ -2201,5 +2187,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T05:39:27.782Z"
+  "savedAt": "2026-09-10T05:40:11.569Z"
 }
