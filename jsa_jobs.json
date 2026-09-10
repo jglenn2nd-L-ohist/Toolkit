@@ -43,20 +43,6 @@
       "flags": []
     },
     {
-      "id": "1a088e8b0bf3Qjn",
-      "company": "Ztek Consulting",
-      "title": "Data Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463060810/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:22:26.111649+00:00",
-      "notes": "",
-      "flags": []
-    },
-    {
       "id": "1a088e8baadCvun",
       "company": "Parkland Health",
       "title": "Quality Program Data Analyst- Health Plan",
@@ -2243,5 +2229,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T04:58:24.809Z"
+  "savedAt": "2026-09-10T04:58:47.021Z"
 }
