@@ -1662,7 +1662,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4453761005/",
       "source": "LinkedIn",
-      "status": "Applied",
+      "status": "Rejected",
       "viewed": true,
       "dateAdded": "2026-08-17T13:17:18.606Z",
       "notes": ""
@@ -1879,5 +1879,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-09T17:04:04.897774+00:00",
-  "savedAt": "2026-09-10T14:49:58.322Z"
+  "savedAt": "2026-09-10T14:50:18.552Z"
 }
