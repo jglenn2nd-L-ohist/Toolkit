@@ -269,7 +269,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4459227034?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3BEV%2F1RiijTeu9TKyYDhLagA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3vElN2L63h-Yo1&trk=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job&trkEmail=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job-null-q9jfse~mtvx8wnn~t0-null-null&eid=q9jfse-mtvx8wnn-t0&otpToken=YjQwMDIzMjUyZTM4NTQ2Y2Q3N2E4OWIwZWMwYTg3NzA1YTM3YmIwNGE1M2IzYjZjM2JjOTIzNjc2NmVmOTE3MjE5ZDFkOWZhZWI0Nzc3MDc4MjUxMzNjOGUwMzczZjIxNzI0NmM4ZjZiZTMyYTZmZTlhZWRmNjgxMjQxNzkyZTY5YzljZjQzNTA5M2FlMzVhZjAsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-11T16:56:29.850619+00:00",
       "notes": ""
     },
@@ -1231,5 +1231,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-11T16:56:34.066134+00:00",
-  "savedAt": "2026-09-11T20:34:08.355Z"
+  "savedAt": "2026-09-11T20:34:20.278Z"
 }
