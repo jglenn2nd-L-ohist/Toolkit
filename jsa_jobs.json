@@ -1,32 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a08c3ea9f3Xpod",
-      "company": "See posting",
-      "title": "Wayne-Sanderson Farms 3.3 Business Systems Analyst II",
-      "location": "",
-      "salary": "$68K - $86K",
-      "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00101&ao\u001136043&s%5&guid\u00000001a08bb251b797d401e0dce0f44e&src=GD_JOB_AD&t=JA&vt=e&uido\u000508DA602D78A665563ABA464D8E1595&ea=1&cs=1_6b0d51d1&cb\u001789053289882&jobListingId\u001010250598568&jrtk=5-yul1-0-1k25u5h5dkurc800-14efd4e5f8b44a08&tgt=GD_JOB_VIEW&utm_medium=email&utm_source=jobalert&utm_campaign=jobAlertAlert&utm_content=ja-jobpos3-age8d-1010250598568&ja@5853324",
-      "source": "Glassdoor",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T16:55:12.115113+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a08c3eb95fuJSo",
-      "company": "INABA FOODS (USA), INC.",
-      "title": "Sales Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4459248743/?trackingId=l8xD7%2F4oDpzl2gzQqqj2%2Fw%3D%3D&refId=ap7w2av6MuXGzk7Tq%2Fe7JA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZtfRFYzbSaegSZEPLwKmNg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0vYvFqW9y2-Io1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4459248743_ssid_15324419412_fmid_q9jfse~mtvl9lh0~xt&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4459248743_ssid_15324419412_fmid_q9jfse~mtvl9lh0~xt-null-q9jfse~mtvl9lh0~xt-null-null&eid=q9jfse-mtvl9lh0-xt&otpToken=MTg2OTYzMGYyNDhlNTgyNzQyNjU3NWM5ZmE3MWUzMzM5MDU5OGUwMWMyMWU5ZjI4ZjI0MDFjOTUzNzU2M2MzZjMyNzVmYjFlNzQxNzI5NTBkNDJmNDA5MzE0OWU3Y2QxYzYxY2M4MDA3M2I3NjBlYmJkYzJkYzRmMTQwYTcwMGNiOTRjYjU4MzAwZTQyOGM4NTcsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-10T16:55:16.063117+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a08c3eb95fOnwQ",
       "company": "Lattice Semiconductor",
       "title": "Sales Operations Analyst",
@@ -1983,5 +1957,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-10T16:55:20.101086+00:00",
-  "savedAt": "2026-09-11T03:06:18.049Z"
+  "savedAt": "2026-09-11T03:13:19.399Z"
 }
