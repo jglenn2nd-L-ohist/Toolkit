@@ -253,7 +253,7 @@
       "url": "https://www.linkedin.com/jobs/view/4463027906/",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-10T01:24:23.333916+00:00",
       "notes": "",
       "flags": []
@@ -1865,5 +1865,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-10T16:55:20.101086+00:00",
-  "savedAt": "2026-09-11T03:13:37.453Z"
+  "savedAt": "2026-09-11T03:13:48.800Z"
 }
