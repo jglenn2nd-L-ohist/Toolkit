@@ -506,6 +506,7 @@ function updateBatchBar() {
 async function batchRemove() {
   if (!selectedIds.size) return;
   const n = selectedIds.size;
+  jobs.forEach(j => { if (selectedIds.has(j.id) && j.url && !dismissed.includes(j.url)) dismissed.push(j.url); });
   jobs = jobs.filter(j => !selectedIds.has(j.id));
   selectedIds.clear();
   document.getElementById('sel-all').checked = false;
@@ -602,8 +603,12 @@ async function removeJob(e,id) {
   e.stopPropagation();
   const j = jobs.find(x=>x.id===id);
   if (!j) return;
+  lastRemoved = {...j};
+  if (j.url && !dismissed.includes(j.url)) dismissed.push(j.url);
   jobs = jobs.filter(x=>x.id!==id);
   await saveToGitHub();
+  const rb = document.getElementById('restore-btn');
+  if (rb) { rb.style.display='inline-flex'; }
   renderJobs(); updateMetrics();
   toast(j.company+' removed.');
 }
