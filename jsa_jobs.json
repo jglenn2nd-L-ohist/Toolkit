@@ -9,7 +9,7 @@
       "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00101&ao\u001136043&s%5&guid\u00000001a08bb251b797d401e0dce0f44e&src=GD_JOB_AD&t=JA&vt=e&uido\u000508DA602D78A665563ABA464D8E1595&ea=1&cs=1_6b0d51d1&cb\u001789053289882&jobListingId\u001010250598568&jrtk=5-yul1-0-1k25u5h5dkurc800-14efd4e5f8b44a08&tgt=GD_JOB_VIEW&utm_medium=email&utm_source=jobalert&utm_campaign=jobAlertAlert&utm_content=ja-jobpos3-age8d-1010250598568&ja@5853324",
       "source": "Glassdoor",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-10T16:55:12.115113+00:00",
       "notes": ""
     },
@@ -1983,5 +1983,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-10T16:55:20.101086+00:00",
-  "savedAt": "2026-09-11T02:35:48.170Z"
+  "savedAt": "2026-09-11T03:02:39.517Z"
 }
