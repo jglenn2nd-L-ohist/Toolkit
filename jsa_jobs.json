@@ -95,7 +95,7 @@
       "url": "https://www.linkedin.com/jobs/view/4464118761/",
       "source": "LinkedIn",
       "status": "Flagged",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-10T01:22:56.498346+00:00",
       "notes": "",
       "flags": [
@@ -1249,5 +1249,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-10T16:55:20.101086+00:00",
-  "savedAt": "2026-09-11T03:19:08.404Z"
+  "savedAt": "2026-09-11T03:19:29.779Z"
 }
