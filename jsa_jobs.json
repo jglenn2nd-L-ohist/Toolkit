@@ -71,70 +71,6 @@
       "flags": []
     },
     {
-      "id": "1a088e9f616_Azv",
-      "company": "Deferit",
-      "title": "Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465362108/",
-      "source": "LinkedIn",
-      "status": "Flagged",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:49.398313+00:00",
-      "notes": "",
-      "flags": [
-        "Databricks"
-      ]
-    },
-    {
-      "id": "1a088ea0ee36TaT",
-      "company": "TalentAlly",
-      "title": "Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465060630/",
-      "source": "LinkedIn",
-      "status": "Flagged",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:23:55.747424+00:00",
-      "notes": "",
-      "flags": [
-        "5+ yr exp"
-      ]
-    },
-    {
-      "id": "1a088ea3ccesOKE",
-      "company": "Combe Incorporated",
-      "title": "Customer Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4446312836/",
-      "source": "LinkedIn",
-      "status": "Flagged",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:24:07.502480+00:00",
-      "notes": "",
-      "flags": [
-        "5+ yr exp"
-      ]
-    },
-    {
-      "id": "1a088ea4a5d6q-a",
-      "company": "TalentHop",
-      "title": "Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463045643/",
-      "source": "LinkedIn",
-      "status": "Flagged",
-      "viewed": true,
-      "dateAdded": "2026-09-10T01:24:10.973105+00:00",
-      "notes": "",
-      "flags": [
-        "5+ yr exp"
-      ]
-    },
-    {
       "id": "1a08720563bQ2sK",
       "company": "GreenSky®",
       "title": "Data Analyst",
@@ -1022,5 +958,5 @@
   "outreach": [],
   "dismissed": [],
   "lastRun": "2026-09-10T16:55:20.101086+00:00",
-  "savedAt": "2026-09-11T03:21:53.513Z"
+  "savedAt": "2026-09-11T03:22:03.789Z"
 }
