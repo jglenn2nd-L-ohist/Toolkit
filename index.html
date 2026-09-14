@@ -189,7 +189,7 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
   </div>
   <div class="content">
     <div class="filters">
-      <input class="finput" type="text" placeholder="Search title or company..." oninput="renderJobs()" id="fsearch">
+      <input class="finput" type="text" placeholder="Search title or company... (searches all statuses)" oninput="onSearchInput()" id="fsearch">
       <select class="fsel" onchange="renderJobs()" id="fstatus">
         <option value="">All statuses</option>
         <option>New</option><option>Applied</option><option>Interviewing</option>
@@ -221,6 +221,9 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 
 <div id="page-pipeline" class="page">
   <div class="topbar"><div class="topbar-left"><div class="t-title">Pipeline</div></div></div>
+  <div style="padding:12px 24px 0">
+    <input class="finput" type="text" id="pipe-search" placeholder="Search company or title..." oninput="renderPipeline()" style="width:320px;max-width:100%">
+  </div>
   <div class="content">
     <div class="metrics" style="grid-template-columns:repeat(3,1fr)">
       <div class="metric"><div class="metric-label">Applied</div><div class="metric-value mv-blue" id="p-applied">0</div></div>
@@ -540,7 +543,7 @@ function renderJobs() {
   const src = document.getElementById('fsource')?.value||'';
 
   const filtered = jobs.filter(j => {
-    if (isTitleExcluded(j.title)) return false;
+    if (!q && isTitleExcluded(j.title)) return false; // only exclude when not searching
     if (q && !j.company.toLowerCase().includes(q) && !j.title.toLowerCase().includes(q)) return false;
     if (sf && j.status !== sf) return false;
     if (src && j.source !== src) return false;
@@ -615,7 +618,12 @@ async function removeJob(e,id) {
 
 // ── PIPELINE ──────────────────────────────────────────────
 function renderPipeline() {
-  const active = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status));
+  const pq = (document.getElementById('pipe-search')?.value||'').toLowerCase();
+  const active = jobs.filter(j=>{
+    if (!['Applied','Interviewing','Offer','Rejected','Closed'].includes(j.status)) return false;
+    if (pq && !j.company.toLowerCase().includes(pq) && !j.title.toLowerCase().includes(pq)) return false;
+    return true;
+  });
   const body = document.getElementById('pipe-body');
   const now = Date.now();
   document.getElementById('badge-pipe').textContent = active.length;
@@ -770,6 +778,15 @@ function buildSourceFilter() {
 }
 
 // ── UTILS ─────────────────────────────────────────────────
+function onSearchInput() {
+  const q = document.getElementById('fsearch').value;
+  // When searching, clear status filter so results span all statuses
+  if (q) {
+    document.getElementById('fstatus').value = '';
+  }
+  renderJobs();
+}
+
 function uid() { return Date.now().toString(36)+Math.random().toString(36).slice(2,6); }
 
 function setGhStatus(msg,state) {
