@@ -460,7 +460,7 @@ def main():
 
     all_message_ids = {}
     for query in SEARCH_QUERIES:
-        full_query = f'{query} after:{after_date} -label:{JSA_LABEL}'
+        full_query = f'{query} after:{after_date}'
         try:
             result = gmail_service.users().messages().list(
                 userId='me', q=full_query, maxResults=100
