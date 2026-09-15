@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 13 * * 1-5'  # 9am EDT (UTC-4), Monday-Friday
   workflow_dispatch:          # Allow manual trigger anytime
+  # Last refreshed: 2026-09-15
 
 jobs:
   harvest:
