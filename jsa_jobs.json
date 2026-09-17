@@ -1,45 +1,6 @@
 {
   "jobs": [
     {
-      "id": "4407646161test",
-      "company": "Test Company",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4407646161/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-17T00:00:00Z",
-      "notes": ""
-    },
-    {
-      "id": "4459316463test",
-      "company": "Test Company",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459316463/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-17T00:00:00Z",
-      "notes": ""
-    },
-    {
-      "id": "4467237733test",
-      "company": "Test Company",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467237733/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-17T00:00:00Z",
-      "notes": ""
-    },
-    {
       "id": "mu4idg8hkgvo",
       "company": "Clear Capital",
       "title": "Business Analyst, Appraisal Operations",
