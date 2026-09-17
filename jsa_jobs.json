@@ -1,32 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0b01111f1uhwl",
-      "company": "Foot Locker",
-      "title": "Omni Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4429477760/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-17T15:51:43.858030+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0b01119c0_25S",
-      "company": "Virtu Financial",
-      "title": "Trading Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4410988594/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-17T15:51:45.856853+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0b0112f20Q2FA",
       "company": "Texas Instruments",
       "title": "Operations Analyst",
@@ -3026,8 +3000,10 @@
     "https://www.linkedin.com/jobs/view/4467510554/",
     "https://www.linkedin.com/jobs/view/4457971022/",
     "https://www.linkedin.com/jobs/view/4466271356/",
-    "https://www.linkedin.com/jobs/view/4440869742/"
+    "https://www.linkedin.com/jobs/view/4440869742/",
+    "https://www.linkedin.com/jobs/view/4429477760/",
+    "https://www.linkedin.com/jobs/view/4410988594/"
   ],
   "lastRun": "2026-09-16T17:31:28.398027+00:00",
-  "savedAt": "2026-09-17T16:54:24.360Z"
+  "savedAt": "2026-09-17T16:55:13.772Z"
 }
