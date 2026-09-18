@@ -2141,7 +2141,7 @@
       "url": "https://www.linkedin.com/jobs/view/4465914148/",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-18T14:34:41.699811+00:00",
       "notes": ""
     },
@@ -3588,5 +3588,5 @@
     "https://www.linkedin.com/jobs/view/4467809066/"
   ],
   "lastRun": "2026-09-18T16:59:06.679033+00:00",
-  "savedAt": "2026-09-18T18:15:33.771Z"
+  "savedAt": "2026-09-18T18:15:55.139Z"
 }
