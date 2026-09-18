@@ -112,7 +112,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4466872438/",
       "source": "LinkedIn",
-      "status": "Applied",
+      "status": "Rejected",
       "viewed": true,
       "dateAdded": "2026-09-18T14:21:26.917905+00:00",
       "notes": ""
@@ -1664,5 +1664,5 @@
     "https://job-boards.greenhouse.io/affirm/jobs/7871462003"
   ],
   "lastRun": "2026-09-18T16:59:06.679033+00:00",
-  "savedAt": "2026-09-18T19:15:05.262Z"
+  "savedAt": "2026-09-18T20:51:27.912Z"
 }
