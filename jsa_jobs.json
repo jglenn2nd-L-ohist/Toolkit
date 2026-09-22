@@ -27,32 +27,6 @@
       "notes": ""
     },
     {
-      "id": "1a0c947a705cD9f",
-      "company": "Realtor.com",
-      "title": "Data Analyst, Spotlight Listings",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470290225/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-22T13:21:51.365330+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0c947ae6bZV6w",
-      "company": "Instawork",
-      "title": "Product Operations Analyst",
-      "location": "Remote",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4318124641/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-22T13:21:53.259967+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0c947e23f84n9",
       "company": "Harry Reid International Airport",
       "title": "Business Systems Analyst I/II",
@@ -2648,8 +2622,10 @@
     "https://www.linkedin.com/jobs/view/4469917569/",
     "https://www.linkedin.com/jobs/view/4468197006/",
     "https://www.linkedin.com/jobs/view/4470402692/",
-    "https://www.linkedin.com/jobs/view/4423535019/"
+    "https://www.linkedin.com/jobs/view/4423535019/",
+    "https://www.linkedin.com/jobs/view/4470290225/",
+    "https://www.linkedin.com/jobs/view/4318124641/"
   ],
   "lastRun": "2026-09-21T18:32:03.263081+00:00",
-  "savedAt": "2026-09-22T15:59:17.138Z"
+  "savedAt": "2026-09-22T15:59:29.447Z"
 }
