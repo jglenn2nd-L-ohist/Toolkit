@@ -575,6 +575,7 @@ function renderJobs() {
         <span class="chip ch-src">${j.source}</span>
       </div>
       <div class="row-actions">
+        <button class="row-btn" onclick="editJob(event,'${j.id}')">Edit</button>
         ${!applied?`<button class="row-btn" onclick="markApplied(event,'${j.id}')">Applied</button>`:''}
         <button class="row-btn rm" onclick="removeJob(event,'${j.id}')">Remove</button>
       </div>
@@ -601,6 +602,45 @@ async function markApplied(e,id) {
   render();
   toast('Marked Applied — '+j.company+' is in your Pipeline.');
 }
+
+let _editJobId = null;
+
+function editJob(e, id) {
+  e.stopPropagation();
+  const j = jobs.find(x => x.id === id);
+  if (!j) return;
+  _editJobId = id;
+  document.getElementById('edit-company').value = j.company === 'See posting' ? '' : j.company;
+  document.getElementById('edit-title').value = j.title;
+  const modal = document.getElementById('edit-modal');
+  modal.style.display = 'flex';
+  document.getElementById('edit-company').focus();
+}
+
+function closeEditModal() {
+  document.getElementById('edit-modal').style.display = 'none';
+  _editJobId = null;
+}
+
+async function saveEditModal() {
+  if (!_editJobId) return;
+  const j = jobs.find(x => x.id === _editJobId);
+  if (!j) return;
+  const newCompany = document.getElementById('edit-company').value.trim();
+  const newTitle = document.getElementById('edit-title').value.trim();
+  if (newCompany) j.company = newCompany;
+  if (newTitle) j.title = newTitle;
+  closeEditModal();
+  await saveToGitHub();
+  renderJobs(); updateMetrics();
+  toast('Job updated.');
+}
+
+// Close modal on backdrop click
+document.addEventListener('click', function(e) {
+  const modal = document.getElementById('edit-modal');
+  if (modal && e.target === modal) closeEditModal();
+});
 
 async function removeJob(e,id) {
   e.stopPropagation();
@@ -824,5 +864,19 @@ updateTokenStatus();
 // Load from GitHub on start (public repo, no auth needed to read)
 loadFromGitHub(false);
 </script>
+<!-- Edit Job Modal -->
+<div id="edit-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:1000;align-items:center;justify-content:center">
+  <div style="background:var(--s1);border:1px solid var(--b2);border-radius:12px;padding:28px;width:420px;max-width:90vw">
+    <div style="font-family:var(--mono);font-size:13px;font-weight:700;color:var(--ink1);margin-bottom:20px;text-transform:uppercase;letter-spacing:.08em">Edit Job</div>
+    <label style="display:block;font-size:11px;color:var(--ink2);font-family:var(--mono);text-transform:uppercase;margin-bottom:6px">Company</label>
+    <input id="edit-company" type="text" style="width:100%;box-sizing:border-box;background:var(--s2);border:1px solid var(--b2);border-radius:6px;padding:8px 10px;color:var(--ink1);font-size:13px;margin-bottom:14px;outline:none">
+    <label style="display:block;font-size:11px;color:var(--ink2);font-family:var(--mono);text-transform:uppercase;margin-bottom:6px">Title</label>
+    <input id="edit-title" type="text" style="width:100%;box-sizing:border-box;background:var(--s2);border:1px solid var(--b2);border-radius:6px;padding:8px 10px;color:var(--ink1);font-size:13px;margin-bottom:20px;outline:none">
+    <div style="display:flex;gap:10px;justify-content:flex-end">
+      <button onclick="closeEditModal()" style="padding:8px 16px;border-radius:6px;border:1px solid var(--b2);background:var(--s2);color:var(--ink2);cursor:pointer;font-family:var(--mono);font-size:11px;font-weight:700;text-transform:uppercase">Cancel</button>
+      <button onclick="saveEditModal()" style="padding:8px 16px;border-radius:6px;border:none;background:var(--blue);color:#fff;cursor:pointer;font-family:var(--mono);font-size:11px;font-weight:700;text-transform:uppercase">Save</button>
+    </div>
+  </div>
+</div>
 </body>
 </html>
