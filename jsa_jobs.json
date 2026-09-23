@@ -9,7 +9,7 @@
       "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00106&ao\u001136043&s",
       "source": "Glassdoor",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-23T04:41:10.254043+00:00",
       "notes": ""
     },
@@ -2079,5 +2079,5 @@
     "https://www.linkedin.com/jobs/view/4469110785/"
   ],
   "lastRun": "2026-09-23T04:41:21.693498+00:00",
-  "savedAt": "2026-09-23T14:22:38.481Z"
+  "savedAt": "2026-09-23T14:31:35.327Z"
 }
