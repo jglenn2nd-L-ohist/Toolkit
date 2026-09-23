@@ -1,0 +1,21 @@
+name: JSA Keepalive
+
+on:
+  schedule:
+    - cron: '0 12 * * 1'  # Every Monday at noon UTC
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep workflows active
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'jsa_harvest.yml',
+              ref: 'main'
+            });
+            console.log('JSA harvest workflow kept active');
