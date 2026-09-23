@@ -35,7 +35,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4469919505/?trackingId=3uowZgcApCE%2FzaX%2BtZI7DA%3D%3D&refId=cU7yid1CWOcezGbzYZfQ9w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B9QE0pnoxQreuxOryKB5K8w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3_ZLkfVqZagss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4469919505_ssid_8461940610_fmid_q9jfse~mudkk0lx~y3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4469919505_ssid_8461940610_fmid_q9jfse~mudkk0lx~y3-null-q9jfse~mudkk0lx~y3-null-null&eid=q9jfse-mudkk0lx-y3&otpToken=MDU5ZjZkNWE0MzYyZmI4ZDIxMGM5MDUyMmQ3ZWE0N2Y1ZjM3OGU1ZjY0N2MyZjE4Yzk4MWJiYjcwM2VkYTUxYzcxMWU2NDM1NjkzMDNjYmViOTY3YTg1YWIwMzcxNGU2NzU4OTRhZTlkMDg5ODk1OTg1N2YwMzAxYjc4MGU4ZTgxMzY5MGEzYjM4OWE4YzZiZWQsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-23T04:41:14.880052+00:00",
       "notes": ""
     },
@@ -48,7 +48,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4467398381/?trackingId=me6vdhp6%2Fzen2lFp06Z15A%3D%3D&refId=cU7yid1CWOcezGbzYZfQ9w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B9QE0pnoxQreuxOryKB5K8w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3_ZLkfVqZagss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4467398381_ssid_8461940610_fmid_q9jfse~mudkk0lx~y3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4467398381_ssid_8461940610_fmid_q9jfse~mudkk0lx~y3-null-q9jfse~mudkk0lx~y3-null-null&eid=q9jfse-mudkk0lx-y3&otpToken=MDU5ZjZkNWE0MzYyZmI4ZDIxMGM5MDUyMmQ3ZWE0N2Y1ZjM3OGU1ZjY0N2MyZjE4Yzk4MWJiYjcwM2VkYTUxYzcxMWU2NDM1NjkzMDNjYmViOTY3YTg1YWIwMzcxNGU2NzU4OTRhZTlkMDg5ODk1OTg1N2YwMzAxYjc4MGU4ZTgxMzY5MGEzYjM4OWE4YzZiZWQsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-23T04:41:14.880102+00:00",
       "notes": ""
     },
@@ -2079,5 +2079,5 @@
     "https://www.linkedin.com/jobs/view/4469110785/"
   ],
   "lastRun": "2026-09-23T04:41:21.693498+00:00",
-  "savedAt": "2026-09-23T14:33:26.387Z"
+  "savedAt": "2026-09-23T14:39:59.490Z"
 }
