@@ -308,12 +308,19 @@ def extract_jobs_from_email(body_html, body_text, subject):
         if text and len(text) > 4 and tl not in JUNK_ANCHORS and not tl.startswith('your job alert for'):
 
             if 'glassdoor.com' in href:
-                # Split on star rating to remove company prefix
+                # Remove company + rating prefix: "Cisco 4.1 ★ Title" or "Cisco 4.1 Title"
                 if '★' in text or '\u2605' in text:
                     _parts = re.split(r'[★\u2605]\s*', text, maxsplit=1)
                     _after = _parts[1] if len(_parts) > 1 else text
                 else:
-                    _after = text
+                    # No star — strip leading "Company X.X " pattern
+                    _after = re.sub(r'^[\w\s&,\.]+?\d+\.\d+\s*', '', text).strip()
+                    if not _after or len(_after) < 4:
+                        _after = text  # fallback if strip went too far
+                # Strip "United States", "US" from end
+                _after = re.sub(r'\s+United States$', '', _after, flags=re.IGNORECASE).strip()
+                _after = re.sub(r'\s+\(Full Time\)', '', _after, flags=re.IGNORECASE).strip()
+                _after = re.sub(r'\s+\(Part Time\)', '', _after, flags=re.IGNORECASE).strip()
                 # Strip "and X more jobs"
                 _after = re.sub(r'\s+and\s+\d+\s+more.*$', '', _after, flags=re.IGNORECASE).strip()
                 # Strip salary
