@@ -1,6 +1,409 @@
 {
   "rejects": [
     {
+      "title": "Your job alert for Data Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/alerts?lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BKk5bMH60S2OB5wPvM8i7lw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig4YZ1XVxTqhYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-manage_alerts_header_link_ssid_15324419412_fmid_q9jfse~muf8kjdq~er&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-manage_alerts_header_link_ssid_15324419412_fmid_q9jfse~muf8kjdq~er-null-q9jfse~muf8kjdq~er-null-null&eid=q9jfse-muf8kjdq-er&otpToken=NTliNWY4NTNkOGQxODRlOWE3MzNkMzZhNjQzZjk3NTk3ZDZmOTI1YTExNmQwMTMyYmQ3N2ZmM2Q4NjI3ZWNmMDAwYjRhODNjOGY4OWJmZTg4ZWNiNmMxNWQ5MDU4NzQyMWQ1NWRlYzlmNWZmN2FiY2RjNjM2ZDRhZjI1NWRlNGZjMWY1ODI5MTM1ODYxZGQ5ODQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "junk_title",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-24T17:46:48.284319+00:00"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company": "DRH Health",
+      "location": "Duncan, OK",
+      "url": "https://www.linkedin.com/jobs/view/4470648948/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OK"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:14.139662+00:00"
+    },
+    {
+      "title": "AI Solutions Data Analyst",
+      "company": "JE Dunn Construction",
+      "location": "Kansas City, MO",
+      "url": "https://www.linkedin.com/jobs/view/4448901051/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MO"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:16.757615+00:00"
+    },
+    {
+      "title": "Credit Support Services Data Analyst II - Louisiana",
+      "company": "b1BANK",
+      "location": "Baton Rouge Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4470941794/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:LA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:18.632158+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "DC Department of Human Resources",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4470923752/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:20.957919+00:00"
+    },
+    {
+      "title": "Growth Product Analyst",
+      "company": "MASii",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4469896856/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:36.603958+00:00"
+    },
+    {
+      "title": "Product Data Analyst",
+      "company": "Celigo",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4443038177/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:41.675375+00:00"
+    },
+    {
+      "title": "Data Analyst - Poker",
+      "company": "Zynga",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470489851/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:47.408734+00:00"
+    },
+    {
+      "title": "Data Analyst, In-Store",
+      "company": "DoorDash",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4440412319/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:49.711380+00:00"
+    },
+    {
+      "title": "Data Analyst, New Grad",
+      "company": "Jobright.ai",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4469462829/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:51.633181+00:00"
+    },
+    {
+      "title": "Product Analyst",
+      "company": "Blue Cross Blue Shield Association",
+      "location": "Greater Chicago Area",
+      "url": "https://www.linkedin.com/jobs/view/4468912289/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:IL",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:57.217059+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Turo",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470684360/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:09:58.905849+00:00"
+    },
+    {
+      "title": "Business Systems Analyst I/II",
+      "company": "Harry Reid International Airport",
+      "location": "Las Vegas, NV",
+      "url": "https://www.linkedin.com/jobs/view/4468560170/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NV"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:18.173798+00:00"
+    },
+    {
+      "title": "Business/Systems Analyst",
+      "company": "MIT Lincoln Laboratory",
+      "location": "Lexington, MA",
+      "url": "https://www.linkedin.com/jobs/view/4423550570/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:26.865378+00:00"
+    },
+    {
+      "title": "Systems Analyst - Intermediate",
+      "company": "UPMC",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4468544796/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:PA",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:29.282233+00:00"
+    },
+    {
+      "title": "Systems & Data Analyst II",
+      "company": "Arizona Central Credit Union",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4468950007/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:39.634640+00:00"
+    },
+    {
+      "title": "Master Oracle Systems Analyst",
+      "company": "City of Knoxville",
+      "location": "Knoxville, TN",
+      "url": "https://www.linkedin.com/jobs/view/4470490246/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TN"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:44.525008+00:00"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "University of Massachusetts",
+      "location": "Westborough, MA",
+      "url": "https://www.linkedin.com/jobs/view/4470620208/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:49.461055+00:00"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "Bates White Economic Consulting",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4450773091/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:10:50.687137+00:00"
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "company": "ABARTA Coca-Cola Beverages, LLC",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4469037514/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:05.191457+00:00"
+    },
+    {
+      "title": "Material Planning Analyst - 3rd Shift",
+      "company": "GXO Logistics, Inc.",
+      "location": "Red Oak, TX",
+      "url": "https://www.linkedin.com/jobs/view/4462067793/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:material plann"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:07.572360+00:00"
+    },
+    {
+      "title": "Supply Chain Analyst - LH2",
+      "company": "Airgas",
+      "location": "Independence, OH",
+      "url": "https://www.linkedin.com/jobs/view/4470497162/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:11.042612+00:00"
+    },
+    {
+      "title": "Material Planning Analyst",
+      "company": "Flex",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4460940951/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:material plann",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:14.631191+00:00"
+    },
+    {
+      "title": "Supply Chain Analyst - Inventory",
+      "company": "Ahlstrom",
+      "location": "Kaukauna, WI",
+      "url": "https://www.linkedin.com/jobs/view/4434166383/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:WI"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:19.554935+00:00"
+    },
+    {
+      "title": "Forecast Analyst",
+      "company": "Amway",
+      "location": "Ada, MI",
+      "url": "https://www.linkedin.com/jobs/view/4468593849/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:forecast",
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:11:30.574068+00:00"
+    },
+    {
+      "title": "Data Analyst Stf",
+      "company": "Lockheed Martin",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4469314386/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:12:16.003542+00:00"
+    },
+    {
+      "title": "Supply Planning Analyst",
+      "company": "Klein Tools",
+      "location": "Mansfield, TX",
+      "url": "https://www.linkedin.com/jobs/view/4469947632/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:supply plann"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:21:14.103029+00:00"
+    },
+    {
+      "title": "Forecast Solutions Analyst II_SCLA1H",
+      "company": "ENGIE North America Inc.",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4461209087/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:forecast"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:22:01.418239+00:00"
+    },
+    {
+      "title": "IT Project Manager/Business Analyst \u2013 ETRM Implementation (Energy)",
+      "company": "Talan",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4460064192/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:22:48.748439+00:00"
+    },
+    {
+      "title": "Financial Services - Tech Consulting - Guidewire - Business Analyst - Manager",
+      "company": "EY",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4449809668/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:23:10.234136+00:00"
+    },
+    {
+      "title": "AI and Data Science Engineer II",
+      "company": "Deloitte",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4461728323/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:25:30.930320+00:00"
+    },
+    {
+      "title": "Demand & Financial Planning Analyst",
+      "company": "NAES",
+      "location": "Spring, TX",
+      "url": "https://www.linkedin.com/jobs/view/4465240875/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:demand & financial plann"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:26:29.458973+00:00"
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "International Paper",
+      "location": "Sealy, TX",
+      "url": "https://www.linkedin.com/jobs/view/4461528415/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.3",
+      "dateAdded": "2026-09-23T15:28:01.747913+00:00"
+    },
+    {
       "title": "Analyst)",
       "company": "BAE Systems, Inc. F-35 Fleet Tracking Engineer II (Reporting & Data",
       "location": "",
