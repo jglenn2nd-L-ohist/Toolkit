@@ -34,7 +34,8 @@ def main():
     verdicts, records = {}, []
     for n, j in enumerate(targets, 1):
         probe = dict(j)
-        d = jsa_enrich.enrich(probe) if not j.get('enriched') or '--refetch' in sys.argv else None
+        # Always re-fetch: the JD isn't stored, and remote jobs can only pass with a JD scan.
+        d = jsa_enrich.enrich(probe)
         if d:
             jsa_enrich.apply_enrichment(probe, d)
         v = jsa_filters.evaluate(probe, d['jd'] if d else None)

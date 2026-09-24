@@ -15,14 +15,34 @@ evaluate() never silently drops anything. Every decision carries reason codes.
 
 import re
 
-FILTER_VERSION = '2026-09-24.2'   # bump when rules change; stamped on every record
+FILTER_VERSION = '2026-09-24.3'   # bump when rules change; stamped on every record
 
 # ── WHERE YOU CAN WORK ────────────────────────────────────
 ALLOWED_STATES = {'GA', 'FL', 'NC', 'SC'}
 # Texas is allowed only for these metros (edit freely)
 ALLOWED_TX_CITIES = {
-    'dallas', 'houston', 'irving', 'plano', 'frisco', 'richardson', 'addison',
-    'fort worth', 'arlington', 'sugar land', 'katy', 'the woodlands', 'pasadena',
+    # Dallas-Fort Worth metro
+    'dallas', 'fort worth', 'irving', 'plano', 'frisco', 'richardson', 'addison', 'arlington',
+    'lewisville', 'farmers branch', 'carrollton', 'burleson', 'mansfield', 'red oak',
+    'lancaster', 'denton', 'mckinney', 'allen', 'garland', 'mesquite', 'grand prairie',
+    'coppell', 'grapevine', 'southlake', 'rockwall', 'flower mound', 'cedar hill', 'desoto',
+    'duncanville', 'euless', 'bedford', 'hurst', 'keller', 'the colony', 'little elm',
+    'prosper', 'westlake', 'wylie', 'rowlett', 'dfw',
+    # Houston metro
+    'houston', 'sugar land', 'katy', 'the woodlands', 'pasadena', 'spring', 'humble',
+    'cypress', 'tomball', 'conroe', 'pearland', 'league city', 'baytown', 'missouri city',
+    'stafford', 'kingwood', 'friendswood', 'bellaire', 'webster', 'richmond', 'rosenberg',
+}
+# Metro-area labels LinkedIn uses with no state ('Greater Chicago Area')
+METRO_STATES = {
+    'chicago': 'IL', 'baton rouge': 'LA', 'new orleans': 'LA', 'denver': 'CO',
+    'new york': 'NY', 'boston': 'MA', 'seattle': 'WA', 'phoenix': 'AZ', 'san francisco': 'CA',
+    'los angeles': 'CA', 'bay area': 'CA', 'philadelphia': 'PA', 'pittsburgh': 'PA',
+    'detroit': 'MI', 'minneapolis': 'MN', 'st. louis': 'MO', 'kansas city': 'MO',
+    'nashville': 'TN', 'austin': 'TX', 'san antonio': 'TX', 'salt lake': 'UT',
+    'las vegas': 'NV', 'portland': 'OR', 'washington dc': 'DC', 'dc-baltimore': 'DC',
+    'columbus': 'OH', 'cleveland': 'OH', 'cincinnati': 'OH', 'indianapolis': 'IN',
+    'milwaukee': 'WI', 'richmond, va': 'VA', 'birmingham': 'AL',
 }
 
 STATE_NAMES = {
@@ -77,7 +97,7 @@ TITLE_EXCLUDE = [
     r'\bcollections\b', r'accounts (payable|receivable)', r'\bcard dispute', r'\bchargeback',
     r'software engineer', r'\bdevops\b', r'cloud engineer', r'full[- ]?stack',
     r'\bwarehouse\b', r'\bpurchasing\b', r'\badministrative\b',
-    r'demand plann', r'\bforecasting\b', r'salesforce admin', r'\bfp&a\b', r'\bcapex\b',
+    r'demand\b.{0,15}plann', r'(supply|material|inventory|demand) plann', r'\bforecast', r'salesforce admin', r'\bfp&a\b', r'\bcapex\b',
     r'\b(java|c\+\+|\.net) developer\b', r'\bskillbridge\b',
 ]
 
@@ -118,7 +138,8 @@ COMPANY_BLOCK = []   # lowercase substrings; empty on purpose — add only after
 def _states_in(text):
     """All US state codes mentioned in text (names or ', XX' / ' XX ' codes)."""
     t = ' ' + text.lower() + ' '
-    found = {code for name, code in STATE_NAMES.items() if re.search(r'\b' + name + r'\b', t)}
+    found = {code for name, code in STATE_NAMES.items()
+             if re.search(r'\b' + name + r'\b(?! city)', t)}
     # 'washington' alone is ambiguous with DC; ignore if 'washington dc/d.c.' present
     if re.search(r'washington,?\s*d\.?c', t):
         found.discard('WA'); found.add('DC')
@@ -155,6 +176,9 @@ def classify_location(location):
     if any(city in low for city in ALLOWED_TX_CITIES | {'atlanta', 'charlotte', 'raleigh',
             'tampa', 'orlando', 'miami', 'jacksonville', 'charleston', 'columbia'}):
         return 'allowed', loc
+    for metro, st in METRO_STATES.items():
+        if metro in low:
+            return ('allowed' if st in ALLOWED_STATES else 'out_of_area'), st
     if any(m in low for m in US_REMOTE_MARKERS):
         return 'us_remote', loc
     return 'unknown', loc
