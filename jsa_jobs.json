@@ -352,19 +352,6 @@
       "notes": ""
     },
     {
-      "id": "1a0cecfb9dbrKLu",
-      "company": "Epiroc",
-      "title": "Analytics Engineer",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469069422/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:08:35.163291+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0cecfe532j7zk",
       "company": "Saragossa",
       "title": "Analytics Engineer",
@@ -3650,8 +3637,9 @@
     "https://www.linkedin.com/jobs/view/4470674224/",
     "https://www.linkedin.com/jobs/view/4470603372/",
     "https://www.linkedin.com/jobs/view/4469302912/",
-    "https://www.linkedin.com/jobs/view/4468799621/"
+    "https://www.linkedin.com/jobs/view/4468799621/",
+    "https://www.linkedin.com/jobs/view/4469069422/"
   ],
   "lastRun": "2026-09-23T20:02:45.652694+00:00",
-  "savedAt": "2026-09-24T13:43:29.113Z"
+  "savedAt": "2026-09-24T13:43:38.230Z"
 }
