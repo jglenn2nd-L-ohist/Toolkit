@@ -3305,7 +3305,7 @@
     "https://www.linkedin.com/comm/jobs/view/4467631636/?trackingId=rDgr0G76ivh%2B3K9oRGe74A%3D%3D&refId=zy1AcIyhZa0Fgup%2BE6t2pA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Baipnzq1CRQ28lB5%2BhU8bow%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1WyaHdE792iss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4467631636_ssid_8694209842_fmid_q9jfse~muflfifu~sf&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4467631636_ssid_8694209842_fmid_q9jfse~muflfifu~sf-null-q9jfse~muflfifu~sf-null-null&eid=q9jfse-muflfifu-sf&otpToken=ODRkYmY2Yzg3ZGI5YmI2N2Y2YTU2Y2U2ZTI2ZDBjZmU2MWE4NWEzZGM3NmM2YzdmYjkwNWVkZDc5NWIyMTllZjU5YzQ4Mjg1ZDVlZmYzMmE0YThiNjY1NDZkNGY1NTc4MzEzMWYxZTdkYzYwNGY0ZjY1NzU2MzMzNDVhYjBkOTk3YzFhZmU3YjdmODc4MDVkNjEsMiwx"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-24T20:36:16.169034+00:00",
+  "savedAt": "2026-09-24T20:45:25.407164+00:00",
   "runStats": [
     {
       "at": "2026-09-24T20:36:16.169034+00:00",
@@ -3327,6 +3327,22 @@
         "junk_title": 1,
         "location_unknown": 1,
         "title_not_target": 1
+      }
+    },
+    {
+      "at": "2026-09-24T20:45:25.407164+00:00",
+      "runner": "backfill",
+      "rules": "2026-09-24.3",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 46,
+          "review": 22,
+          "reject": 0
+        }
+      },
+      "reasons": {
+        "jd_term": 12,
+        "title_unlisted": 10
       }
     }
   ]
