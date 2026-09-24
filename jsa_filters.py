@@ -15,7 +15,7 @@ evaluate() never silently drops anything. Every decision carries reason codes.
 
 import re
 
-FILTER_VERSION = '2026-09-24.1'   # bump when rules change; stamped on every record
+FILTER_VERSION = '2026-09-24.2'   # bump when rules change; stamped on every record
 
 # ── WHERE YOU CAN WORK ────────────────────────────────────
 ALLOWED_STATES = {'GA', 'FL', 'NC', 'SC'}
@@ -58,7 +58,14 @@ TARGET_TITLES = [
     'data analyst', 'business analyst', 'operations analyst', 'business intelligence',
     'bi analyst', 'marketing analyst', 'strategy analyst', 'analytics engineer',
     'reporting analyst', 'product analyst', 'systems analyst', 'supply chain analyst',
+    # added 09-24 after reject audit — families you have actually applied to
+    'analytics specialist', 'data analytics', 'insights', 'data visualization',
+    'logistics analyst', 'sales operations', 'revenue operations', 'analytics associate',
+    'operations data', 'marketing analytics',
 ]
+# Titles containing these words but no TARGET_TITLES match go to REVIEW, not reject.
+# Your call on each; promote recurring families into TARGET_TITLES.
+ANALYST_WORDS = r'\b(analyst|analytics|insights?|intelligence)\b'
 
 # Word-boundary regexes so 'staff' doesn't hit 'staffing', 'lead' doesn't hit 'leader'
 TITLE_EXCLUDE = [
@@ -183,14 +190,17 @@ def evaluate(job, jd_text=None):
     # 1. Title
     if not title or any(re.search(p, tl) for p in JUNK_TITLE):
         reject.append('junk_title')
-    elif not any(p in tl for p in TARGET_TITLES):
-        reject.append('title_not_target')
     else:
         for p in TITLE_EXCLUDE:
             m = re.search(p, tl)
             if m:
                 reject.append('title_excluded:' + m.group(0).strip())
                 break
+        if not reject and not any(p in tl for p in TARGET_TITLES):
+            if re.search(ANALYST_WORDS, tl):
+                review.append('title_unlisted')
+            else:
+                reject.append('title_not_target')
 
     # 2. Company
     if any(c in company for c in COMPANY_BLOCK):
@@ -198,6 +208,10 @@ def evaluate(job, jd_text=None):
 
     # 3. Location (allowlist, fail closed)
     loc_class, detail = classify_location(job.get('location'))
+    if loc_class == 'unknown':
+        m = re.search(r'[A-Z][a-zA-Z .]+,\s*[A-Z]{2}\b', title)   # e.g. 'Data Analyst 2 - Minnetonka, MN'
+        if m and _states_in(m.group(0)):
+            loc_class, detail = classify_location(m.group(0))
     if loc_class == 'foreign':
         reject.append('foreign:' + detail)
     elif loc_class == 'out_of_area':

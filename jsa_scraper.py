@@ -216,16 +216,26 @@ def extract_jobs_from_email(body_html, body_text, subject):
                 title = _after.strip()
 
             elif 'builtin.com' in href:
-                for kw in ['Threat ','Risk ','Fraud ','Analyst','Engineer','Consultant',
-                           'Specialist','Developer','Scientist','Associate','Coordinator',
-                           'Data ','Business ','Financial ','Marketing ','Sales ',
-                           'Operations ','Intelligence ','Reporting ','Research ']:
-                    ki = text.find(kw)
-                    if ki > 0:
-                        company = text[:ki].strip()
-                        title = text[ki:]
-                        title = re.split(r'\s+(Hybrid|Remote|In Office|USA|\$|\d{5})', title)[0].strip()
-                        break
+                # Anchor text is 'Company Title Hybrid ...'. Builtin's URL slug IS the title
+                # (/job/data-analyst-poker/123), so find where the slug starts in the text.
+                title = ''
+                sm = re.search(r'builtin\.com/job/([a-z0-9-]+)/\d+', href)
+                if sm:
+                    slug = sm.group(1)
+                    norm = lambda x: re.sub(r'[^a-z0-9]+', '-', x.lower()).strip('-')
+                    for wm in re.finditer(r'\S+', text):
+                        if wm.start() == 0:
+                            continue
+                        if norm(text[wm.start():]).startswith(slug[:min(len(slug), 24)]):
+                            company = text[:wm.start()].strip()
+                            rest = text[wm.start():]
+                            # cut the title where the slug ends
+                            n, words = 0, rest.split()
+                            for k in range(1, len(words) + 1):
+                                if norm(' '.join(words[:k])) == slug or len(norm(' '.join(words[:k]))) >= len(slug):
+                                    n = k; break
+                            title = ' '.join(words[:n]) if n else rest
+                            break
                 if not title:
                     title = text
 
