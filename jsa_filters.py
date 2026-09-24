@@ -15,7 +15,7 @@ evaluate() never silently drops anything. Every decision carries reason codes.
 
 import re
 
-FILTER_VERSION = '2026-09-24.3'   # bump when rules change; stamped on every record
+FILTER_VERSION = '2026-09-24.4'   # bump when rules change; stamped on every record
 
 # ── WHERE YOU CAN WORK ────────────────────────────────────
 ALLOWED_STATES = {'GA', 'FL', 'NC', 'SC'}
@@ -131,6 +131,8 @@ RESIDENCY_TRIGGERS = (
 # 'review' surfaces them for your call.
 REMOTE_OUT_OF_AREA_POLICY = 'reject'
 
+SALARY_FLOOR = 60000   # annual; only applied when a salary is actually posted
+
 COMPANY_BLOCK = []   # lowercase substrings; empty on purpose — add only after evidence
 
 
@@ -199,6 +201,21 @@ def _residency_check(jd):
     return None
 
 
+def _salary_low(s):
+    if not s:
+        return None
+    t = s.lower().replace(',', '').replace('$', '')
+    nums = re.findall(r'\d+\.?\d*', t)
+    if not nums:
+        return None
+    low = float(nums[0])
+    if re.search(r'\d\s*k\b', t):
+        low *= 1000
+    if '/hr' in t or 'hour' in t:
+        low *= 2080
+    return low
+
+
 # ── MAIN ENTRY POINT ──────────────────────────────────────
 def evaluate(job, jd_text=None):
     """
@@ -225,6 +242,11 @@ def evaluate(job, jd_text=None):
                 review.append('title_unlisted')
             else:
                 reject.append('title_not_target')
+
+    # 1b. Salary (only when posted)
+    low = _salary_low(job.get('salary'))
+    if low is not None and low < SALARY_FLOOR:
+        reject.append(f'salary_below_floor:{int(low)}')
 
     # 2. Company
     if any(c in company for c in COMPANY_BLOCK):

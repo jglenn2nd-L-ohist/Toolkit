@@ -45,6 +45,8 @@ def linkedin(url):
         'title':    pick(r'top-card-layout__title[^>]*>\s*([^<]+)'),
         'company':  pick(r'topcard__org-name-link[^>]*>\s*([^<]+)'),
         'location': pick(r'topcard__flavor--bullet">\s*([^<]+)'),
+        'salary':   pick(r'compensation__salary[^>]*>\s*([^<]+)'),
+        'posted':   pick(r'posted-time-ago__text[^>]*>\s*([^<]+)').lower(),
         'jd':       _clean(desc.group(1)),
     }
 
@@ -54,7 +56,10 @@ def greenhouse(url):
         or re.search(r'boards\.greenhouse\.io/([\w-]+).*?gh_jid=(\d+)', url)
     if not m:
         return None
-    board, jid = m.group(1), m.group(2)
+    return greenhouse_by_id(m.group(1), m.group(2))
+
+
+def greenhouse_by_id(board, jid):
     d = json.loads(_get(f'https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{jid}'))
     return {
         'title':    d.get('title', ''),

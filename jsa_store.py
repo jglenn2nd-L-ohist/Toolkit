@@ -63,7 +63,8 @@ def alt_key(j):
 
 
 # ── MERGE-WRITE ───────────────────────────────────────────
-def merge_jobs(token, new_jobs, rejects, run_stat, message, retries=4, replace_ids=None):
+def merge_jobs(token, new_jobs, rejects, run_stat, message, retries=4, replace_ids=None,
+               set_last_run=True):
     """
     Add new_jobs to jsa_jobs.json, append rejects to jsa_rejects.json, record run_stat.
     replace_ids: set of job ids to REMOVE from the live file (used by backfill).
@@ -85,7 +86,8 @@ def merge_jobs(token, new_jobs, rejects, run_stat, message, retries=4, replace_i
 
         now = datetime.now(timezone.utc).isoformat()
         data['jobs'] = added + jobs
-        data['lastRun'] = now
+        if set_last_run:           # only the email scraper owns lastRun
+            data['lastRun'] = now
         data['savedAt'] = now
         data['runStats'] = (data.get('runStats', []) + [run_stat])[-STATS_KEEP:]
         try:
