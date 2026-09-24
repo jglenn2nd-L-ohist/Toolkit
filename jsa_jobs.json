@@ -1,110 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0cf5314323Tg8",
-      "company": "Uline",
-      "title": "Direct Marketing Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460988019/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:32:03.506345+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf531ebcvfbM",
-      "company": "Google",
-      "title": "Marketing Data Analyst, Global Partnerships",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468715222/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:32:06.204321+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf53a282Fuww",
-      "company": "Humana",
-      "title": "Corporate Strategy Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470250341/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:32:39.938524+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf5447ceBlfg",
-      "company": "AmaWaterways River Cruises",
-      "title": "Data Analytics Engineer",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4405040914/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:33:22.254950+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf54d8c3JLC0",
-      "company": "UASI",
-      "title": "Healthcare Reporting and Data Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469327997/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:33:59.363827+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf553665FVsh",
-      "company": "DoorDash",
-      "title": "Data Analyst, In-Store",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4440404515/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:34:23.333687+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf55881bVPN-",
-      "company": "The MetroHealth System (Cleveland, OH)",
-      "title": "Systems Analyst II- Business Applications",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4422726285/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:34:44.251927+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf5606c1gvim",
-      "company": "SUN PHARMA",
-      "title": "Supply Chain Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4452694114/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:35:16.673308+00:00",
-      "notes": ""
-    },
-    {
       "id": "1a0cf56670atvjh",
       "company": "Behavioral Health Group - BHG",
       "title": "SQL Data Analyst",
@@ -115,19 +11,6 @@
       "status": "Applied",
       "viewed": true,
       "dateAdded": "2026-09-23T17:35:41.322588+00:00",
-      "notes": ""
-    },
-    {
-      "id": "1a0cf5f1fd8Q34X",
-      "company": "See posting",
-      "title": "Business Analyst I United States",
-      "location": "",
-      "salary": "$72K - $119K",
-      "url": "https://www.glassdoor.com/partner/jobListing.htm?pos\u00102&ao\u001136043&s",
-      "source": "Glassdoor",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T17:45:12.920872+00:00",
       "notes": ""
     },
     {
@@ -4062,8 +3945,17 @@
     "https://www.linkedin.com/jobs/view/4470985055/",
     "https://www.linkedin.com/jobs/view/4443539066/",
     "https://www.linkedin.com/jobs/view/4468019497/",
-    "https://www.linkedin.com/jobs/view/4470993176/"
+    "https://www.linkedin.com/jobs/view/4470993176/",
+    "https://www.linkedin.com/jobs/view/4460988019/",
+    "https://www.linkedin.com/jobs/view/4468715222/",
+    "https://www.linkedin.com/jobs/view/4470250341/",
+    "https://www.linkedin.com/jobs/view/4405040914/",
+    "https://www.linkedin.com/jobs/view/4469327997/",
+    "https://www.linkedin.com/jobs/view/4440404515/",
+    "https://www.linkedin.com/jobs/view/4422726285/",
+    "https://www.linkedin.com/jobs/view/4452694114/",
+    "https://www.glassdoor.com/partner/jobListing.htm?pos\u00102&ao\u001136043&s"
   ],
   "lastRun": "2026-09-23T20:02:45.652694+00:00",
-  "savedAt": "2026-09-24T04:19:12.366Z"
+  "savedAt": "2026-09-24T04:22:33.102Z"
 }
