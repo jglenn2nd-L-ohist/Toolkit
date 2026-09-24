@@ -86,6 +86,7 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 .job-right{display:flex;flex-direction:column;align-items:flex-end;gap:4px;flex-shrink:0}
 .chip{display:inline-flex;align-items:center;padding:2px 8px;border-radius:4px;font-family:var(--mono);font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.3px;white-space:nowrap}
 .ch-new{background:var(--bluedim);color:var(--blue)}
+.ch-review{background:var(--amberdim);color:var(--amber)}
 .ch-applied{background:var(--greendim);color:var(--green)}
 .ch-interviewing{background:var(--amberdim);color:var(--amber)}
 .ch-offer{background:var(--greendim);color:var(--green);border:1px solid var(--green)}
@@ -191,7 +192,9 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
     <div class="filters">
       <input class="finput" type="text" placeholder="Search title or company... (searches all statuses)" oninput="onSearchInput()" id="fsearch">
       <select class="fsel" onchange="renderJobs()" id="fstatus">
-        <option value="">All statuses</option>
+        <option value="">Feed (excludes Review)</option>
+        <option value="__all">All incl. Review</option>
+        <option>Review</option>
         <option>New</option><option>Applied</option><option>Interviewing</option>
         <option>Offer</option><option>Rejected</option><option>Closed</option>
       </select>
@@ -345,6 +348,7 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
 
 <script>
 // ── CONSTANTS ─────────────────────────────────────────────
+// Where the DATA lives. Change this one line when you move jsa_jobs.json to a private repo.
 const GITHUB_REPO = 'jglenn2nd-L-ohist/Toolkit';
 const GITHUB_FILE = 'jsa_jobs.json';
 const GITHUB_RAW  = 'https://raw.githubusercontent.com/' + GITHUB_REPO + '/main/' + GITHUB_FILE;
@@ -420,17 +424,28 @@ function updateTokenStatus() {
 async function loadFromGitHub(showToast) {
   setGhStatus('Loading…', 'warn');
   try {
-    // Use raw URL — no auth needed for public repo
-    const r = await fetch(GITHUB_RAW + '?t=' + Date.now());
-    if (!r.ok) throw new Error('Fetch failed: ' + r.status);
-    const parsed = await r.json();
+    // Content and SHA come from the SAME API response. The old raw-URL load could be minutes
+    // stale while the SHA was fresh, so a save silently overwrote the scraper's new jobs.
+    const t = getToken();
+    let parsed;
+    if (t) {
+      const r = await fetch(GITHUB_API + '?t=' + Date.now(), { cache: 'no-store',
+        headers: { 'Authorization': 'token ' + t, 'Accept': 'application/vnd.github.v3+json' }});
+      if (!r.ok) throw new Error('Fetch failed: ' + r.status);
+      const d = await r.json();
+      fileSha = d.sha;
+      parsed = JSON.parse(decodeURIComponent(escape(atob(d.content.replace(/\n/g,'')))));
+    } else {
+      const r = await fetch(GITHUB_RAW + '?t=' + Date.now());   // read-only fallback (public repo only)
+      if (!r.ok) throw new Error('Fetch failed: ' + r.status + ' — set token in Settings');
+      parsed = await r.json();
+      fileSha = null;
+    }
     jobs      = Array.isArray(parsed.jobs) ? parsed.jobs : [];
     outreach  = Array.isArray(parsed.outreach) ? parsed.outreach : [];
     dismissed = Array.isArray(parsed.dismissed) ? parsed.dismissed : [];
     lastRun   = parsed.lastRun || null;
-    // Get SHA for subsequent writes
-    await fetchSha();
-    applyExclusions();
+
     setGhStatus('GitHub sync active', 'ok');
     if (showToast) toast('Synced — ' + jobs.length + ' jobs loaded');
     render();
@@ -451,7 +466,7 @@ async function fetchSha() {
 async function saveToGitHub() {
   const t = getToken();
   if (!t) { showSaveInd('No token — go to Settings', true); return; }
-  if (!fileSha) { await fetchSha(); }
+  if (!fileSha) { showSaveInd('Not loaded with token — Sync first', true); return; }
   const content = btoa(unescape(encodeURIComponent(
     JSON.stringify({ jobs, outreach, dismissed, lastRun, savedAt: new Date().toISOString() }, null, 2)
   )));
@@ -462,6 +477,11 @@ async function saveToGitHub() {
       headers: { 'Authorization': 'token ' + t, 'Content-Type': 'application/json', 'Accept': 'application/vnd.github.v3+json' },
       body: JSON.stringify(body)
     });
+    if (r.status === 409 || r.status === 422) {
+      showSaveInd('Data changed elsewhere (harvest ran) — reloaded. Redo your last change.', true);
+      await loadFromGitHub(false);
+      return;
+    }
     if (!r.ok) { const e = await r.json(); throw new Error(e.message || r.status); }
     const d = await r.json();
     fileSha = d.content.sha;
@@ -471,9 +491,7 @@ async function saveToGitHub() {
   }
 }
 
-function applyExclusions() {
-  jobs = jobs.filter(j => !isTitleExcluded(j.title));
-}
+function applyExclusions() { /* retired: filtering lives in jsa_filters.py */ }
 
 // ── BATCH SELECT ──────────────────────────────────────────
 function toggleSelect(id, checked) {
@@ -543,9 +561,9 @@ function renderJobs() {
   const src = document.getElementById('fsource')?.value||'';
 
   const filtered = jobs.filter(j => {
-    if (!q && isTitleExcluded(j.title)) return false; // only exclude when not searching
     if (q && !j.company.toLowerCase().includes(q) && !j.title.toLowerCase().includes(q)) return false;
-    if (sf && j.status !== sf) return false;
+    if (!sf && j.status === 'Review') return false;          // default feed = verified only
+    if (sf && sf !== '__all' && j.status !== sf) return false;
     if (src && j.source !== src) return false;
     return true;
   });
@@ -569,12 +587,14 @@ function renderJobs() {
       <div class="job-body" onclick="openJob('${j.id}')">
         <div class="job-title">${j.title}</div>
         <div class="job-co">${j.company}${j.location?' · '+j.location:''}${j.salary?' · '+j.salary:''}</div>
+        ${j.status==='Review' && (j.filter_reasons||[]).length ? `<div class="job-co" style="color:var(--amber)">⚑ ${j.filter_reasons.join(' · ')}</div>` : ''}
       </div>
       <div class="job-right">
         <span class="chip ${sc}">${j.status||'New'}</span>
         <span class="chip ch-src">${j.source}</span>
       </div>
       <div class="row-actions">
+        ${j.status==='Review'?`<button class="row-btn" onclick="keepJob(event,'${j.id}')">Keep</button>`:''}
         <button class="row-btn" onclick="editJob(event,'${j.id}')">Edit</button>
         ${!applied?`<button class="row-btn" onclick="markApplied(event,'${j.id}')">Applied</button>`:''}
         <button class="row-btn rm" onclick="removeJob(event,'${j.id}')">Remove</button>
@@ -690,6 +710,13 @@ function renderPipeline() {
   }).join('');
 }
 
+async function keepJob(ev, id) {
+  ev.stopPropagation();
+  const j = jobs.find(x=>x.id===id); if (!j) return;
+  j.status = 'New'; j.reviewed_by_user = true;
+  render(); await saveToGitHub();
+}
+
 async function updateStatus(id,status) {
   const j = jobs.find(x=>x.id===id);
   if (!j) return;
@@ -793,7 +820,7 @@ function goPage(id,el) {
 // ── METRICS ───────────────────────────────────────────────
 function updateMetrics() {
   document.getElementById('m-total').textContent     = jobs.length;
-  document.getElementById('m-unseen').textContent    = jobs.filter(j=>!j.viewed).length;
+  document.getElementById('m-unseen').textContent    = jobs.filter(j=>!j.viewed && j.status!=='Review').length;
   document.getElementById('m-applied').textContent   = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status)).length;
   document.getElementById('m-interview').textContent = jobs.filter(j=>j.status==='Interviewing').length;
   document.getElementById('badge-post').textContent  = jobs.length;

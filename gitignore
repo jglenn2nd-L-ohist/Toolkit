@@ -1,0 +1,4 @@
+jsa_jobs_backup_*.json
+jsa_run.log
+*.orig.py
+*.orig.html
