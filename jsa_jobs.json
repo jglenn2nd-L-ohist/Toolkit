@@ -425,7 +425,7 @@
       "url": "https://www.linkedin.com/jobs/view/4470466891/",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-23T15:09:07.092506+00:00",
       "notes": ""
     },
@@ -3641,5 +3641,5 @@
     "https://www.linkedin.com/jobs/view/4469069422/"
   ],
   "lastRun": "2026-09-23T20:02:45.652694+00:00",
-  "savedAt": "2026-09-24T13:44:31.959Z"
+  "savedAt": "2026-09-24T13:44:42.144Z"
 }
