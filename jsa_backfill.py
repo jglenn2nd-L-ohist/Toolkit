@@ -20,7 +20,11 @@ OPEN_STATUSES = {'New', 'Review', '', None}
 
 
 def main():
+    extra = [a for a in sys.argv[1:] if a != '--apply']
+    if extra:   # fail loudly: a mistyped flag (e.g. an auto-corrected dash) must not silently dry-run
+        sys.exit(f'Unrecognized argument(s): {extra}. The only option is --apply (two plain hyphens).')
     apply = '--apply' in sys.argv
+    print('MODE: APPLY (will write)' if apply else 'MODE: DRY RUN (nothing written)')
     token = os.environ.get('JSA_GH_TOKEN')
     if not token:
         sys.exit('Set JSA_GH_TOKEN first.')
