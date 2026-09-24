@@ -11,4 +11,4 @@ if errorlevel 1 (
   exit /b 1
 )
 git log -1 --format="running commit %%h %%s" >> jsa_run.log
-python jsa_proactive.py >> jsa_run.log 2>&1
+"C:\Users\jglen\AppData\Local\Python\bin\python.exe" jsa_proactive.py >> jsa_run.log 2>&1
