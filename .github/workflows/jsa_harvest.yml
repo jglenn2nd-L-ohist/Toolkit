@@ -29,9 +29,3 @@ jobs:
           JSA_GH_TOKEN: ${{ secrets.JSA_GITHUB_TOKEN }}
           # JSA_DATA_REPO: jglenn2nd-L-ohist/jsa-data   # uncomment after moving data private
         run: python jsa_scraper.py
-
-        env:
-          GMAIL_TOKEN: ${{ secrets.GMAIL_TOKEN }}
-          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
-          JSA_GH_TOKEN: ${{ secrets.JSA_GITHUB_TOKEN }}
-        run: python jsa_scraper.py
