@@ -1,6 +1,55 @@
 {
   "rejects": [
     {
+      "title": "Senior Actuarial Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAE-X3C3O_BPWPyDiJxd9g5popiHWRnR5pYkV7IvOTW3yUEbHgiLJRyi8KimTuAJnKr17N27rIBcicq5__EZbOq8UR9nrtke68Li-KDKy7ctvzGrVEeUwpAmyJlGSoRuSeVPxSyjeuU26HkgYjNHwKP19zzdpNK48drOpaH40UDBkc4UugxQjpLNh8RQuroeMN9DPC-K5SL7i-tQDP0b7x-s1-Dpu17zBnPWDsV9R4gRbH9igmWZWX1yK7imHA77J1BPRKbciNa8lmXKwvmuLucSOCcgGCgvs-NihzcKwH82f63-QW_GoR8I4LRY2AtLDtHxKfXHUB-QDw9Ya6kF9oh28G0gQmGFcBR0_vPGIii94W_5VKwTg6Fr-KRAevbMTHVU-VETtmSyV8rBFk2Crp0?tsid\u00111000153&auth_token=5_1790278992_Yg8qd-kMpms12BKqEZr-cBu9NMGQusU3sx67yuDV1y0&contact_id\ufffdf05452&expires\u001790624592",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:47.132579+00:00"
+    },
+    {
+      "title": "Americas Region Business Analytics Summer 2027 Intern",
+      "company": "UPS",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4460650003/?trackingId=zVTRZF5QE6RtrENehU1h4g%3D%3D&refId=t0EuuOM6mQRgLGqrbCqWHA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BRi%2F%2FM0X0QcaBKN%2B0lsXknw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0hVpKi17hGjIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4460650003_ssid_8694211818_fmid_q9jfse~mugwl0t6~d5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4460650003_ssid_8694211818_fmid_q9jfse~mugwl0t6~d5-null-q9jfse~mugwl0t6~d5-null-null&eid=q9jfse-mugwl0t6-d5&otpToken=OTQ2OWFjNjZkOGQzMDA2ODhkYWNmMjE3ZWVmNWM0NzQxZDM5YWJkMjJhMzRkYTQ2NjU1YmU4MTM1ODM4NzA0MDAzNWVhNjgwNjdjYTc0ZmUzMTk3Y2RkZTdlYWRkM2Y0YWZmM2Q1MjEzMjY1OThiYjRjNTNkZWViNGZjNzE1N2EzODRkMTY1MDI0MDkwNmQ1YzgsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:50.638875+00:00"
+    },
+    {
+      "title": "Sr Business Data Analyst",
+      "company": "DHL Supply Chain",
+      "location": "Fairburn, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4468805791/?trackingId=k6cILyd3nWjWLKtaEOe3AQ%3D%3D&refId=ATWyRdUlMCX%2FC%2BJl5jSesg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BWQaMWsFzQc6MsXGa6cIwsw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3u7wCDiuvOjss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468805791_ssid_8352402866_fmid_q9jfse~mugsapvz~1h&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468805791_ssid_8352402866_fmid_q9jfse~mugsapvz~1h-null-q9jfse~mugsapvz~1h-null-null&eid=q9jfse-mugsapvz-1h&otpToken=MzNjYTI4ZjYxMDYzZjE5MTRhY2Q2Y2RkMjllYThhMmQ0YmY4MmIzYTM2MWU0ZDllNmMwMjc0YTg2NjZiMzBmMmEzM2Q3NTEwNWI2NmNiMjE2ZDQyMThlNzlkYzNmMjdjYmUzNTcwOWFjZTg3YWU2NGE4ZmQzMGRkMWY1NGU0MWQyYmY3NWVmNTFjZDFhYTc0NmYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:50.992874+00:00"
+    },
+    {
+      "title": "IT Data Analyst Intern",
+      "company": "Southwire Company",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4470486078/?trackingId=SfEeNL9cO9qzPkaseWKYxA%3D%3D&refId=kJOGgP0QIaThX0pAbDrIZg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bi3JbC4zkQPKz%2FiemojgC%2BQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0MYjUWRrsijcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470486078_ssid_8694209842_fmid_q9jfse~mugb5f90~qu&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470486078_ssid_8694209842_fmid_q9jfse~mugb5f90~qu-null-q9jfse~mugb5f90~qu-null-null&eid=q9jfse-mugb5f90-qu&otpToken=NDcyMDcyODQzNWZjMDcwYTMyNjY2ZjRkNTRjYjI2ZjY1NWQ3NTI5YTQzZjZkYTk3MmFjN2JmMDc2ZTgzODZlYzRkYTZhMDdjYjFiZGJmMDAxMzQyNTUwNDkwMWQyNGNjY2Q0NGFjYzk5NjNiODBiNDY3MzQ5M2VjOWFiNGZkYzcxNWY5MzVkYTFmYjEyNWExZDIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:52.050661+00:00"
+    },
+    {
       "title": "Data Analyst",
       "company": "ICF",
       "location": "Silver Spring, MD",
