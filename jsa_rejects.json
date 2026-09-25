@@ -1,6 +1,19 @@
 {
   "rejects": [
     {
+      "title": "Management Analyst",
+      "company": "Aptive",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4471111598/?trackingId=qsoQsR1kzMPgXxTkZGBl6A%3D%3D&refId=VQhH5dL5TkuBkXqRkZPkOw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B9434Q1qCRV2srh1QmUKz2g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2x0zokKPdakcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471111598_ssid_8461940610_fmid_q9jfse~muhdqbi8~yx&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471111598_ssid_8461940610_fmid_q9jfse~muhdqbi8~yx-null-q9jfse~muhdqbi8~yx-null-null&eid=q9jfse-muhdqbi8-yx&otpToken=YTcxYTdjOTZiZDE5M2MzNDE3M2Q4NDZmMjY3MTg2OTRlYWRmZTI3MTE4MTIyYjhmMWEyYjhmMWIyMjIzMDc3NTc3ODhjOWM1MzQxYTQ4MTNhZTg4MTQ4YjUxNmQxYmIyODk5ZjJlZTZkYTVkMzE3ZWVhMDFkNDUzZDE1ZmJmNjc3NjljZmNmZGNiOTVhMWYyOWEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T20:19:52.550529+00:00"
+    },
+    {
       "title": "Data Analyst",
       "company": "ICF",
       "location": "Reston, VA",
