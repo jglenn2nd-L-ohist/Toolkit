@@ -1,6 +1,2307 @@
 {
   "rejects": [
     {
+      "title": "Data Analyst",
+      "company": "ICF",
+      "location": "Reston, VA",
+      "url": "https://www.linkedin.com/jobs/view/4470052114/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:VA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:05.815913+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Accenture Federal Services",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4443992995/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:VA",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:07.506939+00:00"
+    },
+    {
+      "title": "SDC Senior Business Systems Analyst---Raleigh, NC, or Dallas, TX",
+      "company": "EY",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4469352379/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:14.478211+00:00"
+    },
+    {
+      "title": "Sr. Business Analyst",
+      "company": "Signers National",
+      "location": "Conshohocken, PA",
+      "url": "https://www.linkedin.com/jobs/view/4470927550/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:PA",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:16.958202+00:00"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Voyatek",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470485990/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:18.659679+00:00"
+    },
+    {
+      "title": "Principal/Lead Business Analyst",
+      "company": "Cvent",
+      "location": "Tysons Corner, VA",
+      "url": "https://www.linkedin.com/jobs/view/4463885808/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "out_of_area:VA",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:20.890897+00:00"
+    },
+    {
+      "title": "Practice Operations Analyst",
+      "company": "OSF HealthCare",
+      "location": "Bloomington, IL",
+      "url": "https://www.linkedin.com/jobs/view/4469622789/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:28.103195+00:00"
+    },
+    {
+      "title": "Senior Analyst, Government Programs Operations - Analysis & Efficiencies",
+      "company": "Judi Health",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4469027978/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:32.392386+00:00"
+    },
+    {
+      "title": "Sr Analyst, Broadband Operational Insights",
+      "company": "T-Mobile",
+      "location": "Overland Park, KS",
+      "url": "https://www.linkedin.com/jobs/view/4470681374/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr",
+        "out_of_area:KS"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:34.043131+00:00"
+    },
+    {
+      "title": "Data Analytics Senior Analyst",
+      "company": "Vertiv",
+      "location": "Pelzer, SC",
+      "url": "https://www.linkedin.com/jobs/view/4443573441/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:42.282920+00:00"
+    },
+    {
+      "title": "Data & Insights Analyst II",
+      "company": "Airlines Reporting Corporation (ARC)",
+      "location": "Louisville, KY",
+      "url": "https://www.linkedin.com/jobs/view/4470007032/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:KY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:44.744994+00:00"
+    },
+    {
+      "title": "Commerce Marketing Analyst",
+      "company": "The Campbell's Company",
+      "location": "Camden, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4443978199/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NJ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:51.612066+00:00"
+    },
+    {
+      "title": "Senior Analyst of Strategic Planning / Data Analytics",
+      "company": "Salesforce",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4471102597/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:WA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:30:59.520816+00:00"
+    },
+    {
+      "title": "Senior Analyst, Sales Analytics",
+      "company": "DoorDash",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4460761245/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:02.025656+00:00"
+    },
+    {
+      "title": "Analytics Engineer, Data Science",
+      "company": "DoorDash",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4432717002/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:10.572077+00:00"
+    },
+    {
+      "title": "Business Intelligence Engineer, Advertiser Experience",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4471898354/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:WA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:12.091300+00:00"
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Spot & Tango",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4435863100/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:14.845198+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Amalgamated Bank",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4450766205/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:24.852839+00:00"
+    },
+    {
+      "title": "Analyst, Client Reporting - Parametric",
+      "company": "Morgan Stanley",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4469611769/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:26.850475+00:00"
+    },
+    {
+      "title": "Product Analytics - Developer Experience, Bridge",
+      "company": "Stripe",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4455961441/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:35.763939+00:00"
+    },
+    {
+      "title": "Senior Product Data Analyst - AP & Network Analytics",
+      "company": "BILL",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470632766/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:37.074426+00:00"
+    },
+    {
+      "title": "Data Analyst, New Grad",
+      "company": "Jobright.ai",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4470326113/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:38.558432+00:00"
+    },
+    {
+      "title": "Product Data Analyst - Digital Analytics",
+      "company": "Hearst Television",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4413315780/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:39.988901+00:00"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "Abbott",
+      "location": "Madison, WI",
+      "url": "https://www.linkedin.com/jobs/view/4468828514/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:WI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:47.179488+00:00"
+    },
+    {
+      "title": "Application System Analyst III - Epic Willow Ambulatory",
+      "company": "University of Maryland Medical System",
+      "location": "Linthicum, MD",
+      "url": "https://www.linkedin.com/jobs/view/4471663304/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MD",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:49.242446+00:00"
+    },
+    {
+      "title": "Experienced Supply Chain Management Analyst",
+      "company": "Boeing",
+      "location": "San Antonio, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470162972/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)",
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:57.435724+00:00"
+    },
+    {
+      "title": "Demand Planning Analyst",
+      "company": "Yara International",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470315386/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:demand plann"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:31:58.905831+00:00"
+    },
+    {
+      "title": "Demand Planning Analyst",
+      "company": "Sofidel S.p.A.",
+      "location": "Bucks County, PA",
+      "url": "https://www.linkedin.com/jobs/view/4469682271/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:demand plann",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:00.832736+00:00"
+    },
+    {
+      "title": "Senior Analyst - Inventory",
+      "company": "Wesco",
+      "location": "Little Rock, AR",
+      "url": "https://www.linkedin.com/jobs/view/4472046576/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:AR"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:02.788683+00:00"
+    },
+    {
+      "title": "Staff Analyst, Inventory Optimization",
+      "company": "Rivian",
+      "location": "Plymouth, MI",
+      "url": "https://www.linkedin.com/jobs/view/4460685102/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:staff",
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:04.894298+00:00"
+    },
+    {
+      "title": "Sr Supply Chain Analyst",
+      "company": "Keurig Dr Pepper Inc.",
+      "location": "Burlington, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472035140/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr",
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:06.680592+00:00"
+    },
+    {
+      "title": "Sr. Business Systems Analyst",
+      "company": "Exzeo",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4463893643/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:30.378706+00:00"
+    },
+    {
+      "title": "ETF Operations Senior Analyst",
+      "company": "Citi",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4461671225/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:38.470613+00:00"
+    },
+    {
+      "title": "BI (Business Intelligence) and Data Analytics Manager",
+      "company": "BGIS",
+      "location": "Hudson, FL",
+      "url": "https://www.linkedin.com/jobs/view/4461676376/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:46.298789+00:00"
+    },
+    {
+      "title": "Payer Back Office Strategy / Technology / Operations Consultant, Senior Associate",
+      "company": "PwC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453644905/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:32:57.777851+00:00"
+    },
+    {
+      "title": "Senior Analytics Data Engineer",
+      "company": "GEICO",
+      "location": "Lakeland, FL",
+      "url": "https://www.linkedin.com/jobs/view/4458352671/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:04.932758+00:00"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Accenture Federal Services",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462470898/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:06.625944+00:00"
+    },
+    {
+      "title": "Lead Analyst Strategic Insights",
+      "company": "Unified Women's Healthcare",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4471692447/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:08.077230+00:00"
+    },
+    {
+      "title": "PROJECT - Data Engineer II",
+      "company": "Deloitte",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471161213/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:10.486230+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Carrier",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4469486222/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:12.773083+00:00"
+    },
+    {
+      "title": "Google Data Engineer",
+      "company": "Slalom",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4458306019/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:14.877355+00:00"
+    },
+    {
+      "title": "Delivery Consultant - Data , Professional Services, AWS Industries",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462101044/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:17.169368+00:00"
+    },
+    {
+      "title": "Hedge Fund Services - Financial Reporting - Associate",
+      "company": "JPMorganChase",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4370155838/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:27.106428+00:00"
+    },
+    {
+      "title": "Partner Financial Matters Senior Associate",
+      "company": "PwC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453677042/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:33.039219+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "company": "AdventHealth",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470460652/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:35.317369+00:00"
+    },
+    {
+      "title": "Product Owner Senior Associate",
+      "company": "The Depository Trust & Clearing Corporation (DTCC)",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470604833/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:44.998791+00:00"
+    },
+    {
+      "title": "Product Development Manager (P&C Auto)",
+      "company": "USAA",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469778843/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:33:46.372860+00:00"
+    },
+    {
+      "title": "SAP - Production Planning - PP - Senior - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4435900776/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:00.432495+00:00"
+    },
+    {
+      "title": "Sr. Financial Systems Analyst, Order to Cash (Zuora)",
+      "company": "Relativity",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4417766974/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:02.199198+00:00"
+    },
+    {
+      "title": "SAP - Product Lifecycle Management - PLM - Senior - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4468933311/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:04.709937+00:00"
+    },
+    {
+      "title": "SAP Functional Senior Consultant",
+      "company": "Deloitte",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462105165/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:06.836895+00:00"
+    },
+    {
+      "title": "Applications Development Tech Lead Analyst",
+      "company": "Citi",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470975277/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:09.301559+00:00"
+    },
+    {
+      "title": "Microsoft D365 ERP (F&O) AI/Copilot Functional Consultant - Senior Associate",
+      "company": "PwC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470694073/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:11.237609+00:00"
+    },
+    {
+      "title": "Applications Support Senior Analyst - Assistant Vice President",
+      "company": "Citi",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4451698866/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:13.541159+00:00"
+    },
+    {
+      "title": "Senior Material Planner Aftermarket",
+      "company": "Carrier",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4467885657/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:23.330920+00:00"
+    },
+    {
+      "title": "Oracle SCM - Senior Associate",
+      "company": "PwC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453675093/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:25.250510+00:00"
+    },
+    {
+      "title": "UxS Acquisition Program Support Analyst",
+      "company": "CACI International Inc",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469318560/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:27.529442+00:00"
+    },
+    {
+      "title": "Master Scheduler (Onsite)",
+      "company": "Collins Aerospace",
+      "location": "Largo, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453130686/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:29.394534+00:00"
+    },
+    {
+      "title": "Inventory Coordinator, QIC",
+      "company": "Cardinal Health",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469640560/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:31.659446+00:00"
+    },
+    {
+      "title": "Supply Chain Management Lead",
+      "company": "SMA: The Program Lifecycle Company",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469486009/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:33.953362+00:00"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company": "McKesson",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4454059794/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:37.522875+00:00"
+    },
+    {
+      "title": "Logistics System & Operations Coordinator",
+      "company": "Diageo",
+      "location": "Huntingwood, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462159898/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:39.171268+00:00"
+    },
+    {
+      "title": "Foreign Military Sales (FMS) Program Analyst",
+      "company": "Akytech Consulting LLC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469350136/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:41.462792+00:00"
+    },
+    {
+      "title": "Source-to-pay Technology Consultant (Coupa, ZIP, GEP) Senior Associate",
+      "company": "PwC",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470683698/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:43.380600+00:00"
+    },
+    {
+      "title": "Senior, Indirect Tax Technology - Global Trade Analytics",
+      "company": "Deloitte",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4426396062/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:45.906506+00:00"
+    },
+    {
+      "title": "Senior Financial Reporting Analyst",
+      "company": "Hilton Grand Vacations",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469774675/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:34:57.776275+00:00"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Northrop Grumman",
+      "location": "Apopka, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471837849/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:08.407272+00:00"
+    },
+    {
+      "title": "Commercial Analytics and Forecasting - Life Sciences - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4450496921/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:10.126075+00:00"
+    },
+    {
+      "title": "Senior Manager, Applied Analytics",
+      "company": "(USTA) United States Tennis Association",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4452154510/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:11.889029+00:00"
+    },
+    {
+      "title": "Sr Financial Analyst",
+      "company": "AdventHealth",
+      "location": "Altamonte Springs, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471691429/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:13.797672+00:00"
+    },
+    {
+      "title": "Enterprise Fraud Management Support Specialist II",
+      "company": "Truist",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471839016/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:19.913518+00:00"
+    },
+    {
+      "title": "Senior Consultant - Finance",
+      "company": "Raftelis",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4457971384/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:22.058427+00:00"
+    },
+    {
+      "title": "Senior Business Analyst - BPMN",
+      "company": "CLA (CliftonLarsonAllen)",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469421291/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:31.985694+00:00"
+    },
+    {
+      "title": "Senior Corporate Financial Systems Analyst",
+      "company": "Federal Express Corporation",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470474808/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:34.340544+00:00"
+    },
+    {
+      "title": "Financial Services - Tech Consulting - Guidewire - Business Analyst - Manager",
+      "company": "EY",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4449808757/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:35.770135+00:00"
+    },
+    {
+      "title": "Business Process Specialist - All Levels",
+      "company": "Toho Water Authority",
+      "location": "Kissimmee, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472023411/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:38.054595+00:00"
+    },
+    {
+      "title": "Use Case Lead - PLM Transformation",
+      "company": "Siemens Energy",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470049173/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:40.661613+00:00"
+    },
+    {
+      "title": "SAP Project System Consultant",
+      "company": "Siemens Energy",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4320495958/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:43.096112+00:00"
+    },
+    {
+      "title": "Product Owner (Claims)",
+      "company": "TurningPoint Healthcare Solutions",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471873289/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:45.474388+00:00"
+    },
+    {
+      "title": "Lead Functional Consultant, Microsoft D365 F&SCM Finance",
+      "company": "LHH",
+      "location": "Oviedo, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469027645/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:47.365004+00:00"
+    },
+    {
+      "title": "Lead Functional Consultant, Microsoft D365 F&SCM Supply Chain",
+      "company": "LHH",
+      "location": "Oviedo, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469019969/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:49.575638+00:00"
+    },
+    {
+      "title": "Lead Functional Consultant D365 F&SCM Supply Chain",
+      "company": "A. Duda & Sons, Inc.",
+      "location": "Oviedo, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469764952/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:52.205541+00:00"
+    },
+    {
+      "title": "ServiceNow Delivery Senior Consultant",
+      "company": "Deloitte",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4454334770/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:54.251356+00:00"
+    },
+    {
+      "title": "Lead Functional Consultant D365 F&SCM Finance",
+      "company": "A. Duda & Sons, Inc.",
+      "location": "Oviedo, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469782138/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:57.246211+00:00"
+    },
+    {
+      "title": "SAP BRIM Consultant, Senior Associate",
+      "company": "PwC",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453658834/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:35:59.698663+00:00"
+    },
+    {
+      "title": "Business Analyst Senior Manager, DT&I",
+      "company": "BDO USA",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453006147/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:01.358230+00:00"
+    },
+    {
+      "title": "Operations Specialist, TDS Global Asset Servicing",
+      "company": "TD Securities",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4465561406/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:09.608776+00:00"
+    },
+    {
+      "title": "Production Planning & Control Analyst, Senior",
+      "company": "ASRC Federal",
+      "location": "Merritt Island, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471112512/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:13.646555+00:00"
+    },
+    {
+      "title": "Senior Specialist, Investor Services Operations",
+      "company": "BNY",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471650980/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:15.002644+00:00"
+    },
+    {
+      "title": "Items Analyst Associate - Level 1",
+      "company": "Lockheed Martin",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470156637/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:17.363465+00:00"
+    },
+    {
+      "title": "Workforce Management Specialist - Contact Center",
+      "company": "FAIRWINDS Credit Union",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469323399/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:19.663443+00:00"
+    },
+    {
+      "title": "Items Analyst - Level 2",
+      "company": "Lockheed Martin",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470160377/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:21.232426+00:00"
+    },
+    {
+      "title": "Senior Specialist, Client Processing",
+      "company": "BNY",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4434740617/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:23.890410+00:00"
+    },
+    {
+      "title": "Senior Fuel Portfolio Analyst",
+      "company": "Orlando Utilities Commission (OUC - The Reliable One)",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4460569228/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:26.277076+00:00"
+    },
+    {
+      "title": "Operations Coordinator",
+      "company": "EBG",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470989636/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:31.466822+00:00"
+    },
+    {
+      "title": "Integrated Business Planning Strategist (Management Consulting Experience Required)",
+      "company": "Slalom",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470036342/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:41.855536+00:00"
+    },
+    {
+      "title": "Manager, Data Scientist (Sales and Marketing Platforms)",
+      "company": "KPMG US",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469660792/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:50.465344+00:00"
+    },
+    {
+      "title": "Digital Marketing Account Manager (US)",
+      "company": "Paul Gough Media LLC",
+      "location": "Celebration, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471179213/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:52.291012+00:00"
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "company": "Roylo Partners",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469443190/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:54.907052+00:00"
+    },
+    {
+      "title": "Commercial Operations Internship",
+      "company": "Mitsubishi Power Americas",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471674819/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:internship"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:56.288665+00:00"
+    },
+    {
+      "title": "Senior Developer, Campaign & Journey Automation",
+      "company": "Universal Orlando Resort",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469672602/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:36:58.025739+00:00"
+    },
+    {
+      "title": "AVP, Specialty & Wellness Marketing, Focus Markets",
+      "company": "Synchrony",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471601061/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:02.252705+00:00"
+    },
+    {
+      "title": "Marketing Coordinator",
+      "company": "Assisting Hands Home Care Serving West Orange & Surrounding Areas",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470322681/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:04.414320+00:00"
+    },
+    {
+      "title": "Business Manager, Marketing and Centralized Operations",
+      "company": "Hillpointe",
+      "location": "Winter Park, FL",
+      "url": "https://www.linkedin.com/jobs/view/4461797971/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:09.225564+00:00"
+    },
+    {
+      "title": "Junior Marketing Manager",
+      "company": "Central Florida Campaigns",
+      "location": "Greater Orlando",
+      "url": "https://www.linkedin.com/jobs/view/4468218374/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:11.854611+00:00"
+    },
+    {
+      "title": "Senior Marketing Coordinator / Proposal Specialist",
+      "company": "Chen Moore and Associates",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470337421/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:14.583381+00:00"
+    },
+    {
+      "title": "Delivery Consultant, Technology Strategic Support Solutions",
+      "company": "Deloitte",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462110036/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:20.778102+00:00"
+    },
+    {
+      "title": "Experienced Associate, Industry Specialty Services",
+      "company": "BDO USA",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4460751789/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:22.971890+00:00"
+    },
+    {
+      "title": "Senior Associate, Industry Specialty Services",
+      "company": "BDO USA",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4460760806/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:25.073066+00:00"
+    },
+    {
+      "title": "Security Program Analyst",
+      "company": "Akima",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470031907/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:29.329097+00:00"
+    },
+    {
+      "title": "Financial Management - E2",
+      "company": "Lockheed Martin",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470168258/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:31.278097+00:00"
+    },
+    {
+      "title": "Data Engineer - Senior - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469346582/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:39.121231+00:00"
+    },
+    {
+      "title": "Data Engineer - Manager - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4459566435/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:40.445542+00:00"
+    },
+    {
+      "title": "Manager, Data Solutions Delivery",
+      "company": "KPMG US",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469413226/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:43.102288+00:00"
+    },
+    {
+      "title": "Data Architect - Technology Architecture",
+      "company": "Publix Super Markets",
+      "location": "Lakeland, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470914248/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:45.801308+00:00"
+    },
+    {
+      "title": "Data Engineer - Senior Manager",
+      "company": "PwC",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453640831/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:48.530062+00:00"
+    },
+    {
+      "title": "Cloud Data Platform Architect",
+      "company": "Insight Global",
+      "location": "Altamonte Springs, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469662943/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:51.070062+00:00"
+    },
+    {
+      "title": "OneStream Senior Developer AI and Analytics Solutions Delivery Manager",
+      "company": "Deloitte",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462784114/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:52.622934+00:00"
+    },
+    {
+      "title": "Head of Data, ML & Analytics",
+      "company": "Village Farms International Inc.",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4449418549/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:head of"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:37:53.964783+00:00"
+    },
+    {
+      "title": "Senior Controlling Professional",
+      "company": "Siemens Energy",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469697734/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:00.413263+00:00"
+    },
+    {
+      "title": "Financial Management Associate - E1",
+      "company": "Lockheed Martin",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469743549/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:05.779388+00:00"
+    },
+    {
+      "title": "Financial Management Asc - E1",
+      "company": "Lockheed Martin",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469733942/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:09.837592+00:00"
+    },
+    {
+      "title": "Experienced Financial Analyst",
+      "company": "Boeing",
+      "location": "Titusville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470167862/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:11.940768+00:00"
+    },
+    {
+      "title": "Financial Planning Analyst Associate",
+      "company": "Amentum",
+      "location": "Center Hill, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471689154/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:17.521825+00:00"
+    },
+    {
+      "title": "Associate Product Manager (Project Hire)",
+      "company": "Disney Experiences",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470691124/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:24.292404+00:00"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Disney Experiences",
+      "location": "Celebration, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470671818/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:26.170311+00:00"
+    },
+    {
+      "title": "Product Manager",
+      "company": "INSPYR Solutions",
+      "location": "Lake Buena Vista, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471629053/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:28.444258+00:00"
+    },
+    {
+      "title": "Analyste fonctionnel TI - ERP",
+      "company": "AMETEK",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471122495/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:41.676477+00:00"
+    },
+    {
+      "title": "Systems Engineer - E2",
+      "company": "Lockheed Martin",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469735927/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:44.381602+00:00"
+    },
+    {
+      "title": "Workday Adaptive, Configuration and Integration Solutions Senior Consultant",
+      "company": "Deloitte",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472006164/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:45.920626+00:00"
+    },
+    {
+      "title": "CLINICAL INFORMATICS SPECIALIST - FULL TIME",
+      "company": "JumpStart Games",
+      "location": "Lakeland, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470903354/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:47.847353+00:00"
+    },
+    {
+      "title": "Senior Associate, Global Trade Technology",
+      "company": "KPMG US",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469049772/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:49.557161+00:00"
+    },
+    {
+      "title": "Systems Engineer Sr - E3",
+      "company": "Lockheed Martin",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470163341/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:50.906934+00:00"
+    },
+    {
+      "title": "Oracle Cloud Finance PPM/AHCS - Senior Associate",
+      "company": "PwC",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453664698/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:52.840556+00:00"
+    },
+    {
+      "title": "Items Analyst -  Level 2",
+      "company": "Lockheed Martin",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470171179/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:38:59.559840+00:00"
+    },
+    {
+      "title": "Supply Chain Program Coordinator",
+      "company": "Thales",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471894314/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:01.163267+00:00"
+    },
+    {
+      "title": "Materials Planner",
+      "company": "NVR, Inc.",
+      "location": "Haines City, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462474387/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:03.839005+00:00"
+    },
+    {
+      "title": "Production Planner",
+      "company": "Vibrant Ingredients",
+      "location": "Eustis, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469442582/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:05.287408+00:00"
+    },
+    {
+      "title": "Production Control Specialist III",
+      "company": "Blue Origin",
+      "location": "Merritt Island, FL",
+      "url": "https://www.linkedin.com/jobs/view/4468928959/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:07.694314+00:00"
+    },
+    {
+      "title": "Logistics Operations Support Specialist",
+      "company": "Galapagos Federal Systems",
+      "location": "Cocoa Beach, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469607642/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:09.462042+00:00"
+    },
+    {
+      "title": "Supply Chain Specialist Coordinator",
+      "company": "AdventHealth",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471693338/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:11.889461+00:00"
+    },
+    {
+      "title": "Global Sourcing Specialist II",
+      "company": "Mitsubishi Power Americas",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470611737/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:13.364893+00:00"
+    },
+    {
+      "title": "Production Planner",
+      "company": "HireTalent",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471689024/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:15.828729+00:00"
+    },
+    {
+      "title": "Senior Production Control Specialist",
+      "company": "Global Technical Talent, an Inc. 5000 Company",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4468597891/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:18.538129+00:00"
+    },
+    {
+      "title": "Production Control Planner",
+      "company": "IntelliPro",
+      "location": "Cape Canaveral, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472053408/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:20.005405+00:00"
+    },
+    {
+      "title": "Procurement Specialist (SAP)",
+      "company": "Infosoft, Inc.",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472016846/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:21.485113+00:00"
+    },
+    {
+      "title": "Risk Analysis Specialist III",
+      "company": "Bank of America",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470632428/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:36.293460+00:00"
+    },
+    {
+      "title": "Senior Staff Fraud Strategy Analyst, Card",
+      "company": "SoFi",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470616768/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:42.138416+00:00"
+    },
+    {
+      "title": "TEMPORARY TALENT WORKFORCE: Specialist Lead, Analytics & Insights (Data Visualization)",
+      "company": "Deloitte",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471804883/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:45.456815+00:00"
+    },
+    {
+      "title": "Senior HR Business Analyst",
+      "company": "RS&H",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462005104/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:48.903934+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst, FP&A Corporate Planning (34727)",
+      "company": "KLS Martin Group",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469052647/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:54.496544+00:00"
+    },
+    {
+      "title": "Associate Data Engineer",
+      "company": "Tundra Technical Solutions",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469465567/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:39:56.063326+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "company": "Johnson & Johnson",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471136100/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:00.547561+00:00"
+    },
+    {
+      "title": "Technology Consulting- Microsoft Dynamics 365 Finance & Operations Business Analyst- Senior",
+      "company": "EY",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4441087038/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:07.665396+00:00"
+    },
+    {
+      "title": "Senior Anti-Fraud Consultant",
+      "company": "Infosys Consulting",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470180353/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:11.437358+00:00"
+    },
+    {
+      "title": "Bank Platform Transformation - Core Banking Modernization - Sr Associate",
+      "company": "PwC",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4453658832/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:22.408396+00:00"
+    },
+    {
+      "title": "Transformation - Oracle Senior Associate",
+      "company": "Grant Thornton (US)",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4440497707/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:26.921067+00:00"
+    },
+    {
+      "title": "Senior Lead Technology Analyst, Agentic AI Platforms",
+      "company": "FIS",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471135717/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:29.129167+00:00"
+    },
+    {
+      "title": "Senior Implementation Consultant - Investment Management",
+      "company": "SS&C Technologies",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470611938/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:33.204380+00:00"
+    },
+    {
+      "title": "Operations & Supply Chain Process Engineer (34838)",
+      "company": "KLS Martin Group",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471641181/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:51.140746+00:00"
+    },
+    {
+      "title": "Epic Payer Platform, Senior Associate",
+      "company": "PwC",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470989449/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:52.816468+00:00"
+    },
+    {
+      "title": "Quality Improvement Specialist",
+      "company": "Angel Kids Pediatrics",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471163991/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:56.863517+00:00"
+    },
+    {
+      "title": "Payer Dev, Git & ML-Ops Engineer, Senior Associate",
+      "company": "PwC",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471822123/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:40:58.908787+00:00"
+    },
+    {
+      "title": "Global Workforce Optimization Data Architecture Lead Analyst Vice President",
+      "company": "Citi",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4450092625/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:06.725208+00:00"
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "company": "Evolve Research",
+      "location": "St Augustine, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470642404/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:18.988264+00:00"
+    },
+    {
+      "title": "Pharma Pricing and Market Access Consultant - Senior Associate",
+      "company": "PwC",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462821114/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:23.984471+00:00"
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "company": "Ascendo Resources",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470610317/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:25.477829+00:00"
+    },
+    {
+      "title": "Manager, Digital Media Strategy",
+      "company": "ICE",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462098385/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:28.227365+00:00"
+    },
+    {
+      "title": "Marketing & Proposal Specialist III - Water",
+      "company": "The Haskell Company",
+      "location": "Metro Jacksonville",
+      "url": "https://www.linkedin.com/jobs/view/4441015366/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:30.800442+00:00"
+    },
+    {
+      "title": "Operational Product Manager I (34897)",
+      "company": "KLS Martin Group",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469052651/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:32.197655+00:00"
+    },
+    {
+      "title": "Marketing and Procurement Specialist",
+      "company": "Geosyntec Consultants",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470036250/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:34.356701+00:00"
+    },
+    {
+      "title": "Executive Impact Studio Producer - Deloitte Greenhouse - Consultant Level",
+      "company": "Deloitte",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4471892847/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:36.440886+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Social Media Content, Firehouse Subs, US&C",
+      "company": "Firehouse Subs",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4462441848/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:38.186162+00:00"
+    },
+    {
+      "title": "Marketing Coordinator",
+      "company": "Dion Marketing",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4374148991/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:42.760979+00:00"
+    },
+    {
+      "title": "Marketing Coordinator - Business Development",
+      "company": "Wounded Warrior Project",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472044587/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:44.523630+00:00"
+    },
+    {
+      "title": "Commercial Manager",
+      "company": "Acosta Group",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4460423394/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:46.676218+00:00"
+    },
+    {
+      "title": "Category Coordinator",
+      "company": "The Winn-Dixie Company",
+      "location": "Metro Jacksonville",
+      "url": "https://www.linkedin.com/jobs/view/4462708368/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:48.559056+00:00"
+    },
+    {
+      "title": "VP \u2013 Rewards Reengineering - Strategy and Analytics",
+      "company": "Citi",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4470314972/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:vp"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:50.189543+00:00"
+    },
+    {
+      "title": "Senior Associate, Content & Creative Product Owner",
+      "company": "KPMG US",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469062547/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:52.437937+00:00"
+    },
+    {
+      "title": "Consultant, Strategy, Growth, and Transformation",
+      "company": "Deloitte",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4434994736/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:41:59.657234+00:00"
+    },
+    {
+      "title": "Principal Product Intelligence Analyst (Cortex Cloud, Identity and Data Security)",
+      "company": "Palo Alto Networks",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4459990857/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:principal"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:03.373604+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst - Transformation Office",
+      "company": "Kraton Corporation",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4431994626/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:05.211167+00:00"
+    },
+    {
+      "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+      "company": "Affirm",
+      "location": "Remote Poland",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:full stack",
+        "foreign:Remote Poland"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:15.100959+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:15.101033+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack (Strategic Revenue Insights)",
+      "company": "Affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7871456003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:15.101060+00:00"
+    },
+    {
+      "title": "Senior Software Engineer, Backend (Lake Analytics Platform) ",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:15.101280+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "company": "Samsara",
+      "location": "Remote - Canada",
+      "url": "https://www.samsara.com/company/careers/roles/8223744?gh_jid=8223744",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "foreign:Remote - Canada"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-25T17:42:19.135331+00:00"
+    },
+    {
       "title": "Senior Actuarial Analyst",
       "company": "See posting",
       "location": "",
