@@ -967,8 +967,8 @@
       "salary": "",
       "url": "https://www.linkedin.com/comm/jobs/view/4470959465/?trackingId�KgFelmPPva%2BfFV2P62UQ%3D%3D&refId=eLbewc3dElYn8XtHljKrLA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZs0usHGpTBqL37bcjK3Pjw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1JGlBGqrAOiIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4470959465_ssid_15402374820_fmid_q9jfse~mufu058b~zj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4470959465_ssid_15402374820_fmid_q9jfse~mufu058b~zj-null-q9jfse~mufu058b~zj-null-null&eid=q9jfse-mufu058b-zj&otpToken=MTlhNGNmODliNDU4YmJhMTE5NDNlZjZhZWY3M2ZmZTFlYjliOTY2MGNjMGJlNzg3MzNmZTUzY2NmMGZlZWY4YWY1M2EzMWE2NDBmMWUzNzRiODUzZDJkMjcwZjZkMTY1MzE5ZTk3NWNjNzVmYzMzNzY0ZGQ2ZGZkMzYzZmJmM2JlMzA3YWM1ZTlmNDI0NTc5ZGYsMiwx",
       "source": "LinkedIn",
-      "status": "Review",
-      "viewed": false,
+      "status": "Applied",
+      "viewed": true,
       "dateAdded": "2026-09-24T19:23:33.863395+00:00",
       "notes": "",
       "enriched": true,
@@ -977,7 +977,8 @@
         "jd_term:onsite_or_hybrid"
       ],
       "loc_class": "us_remote",
-      "filter_version": "2026-09-24.3"
+      "filter_version": "2026-09-24.3",
+      "reviewed_by_user": true
     },
     {
       "id": "1a0d486eb8eD2u8",
@@ -4197,5 +4198,5 @@
     "https://www.linkedin.com/jobs/view/4435173069/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T14:02:05.223Z"
+  "savedAt": "2026-09-25T14:02:46.223Z"
 }
