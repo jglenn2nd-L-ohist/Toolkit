@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0d8c30441Nk_E",
-      "company": "Tata Consultancy Services",
-      "title": "Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4453266224/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:30:54.401754+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c3133bB_UM",
       "company": "Capgemini",
       "title": "Salesforce Business Analyst",
@@ -4195,8 +4176,9 @@
     "https://www.linkedin.com/comm/jobs/view/4469993231/?trackingId=LreH%2FK9FsPV6fE1WbpRzlw%3D%3D&refId=LfxH7Vr5aLduVAlez2lSRw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjarEXGbnQAi%2F3QXUvVy0HA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2PAAbUZb1iics1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4469993231_ssid_8797982178_fmid_q9jfse~mufcuvcm~2i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4469993231_ssid_8797982178_fmid_q9jfse~mufcuvcm~2i-null-q9jfse~mufcuvcm~2i-null-null&eid=q9jfse-mufcuvcm-2i&otpToken=YWU2OTczY2IxODdkYWIwNWRhNmFmMjA4NGUxN2EyOTNhODdjYTExZDdhMmJhYTY0ZjQxZTg5NDJmN2ZmMjhmZjNhZGQwZmQ5NzFlYTExYjFhMDkyYTVjZDg4OTZkZjI0ZTg1OTYxOWE3ODNhZDUzYTI0ZTE1YTk0Mjk0MWY0YTIxOTc2MzA4MDUxNDVlYzBkNWMsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4470227934/?trackingId=g14ZxcpUueNF%2F1bmp0WWUA%3D%3D&refId=LfxH7Vr5aLduVAlez2lSRw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjarEXGbnQAi%2F3QXUvVy0HA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2PAAbUZb1iics1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470227934_ssid_8797982178_fmid_q9jfse~mufcuvcm~2i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470227934_ssid_8797982178_fmid_q9jfse~mufcuvcm~2i-null-q9jfse~mufcuvcm~2i-null-null&eid=q9jfse-mufcuvcm-2i&otpToken=YWU2OTczY2IxODdkYWIwNWRhNmFmMjA4NGUxN2EyOTNhODdjYTExZDdhMmJhYTY0ZjQxZTg5NDJmN2ZmMjhmZjNhZGQwZmQ5NzFlYTExYjFhMDkyYTVjZDg4OTZkZjI0ZTg1OTYxOWE3ODNhZDUzYTI0ZTE1YTk0Mjk0MWY0YTIxOTc2MzA4MDUxNDVlYzBkNWMsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4470227163/?trackingId=AJWASQ61b8U3pxkaptvCWg%3D%3D&refId=zy1AcIyhZa0Fgup%2BE6t2pA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Baipnzq1CRQ28lB5%2BhU8bow%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1WyaHdE792iss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470227163_ssid_8694209842_fmid_q9jfse~muflfifu~sf&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4470227163_ssid_8694209842_fmid_q9jfse~muflfifu~sf-null-q9jfse~muflfifu~sf-null-null&eid=q9jfse-muflfifu-sf&otpToken=ODRkYmY2Yzg3ZGI5YmI2N2Y2YTU2Y2U2ZTI2ZDBjZmU2MWE4NWEzZGM3NmM2YzdmYjkwNWVkZDc5NWIyMTllZjU5YzQ4Mjg1ZDVlZmYzMmE0YThiNjY1NDZkNGY1NTc4MzEzMWYxZTdkYzYwNGY0ZjY1NzU2MzMzNDVhYjBkOTk3YzFhZmU3YjdmODc4MDVkNjEsMiwx",
-    "https://www.linkedin.com/jobs/view/4435173069/"
+    "https://www.linkedin.com/jobs/view/4435173069/",
+    "https://www.linkedin.com/jobs/view/4453266224/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T14:03:08.904Z"
+  "savedAt": "2026-09-25T14:03:33.618Z"
 }
