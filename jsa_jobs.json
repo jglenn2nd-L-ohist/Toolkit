@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0d8c35d6ecb0S",
-      "company": "Raymond James",
-      "title": "ServiceNow Business Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459974176/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:31:17.230604+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0d8c4895b5sLH",
       "company": "Ally",
       "title": "Analyst - Business Intelligence",
@@ -4141,8 +4120,9 @@
     "https://www.linkedin.com/jobs/view/4435173069/",
     "https://www.linkedin.com/jobs/view/4453266224/",
     "https://www.linkedin.com/jobs/view/4471625838/",
-    "https://www.linkedin.com/jobs/view/4451947557/"
+    "https://www.linkedin.com/jobs/view/4451947557/",
+    "https://www.linkedin.com/jobs/view/4459974176/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T14:06:22.785Z"
+  "savedAt": "2026-09-25T14:07:51.975Z"
 }
