@@ -20,25 +20,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a0d8c526c2Oe9H",
-      "company": "Purpose Financial",
-      "title": "Marketing Analyst",
-      "location": "Greenville, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4449145354/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:33:14.306636+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c59d51A4Pt",
       "company": "Crowley",
       "title": "Analyst, Strategy",
@@ -4065,8 +4046,9 @@
     "https://www.linkedin.com/jobs/view/4459974176/",
     "https://www.linkedin.com/jobs/view/4471627478/",
     "https://www.linkedin.com/jobs/view/4471804055/",
-    "https://www.linkedin.com/jobs/view/4451933467/"
+    "https://www.linkedin.com/jobs/view/4451933467/",
+    "https://www.linkedin.com/jobs/view/4449145354/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T16:52:31.289Z"
+  "savedAt": "2026-09-25T16:52:51.096Z"
 }
