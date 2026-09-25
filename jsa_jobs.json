@@ -17,7 +17,7 @@
       "filter_reasons": [],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a0d8c4b65dLN0b",
@@ -4124,5 +4124,5 @@
     "https://www.linkedin.com/jobs/view/4459974176/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T14:07:55.043Z"
+  "savedAt": "2026-09-25T14:19:32.740Z"
 }
