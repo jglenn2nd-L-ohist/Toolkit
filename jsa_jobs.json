@@ -20,25 +20,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a0d8c4b65dLN0b",
-      "company": "First Command Financial Services, Inc.",
-      "title": "Marketing Insights Analyst",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471627478/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:32:45.533334+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c51206CBTr",
       "company": "GoTo Foods",
       "title": "Marketing Insights Analyst",
@@ -4121,8 +4102,9 @@
     "https://www.linkedin.com/jobs/view/4453266224/",
     "https://www.linkedin.com/jobs/view/4471625838/",
     "https://www.linkedin.com/jobs/view/4451947557/",
-    "https://www.linkedin.com/jobs/view/4459974176/"
+    "https://www.linkedin.com/jobs/view/4459974176/",
+    "https://www.linkedin.com/jobs/view/4471627478/"
   ],
   "lastRun": "2026-09-24T19:24:04.222098+00:00",
-  "savedAt": "2026-09-25T16:51:31.377Z"
+  "savedAt": "2026-09-25T16:51:50.298Z"
 }
