@@ -1110,25 +1110,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d8c7c972HdYB",
-      "company": "WakeMed",
-      "title": "Systems Analyst II, Business",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470023931/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-25T13:36:07.026220+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c7dc5a8qKy",
       "company": "Resmed",
       "title": "Business Systems Analyst (Supply Chain & Distribution)",
@@ -5002,8 +4983,9 @@
     "https://www.linkedin.com/jobs/view/4461355106/",
     "https://www.linkedin.com/jobs/view/4471443411/",
     "https://www.linkedin.com/jobs/view/4471893332/",
-    "https://www.linkedin.com/jobs/view/4454524065/"
+    "https://www.linkedin.com/jobs/view/4454524065/",
+    "https://www.linkedin.com/jobs/view/4470023931/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:06:52.169Z"
+  "savedAt": "2026-09-26T04:07:32.598Z"
 }
