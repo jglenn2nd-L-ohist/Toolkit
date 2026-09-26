@@ -1674,24 +1674,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced5e5add9ud",
-      "company": "Public Storage",
-      "title": "Marketing Business Analyst",
-      "location": "Frisco, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459572539/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:15:19.597300+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced6169ah9ex",
       "company": "Allegis Global Solutions",
       "title": "Data Analyst 3",
@@ -4425,8 +4407,9 @@
     "https://www.linkedin.com/jobs/view/4464134488/",
     "https://www.linkedin.com/jobs/view/4468579846/",
     "https://www.linkedin.com/jobs/view/4469964001/",
-    "https://www.linkedin.com/jobs/view/4467811383/"
+    "https://www.linkedin.com/jobs/view/4467811383/",
+    "https://www.linkedin.com/jobs/view/4459572539/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:26:07.221Z"
+  "savedAt": "2026-09-26T04:26:40.469Z"
 }
