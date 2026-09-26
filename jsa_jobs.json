@@ -1614,24 +1614,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced3f3539FLB",
-      "company": "Flowserve Corporation",
-      "title": "IT Business Analyst, Enterprise Applications",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468947151/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:13:12.019763+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced3ff68LReF",
       "company": "Synechron",
       "title": "Technical Business Analyst",
@@ -4528,8 +4510,9 @@
     "https://www.linkedin.com/jobs/view/4467623795/",
     "https://www.linkedin.com/jobs/view/4469449748/",
     "https://www.linkedin.com/jobs/view/4470638112/",
-    "https://www.linkedin.com/jobs/view/4468927229/"
+    "https://www.linkedin.com/jobs/view/4468927229/",
+    "https://www.linkedin.com/jobs/view/4468947151/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:23:27.694Z"
+  "savedAt": "2026-09-26T04:23:35.489Z"
 }
