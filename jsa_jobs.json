@@ -1574,24 +1574,6 @@
       "notes": ""
     },
     {
-      "id": "1a0ced33095PAcg",
-      "company": "Google",
-      "title": "Business Data Analyst I, Google Global Infrastructure, Strategy and Operations",
-      "location": "Addison, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467623795/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:12:22.165060+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced33a24X5JC",
       "company": "AARATECH",
       "title": "Data Analyst",
@@ -4596,8 +4578,9 @@
     "https://www.linkedin.com/jobs/view/4461535730/",
     "https://www.linkedin.com/jobs/view/4470955843/",
     "https://www.linkedin.com/jobs/view/4470462990/",
-    "https://www.linkedin.com/jobs/view/4469959271/"
+    "https://www.linkedin.com/jobs/view/4469959271/",
+    "https://www.linkedin.com/jobs/view/4467623795/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:21:47.662Z"
+  "savedAt": "2026-09-26T04:22:12.655Z"
 }
