@@ -1674,24 +1674,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced52b38vRwo",
-      "company": "Fay Financial",
-      "title": "Business Intelligence Developer",
-      "location": "Farmers Branch, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469964001/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-23T15:14:31.864297+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced53fc9otqg",
       "company": "The Stewart Organization",
       "title": "Business Systems Analyst II",
@@ -4459,8 +4441,9 @@
     "https://www.linkedin.com/jobs/view/4468927229/",
     "https://www.linkedin.com/jobs/view/4468947151/",
     "https://www.linkedin.com/jobs/view/4464134488/",
-    "https://www.linkedin.com/jobs/view/4468579846/"
+    "https://www.linkedin.com/jobs/view/4468579846/",
+    "https://www.linkedin.com/jobs/view/4469964001/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:25:49.404Z"
+  "savedAt": "2026-09-26T04:25:52.981Z"
 }
