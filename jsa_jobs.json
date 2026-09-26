@@ -1674,24 +1674,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced53fc9otqg",
-      "company": "The Stewart Organization",
-      "title": "Business Systems Analyst II",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467811383/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:14:37.129315+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced5e5add9ud",
       "company": "Public Storage",
       "title": "Marketing Business Analyst",
@@ -4442,8 +4424,9 @@
     "https://www.linkedin.com/jobs/view/4468947151/",
     "https://www.linkedin.com/jobs/view/4464134488/",
     "https://www.linkedin.com/jobs/view/4468579846/",
-    "https://www.linkedin.com/jobs/view/4469964001/"
+    "https://www.linkedin.com/jobs/view/4469964001/",
+    "https://www.linkedin.com/jobs/view/4467811383/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:25:55.321Z"
+  "savedAt": "2026-09-26T04:26:04.595Z"
 }
