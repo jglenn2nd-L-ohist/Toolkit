@@ -1215,25 +1215,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d8c9530cgyeB",
-      "company": "Palmetto Technology Group (PTG)",
-      "title": "AI Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471162872/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:37:47.789023+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c95a94h2LT",
       "company": "Fisher Investments",
       "title": "Global Business Process Management Analyst",
@@ -4894,8 +4875,9 @@
     "https://www.linkedin.com/jobs/view/4469400204/",
     "https://www.linkedin.com/jobs/view/4471685668/",
     "https://www.linkedin.com/jobs/view/4470605439/",
-    "https://www.linkedin.com/jobs/view/4453395926/"
+    "https://www.linkedin.com/jobs/view/4453395926/",
+    "https://www.linkedin.com/jobs/view/4471162872/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:13:39.160Z"
+  "savedAt": "2026-09-26T04:15:16.221Z"
 }
