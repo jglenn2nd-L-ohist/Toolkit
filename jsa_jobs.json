@@ -1574,24 +1574,6 @@
       "notes": ""
     },
     {
-      "id": "1a0ced242dau9LO",
-      "company": "CornerStone Technology Talent Services",
-      "title": "Supply Chain Analyst",
-      "location": "Lancaster, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467669340/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:11:21.306755+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced2603bc-c4",
       "company": "Flex",
       "title": "Logistics Analyst",
@@ -4702,5 +4684,5 @@
     "https://www.linkedin.com/jobs/view/4469047464/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:20:02.601Z"
+  "savedAt": "2026-09-26T04:20:14.839Z"
 }
