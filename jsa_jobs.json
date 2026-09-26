@@ -1447,25 +1447,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d8cb3c551Rlw",
-      "company": "Vector Solutions",
-      "title": "CRM Analytics Engineer",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471106805/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:39:53.045827+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8cb7140XvmZ",
       "company": "FullStack",
       "title": "Healthcare Data and Analytics Specialist - Remote - USA",
@@ -4804,8 +4785,9 @@
     "https://www.linkedin.com/jobs/view/4471842506/",
     "https://www.linkedin.com/jobs/view/4461679076/",
     "https://www.linkedin.com/jobs/view/4470489789/",
-    "https://www.linkedin.com/jobs/view/4461718981/"
+    "https://www.linkedin.com/jobs/view/4461718981/",
+    "https://www.linkedin.com/jobs/view/4471106805/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:18:08.183Z"
+  "savedAt": "2026-09-26T04:18:16.203Z"
 }
