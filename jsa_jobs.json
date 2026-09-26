@@ -1110,25 +1110,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d8c7dc5a8qKy",
-      "company": "Resmed",
-      "title": "Business Systems Analyst (Supply Chain & Distribution)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466345029/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:36:11.866506+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c87ad9eXGA",
       "company": "Seacoast Bank",
       "title": "Credit Risk Data Analyst",
@@ -4984,8 +4965,9 @@
     "https://www.linkedin.com/jobs/view/4471443411/",
     "https://www.linkedin.com/jobs/view/4471893332/",
     "https://www.linkedin.com/jobs/view/4454524065/",
-    "https://www.linkedin.com/jobs/view/4470023931/"
+    "https://www.linkedin.com/jobs/view/4470023931/",
+    "https://www.linkedin.com/jobs/view/4466345029/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:07:34.884Z"
+  "savedAt": "2026-09-26T04:09:09.474Z"
 }
