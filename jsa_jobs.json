@@ -1674,24 +1674,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced6169ah9ex",
-      "company": "Allegis Global Solutions",
-      "title": "Data Analyst 3",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470618331/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:15:32.122057+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced83b0aVJ0o",
       "company": "ReKnew",
       "title": "Portfolio Analyst - Business Transformation with AI",
@@ -4408,8 +4390,9 @@
     "https://www.linkedin.com/jobs/view/4468579846/",
     "https://www.linkedin.com/jobs/view/4469964001/",
     "https://www.linkedin.com/jobs/view/4467811383/",
-    "https://www.linkedin.com/jobs/view/4459572539/"
+    "https://www.linkedin.com/jobs/view/4459572539/",
+    "https://www.linkedin.com/jobs/view/4470618331/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:26:42.270Z"
+  "savedAt": "2026-09-26T04:27:18.815Z"
 }
