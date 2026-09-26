@@ -1772,24 +1772,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ceda28143wMt",
-      "company": "Motion Recruitment",
-      "title": "Product Analyst - ServiceNow Core Platform & AI Innovation",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469937628/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:19:58.740041+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0cedb5684vwB8",
       "company": "Celestica",
       "title": "Inventory Analyst",
@@ -4357,8 +4339,9 @@
     "https://www.linkedin.com/jobs/view/4459572539/",
     "https://www.linkedin.com/jobs/view/4470618331/",
     "https://www.linkedin.com/jobs/view/4469980255/",
-    "https://www.linkedin.com/jobs/view/4467774646/"
+    "https://www.linkedin.com/jobs/view/4467774646/",
+    "https://www.linkedin.com/jobs/view/4469937628/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:30:28.676Z"
+  "savedAt": "2026-09-26T04:31:14.647Z"
 }
