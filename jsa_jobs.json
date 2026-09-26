@@ -541,25 +541,6 @@
       "status": "New"
     },
     {
-      "id": "1a0d9a6c287H_bJ",
-      "company": "Bridgestone HosePower",
-      "title": "Business Intelligence & IT Support Analyst",
-      "location": "Orange Park, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469956338/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T17:39:39.783268+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d9a6edb5zJ1W",
       "company": "Nymbus",
       "title": "Data Migration Analyst",
@@ -5214,8 +5195,9 @@
     "https://www.linkedin.com/jobs/view/4463144068/",
     "https://www.linkedin.com/jobs/view/4471850033/",
     "https://www.linkedin.com/jobs/view/4462771909/",
-    "https://www.linkedin.com/jobs/view/4471802285/"
+    "https://www.linkedin.com/jobs/view/4471802285/",
+    "https://www.linkedin.com/jobs/view/4469956338/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T03:50:04.092Z"
+  "savedAt": "2026-09-26T03:50:29.308Z"
 }
