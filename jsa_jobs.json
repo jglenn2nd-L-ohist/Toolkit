@@ -522,25 +522,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d9a6a19fRkV2",
-      "company": "American Roll-On Roll-Off Carrier Group",
-      "title": "Logistics Analyst",
-      "location": "Ponte Vedra Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465868287/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T17:39:31.359506+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d9a6edb5zJ1W",
       "company": "Nymbus",
       "title": "Data Migration Analyst",
@@ -5196,8 +5177,9 @@
     "https://www.linkedin.com/jobs/view/4471850033/",
     "https://www.linkedin.com/jobs/view/4462771909/",
     "https://www.linkedin.com/jobs/view/4471802285/",
-    "https://www.linkedin.com/jobs/view/4469956338/"
+    "https://www.linkedin.com/jobs/view/4469956338/",
+    "https://www.linkedin.com/jobs/view/4465868287/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T03:50:29.308Z"
+  "savedAt": "2026-09-26T03:51:25.883Z"
 }
