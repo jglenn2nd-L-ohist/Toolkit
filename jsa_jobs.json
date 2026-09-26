@@ -186,25 +186,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d9a188abnFoG",
-      "company": "McKesson",
-      "title": "Clinical Systems Analyst - FCS",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463144068/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T17:33:57.291688+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d9a18fd0WHVu",
       "company": "Refresco",
       "title": "PE-QM Functional Analyst",
@@ -5286,8 +5267,9 @@
     "https://www.linkedin.com/jobs/view/4471140704/",
     "https://www.linkedin.com/jobs/view/4471155806/",
     "https://www.linkedin.com/jobs/view/4469788499/",
-    "https://www.linkedin.com/jobs/view/4441071514/"
+    "https://www.linkedin.com/jobs/view/4441071514/",
+    "https://www.linkedin.com/jobs/view/4463144068/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T03:48:13.283Z"
+  "savedAt": "2026-09-26T03:48:28.862Z"
 }
