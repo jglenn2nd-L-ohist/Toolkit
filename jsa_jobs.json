@@ -1654,24 +1654,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0ced4a702SXT8",
-      "company": "Q Investments",
-      "title": "Operations Analyst for Private Equity Team",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464134488/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:13:58.018411+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced4ec81z5l9",
       "company": "NexPoint",
       "title": "Sales Operations Analyst",
@@ -4493,8 +4475,9 @@
     "https://www.linkedin.com/jobs/view/4469449748/",
     "https://www.linkedin.com/jobs/view/4470638112/",
     "https://www.linkedin.com/jobs/view/4468927229/",
-    "https://www.linkedin.com/jobs/view/4468947151/"
+    "https://www.linkedin.com/jobs/view/4468947151/",
+    "https://www.linkedin.com/jobs/view/4464134488/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:24:10.325Z"
+  "savedAt": "2026-09-26T04:24:18.556Z"
 }
