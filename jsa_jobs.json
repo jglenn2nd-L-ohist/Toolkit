@@ -1574,24 +1574,6 @@
       "notes": ""
     },
     {
-      "id": "1a0ced33a24X5JC",
-      "company": "AARATECH",
-      "title": "Data Analyst",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469449748/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:12:24.612607+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0ced396f7_1q-",
       "company": "Berkshire Hathaway Homestate Companies - Workers Compensation Division",
       "title": "Business Systems Analyst 2",
@@ -4579,8 +4561,9 @@
     "https://www.linkedin.com/jobs/view/4470955843/",
     "https://www.linkedin.com/jobs/view/4470462990/",
     "https://www.linkedin.com/jobs/view/4469959271/",
-    "https://www.linkedin.com/jobs/view/4467623795/"
+    "https://www.linkedin.com/jobs/view/4467623795/",
+    "https://www.linkedin.com/jobs/view/4469449748/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:22:19.933Z"
+  "savedAt": "2026-09-26T04:22:29.735Z"
 }
