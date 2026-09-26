@@ -1110,25 +1110,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0d8c8bbdckCSU",
-      "company": "Moffitt Cancer Center",
-      "title": "BUSINESS INTELLIGENCE DEV I",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470605439/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-25T13:37:09.084120+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0d8c8c423KSUA",
       "company": "Morgan & Morgan, P.A.",
       "title": "HRIS Analyst",
@@ -4930,8 +4911,9 @@
     "https://www.linkedin.com/jobs/view/4470023931/",
     "https://www.linkedin.com/jobs/view/4466345029/",
     "https://www.linkedin.com/jobs/view/4469400204/",
-    "https://www.linkedin.com/jobs/view/4471685668/"
+    "https://www.linkedin.com/jobs/view/4471685668/",
+    "https://www.linkedin.com/jobs/view/4470605439/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-26T04:10:41.991Z"
+  "savedAt": "2026-09-26T04:11:27.311Z"
 }
