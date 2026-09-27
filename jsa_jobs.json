@@ -594,25 +594,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e46b04ecYdtk",
-      "company": "CROSSMARK",
-      "title": "Insights Analyst",
-      "location": "Lewisville, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469789777/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:50:13.996679+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e46b0d919AVv",
       "company": "Citi",
       "title": "Cobrand Acquisition Strategy, Performance & Analytics",
@@ -5064,8 +5045,9 @@
     "https://www.linkedin.com/jobs/view/4458315263/",
     "https://www.linkedin.com/jobs/view/4470390910/",
     "https://www.linkedin.com/jobs/view/4472201227/",
-    "https://www.linkedin.com/jobs/view/4444384056/"
+    "https://www.linkedin.com/jobs/view/4444384056/",
+    "https://www.linkedin.com/jobs/view/4469789777/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:40:54.325Z"
+  "savedAt": "2026-09-27T20:41:13.844Z"
 }
