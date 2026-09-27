@@ -2467,24 +2467,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0cedcd81e8Q0e",
-      "company": "QUANTEAM - North America (RAINBOW PARTNERS Group)",
-      "title": "Business Analyst - FIS/Aligne SME",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465935287/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-23T15:22:54.878221+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0cedce605A9LX",
       "company": "Murphy Oil Corporation",
       "title": "Business Systems Analyst",
@@ -4872,8 +4854,9 @@
     "https://www.linkedin.com/jobs/view/4467591266/",
     "https://www.linkedin.com/jobs/view/4469924579/",
     "https://www.linkedin.com/jobs/view/4406570483/",
-    "https://www.linkedin.com/jobs/view/4456957774/"
+    "https://www.linkedin.com/jobs/view/4456957774/",
+    "https://www.linkedin.com/jobs/view/4465935287/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:44:39.070Z"
+  "savedAt": "2026-09-27T20:44:54.315Z"
 }
