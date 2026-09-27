@@ -107,25 +107,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e466f163_z8h",
-      "company": "Kareer Basycs",
-      "title": "Junior Reporting Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470163211/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:45:46.851660+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e466f779NAvo",
       "company": "BlackRock",
       "title": "Associate, Client Platform, Analytics & Reporting - Atlanta",
@@ -5442,8 +5423,9 @@
     "https://www.linkedin.com/jobs/view/4472084700/",
     "https://www.linkedin.com/jobs/view/4472254170/",
     "https://www.linkedin.com/jobs/view/4472277523/",
-    "https://www.linkedin.com/jobs/view/4472252477/"
+    "https://www.linkedin.com/jobs/view/4472252477/",
+    "https://www.linkedin.com/jobs/view/4470163211/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:14:18.093Z"
+  "savedAt": "2026-09-27T20:14:20.242Z"
 }
