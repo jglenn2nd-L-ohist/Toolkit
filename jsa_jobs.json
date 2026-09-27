@@ -487,25 +487,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e469f133aGsH",
-      "company": "NTT DATA North America",
-      "title": "Business Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471800333/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:49:03.411571+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e469fa07yhbQ",
       "company": "The Exchange",
       "title": "Business Analyst II",
@@ -5280,8 +5261,9 @@
     "https://www.linkedin.com/jobs/view/4470046181/",
     "https://www.linkedin.com/jobs/view/4470182107/",
     "https://www.linkedin.com/jobs/view/4470522080/",
-    "https://www.linkedin.com/jobs/view/4472020703/"
+    "https://www.linkedin.com/jobs/view/4472020703/",
+    "https://www.linkedin.com/jobs/view/4471800333/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:21:54.358Z"
+  "savedAt": "2026-09-27T20:22:30.787Z"
 }
