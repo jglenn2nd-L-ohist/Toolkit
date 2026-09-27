@@ -257,25 +257,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e468d10fPeXc",
-      "company": "Siemens",
-      "title": "Jr. Data Analyst - Tableau/SQL",
-      "location": "Grand Prairie, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463301237/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:47:49.647927+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e468e6515mbb",
       "company": "Russell Tobin",
       "title": "Residential Mortgage Data Analyst",
@@ -5388,8 +5369,9 @@
     "https://www.linkedin.com/jobs/view/4472252477/",
     "https://www.linkedin.com/jobs/view/4470163211/",
     "https://www.linkedin.com/jobs/view/4472453641/",
-    "https://www.linkedin.com/jobs/view/4426148833/"
+    "https://www.linkedin.com/jobs/view/4426148833/",
+    "https://www.linkedin.com/jobs/view/4463301237/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:15:26.605Z"
+  "savedAt": "2026-09-27T20:16:06.312Z"
 }
