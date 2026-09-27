@@ -510,25 +510,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e46a2f2bJd6c",
-      "company": "Hemans.",
-      "title": "Investment Operations Analyst - Private Equity",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470043168/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-27T19:49:19.275088+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e46a3d86j0Y4",
       "company": "Goldman Sachs",
       "title": "Operations | Analyst | Dallas",
@@ -5208,8 +5189,9 @@
     "https://www.linkedin.com/jobs/view/4471800333/",
     "https://www.linkedin.com/jobs/view/4472054834/",
     "https://www.linkedin.com/jobs/view/4472201476/",
-    "https://www.linkedin.com/jobs/view/4463676562/"
+    "https://www.linkedin.com/jobs/view/4463676562/",
+    "https://www.linkedin.com/jobs/view/4470043168/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:34:49.044Z"
+  "savedAt": "2026-09-27T20:34:55.498Z"
 }
