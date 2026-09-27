@@ -65,25 +65,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e464bc61VdLJ",
-      "company": "SecondWind by Joveo",
-      "title": "Data Analyst (Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472277523/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:43:22.209838+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e46561a1VrzE",
       "company": "Houston Methodist",
       "title": "Market Research Analyst",
@@ -5478,8 +5459,9 @@
     "https://www.linkedin.com/jobs/view/4384134307/",
     "https://www.linkedin.com/jobs/view/4472081860/",
     "https://www.linkedin.com/jobs/view/4472084700/",
-    "https://www.linkedin.com/jobs/view/4472254170/"
+    "https://www.linkedin.com/jobs/view/4472254170/",
+    "https://www.linkedin.com/jobs/view/4472277523/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:10:05.667Z"
+  "savedAt": "2026-09-27T20:10:47.081Z"
 }
