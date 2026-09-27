@@ -2487,60 +2487,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0cedd268dbBQa",
-      "company": "Addison Group",
-      "title": "IT Business Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470470911/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:23:14.957132+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
-      "id": "1a0cedd84fba9Fk",
-      "company": "Cordialsa USA Inc",
-      "title": "Business Operations Analyst",
-      "location": "The Woodlands, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468135770/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:23:39.131900+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
-      "id": "1a0ceddbeedU0DX",
-      "company": "Wallenius Wilhelmsen",
-      "title": "Operations Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469081136/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:23:53.965778+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0cede5ddfx4ew",
       "company": "TC Energy",
       "title": "Long-Term Portfolio Planning Analyst",
@@ -2601,24 +2547,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0cee05f19J6ib",
-      "company": "Bechtel Corporation",
-      "title": "PIIM Analytics Engineer",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4431272250/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:26:46.041514+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0cee12deaBY8n",
       "company": "Clayton Services",
       "title": "Data Analyst",
@@ -2635,24 +2563,6 @@
       "filter_reasons": [
         "jd_term:erp_implementation"
       ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
-      "id": "1a0cee148c2Ah6m",
-      "company": "LHH",
-      "title": "Financial Reporting Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469005954/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-09-23T15:27:45.858269+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.3"
     },
@@ -4804,8 +4714,13 @@
     "https://www.linkedin.com/jobs/view/4465935287/",
     "https://www.linkedin.com/jobs/view/4469198988/",
     "https://www.linkedin.com/jobs/view/4468783802/",
-    "https://www.linkedin.com/jobs/view/4427002046/"
+    "https://www.linkedin.com/jobs/view/4427002046/",
+    "https://www.linkedin.com/jobs/view/4470470911/",
+    "https://www.linkedin.com/jobs/view/4468135770/",
+    "https://www.linkedin.com/jobs/view/4469081136/",
+    "https://www.linkedin.com/jobs/view/4431272250/",
+    "https://www.linkedin.com/jobs/view/4469005954/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:48:18.647Z"
+  "savedAt": "2026-09-27T20:48:32.869Z"
 }
