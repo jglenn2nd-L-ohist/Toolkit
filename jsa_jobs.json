@@ -592,25 +592,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e46a8a2eeILc",
-      "company": "2020 Companies",
-      "title": "REQ_113431 Samsung Customer Operations Analyst - English/Korean Bilingual Required",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470301863/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:49:42.574896+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e46a9a37raF3",
       "company": "ektello",
       "title": "Business Analyst",
@@ -5154,8 +5135,9 @@
     "https://www.linkedin.com/jobs/view/4463676562/",
     "https://www.linkedin.com/jobs/view/4470043168/",
     "https://www.linkedin.com/jobs/view/4471683111/",
-    "https://www.linkedin.com/jobs/view/4468307269/"
+    "https://www.linkedin.com/jobs/view/4468307269/",
+    "https://www.linkedin.com/jobs/view/4470301863/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:38:06.313Z"
+  "savedAt": "2026-09-27T20:38:14.539Z"
 }
