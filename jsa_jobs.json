@@ -720,25 +720,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e46ca868-fEs",
-      "company": "The Freeman Company (TFC) Brands",
-      "title": "Workforce Reporting Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472057804/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-27T19:52:01.384602+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0da397066MwyQ",
       "company": "The Home Depot",
       "title": "Operations Business Analyst - Safety Support",
@@ -4992,8 +4973,9 @@
     "https://www.linkedin.com/jobs/view/4469789777/",
     "https://www.linkedin.com/jobs/view/4470035297/",
     "https://www.linkedin.com/jobs/view/4472409017/",
-    "https://www.linkedin.com/jobs/view/4470708440/"
+    "https://www.linkedin.com/jobs/view/4470708440/",
+    "https://www.linkedin.com/jobs/view/4472057804/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:43:25.238Z"
+  "savedAt": "2026-09-27T20:43:28.631Z"
 }
