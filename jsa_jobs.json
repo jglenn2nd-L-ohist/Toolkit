@@ -193,25 +193,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e4677c2ffSP1",
-      "company": "Torentify",
-      "title": "Data Analyst,Product (Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472453641/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:46:22.383829+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e467c8c1Hg6Q",
       "company": "ECU Health",
       "title": "Application Analyst II - EPIC ASAP",
@@ -5424,8 +5405,9 @@
     "https://www.linkedin.com/jobs/view/4472254170/",
     "https://www.linkedin.com/jobs/view/4472277523/",
     "https://www.linkedin.com/jobs/view/4472252477/",
-    "https://www.linkedin.com/jobs/view/4470163211/"
+    "https://www.linkedin.com/jobs/view/4470163211/",
+    "https://www.linkedin.com/jobs/view/4472453641/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:14:22.529Z"
+  "savedAt": "2026-09-27T20:14:47.008Z"
 }
