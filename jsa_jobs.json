@@ -257,25 +257,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e468e6515mbb",
-      "company": "Russell Tobin",
-      "title": "Residential Mortgage Data Analyst",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470193621/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:47:55.089316+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e468f078RLij",
       "company": "Behavioral Health Group - BHG",
       "title": "SQL Data Analyst – Revenue Cycle",
@@ -5370,8 +5351,9 @@
     "https://www.linkedin.com/jobs/view/4470163211/",
     "https://www.linkedin.com/jobs/view/4472453641/",
     "https://www.linkedin.com/jobs/view/4426148833/",
-    "https://www.linkedin.com/jobs/view/4463301237/"
+    "https://www.linkedin.com/jobs/view/4463301237/",
+    "https://www.linkedin.com/jobs/view/4470193621/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:16:08.684Z"
+  "savedAt": "2026-09-27T20:16:32.185Z"
 }
