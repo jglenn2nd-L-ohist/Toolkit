@@ -2487,24 +2487,6 @@
       "filter_version": "2026-09-24.3"
     },
     {
-      "id": "1a0cedd0377U0J3",
-      "company": "WM",
-      "title": "Business Analyst III",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4427002046/",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-09-23T15:23:05.975771+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.3"
-    },
-    {
       "id": "1a0cedd268dbBQa",
       "company": "Addison Group",
       "title": "IT Business Analyst",
@@ -4821,8 +4803,9 @@
     "https://www.linkedin.com/jobs/view/4456957774/",
     "https://www.linkedin.com/jobs/view/4465935287/",
     "https://www.linkedin.com/jobs/view/4469198988/",
-    "https://www.linkedin.com/jobs/view/4468783802/"
+    "https://www.linkedin.com/jobs/view/4468783802/",
+    "https://www.linkedin.com/jobs/view/4427002046/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:46:55.559Z"
+  "savedAt": "2026-09-27T20:47:21.202Z"
 }
