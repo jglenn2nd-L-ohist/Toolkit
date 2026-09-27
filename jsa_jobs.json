@@ -299,25 +299,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e46916c3T-Hk",
-      "company": "Russell Tobin",
-      "title": "Mortgage Data Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470182107/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-27T19:48:07.491503+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e4691ccccolP",
       "company": "Trinity Industries, Inc.",
       "title": "Portfolio Analyst",
@@ -5334,8 +5315,9 @@
     "https://www.linkedin.com/jobs/view/4426148833/",
     "https://www.linkedin.com/jobs/view/4463301237/",
     "https://www.linkedin.com/jobs/view/4470193621/",
-    "https://www.linkedin.com/jobs/view/4470046181/"
+    "https://www.linkedin.com/jobs/view/4470046181/",
+    "https://www.linkedin.com/jobs/view/4470182107/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-27T20:17:11.127Z"
+  "savedAt": "2026-09-27T20:17:14.597Z"
 }
