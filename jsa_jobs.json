@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0e467229bKa_l",
-      "company": "Wiraa",
-      "title": "Data Analyst II",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472283111/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:45:59.451384+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0e46765a7Ck_a",
       "company": "ezCater",
       "title": "Analyst II, Product (Remote)",
@@ -4598,8 +4577,9 @@
     "https://www.linkedin.com/jobs/view/4470747928/",
     "https://www.linkedin.com/jobs/view/4470528844/",
     "https://www.linkedin.com/jobs/view/4472244970/",
-    "https://www.linkedin.com/jobs/view/4463667881/"
+    "https://www.linkedin.com/jobs/view/4463667881/",
+    "https://www.linkedin.com/jobs/view/4472283111/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-28T03:08:14.777Z"
+  "savedAt": "2026-09-28T03:08:37.275Z"
 }
