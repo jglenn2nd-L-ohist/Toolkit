@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "id": "1a0ea213acaliMS",
+      "company": "See posting",
+      "title": "Product Analyst, Entry Level",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4470733434/?trackingId=oAkqK2DKSK7t5AoTSmNJ6Q%3D%3D&refId=WaWFBDRKVFeQ6BBntCHJhQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BgCDFGpF1QOqcVloCgCTvGg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig-WI43mLxanYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4470733434_ssid_8367968258_fmid_q9jfse~mul6wljf~du&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4470733434_ssid_8367968258_fmid_q9jfse~mul6wljf~du-null-q9jfse~mul6wljf~du-null-null&eid=q9jfse-mul6wljf-du&otpToken=NGY1NjQ4MGUyMTVhMzgzMmMzZWZmMTc1MmI1ZjViNzQ5ZGFjMzlhZTQwYjMwOTUxMjY4NDYwOTU3OTIxYjVhMTUxYjBmY2QzMGQ3ZTJkZDdlMzY3OWRiYTU5ZTU3ODcwMWNjMTBiNmY2NzFmYzhlZDJlZGFkMmMxZTdkNDA1YThhYzYxZjczNWY1MDI2YzEyODYsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-09-28T22:27:21.418882+00:00",
+      "notes": "",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-09-24.4"
+    },
+    {
       "id": "1a0e9943e8c3T-X",
       "company": "JPMorganChase",
       "title": "2027 Commercial & Specialized Industries Summer Analyst Program",
@@ -6097,8 +6116,8 @@
     "https://www.linkedin.com/jobs/view/4470318968/",
     "https://www.linkedin.com/jobs/view/4463626880/"
   ],
-  "lastRun": "2026-09-28T19:54:25.959210+00:00",
-  "savedAt": "2026-09-28T19:54:25.959210+00:00",
+  "lastRun": "2026-09-28T22:27:30.419123+00:00",
+  "savedAt": "2026-09-28T22:27:30.419123+00:00",
   "runStats": [
     {
       "at": "2026-09-28T14:47:34.319178+00:00",
@@ -6151,6 +6170,22 @@
         "title_unlisted": 15,
         "location_unknown": 11,
         "title_excluded": 8
+      }
+    },
+    {
+      "at": "2026-09-28T22:27:29.776186+00:00",
+      "runner": "email",
+      "rules": "2026-09-24.4",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 1,
+          "review": 4,
+          "reject": 0
+        }
+      },
+      "reasons": {
+        "title_unlisted": 3,
+        "location_unknown": 1
       }
     }
   ]
