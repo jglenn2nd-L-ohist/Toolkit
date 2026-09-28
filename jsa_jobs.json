@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0e463d9f03eWI",
-      "company": "Slalom",
-      "title": "Enterprise Salesforce Business Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470747928/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-27T19:42:24.240298+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0e46561a1VrzE",
       "company": "Houston Methodist",
       "title": "Market Research Analyst",
@@ -4678,8 +4657,9 @@
     "https://www.linkedin.com/jobs/view/4431272250/",
     "https://www.linkedin.com/jobs/view/4469005954/",
     "https://www.linkedin.com/jobs/view/4463601983/",
-    "https://www.linkedin.com/jobs/view/4444985283/"
+    "https://www.linkedin.com/jobs/view/4444985283/",
+    "https://www.linkedin.com/jobs/view/4470747928/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-28T03:03:00.429Z"
+  "savedAt": "2026-09-28T03:03:10.611Z"
 }
