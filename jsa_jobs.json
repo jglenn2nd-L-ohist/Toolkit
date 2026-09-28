@@ -1,28 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0e4639490qluP",
-      "company": "JPMorganChase",
-      "title": "Payments BA - Solutions Analyst III",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4444985283/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-27T19:42:06.480732+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0e463d9f03eWI",
       "company": "Slalom",
       "title": "Enterprise Salesforce Business Analyst",
@@ -4699,8 +4677,9 @@
     "https://www.linkedin.com/jobs/view/4469081136/",
     "https://www.linkedin.com/jobs/view/4431272250/",
     "https://www.linkedin.com/jobs/view/4469005954/",
-    "https://www.linkedin.com/jobs/view/4463601983/"
+    "https://www.linkedin.com/jobs/view/4463601983/",
+    "https://www.linkedin.com/jobs/view/4444985283/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-28T03:02:54.759Z"
+  "savedAt": "2026-09-28T03:03:00.429Z"
 }
