@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0e46571faNiJT",
-      "company": "Travel + Leisure Co.",
-      "title": "Digital Growth Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472244970/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-27T19:44:08.698554+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0e466f779NAvo",
       "company": "BlackRock",
       "title": "Associate, Client Platform, Analytics & Reporting - Atlanta",
@@ -4638,8 +4617,9 @@
     "https://www.linkedin.com/jobs/view/4463601983/",
     "https://www.linkedin.com/jobs/view/4444985283/",
     "https://www.linkedin.com/jobs/view/4470747928/",
-    "https://www.linkedin.com/jobs/view/4470528844/"
+    "https://www.linkedin.com/jobs/view/4470528844/",
+    "https://www.linkedin.com/jobs/view/4472244970/"
   ],
   "lastRun": "2026-09-25T20:20:11.700953+00:00",
-  "savedAt": "2026-09-28T03:03:19.621Z"
+  "savedAt": "2026-09-28T03:03:44.590Z"
 }
