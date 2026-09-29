@@ -41,25 +41,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eacb5a8fiSFm",
-      "company": "Personify Health",
-      "title": "Reporting Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473039058/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:33:10.671070+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacbb1afLilL",
       "company": "LifeStance Health",
       "title": "Product Analyst",
@@ -6868,8 +6849,9 @@
     "https://www.linkedin.com/jobs/view/4471207587/",
     "https://www.linkedin.com/jobs/view/4471555244/",
     "https://www.linkedin.com/jobs/view/4471225055/",
-    "https://www.linkedin.com/jobs/view/4473020079/"
+    "https://www.linkedin.com/jobs/view/4473020079/",
+    "https://www.linkedin.com/jobs/view/4473039058/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:54:13.038Z"
+  "savedAt": "2026-09-29T03:55:56.579Z"
 }
