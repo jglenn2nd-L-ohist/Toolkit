@@ -1,6 +1,2169 @@
 {
   "rejects": [
     {
+      "title": "Data Analyst",
+      "company": "Confido",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4473018168/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:06.277115+00:00"
+    },
+    {
+      "title": "Data Analyst IV SQL, Power BI",
+      "company": "Centene Corporation",
+      "location": "Missouri, United States",
+      "url": "https://www.linkedin.com/jobs/view/4472258167/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MO"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:07.922816+00:00"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "Gifthealth",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4472735726/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:09.588250+00:00"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4471216489/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:14.482494+00:00"
+    },
+    {
+      "title": "Cyber Data Analyst / Active Top Secret",
+      "company": "Peraton",
+      "location": "Arlington, VA",
+      "url": "https://www.linkedin.com/jobs/view/4461930488/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:VA",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:15.715526+00:00"
+    },
+    {
+      "title": "Rural Health Data Analyst",
+      "company": "Illinois Primary Health Care Association",
+      "location": "Springfield, IL",
+      "url": "https://www.linkedin.com/jobs/view/4471507896/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:17.313560+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "City of Cleveland",
+      "location": "Cleveland, OH",
+      "url": "https://www.linkedin.com/jobs/view/4470895818/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:19.625972+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "CFS",
+      "location": "Grand Rapids, MI",
+      "url": "https://www.linkedin.com/jobs/view/4470895252/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:22.187548+00:00"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "Titan Technologies",
+      "location": "Fort Liberty, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471561294/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:24.692751+00:00"
+    },
+    {
+      "title": "Sr. Research Data Analyst",
+      "company": "American Medical Association",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4471569143/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:29.278150+00:00"
+    },
+    {
+      "title": "Information Management - Senior Business Analyst",
+      "company": "Mission Fed Credit Union",
+      "location": "San Diego Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4470882939/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:37.992492+00:00"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Fulton Bank",
+      "location": "East Petersburg, PA",
+      "url": "https://www.linkedin.com/jobs/view/4473040324/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:39.919171+00:00"
+    },
+    {
+      "title": "IT Development Business Analyst",
+      "company": "ORNL Federal Credit Union",
+      "location": "Oak Ridge, TN",
+      "url": "https://www.linkedin.com/jobs/view/4473052157/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TN",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:44.025710+00:00"
+    },
+    {
+      "title": "Business Analyst, AMZL UTR PPT",
+      "company": "Amazon",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4473030814/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:46.446471+00:00"
+    },
+    {
+      "title": "Sr Business Analyst-Coupa",
+      "company": "Tata Consultancy Services",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4471511802/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr",
+        "out_of_area:IL",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:48.040589+00:00"
+    },
+    {
+      "title": "Operations Analyst",
+      "company": "Polaris Software",
+      "location": "Beverly, MA",
+      "url": "https://www.linkedin.com/jobs/view/4472742847/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:56.473007+00:00"
+    },
+    {
+      "title": "Business Operation Analyst 2-Palliative Medicine",
+      "company": "The Ohio State University Wexner Medical Center",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4472783140/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:30:58.908249+00:00"
+    },
+    {
+      "title": "Business Operations Analyst (Starlink Aviation) - Woodinville WA",
+      "company": "VetJobs",
+      "location": "Woodinville, WA",
+      "url": "https://www.linkedin.com/jobs/view/4471544229/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:WA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:01.304279+00:00"
+    },
+    {
+      "title": "Senior Loan Operations Business Analyst",
+      "company": "Pathfinder Bank",
+      "location": "Oswego, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471567160/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:03.140648+00:00"
+    },
+    {
+      "title": "Provider Operations Analyst Associate",
+      "company": "Priority Health",
+      "location": "Grand Rapids, MI",
+      "url": "https://www.linkedin.com/jobs/view/4471558764/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:05.203205+00:00"
+    },
+    {
+      "title": "Senior Logistics Analyst - 1st Shift",
+      "company": "GXO Logistics, Inc.",
+      "location": "Union City, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473013920/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:09.609690+00:00"
+    },
+    {
+      "title": "ANALYST II",
+      "company": "California Department of Tax and Fee Administration",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471529758/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:12.284843+00:00"
+    },
+    {
+      "title": "Trade Operations Analyst \u2013 Entry Level",
+      "company": "PrincePerelson and Associates",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4471538717/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:UT"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:14.297068+00:00"
+    },
+    {
+      "title": "Transaction Management Operations Analyst - Investment and Monetary Controls (Wealth Management Operations)",
+      "company": "Bank of America",
+      "location": "Pennington, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4463396475/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NJ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:17.020301+00:00"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company": "Flexton Inc.",
+      "location": "Overland Park, KS",
+      "url": "https://www.linkedin.com/jobs/view/4473016206/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:KS"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:29.151280+00:00"
+    },
+    {
+      "title": "Business Analytics and Network Strategy - Data Analyst I",
+      "company": "NBH Bank",
+      "location": "Kansas City, MO",
+      "url": "https://www.linkedin.com/jobs/view/4473046763/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MO"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:31.350419+00:00"
+    },
+    {
+      "title": "Senior Business Intelligence Analyst",
+      "company": "RxVantage",
+      "location": "Texas, United States",
+      "url": "https://www.linkedin.com/jobs/view/4442117175/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:33.160900+00:00"
+    },
+    {
+      "title": "Data Analyst Lead",
+      "company": "Brown & Brown",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4472779276/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:34.663824+00:00"
+    },
+    {
+      "title": "Senior Analytics Analyst",
+      "company": "Amcor",
+      "location": "Indiana, United States",
+      "url": "https://www.linkedin.com/jobs/view/4471134823/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "foreign:Indiana, United States"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:36.676991+00:00"
+    },
+    {
+      "title": "Marketing Strategic Analytics Analyst",
+      "company": "State Farm",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4471534715/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:AZ",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:46.249309+00:00"
+    },
+    {
+      "title": "Senior Marketing Analyst",
+      "company": "Amplitude",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472798182/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:49.949479+00:00"
+    },
+    {
+      "title": "Senior Marketing Science Analyst",
+      "company": "Swire Coca-Cola, USA",
+      "location": "Draper, UT",
+      "url": "https://www.linkedin.com/jobs/view/4471557918/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:UT"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:52.359496+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Retail Marketing",
+      "company": "O Positiv Health",
+      "location": "Santa Monica, CA",
+      "url": "https://www.linkedin.com/jobs/view/4450731864/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:53.810672+00:00"
+    },
+    {
+      "title": "Analyst, Analytics",
+      "company": "Starcom",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471548442/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:31:58.096118+00:00"
+    },
+    {
+      "title": "Senior Marketing Analyst",
+      "company": "One Park Financial",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/4473017159/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:UT"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:00.490134+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Commercial Strategy",
+      "company": "KeyBank",
+      "location": "Cleveland, OH",
+      "url": "https://www.linkedin.com/jobs/view/4471560585/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:12.315067+00:00"
+    },
+    {
+      "title": "Analyst, Strategy and Transformation",
+      "company": "FTI Consulting",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4472790848/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:DC",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:14.527569+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Gaming Analytics - Corporate (Las Vegas)",
+      "company": "Caesars Entertainment",
+      "location": "Las Vegas, NV",
+      "url": "https://www.linkedin.com/jobs/view/4473031551/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:NV"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:17.292063+00:00"
+    },
+    {
+      "title": "Senior Bus Strategic Insights Specialist",
+      "company": "DTE Energy",
+      "location": "Detroit, MI",
+      "url": "https://www.linkedin.com/jobs/view/4471531202/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:19.896924+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Growth & Innovation",
+      "company": "Playfly Sports",
+      "location": "Berwyn, PA",
+      "url": "https://www.linkedin.com/jobs/view/4449745940/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:21.308405+00:00"
+    },
+    {
+      "title": "Analyst/Sr Analyst, AAdvantage Program Strategy",
+      "company": "American Airlines",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4470897036/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:23.903726+00:00"
+    },
+    {
+      "title": "Strategy Associate",
+      "company": "Blue Cross Blue Shield of Michigan",
+      "location": "Detroit, MI",
+      "url": "https://www.linkedin.com/jobs/view/4471583130/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:26.316720+00:00"
+    },
+    {
+      "title": "Strategy & Innovation Analyst",
+      "company": "Lincoln Electric System",
+      "location": "Lincoln, NE",
+      "url": "https://www.linkedin.com/jobs/view/4472784902/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NE",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:28.176236+00:00"
+    },
+    {
+      "title": "Senior Analyst - BCG Vantage Technology, Media, and Telecommunications (TMT)",
+      "company": "Boston Consulting Group (BCG)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4453262195/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:29.840087+00:00"
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Splashtop Inc.",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472076850/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:38.206278+00:00"
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Warp",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/4471219413/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:40.604410+00:00"
+    },
+    {
+      "title": "Senior / Staff Data Engineer (BI) \u2013 CEG Team",
+      "company": "Agoda",
+      "location": "Portland, OR",
+      "url": "https://www.linkedin.com/jobs/view/4455276099/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OR"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:42.351340+00:00"
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Taskrabbit",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4472757711/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:46.312842+00:00"
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "company": "CoreWeave",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4471209735/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:47.765892+00:00"
+    },
+    {
+      "title": "Senior Business Intelligence Engineer, North America Supply Chain Execution Strategy",
+      "company": "Amazon",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4472287091/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:50.266404+00:00"
+    },
+    {
+      "title": "Senior Analytics Engineer, Enterprise Analytics",
+      "company": "The Inland Real Estate Group of Companies, Inc.",
+      "location": "Oak Brook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4470897683/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:32:55.454857+00:00"
+    },
+    {
+      "title": "Enterprise Data Analyst",
+      "company": "Husch Blackwell",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4444390847/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:02.835248+00:00"
+    },
+    {
+      "title": "IDP Power BI Data Analyst",
+      "company": "Wichita State University",
+      "location": "Wichita, KS",
+      "url": "https://www.linkedin.com/jobs/view/4472756705/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:KS"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:04.776423+00:00"
+    },
+    {
+      "title": "Senior Analyst, Global Management Reporting",
+      "company": "Sherwin-Williams",
+      "location": "Cleveland, OH",
+      "url": "https://www.linkedin.com/jobs/view/4473035006/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:06.167426+00:00"
+    },
+    {
+      "title": "Sr. Product Analyst, Telematics",
+      "company": "The Hartford",
+      "location": "Columbus, OH",
+      "url": "https://www.linkedin.com/jobs/view/4471229145/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:20.102843+00:00"
+    },
+    {
+      "title": "Staff Product Analyst",
+      "company": "Assured",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4386571841/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:staff"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:22.830793+00:00"
+    },
+    {
+      "title": "Senior Associate, Product Analytics & Applied AI",
+      "company": "Owner.com",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4380384268/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:onsite_or_hybrid"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:24.795167+00:00"
+    },
+    {
+      "title": "Product Data Scientist, Sellside Ads",
+      "company": "Google",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4471382686/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:26.785843+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack",
+      "company": "Ladders",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4470867117/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:29.671277+00:00"
+    },
+    {
+      "title": "Product Analyst, Commercial Insurance",
+      "company": "MGT Insurance",
+      "location": "Madison, WI",
+      "url": "https://www.linkedin.com/jobs/view/4435808949/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:WI"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:31.138353+00:00"
+    },
+    {
+      "title": "IT - Core Programming - Business Systems Analyst II",
+      "company": "Golden 1 Credit Union",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473034011/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:43.721390+00:00"
+    },
+    {
+      "title": "Senior Business Systems Lead",
+      "company": "International SOS",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4473030320/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:45.026460+00:00"
+    },
+    {
+      "title": "Systems Analyst - Intermediate (Hybrid)- Pittsburgh, PA",
+      "company": "UPMC",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.linkedin.com/jobs/view/4461889420/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:PA",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:49.036721+00:00"
+    },
+    {
+      "title": "Finance Application Analyst (Hybrid)",
+      "company": "American Medical Association",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4331289106/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:IL",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:50.524008+00:00"
+    },
+    {
+      "title": "Senior Technical Business Analyst - Dynamics 365",
+      "company": "Caterpillar Inc.",
+      "location": "Irving, TX",
+      "url": "https://www.linkedin.com/jobs/view/4473013190/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:33:52.610567+00:00"
+    },
+    {
+      "title": "Senior Material Planning Analyst - 2nd Shift",
+      "company": "GXO Logistics, Inc.",
+      "location": "Union City, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472767076/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:01.059967+00:00"
+    },
+    {
+      "title": "Demand and Intercompany Planning Analyst",
+      "company": "Ghirardelli Chocolate Company",
+      "location": "San Leandro, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472798939/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:03.225894+00:00"
+    },
+    {
+      "title": "Demand Planner",
+      "company": "Sprouts Healthy Communities Foundation",
+      "location": "Greater Phoenix Area",
+      "url": "https://www.linkedin.com/jobs/view/4473032979/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:demand plann",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:04.933202+00:00"
+    },
+    {
+      "title": "Senior Analyst, Customer Supply Chain Initiatives- Club & Wholesale",
+      "company": "The J.M. Smucker Co.",
+      "location": "Orrville, OH",
+      "url": "https://www.linkedin.com/jobs/view/4472766452/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:07.146547+00:00"
+    },
+    {
+      "title": "Material Planning Analyst",
+      "company": "Lucid Motors",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4471551119/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:material plann",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:09.138907+00:00"
+    },
+    {
+      "title": "Demand Planning Lead",
+      "company": "Intel",
+      "location": "Phoenix, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4471530693/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:10.987539+00:00"
+    },
+    {
+      "title": "Operations Analyst, Skip Hop",
+      "company": "Carters Inc.",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4473002361/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:13.768795+00:00"
+    },
+    {
+      "title": "Technology Consulting- Microsoft Dynamics 365 Finance & Operations Business Analyst- Senior",
+      "company": "EY",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4441080329/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:41.358363+00:00"
+    },
+    {
+      "title": "Senior Consultant, Business Solutions",
+      "company": "Ryan",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471557479/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:42.830743+00:00"
+    },
+    {
+      "title": "Lead Solutions Analyst",
+      "company": "CohnReznick",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473042244/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:45.104639+00:00"
+    },
+    {
+      "title": "Capgemini Invent- Contact Center AI Consultant",
+      "company": "Capgemini",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4471209510/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:46.428210+00:00"
+    },
+    {
+      "title": "Information Technology Process Improvement Specialist",
+      "company": "Children's Healthcare of Atlanta",
+      "location": "Brookhaven, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472088991/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:48.728082+00:00"
+    },
+    {
+      "title": "Sr. Logistics Analyst, Carrier Relations",
+      "company": "The Home Depot",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471514994/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:34:54.680974+00:00"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "NAPA Auto Parts",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473011419/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:02.063716+00:00"
+    },
+    {
+      "title": "Sr Analyst, CoBrand Acq Direct Marketing",
+      "company": "Delta Air Lines",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471538253/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:16.278940+00:00"
+    },
+    {
+      "title": "Manager, Data Science and Analytics (Media Analytics)",
+      "company": "Razorfish",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471548443/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:17.945440+00:00"
+    },
+    {
+      "title": "Manager Growth Performance and Marketing Analytics",
+      "company": "National Vision Inc.",
+      "location": "Lawrenceville, GA",
+      "url": "https://www.linkedin.com/jobs/view/4463083916/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:20.120822+00:00"
+    },
+    {
+      "title": "Marketing Specialist II",
+      "company": "V-Soft Consulting Group, Inc.",
+      "location": "Alpharetta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471528488/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:22.089396+00:00"
+    },
+    {
+      "title": "Senior Omnichannel Performance Strategist, Enterprise",
+      "company": "PureCars",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471550727/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:24.718330+00:00"
+    },
+    {
+      "title": "Lead, Pricing Strategy & Planning",
+      "company": "Newell Brands",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473041771/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:26.287752+00:00"
+    },
+    {
+      "title": "Lead, Data Instrumentation & Growth Measurement",
+      "company": "The Weather Company",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4472749941/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:28.309162+00:00"
+    },
+    {
+      "title": "Senior Associate Through Senior Consultant, Healthcare: Advanced-Degree Students, Class of 2027",
+      "company": "ECG Management Consultants",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471532821/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:37.157466+00:00"
+    },
+    {
+      "title": "Product Development Excellence Senior Associate (Strategy and Transformation)",
+      "company": "PwC",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473031779/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:40.085090+00:00"
+    },
+    {
+      "title": "Senior Associate \u2013 Infrastructure Project Advisory (Strategy & Technology)",
+      "company": "KPMG US",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4466657013/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:42.151541+00:00"
+    },
+    {
+      "title": "Online Sr Data Engineer - Remote",
+      "company": "The Home Depot",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471530206/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:52.164087+00:00"
+    },
+    {
+      "title": "Senior Power BI & Data Visualization Engineer - Remote - USA",
+      "company": "FullStack",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473026576/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:54.292877+00:00"
+    },
+    {
+      "title": "Foundry Solutions Engineer",
+      "company": "Delta Air Lines",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471520835/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:55.877264+00:00"
+    },
+    {
+      "title": "Product Forward Deployed Engineer (pFDE)-Innovation_Delivery_Transformation",
+      "company": "Deloitte",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4473037807/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:35:58.206589+00:00"
+    },
+    {
+      "title": "Manager, Product Development",
+      "company": "ICE",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4445273334/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:11.826006+00:00"
+    },
+    {
+      "title": "Transformation - Oracle Senior Associate",
+      "company": "Grant Thornton (US)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4442376295/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:19.746277+00:00"
+    },
+    {
+      "title": "Senior SAP Logistics & Supply Chain Consultant",
+      "company": "Computacenter",
+      "location": "Norcross, GA",
+      "url": "https://www.linkedin.com/jobs/view/4446857684/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:21.112684+00:00"
+    },
+    {
+      "title": "Transformation - Workday Senior Associate",
+      "company": "Grant Thornton (US)",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4452258850/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:22.879525+00:00"
+    },
+    {
+      "title": "SAP Transportation Management Consultant",
+      "company": "Woodgrain",
+      "location": "Lawrenceville, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471558761/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:24.327571+00:00"
+    },
+    {
+      "title": "Clinical Informaticist",
+      "company": "Children's Healthcare of Atlanta",
+      "location": "Brookhaven, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471689469/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:26.594129+00:00"
+    },
+    {
+      "title": "Senior Order Management and Logistics officer",
+      "company": "Capgemini",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471149526/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:35.464122+00:00"
+    },
+    {
+      "title": "Tooling Digital Operations Specialist",
+      "company": "FieldCore",
+      "location": "Lawrenceville, GA",
+      "url": "https://www.linkedin.com/jobs/view/4441046569/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:37.711291+00:00"
+    },
+    {
+      "title": "Specialist Chain Specialist",
+      "company": "Siemens",
+      "location": "Peachtree Corners, GA",
+      "url": "https://www.linkedin.com/jobs/view/4462365439/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:39.900445+00:00"
+    },
+    {
+      "title": "Production Planner - Production/Manufacturing",
+      "company": "Fox Factory",
+      "location": "Gainesville, GA",
+      "url": "https://www.linkedin.com/jobs/view/4470628188/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:41.616061+00:00"
+    },
+    {
+      "title": "Data Senior Analyst",
+      "company": "City National Bank",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4430777070/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:49.722120+00:00"
+    },
+    {
+      "title": "Data, Analytics & AI - Senior Associate",
+      "company": "PwC",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463665709/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:36:56.208799+00:00"
+    },
+    {
+      "title": "Senior Reporting & Analytics Analyst",
+      "company": "Apex Systems",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472751887/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:01.355253+00:00"
+    },
+    {
+      "title": "Senior Property Operations Analyst",
+      "company": "Fitch Irick Corporation",
+      "location": "Charlotte Metro",
+      "url": "https://www.linkedin.com/jobs/view/4471520517/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:10.305766+00:00"
+    },
+    {
+      "title": "Senior Lead Analytics Consultant -- Auto Pricing",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472275221/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:13.021307+00:00"
+    },
+    {
+      "title": "Senior Financial Systems Analyst",
+      "company": "Palmetto",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472796436/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:40.946922+00:00"
+    },
+    {
+      "title": "Lead Business Execution Consultant \u2013 Product and Strategic Delivery",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472275224/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:43.374131+00:00"
+    },
+    {
+      "title": "Business Consulting- Order to Cash (O2C) - Manager - Open Location",
+      "company": "EY",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470519406/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:37:45.196792+00:00"
+    },
+    {
+      "title": "Securities Operations Specialist - Alternative Investments",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472269352/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:01.248656+00:00"
+    },
+    {
+      "title": "Grant Administration Consultant, Senior Associate",
+      "company": "PwC",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4453672104/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:03.009157+00:00"
+    },
+    {
+      "title": "Finance Business Partner",
+      "company": "A.P. Moller - Maersk",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454817154/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:09.922631+00:00"
+    },
+    {
+      "title": "Senior Brand Intelligence Manager",
+      "company": "Intapp",
+      "location": "Mecklenburg County, NC",
+      "url": "https://www.linkedin.com/jobs/view/4462317277/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:16.081689+00:00"
+    },
+    {
+      "title": "Lead Test Design & Planning Consultant",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473024445/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:18.515617+00:00"
+    },
+    {
+      "title": "Lead Analyst, Social Media - Hybrid",
+      "company": "XPO",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4461457190/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:20.661272+00:00"
+    },
+    {
+      "title": "Associate, Activation",
+      "company": "Omnicom Media",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471572027/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:21.994625+00:00"
+    },
+    {
+      "title": "Portfolio Marketing Specialist",
+      "company": "CohnReznick",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473031506/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:24.234548+00:00"
+    },
+    {
+      "title": "Senior Associate, Growth Marketing Canada, Consumer",
+      "company": "DoorDash",
+      "location": "Denver, NC",
+      "url": "https://www.linkedin.com/jobs/view/4450843938/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:25.684476+00:00"
+    },
+    {
+      "title": "Associate Manager (Digital Strategy)",
+      "company": "Acosta",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4461199288/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:27.827126+00:00"
+    },
+    {
+      "title": "Advertising Optimization Specialist",
+      "company": "Spectrum Reach",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4444417794/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:30.284258+00:00"
+    },
+    {
+      "title": "Services Product Marketing Manager",
+      "company": "Ingersoll Rand",
+      "location": "Statesville, NC",
+      "url": "https://www.linkedin.com/jobs/view/4461426066/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:32.010506+00:00"
+    },
+    {
+      "title": "Multicultural Marketing Consultant",
+      "company": "CornerStone Professional Placement",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471534063/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:34.581023+00:00"
+    },
+    {
+      "title": "Channel Marketing Manager",
+      "company": "Quest Talent Solutions",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471507678/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:38.750213+00:00"
+    },
+    {
+      "title": "Manager, Account Planning & Success",
+      "company": "RVO Health",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463712068/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:40.932211+00:00"
+    },
+    {
+      "title": "Account Manager",
+      "company": "Burn Media Co.",
+      "location": "Cornelius, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472786407/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:45.021507+00:00"
+    },
+    {
+      "title": "Market Segment Manager",
+      "company": "BASF",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471214229/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:46.271058+00:00"
+    },
+    {
+      "title": "Corporate Strategy Consultant - CSBB",
+      "company": "Truist",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472058896/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:55.117933+00:00"
+    },
+    {
+      "title": "Corporate Strategy Consultant - Wholesale",
+      "company": "Truist",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472078017/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:57.362118+00:00"
+    },
+    {
+      "title": "Staff Corporate Strategy Associate \u2013 Credit Karma (Personal Loans)",
+      "company": "Intuit",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472282189/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:staff"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:58.597605+00:00"
+    },
+    {
+      "title": "Senior Analyst - Corporate FP&A",
+      "company": "Ally",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471529546/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:38:59.907232+00:00"
+    },
+    {
+      "title": "Lead Finance Analyst - CIB Markets",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472262948/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:04.661256+00:00"
+    },
+    {
+      "title": "Specialist, Controlling Main System Teams",
+      "company": "Scout Motors Inc.",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470881821/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:06.199254+00:00"
+    },
+    {
+      "title": "Senior Finance Analyst - CIB Markets",
+      "company": "Wells Fargo",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472262947/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:08.105876+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst - Performance Management",
+      "company": "Sherpa | Recruiting, Staffing & Consulting",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471542529/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:10.794803+00:00"
+    },
+    {
+      "title": "Trading & Value Chain Optimization Advisory Senior Consultant",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454349079/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:12.286908+00:00"
+    },
+    {
+      "title": "FSO - Business Transformation - CCSB Banking - Senior Consultant",
+      "company": "EY",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471206605/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:14.730905+00:00"
+    },
+    {
+      "title": "Data Engineering Senior Consultant",
+      "company": "Clarkston Consulting",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470757566/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:28.691421+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Flow Control Group",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463634868/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:30.194115+00:00"
+    },
+    {
+      "title": "Adobe Experience Platform",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463668774/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:32.328112+00:00"
+    },
+    {
+      "title": "Senior Data Engineer (GCP, PySpark, BigQuery)",
+      "company": "Synechron",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470893110/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:35.045136+00:00"
+    },
+    {
+      "title": "AWS Redshift ETL Developer",
+      "company": "Infosys",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4451296447/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:37.126748+00:00"
+    },
+    {
+      "title": "Sr. Data Engineer - GM Motorsports",
+      "company": "General Motors",
+      "location": "Concord, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454318107/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:38.455598+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Bank of America",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463397439/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:39.855098+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Synechron",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470815524/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:41.300002+00:00"
+    },
+    {
+      "title": "Senior Data Engineer (AWS, Azure, GCP)",
+      "company": "CapTech",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454570271/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:43.295003+00:00"
+    },
+    {
+      "title": "Financial Reporting Analyst Senior",
+      "company": "USAA",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4451267088/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:51.160576+00:00"
+    },
+    {
+      "title": "Data Reporting Officer",
+      "company": "Truist",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473053391/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:39:56.043998+00:00"
+    },
+    {
+      "title": "Senior Pricing Analyst",
+      "company": "Frederick Fox",
+      "location": "Charlotte Metro",
+      "url": "https://www.linkedin.com/jobs/view/4473007869/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:06.208400+00:00"
+    },
+    {
+      "title": "Decision Science Lead",
+      "company": "Truist",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472060877/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:07.564918+00:00"
+    },
+    {
+      "title": "AEN Product Manager - Innovation_Delivery_Transformation",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473039715/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:09.347669+00:00"
+    },
+    {
+      "title": "Content & Research Manager \u2013 Metals & Mining",
+      "company": "FactSet",
+      "location": "Charlotte Metro",
+      "url": "https://www.linkedin.com/jobs/view/4440406282/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:10.966197+00:00"
+    },
+    {
+      "title": "Senior HRIS Analyst",
+      "company": "Judi Health",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471544303/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:18.369350+00:00"
+    },
+    {
+      "title": "Oracle HCM Cloud Core HR Analyst",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454344155/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "title_unlisted"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:20.789903+00:00"
+    },
+    {
+      "title": "ServiceNow Delivery Senior Consultant",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4454343159/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:23.510432+00:00"
+    },
+    {
+      "title": "Utilities EAM Maximo Consultant, Sr. Associate",
+      "company": "PwC",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463662745/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:25.328868+00:00"
+    },
+    {
+      "title": "Lead IT Analyst - Procurement - S4 Transformation",
+      "company": "Honeywell Technologies",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4427044707/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:27.577719+00:00"
+    },
+    {
+      "title": "Consultant - Manufacturing Consolidations in RTP/Charlotte, NC",
+      "company": "RGP",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4443634631/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:29.402894+00:00"
+    },
+    {
+      "title": "SAP S/4HANA Deployment Data Manager",
+      "company": "Centraprise",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471542468/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:31.939213+00:00"
+    },
+    {
+      "title": "Supply Planner II",
+      "company": "Thermo Fisher Scientific",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470595846/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:supply plann"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:39.260239+00:00"
+    },
+    {
+      "title": "Supply Chain Coordinator",
+      "company": "Forvis Mazars US Executive Search Practice",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4470828097/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:41.634239+00:00"
+    },
+    {
+      "title": "Buyer II",
+      "company": "Fontaine Modification Company",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4445208932/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:43.691379+00:00"
+    },
+    {
+      "title": "Production Scheduler",
+      "company": "Utz Brands, Inc.",
+      "location": "Kings Mountain, NC",
+      "url": "https://www.linkedin.com/jobs/view/4472261828/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:45.789620+00:00"
+    },
+    {
+      "title": "Senior, Indirect Tax Technology - Global Trade Analytics",
+      "company": "Deloitte",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4426390223/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:47.170018+00:00"
+    },
+    {
+      "title": "Supply Coordinator Indirect Spend",
+      "company": "TTX Company",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4463494861/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:49.165461+00:00"
+    },
+    {
+      "title": "Procurement Specialist",
+      "company": "MKS Inc.",
+      "location": "Rock Hill, SC",
+      "url": "https://www.linkedin.com/jobs/view/4450825267/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:51.180384+00:00"
+    },
+    {
+      "title": "Procurement Specialist OR Senior Procurement Specialist",
+      "company": "Duke Energy Corporation",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473040094/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:53.587367+00:00"
+    },
+    {
+      "title": "Logistics Category Manager - Domestic Transportation",
+      "company": "JELD-WEN, Inc.",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471200024/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:56.004381+00:00"
+    },
+    {
+      "title": "Repair Order Manager",
+      "company": "Siemens Energy",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4453708572/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:40:58.194500+00:00"
+    },
+    {
+      "title": "Principal Quantitative Analyst - Performance & Investment Insights",
+      "company": "Fidelity Investments",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473051442/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:principal"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:41:12.600708+00:00"
+    },
+    {
+      "title": "Senior Construction Performance Analyst",
+      "company": "McGough",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4473018581/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:41:18.856633+00:00"
+    },
+    {
+      "title": "Power BI Developer",
+      "company": "Piper Companies",
+      "location": "Durham, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471582540/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:41:24.592659+00:00"
+    },
+    {
+      "title": "Finance Manager, Labor & Analytics",
+      "company": "Advance Auto Parts",
+      "location": "Raleigh, NC",
+      "url": "https://www.linkedin.com/jobs/view/4418022591/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:41:28.792457+00:00"
+    },
+    {
+      "title": "Manager Analytics & Performance Improvement",
+      "company": "UNC Health",
+      "location": "Raleigh-Durham-Chapel Hill Area",
+      "url": "https://www.linkedin.com/jobs/view/4472477883/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T01:41:34.243343+00:00"
+    },
+    {
       "title": "PagerDuty FP&A Analyst Hybrid Atlanta, GA",
       "company": "See posting",
       "location": "",
