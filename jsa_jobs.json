@@ -485,25 +485,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee67af88ckVB",
-      "company": "Gen II Fund Services",
-      "title": "Sales Operations Specialist",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4461490589/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T18:22:47.688400+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ee67e0d2DAZL",
       "company": "The Casino at Dania Beach",
       "title": "Financial Analyst",
@@ -7724,8 +7705,9 @@
     "https://www.linkedin.com/jobs/view/4471220596/",
     "https://www.linkedin.com/jobs/view/4473299276/",
     "https://www.linkedin.com/jobs/view/4473014840/",
-    "https://www.linkedin.com/jobs/view/4471321823/"
+    "https://www.linkedin.com/jobs/view/4471321823/",
+    "https://www.linkedin.com/jobs/view/4461490589/"
   ],
   "lastRun": "2026-09-29T18:22:19.963333+00:00",
-  "savedAt": "2026-09-29T19:12:38.579Z"
+  "savedAt": "2026-09-29T19:12:53.808Z"
 }
