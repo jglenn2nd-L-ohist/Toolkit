@@ -880,25 +880,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ead2dbf0P6qd",
-      "company": "Piper Companies",
-      "title": "Business Intelligence Engineer III",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471530642/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T01:41:22.544107+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ead2ede9g3qE",
       "company": "Avance Care",
       "title": "Epic Clinical Applications Analyst (Epic HP Certification Req'd)",
@@ -7114,8 +7095,9 @@
     "https://www.linkedin.com/jobs/view/4471723220/",
     "https://www.linkedin.com/jobs/view/4473024603/",
     "https://www.linkedin.com/jobs/view/4472219513/",
-    "https://www.linkedin.com/jobs/view/4470834119/"
+    "https://www.linkedin.com/jobs/view/4470834119/",
+    "https://www.linkedin.com/jobs/view/4471530642/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:53:02.037Z"
+  "savedAt": "2026-09-29T17:53:09.371Z"
 }
