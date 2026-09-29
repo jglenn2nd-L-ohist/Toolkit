@@ -1,6 +1,19 @@
 {
   "rejects": [
     {
+      "title": "Senior Actuarial Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAEsxiBoInqSgXQbnguZEtv3E6L8KivLmTx2-qGHPqCFXNbEBLGuY3bRVMl12oabgfCkHgCnG-Y5B5DcB21cp752LgxZIwsIpRuq8HmhJkrEUsyTWR2M8VJ9FgZDmQQaXViebsWF4v-cdamspZox5OK5Bo8h5bgjIj1SI5BCQonJlAf0vDxZ61j-gu1qcBX0yiNL7tXD6NiFJ7OmPO0vPg9OctIpPC3rXENMfWi80WNy14DRWv8HHg0ERNh8FFPpWpCjxZS9Mc0OHM5ycPtW5hHBiSbOFLccbVzr4Jl2PDek6j7qfH3XONEQWlqM8Ei2DErOlj_ZwmO94Znr12XSJfvUxHaXpd_NimQHh0ld8j-LkrWSHo_s71__Tl8E8mNMZpcH_8GLCshOBlA_UCJeTSg?tsid\u00111000153&auth_token=5_1790709451_ztq0NHEc7QzShQYnEpIPGsig3XqG7_7tNQyRnt6Da5o&contact_id\ufffdf05452&expires\u001791055051",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T21:18:29.606073+00:00"
+    },
+    {
       "title": "Data Analyst- Cyber Analytics",
       "company": "Peraton",
       "location": "Arlington, VA",
