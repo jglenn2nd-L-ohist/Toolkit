@@ -252,25 +252,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eacfbdcdDRoJ",
-      "company": "Vallen",
-      "title": "Operations Analyst I - RFID Solutions & Field Implementation",
-      "location": "Belmont, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471568792/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T01:37:58.221776+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacfc359OI2T",
       "company": "Judi Health",
       "title": "Workforce Management Analyst, Customer Care",
@@ -6652,8 +6633,9 @@
     "https://www.linkedin.com/jobs/view/4471224311/",
     "https://www.linkedin.com/jobs/view/4472761088/",
     "https://www.linkedin.com/jobs/view/4471205927/",
-    "https://www.linkedin.com/jobs/view/4473031820/"
+    "https://www.linkedin.com/jobs/view/4473031820/",
+    "https://www.linkedin.com/jobs/view/4471568792/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T14:17:35.049Z"
+  "savedAt": "2026-09-29T14:17:40.523Z"
 }
