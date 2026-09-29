@@ -64,25 +64,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed83b0b7_ImZ",
-      "company": "Bank of America",
-      "title": "Client Reporting Analyst III",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471253456/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:13:45.783090+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed841143174l",
       "company": "Wiraa",
       "title": "Data Analyst - Remote",
@@ -7384,8 +7365,9 @@
     "https://www.linkedin.com/jobs/view/4471568792/",
     "https://www.linkedin.com/jobs/view/4470891548/",
     "https://www.linkedin.com/jobs/view/4471905084/",
-    "https://www.linkedin.com/jobs/view/4473242533/"
+    "https://www.linkedin.com/jobs/view/4473242533/",
+    "https://www.linkedin.com/jobs/view/4471253456/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:45:01.244Z"
+  "savedAt": "2026-09-29T17:45:05.115Z"
 }
