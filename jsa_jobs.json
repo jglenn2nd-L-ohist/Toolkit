@@ -20,25 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0eaca3774lqQY",
-      "company": "Ferraro Law",
-      "title": "Marketing Data Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471555244/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:31:56.148963+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eaca54deOQZV",
       "company": "Primary Services",
       "title": "Marketing Data & Campaign Analytics Analyst",
@@ -6922,8 +6903,9 @@
     "https://www.linkedin.com/jobs/view/4406422318/",
     "https://www.linkedin.com/jobs/view/4473063002/",
     "https://www.linkedin.com/jobs/view/4466632219/",
-    "https://www.linkedin.com/jobs/view/4471207587/"
+    "https://www.linkedin.com/jobs/view/4471207587/",
+    "https://www.linkedin.com/jobs/view/4471555244/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:48:27.147Z"
+  "savedAt": "2026-09-29T03:49:36.288Z"
 }
