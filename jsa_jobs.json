@@ -356,25 +356,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed8972e6K4cX",
-      "company": "Parrish Medical Center",
-      "title": "Clinical Systems Analyst",
-      "location": "Titusville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471723220/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T14:20:03.174221+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed89a0e033mg",
       "company": "Publix Super Markets",
       "title": "Inventory Control Analyst, Produce Snacks - Orlando",
@@ -7186,8 +7167,9 @@
     "https://www.linkedin.com/jobs/view/4472789380/",
     "https://www.linkedin.com/jobs/view/4462496039/",
     "https://www.linkedin.com/jobs/view/4472787406/",
-    "https://www.linkedin.com/jobs/view/4469786239/"
+    "https://www.linkedin.com/jobs/view/4469786239/",
+    "https://www.linkedin.com/jobs/view/4471723220/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:50:48.068Z"
+  "savedAt": "2026-09-29T17:51:15.646Z"
 }
