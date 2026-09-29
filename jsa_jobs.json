@@ -358,25 +358,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee665ed1GULc",
-      "company": "MTN Global",
-      "title": "Data Analyst",
-      "location": "Fort Lauderdale, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471220596/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T18:21:21.489454+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ee667a60--F3",
       "company": "Renewable Careers",
       "title": "Renewable Energy Analyst (Entry-Level)",
@@ -7796,8 +7777,9 @@
     "https://www.linkedin.com/jobs/view/4471759634/",
     "https://www.linkedin.com/jobs/view/4473274872/",
     "https://www.linkedin.com/jobs/view/4471920094/",
-    "https://www.linkedin.com/jobs/view/4471910895/"
+    "https://www.linkedin.com/jobs/view/4471910895/",
+    "https://www.linkedin.com/jobs/view/4471220596/"
   ],
   "lastRun": "2026-09-29T18:22:19.963333+00:00",
-  "savedAt": "2026-09-29T19:10:42.052Z"
+  "savedAt": "2026-09-29T19:11:22.980Z"
 }
