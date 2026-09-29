@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0eac97ab4OwVI",
-      "company": "Floor & Decor",
-      "title": "Customer Delivery Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466632219/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:31:07.828045+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eac9c5b1ssQt",
       "company": "PGA Tour",
       "title": "Data Analyst, PGA TOUR Events Business Intelligence",
@@ -6958,8 +6939,9 @@
     "https://www.linkedin.com/jobs/view/4463626880/",
     "https://www.linkedin.com/jobs/view/4471536827/",
     "https://www.linkedin.com/jobs/view/4406422318/",
-    "https://www.linkedin.com/jobs/view/4473063002/"
+    "https://www.linkedin.com/jobs/view/4473063002/",
+    "https://www.linkedin.com/jobs/view/4466632219/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:45:56.674Z"
+  "savedAt": "2026-09-29T03:46:55.241Z"
 }
