@@ -22,25 +22,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee5e53376hps",
-      "company": "Bank of America",
-      "title": "Client Reporting Analyst III",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471266050/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:12:34.232040+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ee5e9a59vjci",
       "company": "American Express",
       "title": "Analyst-Marketing",
@@ -7886,8 +7867,9 @@
     "https://www.linkedin.com/comm/jobs/view/4446185618?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B7dmcDpRTQDyklMelVsZ6cw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5Pq0R1f5bpIs1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~mumyyp3z~4y-null-null&eid=q9jfse-mumyyp3z-4y&otpToken=NDM0MjExMzU2NDliYzk3ZTVmN2RhMWJmNGE3ODBjZDJjNGRhZGRiNzk2MWIxYTJmNjk3YjlmNWNhZGNiY2JlODVlZWZmNzVhOTEyNGY4YjI3NmNlNTcyM2I2ZjcyZjdhY2VkMjU1NmU4NGViNDQ5MzVlOTRhZGExMjc0ZTkxMWQ0Mjg0ZGFiNmI0MjVkMWZmOTEsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4471095182/?trackingId=7JlkfX6Eqh3DmNVXaslg%2Bw%3D%3D&refId=7WG0nFEnWZ%2BYeyGxXCIg9g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Baqn%2FfECzRuqJTHDVKYOaZQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0PzBFjgY1ypss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4471095182_ssid_8367968258_fmid_q9jfse~mumqmry3~8a&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4471095182_ssid_8367968258_fmid_q9jfse~mumqmry3~8a-null-q9jfse~mumqmry3~8a-null-null&eid=q9jfse-mumqmry3-8a&otpToken=ODgwNWRiNDQ2MTI1ZjcyNWIxYWUyMmM5NjEzNWZkMGIxYTk3Y2Y5OTdmODUwMDdkYzkwNDY5YzBlOTJiYmJhYjRlNjFhNDU4MWVkNTBiZmJhZmUxNjY3NjhkYzI0NmZhZDU5ZGE2M2VhYzU3NmViY2RkMWU3NDUyY2FiMmJjOGFkZTMyYzc3ZTc0OWE2ZTE0NzUsMiwx",
     "https://www.linkedin.com/jobs/view/4471927627/",
-    "https://www.linkedin.com/jobs/view/4444604361/"
+    "https://www.linkedin.com/jobs/view/4444604361/",
+    "https://www.linkedin.com/jobs/view/4471266050/"
   ],
   "lastRun": "2026-09-29T18:22:19.963333+00:00",
-  "savedAt": "2026-09-29T19:09:05.815Z"
+  "savedAt": "2026-09-29T19:09:12.062Z"
 }
