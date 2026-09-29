@@ -482,25 +482,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed8c3c51VMOW",
-      "company": "Bank of America",
-      "title": "GB/GM AML Data Analytics & Reporting - Quantitative Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473024603/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:23:05.809851+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed8c5805Tiq3",
       "company": "Bridgestone HosePower",
       "title": "Business Intelligence & IT Support Analyst",
@@ -7168,8 +7149,9 @@
     "https://www.linkedin.com/jobs/view/4462496039/",
     "https://www.linkedin.com/jobs/view/4472787406/",
     "https://www.linkedin.com/jobs/view/4469786239/",
-    "https://www.linkedin.com/jobs/view/4471723220/"
+    "https://www.linkedin.com/jobs/view/4471723220/",
+    "https://www.linkedin.com/jobs/view/4473024603/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:51:15.646Z"
+  "savedAt": "2026-09-29T17:51:25.598Z"
 }
