@@ -167,25 +167,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eaceede12gqP",
-      "company": "EverBank",
-      "title": "Lending Strategy & Business Ops Associate, Data Analytics & Reporting",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471206338/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:37:04.994022+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacef825YWTO",
       "company": "Corning Incorporated",
       "title": "HR Specialist & Data Analytics, Newton",
@@ -6742,8 +6723,9 @@
     "https://www.linkedin.com/jobs/view/4473014358/",
     "https://www.linkedin.com/jobs/view/4473033088/",
     "https://www.linkedin.com/jobs/view/4473063272/",
-    "https://www.linkedin.com/jobs/view/4472788504/"
+    "https://www.linkedin.com/jobs/view/4472788504/",
+    "https://www.linkedin.com/jobs/view/4471206338/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:58:38.456Z"
+  "savedAt": "2026-09-29T03:58:57.331Z"
 }
