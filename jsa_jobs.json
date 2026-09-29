@@ -106,25 +106,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee5f6744BpgZ",
-      "company": "Konica Minolta Business Solutions Canada",
-      "title": "GCS Business Analyst",
-      "location": "Oldsmar, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473274872/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:13:44.900055+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ee5f89bdnRl2",
       "company": "Raymond James",
       "title": "Analyst, Liquidity Strategy",
@@ -7850,8 +7831,9 @@
     "https://www.linkedin.com/jobs/view/4471927627/",
     "https://www.linkedin.com/jobs/view/4444604361/",
     "https://www.linkedin.com/jobs/view/4471266050/",
-    "https://www.linkedin.com/jobs/view/4471759634/"
+    "https://www.linkedin.com/jobs/view/4471759634/",
+    "https://www.linkedin.com/jobs/view/4473274872/"
   ],
   "lastRun": "2026-09-29T18:22:19.963333+00:00",
-  "savedAt": "2026-09-29T19:09:36.223Z"
+  "savedAt": "2026-09-29T19:09:38.465Z"
 }
