@@ -167,25 +167,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eaced6a7Ajuw",
-      "company": "U.S. Bank",
-      "title": "Advanced Data & Insights Analyst - Deposits Line of Business",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473063272/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:36:59.047824+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacee819x8Ij",
       "company": "Mindlance",
       "title": "Business Reporting Analyst",
@@ -6778,8 +6759,9 @@
     "https://www.linkedin.com/jobs/view/4471516432/",
     "https://www.linkedin.com/jobs/view/4472782223/",
     "https://www.linkedin.com/jobs/view/4473014358/",
-    "https://www.linkedin.com/jobs/view/4473033088/"
+    "https://www.linkedin.com/jobs/view/4473033088/",
+    "https://www.linkedin.com/jobs/view/4473063272/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:58:01.436Z"
+  "savedAt": "2026-09-29T03:58:17.241Z"
 }
