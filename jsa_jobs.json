@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0eac9c5b1ssQt",
-      "company": "PGA Tour",
-      "title": "Data Analyst, PGA TOUR Events Business Intelligence",
-      "location": "Ponte Vedra Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471207587/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:31:27.025479+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eac9f498OveC",
       "company": "PracticeSuite, Inc.",
       "title": "Data Analyst",
@@ -6940,8 +6921,9 @@
     "https://www.linkedin.com/jobs/view/4471536827/",
     "https://www.linkedin.com/jobs/view/4406422318/",
     "https://www.linkedin.com/jobs/view/4473063002/",
-    "https://www.linkedin.com/jobs/view/4466632219/"
+    "https://www.linkedin.com/jobs/view/4466632219/",
+    "https://www.linkedin.com/jobs/view/4471207587/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:46:57.610Z"
+  "savedAt": "2026-09-29T03:47:15.806Z"
 }
