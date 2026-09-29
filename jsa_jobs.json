@@ -209,25 +209,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed85f881DYpu",
-      "company": "University of South Florida",
-      "title": "Fiscal & Business Analyst II",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469786239/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T14:16:15.233737+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed86c266QiBG",
       "company": "Discovery Senior Living",
       "title": "Corporate Development Analyst",
@@ -7204,8 +7185,9 @@
     "https://www.linkedin.com/jobs/view/4469695729/",
     "https://www.linkedin.com/jobs/view/4472789380/",
     "https://www.linkedin.com/jobs/view/4462496039/",
-    "https://www.linkedin.com/jobs/view/4472787406/"
+    "https://www.linkedin.com/jobs/view/4472787406/",
+    "https://www.linkedin.com/jobs/view/4469786239/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:50:16.933Z"
+  "savedAt": "2026-09-29T17:50:45.202Z"
 }
