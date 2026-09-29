@@ -64,25 +64,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed84458eE3OH",
-      "company": "Kaiser Permanente",
-      "title": "Epic Systems Analyst III",
-      "location": "Greensboro, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4427415968/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:14:23.886553+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed84a172aLj0",
       "company": "Gerdau North America",
       "title": "Energy Data & Reporting Analyst",
@@ -7348,8 +7329,9 @@
     "https://www.linkedin.com/jobs/view/4471905084/",
     "https://www.linkedin.com/jobs/view/4473242533/",
     "https://www.linkedin.com/jobs/view/4471253456/",
-    "https://www.linkedin.com/jobs/view/4473235050/"
+    "https://www.linkedin.com/jobs/view/4473235050/",
+    "https://www.linkedin.com/jobs/view/4427415968/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:45:26.779Z"
+  "savedAt": "2026-09-29T17:45:29.869Z"
 }
