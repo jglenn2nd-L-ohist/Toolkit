@@ -62,25 +62,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eacc8868CorO",
-      "company": "Speria",
-      "title": "Finance BI Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472782223/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:34:27.944609+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacc9379fnfi",
       "company": "ABM Industries",
       "title": "Sales Performance Analytics Business Partner",
@@ -6832,8 +6813,9 @@
     "https://www.linkedin.com/jobs/view/4471225055/",
     "https://www.linkedin.com/jobs/view/4473020079/",
     "https://www.linkedin.com/jobs/view/4473039058/",
-    "https://www.linkedin.com/jobs/view/4471516432/"
+    "https://www.linkedin.com/jobs/view/4471516432/",
+    "https://www.linkedin.com/jobs/view/4472782223/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:56:20.248Z"
+  "savedAt": "2026-09-29T03:56:48.290Z"
 }
