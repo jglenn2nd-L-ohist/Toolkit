@@ -106,25 +106,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee5f6189wIVH",
-      "company": "Konica Minolta Business Solutions U.S.A., Inc.",
-      "title": "GCS Business Analyst",
-      "location": "Oldsmar, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471759634/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T18:13:43.434012+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ee5f6744BpgZ",
       "company": "Konica Minolta Business Solutions Canada",
       "title": "GCS Business Analyst",
@@ -7868,8 +7849,9 @@
     "https://www.linkedin.com/comm/jobs/view/4471095182/?trackingId=7JlkfX6Eqh3DmNVXaslg%2Bw%3D%3D&refId=7WG0nFEnWZ%2BYeyGxXCIg9g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Baqn%2FfECzRuqJTHDVKYOaZQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0PzBFjgY1ypss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4471095182_ssid_8367968258_fmid_q9jfse~mumqmry3~8a&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4471095182_ssid_8367968258_fmid_q9jfse~mumqmry3~8a-null-q9jfse~mumqmry3~8a-null-null&eid=q9jfse-mumqmry3-8a&otpToken=ODgwNWRiNDQ2MTI1ZjcyNWIxYWUyMmM5NjEzNWZkMGIxYTk3Y2Y5OTdmODUwMDdkYzkwNDY5YzBlOTJiYmJhYjRlNjFhNDU4MWVkNTBiZmJhZmUxNjY3NjhkYzI0NmZhZDU5ZGE2M2VhYzU3NmViY2RkMWU3NDUyY2FiMmJjOGFkZTMyYzc3ZTc0OWE2ZTE0NzUsMiwx",
     "https://www.linkedin.com/jobs/view/4471927627/",
     "https://www.linkedin.com/jobs/view/4444604361/",
-    "https://www.linkedin.com/jobs/view/4471266050/"
+    "https://www.linkedin.com/jobs/view/4471266050/",
+    "https://www.linkedin.com/jobs/view/4471759634/"
   ],
   "lastRun": "2026-09-29T18:22:19.963333+00:00",
-  "savedAt": "2026-09-29T19:09:16.071Z"
+  "savedAt": "2026-09-29T19:09:36.223Z"
 }
