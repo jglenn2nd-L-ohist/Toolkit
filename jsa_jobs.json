@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0eac8d7a4TEXr",
-      "company": "McKinstry",
-      "title": "Building Data Analyst, Facility Operations",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4406422318/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:30:26.084911+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eac9170atHjz",
       "company": "Global Payments Inc.",
       "title": "Business Data Analyst",
@@ -6994,8 +6975,9 @@
     "https://www.linkedin.com/jobs/view/4426153625/",
     "https://www.linkedin.com/jobs/view/4470318968/",
     "https://www.linkedin.com/jobs/view/4463626880/",
-    "https://www.linkedin.com/jobs/view/4471536827/"
+    "https://www.linkedin.com/jobs/view/4471536827/",
+    "https://www.linkedin.com/jobs/view/4406422318/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:45:02.715Z"
+  "savedAt": "2026-09-29T03:45:25.088Z"
 }
