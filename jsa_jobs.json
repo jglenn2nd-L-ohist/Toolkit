@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0eac88142FOaE",
-      "company": "First Community Credit Union - Houston, TX",
-      "title": "Data Analyst II",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471536827/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:30:03.970258+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eac8d7a4TEXr",
       "company": "McKinstry",
       "title": "Building Data Analyst, Facility Operations",
@@ -7012,8 +6993,9 @@
     "https://www.linkedin.com/jobs/view/4472283111/",
     "https://www.linkedin.com/jobs/view/4426153625/",
     "https://www.linkedin.com/jobs/view/4470318968/",
-    "https://www.linkedin.com/jobs/view/4463626880/"
+    "https://www.linkedin.com/jobs/view/4463626880/",
+    "https://www.linkedin.com/jobs/view/4471536827/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:43:23.823Z"
+  "savedAt": "2026-09-29T03:43:44.444Z"
 }
