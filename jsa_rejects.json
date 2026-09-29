@@ -1,6 +1,57 @@
 {
   "rejects": [
     {
+      "title": "Data Analyst",
+      "company": "Hippo Insurance",
+      "location": "Austin, Texas Metropolitan Area",
+      "url": "https://www.linkedin.com/comm/jobs/view/4460687377?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B7dmcDpRTQDyklMelVsZ6cw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5Pq0R1f5bpIs1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~mumyyp3z~4y-null-null&eid=q9jfse-mumyyp3z-4y&otpToken=NDM0MjExMzU2NDliYzk3ZTVmN2RhMWJmNGE3ODBjZDJjNGRhZGRiNzk2MWIxYTJmNjk3YjlmNWNhZGNiY2JlODVlZWZmNzVhOTEyNGY4YjI3NmNlNTcyM2I2ZjcyZjdhY2VkMjU1NmU4NGViNDQ5MzVlOTRhZGExMjc0ZTkxMWQ0Mjg0ZGFiNmI0MjVkMWZmOTEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T18:21:50.877933+00:00"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAFBe161UfGOwo2McBzin6GPtsFgpbd9tXRJ4R5aHnadxNZwNEWC20jRLjj8_b92FURmCBpFJbRku2tjxQNEls4gj52mCgRTYa7MkMpeIjuzo2jFR2XpvUy-sGXW_mgudUHc8DNayHJpc6hgCc6dh6NI3Dw07fRZp0NSpltcYtjNxtosgxWUO3U1nmYGVWPPrahiMjqQXAk476rr8p_7rpqBZ83yC0k46DOp7R3SOTGgd0ER86WvqnYZfF2mleG-rq10i5yGXdAuLl9iWd-zQji1EfDk7ZbpadCW4hnA6sfdII76DIcbWZLL-NYrqUX05o3333p42nja_1R-5d0QgeFmQj0RDyB2Ak1p3rwiuDY52KVAXbsDCP8PDImpZravTYDp14ybu0Sswl2uOXgzdkrxIg?tsid\u00111000153&auth_token=5_1790635175_kme_z83iXng9Wj8PHigZp8Fwh4PUwVrzZhL6CCgwhNw&contact_id\ufffdf05452&expires\u001790980775",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T18:21:56.869076+00:00"
+    },
+    {
+      "title": "Senior Business Intelligence & Automation Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAH5lRKizUTYFk2a6ZGg7zxj2oguAmt46ftBVXPKYrQGKLx02bRf_Yj0fHnKTewbSQUBrhPjljyJkBvrOGyRJg8v8gZ-cmrF5y7kpwkoBM404lCy7e5y-EDItOnkmCai07qaRQtxN8ri1dN2q8F07XjOAyOS34vf0kU7LgREj4xutAJDJ4fFy0Qxx0pVpSYE3AKz7LtVlf2ID05LruEfIwOfkTQK7mKOVOIhsInoIy4ophnUCehCwOGAGavK7u0fY7akjJ3gkDZan7FCmkv7BHgFvgY237ahsVlg4vx4hJayyWetJUC9k08fjuJQhorf11gDbFXNT13Kq9wLUD_ucj8SL_zXWdWUDGWDjvF7AzU8e6EiAiUjTSSQBbJsGaha6ZqLIIpf3iUKAxuEn2qk3IaXyw?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T18:21:56.869176+00:00"
+    },
+    {
+      "title": "Senior Actuarial Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAHpKR0pXOjgxImZLWWzbGREVkaD3TMZXyDMGolFYiMdTOQVpqLP0aY3x3MIwXnRIdUdq3FXLXB-Q2pTkGB6BZI4zdQndu014HEGZ-_WjHmuqM_kPqoIqNGnyfWJBw_hX1ieg6zB5QMRIEolAKwrErUH8_jcNHKm2bc25J-WhVdbDf7eNypXAUxS5OGEtkxLNiF02_aZqKotJPGstQtPbZV0whx0Lc1JNb42KyNABK3tsV0Wi0-UQr_rPv75njn5q7HjZuiNbm7NP5HSF6ZlZtOVSvPGnmJg2V49sskXiclmRdGMRvA2K979JSInktlaZRXkPxmTiQRGGigjDId0S1Wm4b2rObUZ4jCRztp48HJsCZxz1bylu417BRQgBjD7rDHdriW1hipR6OZOwaG5oJ8?tsid\u00111000153&auth_token=5_1790635175_kme_z83iXng9Wj8PHigZp8Fwh4PUwVrzZhL6CCgwhNw&contact_id\ufffdf05452&expires\u001790980775",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-29T18:21:56.869624+00:00"
+    },
+    {
       "title": "Enterprise Data Analyst",
       "company": "Husch Blackwell",
       "location": "Madison, WI",
