@@ -231,25 +231,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0eacf7074N6Bv",
-      "company": "Microtek Learning LLC",
-      "title": "Capital Markets Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471205927/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:37:38.420238+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0eacfb236MxbY",
       "company": "Bank of America",
       "title": "Transaction Management Ops Analyst",
@@ -6688,8 +6669,9 @@
     "https://www.linkedin.com/jobs/view/4472788504/",
     "https://www.linkedin.com/jobs/view/4471206338/",
     "https://www.linkedin.com/jobs/view/4471224311/",
-    "https://www.linkedin.com/jobs/view/4472761088/"
+    "https://www.linkedin.com/jobs/view/4472761088/",
+    "https://www.linkedin.com/jobs/view/4471205927/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T03:59:55.735Z"
+  "savedAt": "2026-09-29T04:00:17.245Z"
 }
