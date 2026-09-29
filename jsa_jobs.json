@@ -754,25 +754,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ead082e6_hDZ",
-      "company": "Aalberts integrated piping systems",
-      "title": "Strategy Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470834119/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T01:38:48.678451+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ead0f05dH4Qf",
       "company": "City of Charlotte",
       "title": "Budget and Technology Portfolio Analyst",
@@ -7132,8 +7113,9 @@
     "https://www.linkedin.com/jobs/view/4469786239/",
     "https://www.linkedin.com/jobs/view/4471723220/",
     "https://www.linkedin.com/jobs/view/4473024603/",
-    "https://www.linkedin.com/jobs/view/4472219513/"
+    "https://www.linkedin.com/jobs/view/4472219513/",
+    "https://www.linkedin.com/jobs/view/4470834119/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:52:44.322Z"
+  "savedAt": "2026-09-29T17:53:02.037Z"
 }
