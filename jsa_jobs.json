@@ -209,25 +209,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed85f2511qx_",
-      "company": "MUFG",
-      "title": "ACH Ops Governance, Oversight and Reporting Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472787406/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:16:13.649236+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed85f881DYpu",
       "company": "University of South Florida",
       "title": "Fiscal & Business Analyst II",
@@ -7222,8 +7203,9 @@
     "https://www.linkedin.com/jobs/view/4472789015/",
     "https://www.linkedin.com/jobs/view/4469695729/",
     "https://www.linkedin.com/jobs/view/4472789380/",
-    "https://www.linkedin.com/jobs/view/4462496039/"
+    "https://www.linkedin.com/jobs/view/4462496039/",
+    "https://www.linkedin.com/jobs/view/4472787406/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:50:09.933Z"
+  "savedAt": "2026-09-29T17:50:14.027Z"
 }
