@@ -83,25 +83,6 @@
       "status": "New"
     },
     {
-      "id": "1a0ed84aabbxLIp",
-      "company": "AARATECH",
-      "title": "Data Analyst",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471595816/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T14:14:49.787639+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0ed84c3d7anRY",
       "company": "Breakthru Beverage Group",
       "title": "Business Analyst",
@@ -7330,8 +7311,9 @@
     "https://www.linkedin.com/jobs/view/4473242533/",
     "https://www.linkedin.com/jobs/view/4471253456/",
     "https://www.linkedin.com/jobs/view/4473235050/",
-    "https://www.linkedin.com/jobs/view/4427415968/"
+    "https://www.linkedin.com/jobs/view/4427415968/",
+    "https://www.linkedin.com/jobs/view/4471595816/"
   ],
   "lastRun": "2026-09-28T22:27:30.419123+00:00",
-  "savedAt": "2026-09-29T17:46:53.838Z"
+  "savedAt": "2026-09-29T17:47:06.252Z"
 }
