@@ -2270,25 +2270,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e87888c66zCr",
-      "company": "LanceSoft, Inc.",
-      "title": "Data Visualization Engineer",
-      "location": "Forest Park, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470339018/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:43:28.583005+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e8791348M5K3",
       "company": "Aon",
       "title": "Investment Consulting Performance Analyst",
@@ -7376,8 +7357,9 @@
     "https://www.linkedin.com/jobs/view/4470885245/",
     "https://www.linkedin.com/jobs/view/4472242563/",
     "https://www.linkedin.com/jobs/view/4444748351/",
-    "https://www.linkedin.com/jobs/view/4472067509/"
+    "https://www.linkedin.com/jobs/view/4472067509/",
+    "https://www.linkedin.com/jobs/view/4470339018/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:43:42.508Z"
+  "savedAt": "2026-09-30T03:44:03.208Z"
 }
