@@ -30,7 +30,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4473033106/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-09-29T18:18:33.460640+00:00",
       "notes": "",
       "remote_search": false,
@@ -6977,5 +6977,5 @@
     "https://www.linkedin.com/jobs/view/4472775043/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T04:21:39.533Z"
+  "savedAt": "2026-09-30T04:21:42.034Z"
 }
