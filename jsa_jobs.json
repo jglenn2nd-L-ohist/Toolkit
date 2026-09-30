@@ -44,27 +44,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee62dacf6vLt",
-      "company": "VyStar Credit Union",
-      "title": "Digital Product Analyst",
-      "location": "Metro Jacksonville",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472774062/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T18:17:31.087880+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0ee63286bezMd",
       "company": "The Haskell Company",
       "title": "Innovation Analyst",
@@ -7034,8 +7013,9 @@
     "https://www.linkedin.com/jobs/view/4471750241/",
     "https://www.linkedin.com/jobs/view/4473509012/",
     "https://www.linkedin.com/jobs/view/4471914493/",
-    "https://www.linkedin.com/jobs/view/4473278941/"
+    "https://www.linkedin.com/jobs/view/4473278941/",
+    "https://www.linkedin.com/jobs/view/4472774062/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T04:18:38.778Z"
+  "savedAt": "2026-09-30T04:19:25.833Z"
 }
