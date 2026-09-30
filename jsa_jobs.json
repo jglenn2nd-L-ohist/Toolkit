@@ -20,25 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f38e2e09NGNG",
-      "company": "Photon",
-      "title": "Business Analyst – Healthcare Interoperability",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471527416/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-30T18:22:56.522007+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f38e41842c98",
       "company": "Synechron",
       "title": "Business Data Analyst",
@@ -4010,8 +3991,9 @@
     "https://www.linkedin.com/jobs/view/4472181993/",
     "https://www.linkedin.com/jobs/view/4473775968/",
     "https://www.linkedin.com/jobs/view/4463883657/",
-    "https://www.linkedin.com/jobs/view/4473907670/"
+    "https://www.linkedin.com/jobs/view/4473907670/",
+    "https://www.linkedin.com/jobs/view/4471527416/"
   ],
   "lastRun": "2026-09-30T18:11:46.089680+00:00",
-  "savedAt": "2026-09-30T18:57:55.034Z"
+  "savedAt": "2026-09-30T18:57:58.485Z"
 }
