@@ -23,48 +23,6 @@
       "reviewed_by_user": true
     },
     {
-      "id": "1a0ee63dd91LJs4",
-      "company": "Citi",
-      "title": "Correspondent Associate Credit Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4342037238/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-29T18:18:37.329881+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0ee63f046bAxR",
-      "company": "Nomura",
-      "title": "Financial Control Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471081093/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:18:42.118242+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0ee63f7e767vu",
       "company": "ICE",
       "title": "Business Continuity Organization Analyst",
@@ -74,27 +32,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-09-29T18:18:44.071952+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0ee64b885um94",
-      "company": "MDM Commercial",
-      "title": "Credit Analyst",
-      "location": "Ponte Vedra Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471516108/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:19:33.381692+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -191,28 +128,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee6742c1TyHp",
-      "company": "Kelly Science, Engineering, Technology & Telecom",
-      "title": "IT Business System Analyst",
-      "location": "Hollywood, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473001170/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:22:19.841939+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0ee67a964JhjL",
       "company": "JetBlue",
       "title": "Junior Analyst Cruise Product Operations (Paisly)",
@@ -234,27 +149,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ee67e0d2DAZL",
-      "company": "The Casino at Dania Beach",
-      "title": "Financial Analyst",
-      "location": "Fort Lauderdale, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471753135/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:23:00.306239+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0ee687cffUPd9",
       "company": "eMed",
       "title": "M&A Analyst",
@@ -264,27 +158,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-09-29T18:23:40.287885+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0ee68840buvz7",
-      "company": "Moove",
-      "title": "Financial Analyst - Autonomous Vehicle",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471903779/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T18:23:42.091979+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -542,27 +415,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0ed85c91fGH0I",
-      "company": "Citi",
-      "title": "Cash and Trade Processing Intermediate Associate Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473217632/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:16:03.103418+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0ed85e16eF1SI",
       "company": "Bank of America",
       "title": "Account Management Ops Analyst - Private Bank Offboarding",
@@ -614,27 +466,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-09-29T14:17:14.530057+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0ed876722iHcC",
-      "company": "Deckers Brands",
-      "title": "Financial Analyst - Retail",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471222291/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-29T14:17:49.090175+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -6954,8 +6785,16 @@
     "https://www.linkedin.com/jobs/view/4472774062/",
     "https://www.linkedin.com/jobs/view/4471753441/",
     "https://www.linkedin.com/jobs/view/4472775043/",
-    "https://www.linkedin.com/jobs/view/4473033106/"
+    "https://www.linkedin.com/jobs/view/4473033106/",
+    "https://www.linkedin.com/jobs/view/4342037238/",
+    "https://www.linkedin.com/jobs/view/4471081093/",
+    "https://www.linkedin.com/jobs/view/4471516108/",
+    "https://www.linkedin.com/jobs/view/4473001170/",
+    "https://www.linkedin.com/jobs/view/4471753135/",
+    "https://www.linkedin.com/jobs/view/4471903779/",
+    "https://www.linkedin.com/jobs/view/4473217632/",
+    "https://www.linkedin.com/jobs/view/4471222291/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T04:25:07.467Z"
+  "savedAt": "2026-09-30T04:27:03.809Z"
 }
