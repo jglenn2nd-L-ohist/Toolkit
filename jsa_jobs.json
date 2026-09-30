@@ -2207,25 +2207,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e87684calQ-K",
-      "company": "DeKalb County Government",
-      "title": "Business Analyst",
-      "location": "Decatur, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470885245/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:41:16.490489+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e876e591-a97",
       "company": "QTS Data Centers",
       "title": "Security Operations Analyst",
@@ -7448,8 +7429,9 @@
     "https://www.linkedin.com/jobs/view/4441558924/",
     "https://www.linkedin.com/jobs/view/4472089305/",
     "https://www.linkedin.com/jobs/view/4472409473/",
-    "https://www.linkedin.com/jobs/view/4454550185/"
+    "https://www.linkedin.com/jobs/view/4454550185/",
+    "https://www.linkedin.com/jobs/view/4470885245/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:39:05.687Z"
+  "savedAt": "2026-09-30T03:39:35.489Z"
 }
