@@ -20,28 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f38e07b8msEF",
-      "company": "Photon",
-      "title": "Business System Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473775968/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T18:22:46.712339+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f38e1127dAjm",
       "company": "Whitley Penn",
       "title": "IT Business Systems Analyst",
@@ -4071,8 +4049,9 @@
     "https://www.linkedin.com/jobs/view/4454911230/",
     "https://www.linkedin.com/jobs/view/4471934254/",
     "https://www.linkedin.com/jobs/view/4464649941/",
-    "https://www.linkedin.com/jobs/view/4472181993/"
+    "https://www.linkedin.com/jobs/view/4472181993/",
+    "https://www.linkedin.com/jobs/view/4473775968/"
   ],
   "lastRun": "2026-09-30T18:11:46.089680+00:00",
-  "savedAt": "2026-09-30T18:56:50.069Z"
+  "savedAt": "2026-09-30T18:57:06.551Z"
 }
