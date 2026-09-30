@@ -2415,25 +2415,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e87aca27GtdE",
-      "company": "HNTB",
-      "title": "Project Controls Systems & BI Analyst II",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471667642/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:45:56.391962+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e87aded8OfkT",
       "company": "Carrier Enterprise",
       "title": "Pricing & Margin Analyst",
@@ -2453,44 +2434,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0e87b1138FJCQ",
-      "company": "AARATECH",
-      "title": "Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471376951/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-28T14:46:14.584706+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0e87b2be9uloA",
-      "company": "Tata Consultancy Services",
-      "title": "Technical Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462334213/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-28T14:46:21.417467+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0e87b35894xDh",
@@ -7304,8 +7247,11 @@
     "https://www.linkedin.com/jobs/view/4470339018/",
     "https://www.linkedin.com/jobs/view/4472214106/",
     "https://www.linkedin.com/jobs/view/4472088939/",
-    "https://www.linkedin.com/jobs/view/4397326866/"
+    "https://www.linkedin.com/jobs/view/4397326866/",
+    "https://www.linkedin.com/jobs/view/4471667642/",
+    "https://www.linkedin.com/jobs/view/4471376951/",
+    "https://www.linkedin.com/jobs/view/4462334213/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:48:47.232Z"
+  "savedAt": "2026-09-30T03:49:49.718Z"
 }
