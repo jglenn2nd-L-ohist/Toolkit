@@ -2207,25 +2207,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e876e591-a97",
-      "company": "QTS Data Centers",
-      "title": "Security Operations Analyst",
-      "location": "Suwanee, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472242563/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:41:41.265392+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e876ec6aahWU",
       "company": "UCB",
       "title": "Commercial Operations Analyst",
@@ -7430,8 +7411,9 @@
     "https://www.linkedin.com/jobs/view/4472089305/",
     "https://www.linkedin.com/jobs/view/4472409473/",
     "https://www.linkedin.com/jobs/view/4454550185/",
-    "https://www.linkedin.com/jobs/view/4470885245/"
+    "https://www.linkedin.com/jobs/view/4470885245/",
+    "https://www.linkedin.com/jobs/view/4472242563/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:41:47.894Z"
+  "savedAt": "2026-09-30T03:42:43.191Z"
 }
