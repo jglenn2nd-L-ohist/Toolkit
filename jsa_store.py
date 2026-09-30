@@ -22,13 +22,30 @@ def _api(path):
     return f'https://api.github.com/repos/{DATA_REPO}/contents/{path}'
 
 
-def _req(token, url, method='GET', body=None):
-    req = urllib.request.Request(url, method=method,
-        data=json.dumps(body).encode() if body else None,
-        headers={'Authorization': f'token {token}', 'Accept': 'application/vnd.github.v3+json',
-                 'Content-Type': 'application/json', 'User-Agent': 'JSA'})
-    with urllib.request.urlopen(req) as r:
-        return json.loads(r.read())
+NET_TIMEOUT = 30   # seconds; without this a stalled connection hangs the run forever
+
+
+def _req(token, url, method='GET', body=None, attempts=3):
+    """GitHub API call with a timeout and retries on network blips / 5xx.
+    4xx errors (401, 403, 404, 409) are raised immediately — retrying won't fix them."""
+    for i in range(attempts):
+        req = urllib.request.Request(url, method=method,
+            data=json.dumps(body).encode() if body else None,
+            headers={'Authorization': f'token {token}', 'Accept': 'application/vnd.github.v3+json',
+                     'Content-Type': 'application/json', 'User-Agent': 'JSA'})
+        try:
+            with urllib.request.urlopen(req, timeout=NET_TIMEOUT) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            if e.code >= 500 and i < attempts - 1:
+                print(f'  GitHub {e.code}, retrying ({i + 1}/{attempts - 1})', flush=True)
+                time.sleep(5 * (i + 1)); continue
+            raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+            if i < attempts - 1:
+                print(f'  network error ({e}), retrying ({i + 1}/{attempts - 1})', flush=True)
+                time.sleep(5 * (i + 1)); continue
+            raise
 
 
 def read(token, path, default):
