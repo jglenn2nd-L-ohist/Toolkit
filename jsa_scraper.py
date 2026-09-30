@@ -324,7 +324,7 @@ def main():
 
     seen_u = {jsa_store.url_key(j) for j in existing_jobs + rejects_data['rejects'] if j.get('url')}
     seen_u |= {jsa_store.url_key({'url': d}) for d in current_data.get('dismissed', [])}
-    seen_a = {jsa_store.alt_key(j) for j in existing_jobs}
+    seen_a = {jsa_store.alt_key(j) for j in existing_jobs} | jsa_store.dismissed_keys(current_data)
 
     gmail_service, _ = get_gmail_service()
     label_id = get_or_create_label(gmail_service, JSA_LABEL)

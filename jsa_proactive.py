@@ -103,7 +103,7 @@ def main():
     # Skip anything already stored, dismissed, or previously rejected — no wasted fetches
     seen_u = {jsa_store.url_key(j) for j in data.get('jobs', []) + rj['rejects'] if j.get('url')}
     seen_u |= {jsa_store.url_key({'url': d}) for d in data.get('dismissed', [])}
-    seen_a = {jsa_store.alt_key(j) for j in data.get('jobs', [])}
+    seen_a = {jsa_store.alt_key(j) for j in data.get('jobs', [])} | jsa_store.dismissed_keys(data)
     print(f"Current: {len(data.get('jobs', []))} jobs, {len(rj['rejects'])} known rejects")
 
     keep, rejects, records, fetched = [], [], [], 0

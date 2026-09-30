@@ -58,8 +58,38 @@ def url_key(j):
     return url.split('?')[0]
 
 
+_CO_SUFFIX = r'\b(the|inc|llc|pllc|llp|lp|ltd|plc|corp|corporation|co|company|p a|pa)\b'
+DISMISS_DAYS = 90   # a removed company+title stays blocked this long (catches reposts with new IDs)
+
+
+def norm_company(c):
+    c = re.sub(r'[^a-z0-9]+', ' ', (c or '').lower())
+    return re.sub(r'\s+', ' ', re.sub(_CO_SUFFIX, ' ', c)).strip()
+
+
+def norm_title(t):
+    t = (t or '').lower()
+    t = re.sub(r'\((remote|hybrid|on-?site)[^)]*\)', ' ', t)
+    t = re.sub(r'[-\u2013|]\s*(remote|hybrid|on-?site)\b.*$', ' ', t)
+    return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9]+', ' ', t)).strip()
+
+
 def alt_key(j):
-    return ((j.get('company') or '') + '|' + (j.get('title') or '')).lower().strip()
+    """Company+title identity. MUST match altKey() in index.html."""
+    return norm_company(j.get('company')) + '|' + norm_title(j.get('title'))
+
+
+def dismissed_keys(data):
+    """company|title keys you removed in the app within DISMISS_DAYS."""
+    cutoff = datetime.now(timezone.utc).timestamp() - DISMISS_DAYS * 86400
+    out = set()
+    for d in data.get('dismissedKeys', []):
+        try:
+            if datetime.fromisoformat(d['at'].replace('Z', '+00:00')).timestamp() >= cutoff:
+                out.add(d['k'])
+        except Exception:
+            out.add(d.get('k', ''))
+    return out
 
 
 # ── MERGE-WRITE ───────────────────────────────────────────
@@ -77,7 +107,7 @@ def merge_jobs(token, new_jobs, rejects, run_stat, message, retries=4, replace_i
             jobs = [j for j in jobs if j.get('id') not in replace_ids]
         dismissed = {d.lower().rstrip('/') for d in data.get('dismissed', [])}
         seen_u = {url_key(j) for j in jobs if j.get('url')} | {url_key({'url': d}) for d in dismissed}
-        seen_a = {alt_key(j) for j in jobs}
+        seen_a = {alt_key(j) for j in jobs} | dismissed_keys(data)
         added = []
         for j in new_jobs:
             if url_key(j) in seen_u or alt_key(j) in seen_a:

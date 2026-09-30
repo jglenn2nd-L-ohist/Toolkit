@@ -376,6 +376,23 @@ let outreach  = [];
 let lastRun   = null;
 let fileSha   = null;
 let dismissed = [];
+let dismissedKeys = [];   // [{k: 'company|title', at: iso}] — blocks reposts that come back with a new URL
+let fileExtra = {};       // top-level fields the app doesn't use (runStats etc.) — preserved on save
+
+// MUST match alt_key() in jsa_store.py
+function normCompany(c){ c=(c||'').toLowerCase().replace(/[^a-z0-9]+/g,' ');
+  c=c.replace(/\b(the|inc|llc|pllc|llp|lp|ltd|plc|corp|corporation|co|company|p a|pa)\b/g,' ');
+  return c.replace(/\s+/g,' ').trim(); }
+function normTitle(t){ t=(t||'').toLowerCase();
+  t=t.replace(/\((remote|hybrid|on-?site)[^)]*\)/g,' ');
+  t=t.replace(/[-\u2013|]\s*(remote|hybrid|on-?site)\b.*$/,' ');
+  return t.replace(/[^a-z0-9]+/g,' ').replace(/\s+/g,' ').trim(); }
+function altKey(j){ return normCompany(j.company)+'|'+normTitle(j.title); }
+function dismissJob(j){
+  if (j.url && !dismissed.includes(j.url)) dismissed.push(j.url);
+  const k = altKey(j);
+  if (!dismissedKeys.some(d=>d.k===k)) dismissedKeys.push({k, at:new Date().toISOString()});
+}
 let lastRemoved = null;
 let selectedIds = new Set();
 
@@ -444,6 +461,9 @@ async function loadFromGitHub(showToast) {
     jobs      = Array.isArray(parsed.jobs) ? parsed.jobs : [];
     outreach  = Array.isArray(parsed.outreach) ? parsed.outreach : [];
     dismissed = Array.isArray(parsed.dismissed) ? parsed.dismissed : [];
+    dismissedKeys = Array.isArray(parsed.dismissedKeys) ? parsed.dismissedKeys : [];
+    const { jobs: _j, outreach: _o, dismissed: _d, dismissedKeys: _k, lastRun: _l, savedAt: _s, ...extra } = parsed;
+    fileExtra = extra;
     lastRun   = parsed.lastRun || null;
 
     setGhStatus('GitHub sync active', 'ok');
@@ -468,7 +488,7 @@ async function saveToGitHub() {
   if (!t) { showSaveInd('No token — go to Settings', true); return; }
   if (!fileSha) { showSaveInd('Not loaded with token — Sync first', true); return; }
   const content = btoa(unescape(encodeURIComponent(
-    JSON.stringify({ jobs, outreach, dismissed, lastRun, savedAt: new Date().toISOString() }, null, 2)
+    JSON.stringify({ ...fileExtra, jobs, outreach, dismissed, dismissedKeys, lastRun, savedAt: new Date().toISOString() }, null, 2)
   )));
   try {
     const body = { message: 'JSA update ' + new Date().toISOString().slice(0,10), content, sha: fileSha };
@@ -527,7 +547,7 @@ function updateBatchBar() {
 async function batchRemove() {
   if (!selectedIds.size) return;
   const n = selectedIds.size;
-  jobs.forEach(j => { if (selectedIds.has(j.id) && j.url && !dismissed.includes(j.url)) dismissed.push(j.url); });
+  jobs.forEach(j => { if (selectedIds.has(j.id)) dismissJob(j); });
   jobs = jobs.filter(j => !selectedIds.has(j.id));
   selectedIds.clear();
   document.getElementById('sel-all').checked = false;
@@ -667,13 +687,26 @@ async function removeJob(e,id) {
   const j = jobs.find(x=>x.id===id);
   if (!j) return;
   lastRemoved = {...j};
-  if (j.url && !dismissed.includes(j.url)) dismissed.push(j.url);
+  dismissJob(j);
   jobs = jobs.filter(x=>x.id!==id);
   await saveToGitHub();
   const rb = document.getElementById('restore-btn');
   if (rb) { rb.style.display='inline-flex'; }
   renderJobs(); updateMetrics();
   toast(j.company+' removed.');
+}
+
+async function restoreLastRemoved() {
+  // the button existed but this function did not — restore was broken
+  if (!lastRemoved) return;
+  const j = lastRemoved; lastRemoved = null;
+  dismissed = dismissed.filter(u => u !== j.url);
+  const k = altKey(j); dismissedKeys = dismissedKeys.filter(d => d.k !== k);
+  jobs.unshift(j);
+  document.querySelectorAll('#restore-btn').forEach(b => b.style.display = 'none');
+  await saveToGitHub();
+  renderJobs(); updateMetrics();
+  toast(j.company + ' restored.');
 }
 
 // ── PIPELINE ──────────────────────────────────────────────
