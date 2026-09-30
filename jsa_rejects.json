@@ -1,6 +1,54 @@
 {
   "rejects": [
     {
+      "title": "Commercial FP&A Analyst",
+      "company": "good2grow\u2122",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4472787148/?trackingId=2RKN5CHrTIr%2F9g10kiVhfA%3D%3D&refIdhoA%2BK691fCWC39Q%2BXO6Mw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B7En1yhAcTv2BIEbEUrrfSQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0ZlO1oRXDOqYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4472787148_ssid_8797982178_fmid_q9jfse~muoena43~2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4472787148_ssid_8797982178_fmid_q9jfse~muoena43~2-null-q9jfse~muoena43~2-null-null&eid=q9jfse-muoena43-2&otpToken=NWVhNTgwYTBiZWIwZTM2ZDVhODVjMzBkYzQ5ZjFiMTkyNjlmMDcwYTJkNWRlMDM4NmIxMjgwZjUyYzZkZTcwYTNkNWQyZWI3YTRjOGMxNDViOTY0ZTBjODM1NDBlOGY1MzY2ODA3MzJiZDczZjQ5ZjM3YjE1NWFhYmJmZTBmZWViYTBmZTJlZGE1NmI1M2MzMGUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:fp&a"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-30T18:11:26.628695+00:00"
+    },
+    {
+      "title": "Revenue Analytics Manager",
+      "company": "Vallum Associates",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4472445703/?trackingId=rZiautwVCcxoTHtA9N6s3g%3D%3D&refId=TvLJc%2BRocs4S0J9GGdnM3g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B3FWLYM2nTQWVavxisW0fkA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2Yk7SzHD4iqIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4472445703_ssid_8797982178_fmid_q9jfse~munxhzrk~6r&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4472445703_ssid_8797982178_fmid_q9jfse~munxhzrk~6r-null-q9jfse~munxhzrk~6r-null-null&eid=q9jfse-munxhzrk-6r&otpToken=NGFhMDQyYTUwODA3ZDVlNGE4ZGQ3MzYxYjYyMjlkNjhlOWM5ODZkZTc4Y2ZiZGY1YmY2YmY4MTU1NTJkN2U3YWJmZWFjODEzNmNkNTk2YTUzNmRmYWNjMzUyMjlmYTJlOGE2MTIzNGFjNThjZWU2ZmUxNzJmMjRjYjVhMTg0ZTIwYmZjZmI4MWU4M2U0MzgzZGEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-30T18:11:27.750634+00:00"
+    },
+    {
+      "title": "QA Sales Senior Analyst",
+      "company": "Accenture",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4471320538/?trackingId=ApP26S6ZHozI22xUulDLgg%3D%3D&refId=TvLJc%2BRocs4S0J9GGdnM3g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B3FWLYM2nTQWVavxisW0fkA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2Yk7SzHD4iqIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471320538_ssid_8797982178_fmid_q9jfse~munxhzrk~6r&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471320538_ssid_8797982178_fmid_q9jfse~munxhzrk~6r-null-q9jfse~munxhzrk~6r-null-null&eid=q9jfse-munxhzrk-6r&otpToken=NGFhMDQyYTUwODA3ZDVlNGE4ZGQ3MzYxYjYyMjlkNjhlOWM5ODZkZTc4Y2ZiZGY1YmY2YmY4MTU1NTJkN2U3YWJmZWFjODEzNmNkNTk2YTUzNmRmYWNjMzUyMjlmYTJlOGE2MTIzNGFjNThjZWU2ZmUxNzJmMjRjYjVhMTg0ZTIwYmZjZmI4MWU4M2U0MzgzZGEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-30T18:11:27.750698+00:00"
+    },
+    {
+      "title": "Business Operations Analyst",
+      "company": "Jobgether",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4471345352/?trackingId=X93oM9KS9Y7vLxEzYqxySg%3D%3D&refId=fGrp%2BANSggsWKNSnkWW5YA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BdfRvCQzpRviZrB0vAY6fpg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1vD91ZQFcyqss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4471345352_ssid_8461940610_fmid_q9jfse~munoxcel~m0&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4471345352_ssid_8461940610_fmid_q9jfse~munoxcel~m0-null-q9jfse~munoxcel~m0-null-null&eid=q9jfse-munoxcel-m0&otpToken=NWFkY2NiYWY3YmQyNTQxNjQ4Y2QwMDgxNjBkZWMzMjNiYTMzNjg3Y2I4ZjQ0YzUyMGRkMzhmYmU4MzY0NzNlZGEwYWM0NWRmZTczZTIwNWQwYzU2Y2YzNjQxOGRmMTk1YzQ0ZTNmNWNlNzA1M2VlYzIwNzIzZjViMjI4ZTNjMDI1YWM5NDNiZGFlNzBmMWMzM2YsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-09-30T18:11:28.189132+00:00"
+    },
+    {
       "title": "Senior Actuarial Analyst",
       "company": "See posting",
       "location": "",
