@@ -2062,25 +2062,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e874af70v1Rx",
-      "company": "TalentHop",
-      "title": "Analyst, Business Intelligence, MLD, I",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470862020/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:39:16.336409+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e875503cCFJq",
       "company": "Yamaha Motor Corporation, USA",
       "title": "SAP Analyst",
@@ -7592,8 +7573,9 @@
     "https://www.linkedin.com/jobs/view/4470850324/",
     "https://www.linkedin.com/jobs/view/4455167575/",
     "https://www.linkedin.com/jobs/view/4455239642/",
-    "https://www.linkedin.com/jobs/view/4454313215/"
+    "https://www.linkedin.com/jobs/view/4454313215/",
+    "https://www.linkedin.com/jobs/view/4470862020/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:29:38.574Z"
+  "savedAt": "2026-09-30T03:29:45.492Z"
 }
