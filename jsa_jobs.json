@@ -2186,25 +2186,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e8761d9djxNK",
-      "company": "Pyramid Consulting, Inc",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472089305/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:40:50.077191+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e87625fdi2e5",
       "company": "Delta Air Lines",
       "title": "Analytics Leader, Operations Planning and Performance, Operations Control Center Strategy",
@@ -7502,8 +7483,9 @@
     "https://www.linkedin.com/jobs/view/4471336417/",
     "https://www.linkedin.com/jobs/view/4472220244/",
     "https://www.linkedin.com/jobs/view/4461425258/",
-    "https://www.linkedin.com/jobs/view/4441558924/"
+    "https://www.linkedin.com/jobs/view/4441558924/",
+    "https://www.linkedin.com/jobs/view/4472089305/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:36:37.079Z"
+  "savedAt": "2026-09-30T03:36:55.479Z"
 }
