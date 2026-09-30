@@ -2249,25 +2249,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0e877e23ezE8u",
-      "company": "Salesforce",
-      "title": "Digital Marketing Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472067509/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:42:45.950788+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e878811aRmae",
       "company": "SEI",
       "title": "Data and Analytics Consultant",
@@ -7394,8 +7375,9 @@
     "https://www.linkedin.com/jobs/view/4454550185/",
     "https://www.linkedin.com/jobs/view/4470885245/",
     "https://www.linkedin.com/jobs/view/4472242563/",
-    "https://www.linkedin.com/jobs/view/4444748351/"
+    "https://www.linkedin.com/jobs/view/4444748351/",
+    "https://www.linkedin.com/jobs/view/4472067509/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:43:07.527Z"
+  "savedAt": "2026-09-30T03:43:32.338Z"
 }
