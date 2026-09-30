@@ -22,25 +22,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f4398f71Rbc4",
-      "company": "USAA",
-      "title": "Business Strategy Analyst (Mid-level)",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472624957/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:30:08.113303+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43998b2w1mI",
       "company": "Liberty Mutual Insurance",
       "title": "Analyst Development Program - Boston,MA/Plano,TX/Seattle,WA (January, June, and September 2027)",
@@ -6737,8 +6718,9 @@
     "https://www.linkedin.com/jobs/view/4470899237/",
     "https://www.linkedin.com/jobs/view/4470867649/",
     "https://www.linkedin.com/jobs/view/4471373637/",
-    "https://www.linkedin.com/jobs/view/4472324908/"
+    "https://www.linkedin.com/jobs/view/4472324908/",
+    "https://www.linkedin.com/jobs/view/4472624957/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-09-30T22:38:52.771Z"
+  "savedAt": "2026-09-30T22:39:17.075Z"
 }
