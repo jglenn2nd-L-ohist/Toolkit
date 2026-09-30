@@ -20,28 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f38df7dcqjO-",
-      "company": "Charles Schwab",
-      "title": "Retirement Business System Analyst",
-      "location": "Westlake, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472181993/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-30T18:22:42.652289+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f38e07b8msEF",
       "company": "Photon",
       "title": "Business System Analyst",
@@ -4092,8 +4070,9 @@
     "https://www.linkedin.com/jobs/view/4471244577/",
     "https://www.linkedin.com/jobs/view/4454911230/",
     "https://www.linkedin.com/jobs/view/4471934254/",
-    "https://www.linkedin.com/jobs/view/4464649941/"
+    "https://www.linkedin.com/jobs/view/4464649941/",
+    "https://www.linkedin.com/jobs/view/4472181993/"
   ],
   "lastRun": "2026-09-30T18:11:46.089680+00:00",
-  "savedAt": "2026-09-30T18:56:39.443Z"
+  "savedAt": "2026-09-30T18:56:46.026Z"
 }
