@@ -9,6 +9,7 @@ environment variable (set once with: setx JSA_GH_TOKEN yourtoken).
 """
 
 import os, re, sys, json, time, random, base64
+import html as htmlmod
 import urllib.request, urllib.parse
 from datetime import datetime, timezone
 
@@ -59,7 +60,9 @@ def new_job(title, company, location, url, source, remote_search=False):
 
 
 # ── LINKEDIN ──────────────────────────────────────────────
-def linkedin_ids(keywords, location):
+def linkedin_cards(keywords, location):
+    """Search results already carry title/company/location per job, so most rejects
+    can be decided here WITHOUT opening the posting (saves the fetch budget)."""
     params = {'keywords': keywords, 'location': location, 'f_TPR': 'r259200',
               'sortBy': 'DD', 'start': '0'}
     if location.lower() == 'remote':
@@ -67,8 +70,21 @@ def linkedin_ids(keywords, location):
         params['f_WT'] = '2'
     url = 'https://www.linkedin.com/jobs/search/?' + urllib.parse.urlencode(params)
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=15) as r:
-        html = r.read().decode('utf-8', errors='replace')
-    return list(dict.fromkeys(re.findall(r'jobPosting:(\d+)', html)))[:20]
+        page = r.read().decode('utf-8', errors='replace')
+    cards, seen = [], set()
+    for chunk in re.split(r'(?=<div[^>]+data-entity-urn="urn:li:jobPosting:)', page)[1:]:
+        jid = re.search(r'jobPosting:(\d+)', chunk).group(1)
+        if jid in seen:
+            continue
+        seen.add(jid)
+        def pick(pat):
+            m = re.search(pat, chunk)
+            return htmlmod.unescape(m.group(1)).strip() if m else ''
+        cards.append({'id': jid,
+                      'title': pick(r'base-search-card__title[^>]*>\s*([^<]+)'),
+                      'company': pick(r'base-search-card__subtitle[^>]*>\s*(?:<a[^>]*>)?\s*([^<]+)'),
+                      'location': pick(r'job-search-card__location[^>]*>\s*([^<]+)')})
+    return cards
 
 
 # ── GREENHOUSE ────────────────────────────────────────────
@@ -108,23 +124,37 @@ def main():
 
     keep, rejects, records, fetched = [], [], [], 0
 
-    # LinkedIn
-    searches = [(t, 'Remote') for t in TITLES] + [(t, c) for c in todays_cities() for t in TITLES]
+    # LinkedIn — local cities first, Remote last: Remote results are mostly out-of-area,
+    # so they should never consume the budget before your real markets are covered.
+    searches = [(t, c) for c in todays_cities() for t in TITLES] + [(t, 'Remote') for t in TITLES]
     print(f"\nLinkedIn: {len(searches)} searches")
+    card_rejects = 0
     for kw, loc in searches:
         try:
-            ids = linkedin_ids(kw, loc)
+            cards = linkedin_cards(kw, loc)
         except Exception as e:
             print(f"  search error ({kw} / {loc}): {e}")
             continue
         added = 0
-        for jid in ids:
-            url = f'https://www.linkedin.com/jobs/view/{jid}/'
+        for c in cards:
+            url = f'https://www.linkedin.com/jobs/view/{c["id"]}/'
             uk = jsa_store.url_key({'url': url})
-            if uk in seen_u or fetched >= MAX_FETCH:
+            if uk in seen_u:
                 continue
             seen_u.add(uk)
-            job = new_job('', '', '', url, 'LinkedIn', remote_search=(loc == 'Remote'))
+            job = new_job(c['title'], c['company'], c['location'], url, 'LinkedIn',
+                          remote_search=(loc == 'Remote'))
+            ak = jsa_store.alt_key(job)
+            if ak in seen_a:
+                continue
+            seen_a.add(ak)
+            # Decide from the card first; only open postings that could still pass
+            if jsa_filters.evaluate(job, None)['filter_status'] == 'reject':
+                route(job, None, keep, rejects, records)
+                card_rejects += 1
+                continue
+            if fetched >= MAX_FETCH:
+                continue
             d = jsa_enrich.enrich(job, pause=random.uniform(1, 2.5))
             fetched += 1
             if not d:
@@ -133,17 +163,13 @@ def main():
                 continue
             jsa_enrich.apply_enrichment(job, d)
             job['salary'] = d.get('salary', '')
-            ak = jsa_store.alt_key(job)
-            if ak in seen_a:
-                continue
-            seen_a.add(ak)
             route(job, d['jd'], keep, rejects, records)
             added += 1
-        print(f"  {kw} / {loc}: {added} evaluated")
+        print(f"  {kw} / {loc}: {len(cards)} cards, {added} opened")
         time.sleep(random.uniform(3, 7))
-        if fetched >= MAX_FETCH:
-            print(f"  fetch cap {MAX_FETCH} reached — stopping LinkedIn for this run")
-            break
+    print(f"  {card_rejects} rejected from search cards without opening; {fetched} postings opened")
+    if fetched >= MAX_FETCH:
+        print(f"  fetch cap {MAX_FETCH} reached")
 
     # Greenhouse
     print("\nGreenhouse boards...")
