@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0f38d9c2dboDw",
-      "company": "GM Financial",
-      "title": "Risk Analyst II - Portfolio Analytics",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454911230/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-30T18:22:19.181847+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f38dba6aYLBd",
       "company": "Verizon",
       "title": "Cslt-Business Intelligence",
@@ -4150,8 +4129,9 @@
     "https://www.linkedin.com/jobs/view/4465075390/",
     "https://www.linkedin.com/jobs/view/4455754279/",
     "https://www.linkedin.com/jobs/view/4470878914/",
-    "https://www.linkedin.com/jobs/view/4471244577/"
+    "https://www.linkedin.com/jobs/view/4471244577/",
+    "https://www.linkedin.com/jobs/view/4454911230/"
   ],
   "lastRun": "2026-09-30T18:11:46.089680+00:00",
-  "savedAt": "2026-09-30T18:54:18.930Z"
+  "savedAt": "2026-09-30T18:54:26.496Z"
 }
