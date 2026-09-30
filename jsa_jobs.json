@@ -2144,25 +2144,6 @@
       "status": "New"
     },
     {
-      "id": "1a0e875f4051ckn",
-      "company": "RaceTrac",
-      "title": "Business Intelligence & Systems Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4461425258/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-28T14:40:39.429335+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0e87605e4hEBI",
       "company": "CRH",
       "title": "Business Performance Analyst",
@@ -7538,8 +7519,9 @@
     "https://www.linkedin.com/jobs/view/4454313215/",
     "https://www.linkedin.com/jobs/view/4470862020/",
     "https://www.linkedin.com/jobs/view/4471336417/",
-    "https://www.linkedin.com/jobs/view/4472220244/"
+    "https://www.linkedin.com/jobs/view/4472220244/",
+    "https://www.linkedin.com/jobs/view/4461425258/"
   ],
   "lastRun": "2026-09-29T21:18:40.124730+00:00",
-  "savedAt": "2026-09-30T03:36:06.214Z"
+  "savedAt": "2026-09-30T03:36:10.379Z"
 }
