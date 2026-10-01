@@ -1266,25 +1266,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b65096FkqH",
-      "company": "Nova Southeastern University",
-      "title": "Data Analyst III - Student Financial Services - 991339",
-      "location": "Fort Lauderdale, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474317434/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:24:52.886362+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b6bed95coL",
       "company": "Team Car Care",
       "title": "Marketing Data Analyst",
@@ -7816,7 +7797,8 @@
     "https://www.linkedin.com/jobs/view/4472800211/",
     "https://www.linkedin.com/jobs/view/4472574988/",
     "https://www.linkedin.com/jobs/view/4472572858/",
-    "https://www.linkedin.com/jobs/view/4474337379/"
+    "https://www.linkedin.com/jobs/view/4474337379/",
+    "https://www.linkedin.com/jobs/view/4474317434/"
   ],
   "dismissedKeys": [
     {
@@ -7910,8 +7892,12 @@
     {
       "k": "accord technologies|business analyst it healthcare advanced",
       "at": "2026-10-01T19:04:17.432Z"
+    },
+    {
+      "k": "nova southeastern university|data analyst iii student financial services 991339",
+      "at": "2026-10-01T19:05:18.962Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:05:08.330Z"
+  "savedAt": "2026-10-01T19:05:18.962Z"
 }
