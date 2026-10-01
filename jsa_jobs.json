@@ -1475,25 +1475,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c97050nBIh",
-      "company": "SouthState Bank",
-      "title": "Commercial Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472657002/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:06:08.976462+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c97756zdc1",
       "company": "GXO Logistics, Inc.",
       "title": "Implementation Analyst - 2nd Shift",
@@ -7726,7 +7707,8 @@
     "https://www.linkedin.com/jobs/view/4474345006/",
     "https://www.linkedin.com/jobs/view/4441562202/",
     "https://www.linkedin.com/jobs/view/4467801697/",
-    "https://www.linkedin.com/jobs/view/4473959810/"
+    "https://www.linkedin.com/jobs/view/4473959810/",
+    "https://www.linkedin.com/jobs/view/4472657002/"
   ],
   "dismissedKeys": [
     {
@@ -7840,8 +7822,12 @@
     {
       "k": "altium packaging|erp business systems analyst ii oracle fusion",
       "at": "2026-10-01T19:08:58.344Z"
+    },
+    {
+      "k": "southstate bank|commercial business analyst",
+      "at": "2026-10-01T19:09:10.007Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:09:00.766Z"
+  "savedAt": "2026-10-01T19:09:10.007Z"
 }
