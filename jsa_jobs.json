@@ -1496,25 +1496,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c9a226P4rT",
-      "company": "Bank of America",
-      "title": "Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471257266/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:06:21.734560+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c9a9b5RePi",
       "company": "Troutman Pepper Locke LLP",
       "title": "eMerge Operations Analyst",
@@ -7690,7 +7671,8 @@
     "https://www.linkedin.com/jobs/view/4467801697/",
     "https://www.linkedin.com/jobs/view/4473959810/",
     "https://www.linkedin.com/jobs/view/4472657002/",
-    "https://www.linkedin.com/jobs/view/4454793312/"
+    "https://www.linkedin.com/jobs/view/4454793312/",
+    "https://www.linkedin.com/jobs/view/4471257266/"
   ],
   "dismissedKeys": [
     {
@@ -7812,8 +7794,12 @@
     {
       "k": "affirm|revenue operations analyst ii",
       "at": "2026-10-01T19:09:13.862Z"
+    },
+    {
+      "k": "bank of america|operations analyst",
+      "at": "2026-10-01T19:09:41.505Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:09:16.586Z"
+  "savedAt": "2026-10-01T19:09:41.505Z"
 }
