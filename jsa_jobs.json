@@ -1266,25 +1266,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b70470k6Ym",
-      "company": "Imagine Pediatrics",
-      "title": "Business Intelligence Engineer",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4441562202/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:25:38.928706+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b70e28z-hJ",
       "company": "Actus Actuarial Search",
       "title": "Data Analytics Engineer",
@@ -7780,7 +7761,8 @@
     "https://www.linkedin.com/jobs/view/4472572858/",
     "https://www.linkedin.com/jobs/view/4474337379/",
     "https://www.linkedin.com/jobs/view/4474317434/",
-    "https://www.linkedin.com/jobs/view/4474345006/"
+    "https://www.linkedin.com/jobs/view/4474345006/",
+    "https://www.linkedin.com/jobs/view/4441562202/"
   ],
   "dismissedKeys": [
     {
@@ -7882,8 +7864,12 @@
     {
       "k": "team car care|marketing data analyst",
       "at": "2026-10-01T19:05:46.873Z"
+    },
+    {
+      "k": "imagine pediatrics|business intelligence engineer",
+      "at": "2026-10-01T19:08:26.186Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:08:00.762Z"
+  "savedAt": "2026-10-01T19:08:26.186Z"
 }
