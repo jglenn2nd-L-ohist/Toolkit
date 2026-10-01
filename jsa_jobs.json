@@ -1224,25 +1224,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b44055keNx",
-      "company": "Datasoft Technologies, Inc.",
-      "title": "Business Analyst - Advanced - 26-01104",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472574988/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:22:37.653463+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b454a1kFnh",
       "company": "RICEFW Technologies Inc",
       "title": "Medical Coding Business Analyst - Must have CCS or CPC Certification - REMOTE",
@@ -7870,7 +7851,8 @@
     "https://www.linkedin.com/jobs/view/4464139020/",
     "https://www.linkedin.com/jobs/view/4471640062/",
     "https://www.linkedin.com/jobs/view/4472939470/",
-    "https://www.linkedin.com/jobs/view/4472800211/"
+    "https://www.linkedin.com/jobs/view/4472800211/",
+    "https://www.linkedin.com/jobs/view/4472574988/"
   ],
   "dismissedKeys": [
     {
@@ -7952,8 +7934,12 @@
     {
       "k": "quest global|data analyst 6 month contract",
       "at": "2026-10-01T19:03:20.793Z"
+    },
+    {
+      "k": "datasoft technologies|business analyst advanced 26 01104",
+      "at": "2026-10-01T19:03:59.438Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:03:31.542Z"
+  "savedAt": "2026-10-01T19:03:59.438Z"
 }
