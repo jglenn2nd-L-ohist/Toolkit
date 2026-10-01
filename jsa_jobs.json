@@ -1182,25 +1182,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b32529bzDv",
-      "company": "Trillium Health Resources",
-      "title": "Business Intelligence Data Systems Architect",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471640062/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:21:25.161521+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b32e67fX5k",
       "company": "Town of Garner, NC",
       "title": "Crime Analyst Supervisor",
@@ -7924,7 +7905,8 @@
     "https://www.linkedin.com/comm/jobs/view/4473708323/?trackingId=xD7K12kDlUxsZEfky99U9A%3D%3D&refId=Yx9tweGQ1c%2FoR1QKrBhwkQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpRH%2BaecfR6Wwss1qe2NVtQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=JuqZcjEqsss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs-null-q9jfse~muppsti2~fs-null-null&eid=q9jfse-muppsti2-fs&otpToken=YjA2N2U2MDY2ZTM5MjJkMGQyMTRlMzBhZDRiNDBmMDcyYmUxMzlmNmVlZTdlODA2ZmMyMzJlNzE0ZTI5NDAzMDBlYTIxMDc1OGE3ZjBhMTMwZDJjMzEyOGVmN2JmYTgzNWM4NmQzOWJlZjZjZWFjNjQwZjFjMTNkOGU5YTI5YTdhYjJjYTRlNTMwNmQ0ZmJkNWEsMiwx",
     "https://www.linkedin.com/jobs/view/4454789662/",
     "https://www.linkedin.com/jobs/view/4472341872/",
-    "https://www.linkedin.com/jobs/view/4464139020/"
+    "https://www.linkedin.com/jobs/view/4464139020/",
+    "https://www.linkedin.com/jobs/view/4471640062/"
   ],
   "dismissedKeys": [
     {
@@ -7994,8 +7976,12 @@
     {
       "k": "trane technologies|esg reporting analyst",
       "at": "2026-10-01T19:01:54.985Z"
+    },
+    {
+      "k": "trillium health resources|business intelligence data systems architect",
+      "at": "2026-10-01T19:02:56.683Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:01:58.642Z"
+  "savedAt": "2026-10-01T19:02:56.683Z"
 }
