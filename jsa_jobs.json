@@ -20,25 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7c893fbIMFD",
-      "company": "City of Atlanta",
-      "title": "Airport Data/Reporting Analyst I- Contract Administration",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471949975/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:05:12.573116+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c8a8bbbj1q",
       "company": "City of Atlanta",
       "title": "Management Analyst II - Fleet Services",
@@ -6714,8 +6695,9 @@
     "https://www.linkedin.com/jobs/view/4409426611/",
     "https://www.linkedin.com/jobs/view/4472302713/",
     "https://www.linkedin.com/jobs/view/4473557953/",
-    "https://www.linkedin.com/jobs/view/4471972011/"
+    "https://www.linkedin.com/jobs/view/4471972011/",
+    "https://www.linkedin.com/jobs/view/4471949975/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:32:21.225Z"
+  "savedAt": "2026-10-01T16:32:34.851Z"
 }
