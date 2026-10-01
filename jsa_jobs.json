@@ -950,25 +950,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43ca5aeX-WO",
-      "company": "ChampionX",
-      "title": "Sensor Operations Analyst",
-      "location": "Sugar Land, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462543115/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:33:30.414550+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43cab01ubEn",
       "company": "Selby Jennings",
       "title": "Power Markets Analyst",
@@ -6305,8 +6286,9 @@
     "https://www.linkedin.com/jobs/view/4471544676/",
     "https://www.linkedin.com/jobs/view/4473927448/",
     "https://www.linkedin.com/jobs/view/4473060623/",
-    "https://www.linkedin.com/jobs/view/4472748146/"
+    "https://www.linkedin.com/jobs/view/4472748146/",
+    "https://www.linkedin.com/jobs/view/4462543115/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:27:33.965Z"
+  "savedAt": "2026-10-01T03:28:00.109Z"
 }
