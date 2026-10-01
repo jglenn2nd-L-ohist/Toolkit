@@ -1,25 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0f7c84f92na3I",
-      "company": "Ryder System, Inc.",
-      "title": "Data Analyst II (remote)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472345596/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:04:55.058586+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c8587eNV25",
       "company": "Ryder System, Inc.",
       "title": "Data Analyst III (remote)",
@@ -6842,8 +6823,9 @@
     "https://www.linkedin.com/jobs/view/4446816060/",
     "https://www.linkedin.com/comm/jobs/view/4471279329/?trackingId=FKid4%2FB%2FwKSWhI2WhI22BA%3D%3D&refIdhoA%2BK691fCWC39Q%2BXO6Mw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B7En1yhAcTv2BIEbEUrrfSQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0ZlO1oRXDOqYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4471279329_ssid_8797982178_fmid_q9jfse~muoena43~2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4471279329_ssid_8797982178_fmid_q9jfse~muoena43~2-null-q9jfse~muoena43~2-null-null&eid=q9jfse-muoena43-2&otpToken=NWVhNTgwYTBiZWIwZTM2ZDVhODVjMzBkYzQ5ZjFiMTkyNjlmMDcwYTJkNWRlMDM4NmIxMjgwZjUyYzZkZTcwYTNkNWQyZWI3YTRjOGMxNDViOTY0ZTBjODM1NDBlOGY1MzY2ODA3MzJiZDczZjQ5ZjM3YjE1NWFhYmJmZTBmZWViYTBmZTJlZGE1NmI1M2MzMGUsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4472485552/?trackingId=u5utprex8gDu%2BpvMNXGv1Q%3D%3D&refId=fGrp%2BANSggsWKNSnkWW5YA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BdfRvCQzpRviZrB0vAY6fpg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1vD91ZQFcyqss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4472485552_ssid_8461940610_fmid_q9jfse~munoxcel~m0&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4472485552_ssid_8461940610_fmid_q9jfse~munoxcel~m0-null-q9jfse~munoxcel~m0-null-null&eid=q9jfse-munoxcel-m0&otpToken=NWFkY2NiYWY3YmQyNTQxNjQ4Y2QwMDgxNjBkZWMzMjNiYTMzNjg3Y2I4ZjQ0YzUyMGRkMzhmYmU4MzY0NzNlZGEwYWM0NWRmZTczZTIwNWQwYzU2Y2YzNjQxOGRmMTk1YzQ0ZTNmNWNlNzA1M2VlYzIwNzIzZjViMjI4ZTNjMDI1YWM5NDNiZGFlNzBmMWMzM2YsMiwx",
-    "https://www.linkedin.com/jobs/view/4473590718/"
+    "https://www.linkedin.com/jobs/view/4473590718/",
+    "https://www.linkedin.com/jobs/view/4472345596/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:02:32.544Z"
+  "savedAt": "2026-10-01T16:03:10.807Z"
 }
