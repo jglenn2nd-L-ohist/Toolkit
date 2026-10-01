@@ -1453,25 +1453,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c96127jBq5",
-      "company": "Altium Packaging",
-      "title": "ERP Business Systems Analyst II, Oracle Fusion",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473959810/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:06:05.095301+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c96b58KlLu",
       "company": "Deloitte",
       "title": "Analyst, Strategy, Growth, and Transformation",
@@ -7744,7 +7725,8 @@
     "https://www.linkedin.com/jobs/view/4474317434/",
     "https://www.linkedin.com/jobs/view/4474345006/",
     "https://www.linkedin.com/jobs/view/4441562202/",
-    "https://www.linkedin.com/jobs/view/4467801697/"
+    "https://www.linkedin.com/jobs/view/4467801697/",
+    "https://www.linkedin.com/jobs/view/4473959810/"
   ],
   "dismissedKeys": [
     {
@@ -7854,8 +7836,12 @@
     {
       "k": "actus actuarial search|data analytics engineer",
       "at": "2026-10-01T19:08:53.774Z"
+    },
+    {
+      "k": "altium packaging|erp business systems analyst ii oracle fusion",
+      "at": "2026-10-01T19:08:58.344Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:08:53.774Z"
+  "savedAt": "2026-10-01T19:08:58.344Z"
 }
