@@ -423,25 +423,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43b1148rqUs",
-      "company": "Pyramid Consulting, Inc",
-      "title": "Marketing Analyst/Coordinator 2",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473006904/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-09-30T21:31:46.888707+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43b2b51IaG7",
       "company": "Ridgepost Capital",
       "title": "Analyst, M&A and Strategy",
@@ -6431,8 +6412,9 @@
     "https://www.linkedin.com/jobs/view/4464679127/",
     "https://www.linkedin.com/jobs/view/4473959363/",
     "https://www.linkedin.com/jobs/view/4472333701/",
-    "https://www.linkedin.com/jobs/view/4473530808/"
+    "https://www.linkedin.com/jobs/view/4473530808/",
+    "https://www.linkedin.com/jobs/view/4473006904/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:21:15.981Z"
+  "savedAt": "2026-10-01T03:21:19.341Z"
 }
