@@ -323,25 +323,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b19c5eOPb5",
-      "company": "Billy Graham Evangelistic Association",
-      "title": "Business Systems Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472805385/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:19:44.606312+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b1a502YOX7",
       "company": "TIAA",
       "title": "Annuitization Product Analyst",
@@ -7423,7 +7404,8 @@
     "https://www.linkedin.com/jobs/view/4465251424/",
     "https://www.linkedin.com/jobs/view/4472338604/",
     "https://www.linkedin.com/jobs/view/4429463330/",
-    "https://www.linkedin.com/jobs/view/4388101240/"
+    "https://www.linkedin.com/jobs/view/4388101240/",
+    "https://www.linkedin.com/jobs/view/4472805385/"
   ],
   "dismissedKeys": [
     {
@@ -7465,8 +7447,12 @@
     {
       "k": "ice|quantitative business analyst product development",
       "at": "2026-10-01T18:35:36.484Z"
+    },
+    {
+      "k": "billy graham evangelistic association|business systems analyst",
+      "at": "2026-10-01T18:35:43.409Z"
     }
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T18:35:36.484Z"
+  "savedAt": "2026-10-01T18:35:43.409Z"
 }
