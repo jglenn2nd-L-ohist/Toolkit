@@ -1224,25 +1224,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b45b5d9KKH",
-      "company": "Accord Technologies Inc",
-      "title": "Business analyst (IT healthcare)-advanced.",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474337379/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:22:44.573439+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b4d2e2KFGe",
       "company": "State of South Carolina",
       "title": "Nurse Supervisor, Non-Institutional (Policy Analyst) / 60018823",
@@ -7834,7 +7815,8 @@
     "https://www.linkedin.com/jobs/view/4472939470/",
     "https://www.linkedin.com/jobs/view/4472800211/",
     "https://www.linkedin.com/jobs/view/4472574988/",
-    "https://www.linkedin.com/jobs/view/4472572858/"
+    "https://www.linkedin.com/jobs/view/4472572858/",
+    "https://www.linkedin.com/jobs/view/4474337379/"
   ],
   "dismissedKeys": [
     {
@@ -7924,8 +7906,12 @@
     {
       "k": "ricefw technologies|medical coding business analyst must have ccs or cpc certification",
       "at": "2026-10-01T19:04:13.540Z"
+    },
+    {
+      "k": "accord technologies|business analyst it healthcare advanced",
+      "at": "2026-10-01T19:04:17.432Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:04:13.541Z"
+  "savedAt": "2026-10-01T19:04:17.432Z"
 }
