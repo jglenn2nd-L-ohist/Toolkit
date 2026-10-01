@@ -421,25 +421,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43ac1b9cGq9",
-      "company": "Samsung SDS America",
-      "title": "Final Mile Site Operations Analyst (EM7200)",
-      "location": "Coppell, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464679127/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:31:26.521136+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43afe19lKfp",
       "company": "State Farm",
       "title": "Data Analyst - Strategist, Digital Experimentation & Analytics",
@@ -6503,8 +6484,9 @@
     "https://www.linkedin.com/jobs/view/4471961163/",
     "https://www.linkedin.com/jobs/view/4472340158/",
     "https://www.linkedin.com/jobs/view/4472199119/",
-    "https://www.linkedin.com/jobs/view/4472638524/"
+    "https://www.linkedin.com/jobs/view/4472638524/",
+    "https://www.linkedin.com/jobs/view/4464679127/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:19:27.063Z"
+  "savedAt": "2026-10-01T03:20:12.195Z"
 }
