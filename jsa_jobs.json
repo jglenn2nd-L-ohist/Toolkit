@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1a0f7c8647bJxGx",
-      "company": "McKinsey & Company",
-      "title": "Research Science Analyst - Social, Healthcare and Public Entities Tech",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4409426611/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:05:00.411427+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7c86d1cifXa",
       "company": "AARATECH",
       "title": "Data Analyst",
@@ -6788,8 +6767,9 @@
     "https://www.linkedin.com/jobs/view/4473590718/",
     "https://www.linkedin.com/jobs/view/4472345596/",
     "https://www.linkedin.com/jobs/view/4472348501/",
-    "https://www.linkedin.com/jobs/view/4471774762/"
+    "https://www.linkedin.com/jobs/view/4471774762/",
+    "https://www.linkedin.com/jobs/view/4409426611/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:03:36.708Z"
+  "savedAt": "2026-10-01T16:04:18.081Z"
 }
