@@ -2397,25 +2397,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cc0a94GP3l",
-      "company": "Wikoff",
-      "title": "ERP Support & Reporting Analyst",
-      "location": "Fort Mill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474127267/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:59.540367+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cc1450nRgJ",
       "company": "Barings",
       "title": "Quantitative & Risk Analytics (Structured Products: CLOs, ABS, MBS)",
@@ -7582,7 +7563,8 @@
     "https://www.linkedin.com/jobs/view/4473942334/",
     "https://www.linkedin.com/jobs/view/4471265063/",
     "https://www.linkedin.com/jobs/view/4465618570/",
-    "https://www.linkedin.com/jobs/view/4463083000/"
+    "https://www.linkedin.com/jobs/view/4463083000/",
+    "https://www.linkedin.com/jobs/view/4474127267/"
   ],
   "dismissedKeys": [
     {
@@ -7728,8 +7710,12 @@
     {
       "k": "adi global distribution|sales operations analyst",
       "at": "2026-10-01T19:10:26.626Z"
+    },
+    {
+      "k": "wikoff|erp support reporting analyst",
+      "at": "2026-10-01T19:10:33.300Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:10:26.627Z"
+  "savedAt": "2026-10-01T19:10:33.300Z"
 }
