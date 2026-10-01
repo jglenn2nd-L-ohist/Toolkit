@@ -188,25 +188,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43a1a7elGKm",
-      "company": "Infosys",
-      "title": "Consumer Banking Business Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463812007/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:30:43.710970+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43a2145v3su",
       "company": "VistalTech Inc",
       "title": "Data Center Business Analyst",
@@ -6629,8 +6610,9 @@
     "https://www.linkedin.com/jobs/view/4473940938/",
     "https://www.linkedin.com/jobs/view/4454452088/",
     "https://www.linkedin.com/jobs/view/4472646060/",
-    "https://www.linkedin.com/jobs/view/4473932613/"
+    "https://www.linkedin.com/jobs/view/4473932613/",
+    "https://www.linkedin.com/jobs/view/4463812007/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:13:30.525Z"
+  "savedAt": "2026-10-01T03:13:54.738Z"
 }
