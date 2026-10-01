@@ -39,25 +39,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7c8cd58hewL",
-      "company": "Yamaha Motor Corporation, USA",
-      "title": "Business Intelligence Analyst III",
-      "location": "Marietta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474106615/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:05:27.256444+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c8d39eGpP2",
       "company": "GXO Logistics, Inc.",
       "title": "Analyst, Logistics - 1st Shift",
@@ -6620,8 +6601,9 @@
     "https://www.linkedin.com/jobs/view/4472348854/",
     "https://www.linkedin.com/jobs/view/4472340266/",
     "https://www.linkedin.com/jobs/view/4473912153/",
-    "https://www.linkedin.com/jobs/view/4472351515/"
+    "https://www.linkedin.com/jobs/view/4472351515/",
+    "https://www.linkedin.com/jobs/view/4474106615/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:37:14.530Z"
+  "savedAt": "2026-10-01T16:37:32.519Z"
 }
