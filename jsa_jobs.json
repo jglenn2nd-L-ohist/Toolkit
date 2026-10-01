@@ -2291,25 +2291,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7cbd86aKgB6",
-      "company": "ADI Global Distribution",
-      "title": "Sales Operations Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463083000/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:46.698307+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cbe218hCFn",
       "company": "TD",
       "title": "Treasury Liquidity Analyst (US)",
@@ -7600,7 +7581,8 @@
     "https://www.linkedin.com/jobs/view/4427289219/",
     "https://www.linkedin.com/jobs/view/4473942334/",
     "https://www.linkedin.com/jobs/view/4471265063/",
-    "https://www.linkedin.com/jobs/view/4465618570/"
+    "https://www.linkedin.com/jobs/view/4465618570/",
+    "https://www.linkedin.com/jobs/view/4463083000/"
   ],
   "dismissedKeys": [
     {
@@ -7742,8 +7724,12 @@
     {
       "k": "deloitte|data analyst risk adjustment analytics analytics and insights engineer iii",
       "at": "2026-10-01T19:10:20.411Z"
+    },
+    {
+      "k": "adi global distribution|sales operations analyst",
+      "at": "2026-10-01T19:10:26.626Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:10:20.411Z"
+  "savedAt": "2026-10-01T19:10:26.627Z"
 }
