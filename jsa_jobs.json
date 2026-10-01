@@ -1644,25 +1644,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43eead6k5FD",
-      "company": "Nolan Transportation Group (NTG)",
-      "title": "Analyst, Business Intelligence & Data Insight",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472629745/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:35:59.190223+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43f0eb5z49J",
       "company": "Real Radiology, LLC",
       "title": "Business Analyst",
@@ -2185,25 +2166,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f390b7a9hFka",
-      "company": "Parkland Health",
-      "title": "Departmental Systems Analyst - Contact Center",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473067757/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T18:25:42.825080+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f390c47f-SMR",
       "company": "GM Financial",
       "title": "Risk Analyst - Portfolio Analytics",
@@ -2525,25 +2487,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f3929692ZqPP",
-      "company": "Crane ChemPharma & Energy",
-      "title": "Business Analyst",
-      "location": "The Woodlands, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468851930/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T18:27:45.426478+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f392a432bm3Q",
       "company": "Harmer",
       "title": "Asset Performance Analyst",
@@ -2605,25 +2548,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f392cbddPfi1",
-      "company": "Marathon Petroleum Corporation",
-      "title": "Trading Operations Analyst - Power",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473017906/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T18:27:59.070004+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f383a724ZwCR",
@@ -5479,8 +5403,12 @@
     "https://www.linkedin.com/jobs/view/4471517389/",
     "https://www.linkedin.com/jobs/view/4472172710/",
     "https://www.linkedin.com/jobs/view/4471537777/",
-    "https://www.linkedin.com/jobs/view/4472300639/"
+    "https://www.linkedin.com/jobs/view/4472300639/",
+    "https://www.linkedin.com/jobs/view/4472629745/",
+    "https://www.linkedin.com/jobs/view/4473067757/",
+    "https://www.linkedin.com/jobs/view/4468851930/",
+    "https://www.linkedin.com/jobs/view/4473017906/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:47:15.650Z"
+  "savedAt": "2026-10-01T03:47:59.671Z"
 }
