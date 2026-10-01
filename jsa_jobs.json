@@ -125,25 +125,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c90d4bdNi-",
-      "company": "Gusto",
-      "title": "Health Insurance Sales Operations Analyst",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474105746/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:05:43.627627+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c917a7VXqB",
       "company": "US Tech Solutions",
       "title": "Data Analyst V #26-24053",
@@ -6530,7 +6511,8 @@
     "https://www.linkedin.com/jobs/view/4473966800/",
     "https://www.linkedin.com/jobs/view/4452294815/",
     "https://www.linkedin.com/jobs/view/4463576373/",
-    "https://www.linkedin.com/jobs/view/4472552204/"
+    "https://www.linkedin.com/jobs/view/4472552204/",
+    "https://www.linkedin.com/jobs/view/4474105746/"
   ],
   "dismissedKeys": [
     {
@@ -6548,8 +6530,12 @@
     {
       "k": "abilitylinks|business intelligence developer data analytics analyst",
       "at": "2026-10-01T18:21:41.593Z"
+    },
+    {
+      "k": "gusto|health insurance sales operations analyst",
+      "at": "2026-10-01T18:22:04.870Z"
     }
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T18:21:44.394Z"
+  "savedAt": "2026-10-01T18:22:04.870Z"
 }
