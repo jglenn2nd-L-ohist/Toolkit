@@ -95,24 +95,6 @@
       "filter_version": "2026-09-24.4"
     },
     {
-      "id": "1a0f8c165e18gEG",
-      "company": "Renaissance Learning",
-      "title": "Data Analyst I",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4473708323/?trackingId=xD7K12kDlUxsZEfky99U9A%3D%3D&refId=Yx9tweGQ1c%2FoR1QKrBhwkQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpRH%2BaecfR6Wwss1qe2NVtQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=JuqZcjEqsss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs-null-q9jfse~muppsti2~fs-null-null&eid=q9jfse-muppsti2-fs&otpToken=YjA2N2U2MDY2ZTM5MjJkMGQyMTRlMzBhZDRiNDBmMDcyYmUxMzlmNmVlZTdlODA2ZmMyMzJlNzE0ZTI5NDAzMDBlYTIxMDc1OGE3ZjBhMTMwZDJjMzEyOGVmN2JmYTgzNWM4NmQzOWJlZjZjZWFjNjQwZjFjMTNkOGU5YTI5YTdhYjJjYTRlNTMwNmQ0ZmJkNWEsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:36:59.233196+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4"
-    },
-    {
       "id": "1a0f8c165e1ymVD",
       "company": "Tier4 Group",
       "title": "Junior Data Analyst",
@@ -7995,7 +7977,8 @@
     "https://www.linkedin.com/jobs/view/4388101240/",
     "https://www.linkedin.com/jobs/view/4472805385/",
     "https://www.linkedin.com/jobs/view/4472583212/",
-    "https://www.linkedin.com/jobs/view/4472557866/"
+    "https://www.linkedin.com/jobs/view/4472557866/",
+    "https://www.linkedin.com/comm/jobs/view/4473708323/?trackingId=xD7K12kDlUxsZEfky99U9A%3D%3D&refId=Yx9tweGQ1c%2FoR1QKrBhwkQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpRH%2BaecfR6Wwss1qe2NVtQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=JuqZcjEqsss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473708323_ssid_8367968258_fmid_q9jfse~muppsti2~fs-null-q9jfse~muppsti2~fs-null-null&eid=q9jfse-muppsti2-fs&otpToken=YjA2N2U2MDY2ZTM5MjJkMGQyMTRlMzBhZDRiNDBmMDcyYmUxMzlmNmVlZTdlODA2ZmMyMzJlNzE0ZTI5NDAzMDBlYTIxMDc1OGE3ZjBhMTMwZDJjMzEyOGVmN2JmYTgzNWM4NmQzOWJlZjZjZWFjNjQwZjFjMTNkOGU5YTI5YTdhYjJjYTRlNTMwNmQ0ZmJkNWEsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -8049,8 +8032,12 @@
     {
       "k": "tiaa|brokerage operations analyst",
       "at": "2026-10-01T18:50:57.423Z"
+    },
+    {
+      "k": "renaissance learning|data analyst i",
+      "at": "2026-10-01T18:51:04.226Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T18:50:57.423Z"
+  "savedAt": "2026-10-01T18:51:04.226Z"
 }
