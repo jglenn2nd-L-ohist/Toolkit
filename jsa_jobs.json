@@ -1265,25 +1265,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43d83f7Q7Md",
-      "company": "Indigo Beam",
-      "title": "Analytics Engineer",
-      "location": "Greater Houston",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473796178/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:34:27.319459+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43d9a4anE_A",
       "company": "Primary Services",
       "title": "Campaign Data Analyst",
@@ -6215,8 +6196,9 @@
     "https://www.linkedin.com/jobs/view/4464910219/",
     "https://www.linkedin.com/jobs/view/4454795270/",
     "https://www.linkedin.com/jobs/view/4461531385/",
-    "https://www.linkedin.com/jobs/view/4473960356/"
+    "https://www.linkedin.com/jobs/view/4473960356/",
+    "https://www.linkedin.com/jobs/view/4473796178/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:29:29.672Z"
+  "savedAt": "2026-10-01T03:30:01.335Z"
 }
