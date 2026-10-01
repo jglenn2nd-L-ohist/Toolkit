@@ -2603,25 +2603,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cc8ca4PBb4",
-      "company": "Bank of America",
-      "title": "Transaction Management Operations Analyst – 401(k) Payroll Processing",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463073412/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:09:32.836834+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cc92c3oTlA",
       "company": "Envision Technology Solutions",
       "title": "Software Asset Management (SAM) Business Analyst - Entitlement & Contract Data Operations",
@@ -7564,7 +7545,8 @@
     "https://www.linkedin.com/jobs/view/4471265063/",
     "https://www.linkedin.com/jobs/view/4465618570/",
     "https://www.linkedin.com/jobs/view/4463083000/",
-    "https://www.linkedin.com/jobs/view/4474127267/"
+    "https://www.linkedin.com/jobs/view/4474127267/",
+    "https://www.linkedin.com/jobs/view/4463073412/"
   ],
   "dismissedKeys": [
     {
@@ -7714,8 +7696,12 @@
     {
       "k": "wikoff|erp support reporting analyst",
       "at": "2026-10-01T19:10:33.300Z"
+    },
+    {
+      "k": "bank of america|transaction management operations analyst 401 k payroll processing",
+      "at": "2026-10-01T19:10:43.992Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:10:33.300Z"
+  "savedAt": "2026-10-01T19:10:43.992Z"
 }
