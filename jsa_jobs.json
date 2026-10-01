@@ -39,27 +39,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7c8c3f3iYmk",
-      "company": "Visionaire Partners",
-      "title": "Pricing Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472351515/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:24.851904+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7c8cd58hewL",
       "company": "Yamaha Motor Corporation, USA",
       "title": "Business Intelligence Analyst III",
@@ -6640,8 +6619,9 @@
     "https://www.linkedin.com/jobs/view/4471949975/",
     "https://www.linkedin.com/jobs/view/4472348854/",
     "https://www.linkedin.com/jobs/view/4472340266/",
-    "https://www.linkedin.com/jobs/view/4473912153/"
+    "https://www.linkedin.com/jobs/view/4473912153/",
+    "https://www.linkedin.com/jobs/view/4472351515/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:36:58.969Z"
+  "savedAt": "2026-10-01T16:37:09.178Z"
 }
