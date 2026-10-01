@@ -1597,25 +1597,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c9dc53meIe",
-      "company": "Arcan Capital",
-      "title": "Real Estate Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473942334/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:06:36.627070+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c9e5d2Oabb",
       "company": "Morgan Stanley",
       "title": "Vulnerability Management Operations Analyst",
@@ -7654,7 +7635,8 @@
     "https://www.linkedin.com/jobs/view/4472657002/",
     "https://www.linkedin.com/jobs/view/4454793312/",
     "https://www.linkedin.com/jobs/view/4471257266/",
-    "https://www.linkedin.com/jobs/view/4427289219/"
+    "https://www.linkedin.com/jobs/view/4427289219/",
+    "https://www.linkedin.com/jobs/view/4473942334/"
   ],
   "dismissedKeys": [
     {
@@ -7784,8 +7766,12 @@
     {
       "k": "earnest partners|investment operations analyst client results",
       "at": "2026-10-01T19:09:47.316Z"
+    },
+    {
+      "k": "arcan capital|real estate operations analyst",
+      "at": "2026-10-01T19:09:51.844Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:09:47.316Z"
+  "savedAt": "2026-10-01T19:09:51.844Z"
 }
