@@ -970,25 +970,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b1c561lrFh",
-      "company": "TIAA",
-      "title": "Brokerage Operations Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472557866/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:19:55.105184+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b1cd0eVYWd",
       "company": "TIAA",
       "title": "Brokerage Ops Risk Ops Analyst",
@@ -8013,7 +7994,8 @@
     "https://www.linkedin.com/jobs/view/4429463330/",
     "https://www.linkedin.com/jobs/view/4388101240/",
     "https://www.linkedin.com/jobs/view/4472805385/",
-    "https://www.linkedin.com/jobs/view/4472583212/"
+    "https://www.linkedin.com/jobs/view/4472583212/",
+    "https://www.linkedin.com/jobs/view/4472557866/"
   ],
   "dismissedKeys": [
     {
@@ -8063,8 +8045,12 @@
     {
       "k": "aaratech|data analyst",
       "at": "2026-10-01T18:37:23.111Z"
+    },
+    {
+      "k": "tiaa|brokerage operations analyst",
+      "at": "2026-10-01T18:50:57.423Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T18:49:51.549Z"
+  "savedAt": "2026-10-01T18:50:57.423Z"
 }
