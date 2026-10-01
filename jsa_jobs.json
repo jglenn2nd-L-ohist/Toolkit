@@ -55,6 +55,25 @@
   ],
   "jobs": [
     {
+      "id": "1a0f7c954023xJX",
+      "company": "City of Atlanta",
+      "title": "ATL311 Business Systems Analyst I",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4472326201/",
+      "source": "LinkedIn",
+      "viewed": true,
+      "dateAdded": "2026-10-01T14:06:01.730467+00:00",
+      "notes": "",
+      "remote_search": false,
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-09-24.4",
+      "status": "New"
+    },
+    {
       "id": "1a0f8c165e1JcBL",
       "company": "Pyrovio",
       "title": "Analyst",
@@ -7994,8 +8013,7 @@
     "https://www.linkedin.com/jobs/view/4429463330/",
     "https://www.linkedin.com/jobs/view/4388101240/",
     "https://www.linkedin.com/jobs/view/4472805385/",
-    "https://www.linkedin.com/jobs/view/4472583212/",
-    "https://www.linkedin.com/jobs/view/4472326201/"
+    "https://www.linkedin.com/jobs/view/4472583212/"
   ],
   "dismissedKeys": [
     {
@@ -8045,12 +8063,8 @@
     {
       "k": "aaratech|data analyst",
       "at": "2026-10-01T18:37:23.111Z"
-    },
-    {
-      "k": "city of atlanta|atl311 business systems analyst i",
-      "at": "2026-10-01T18:49:40.567Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T18:49:40.567Z"
+  "savedAt": "2026-10-01T18:49:45.727Z"
 }
