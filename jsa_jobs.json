@@ -779,25 +779,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43c3976O8PZ",
-      "company": "24 Seven Talent",
-      "title": "Marketing Business Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472320133/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:33:02.710530+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43c411euI2c",
       "company": "Phillips 66",
       "title": "Advisor, Workforce Reporting & Insights",
@@ -6395,8 +6376,9 @@
     "https://www.linkedin.com/jobs/view/4472333701/",
     "https://www.linkedin.com/jobs/view/4473530808/",
     "https://www.linkedin.com/jobs/view/4473006904/",
-    "https://www.linkedin.com/jobs/view/4469614125/"
+    "https://www.linkedin.com/jobs/view/4469614125/",
+    "https://www.linkedin.com/jobs/view/4472320133/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:24:29.524Z"
+  "savedAt": "2026-10-01T03:24:53.426Z"
 }
