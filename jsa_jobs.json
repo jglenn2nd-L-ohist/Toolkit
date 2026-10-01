@@ -316,25 +316,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43a889fQv0i",
-      "company": "Charles Schwab",
-      "title": "Business Systems Analyst",
-      "location": "Southlake, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472199119/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:31:11.903424+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43a93775pOS",
       "company": "TPI Global Solutions",
       "title": "Commercial Operations Analyst",
@@ -6539,8 +6520,9 @@
     "https://www.linkedin.com/jobs/view/4472602671/",
     "https://www.linkedin.com/jobs/view/4463588972/",
     "https://www.linkedin.com/jobs/view/4471961163/",
-    "https://www.linkedin.com/jobs/view/4472340158/"
+    "https://www.linkedin.com/jobs/view/4472340158/",
+    "https://www.linkedin.com/jobs/view/4472199119/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:17:15.442Z"
+  "savedAt": "2026-10-01T03:17:30.488Z"
 }
