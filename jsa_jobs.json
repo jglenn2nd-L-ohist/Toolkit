@@ -1266,25 +1266,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b6bed95coL",
-      "company": "Team Car Care",
-      "title": "Marketing Data Analyst",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474345006/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:25:21.113211+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b70470k6Ym",
       "company": "Imagine Pediatrics",
       "title": "Business Intelligence Engineer",
@@ -7798,7 +7779,8 @@
     "https://www.linkedin.com/jobs/view/4472574988/",
     "https://www.linkedin.com/jobs/view/4472572858/",
     "https://www.linkedin.com/jobs/view/4474337379/",
-    "https://www.linkedin.com/jobs/view/4474317434/"
+    "https://www.linkedin.com/jobs/view/4474317434/",
+    "https://www.linkedin.com/jobs/view/4474345006/"
   ],
   "dismissedKeys": [
     {
@@ -7896,8 +7878,12 @@
     {
       "k": "nova southeastern university|data analyst iii student financial services 991339",
       "at": "2026-10-01T19:05:18.962Z"
+    },
+    {
+      "k": "team car care|marketing data analyst",
+      "at": "2026-10-01T19:05:46.873Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:05:21.201Z"
+  "savedAt": "2026-10-01T19:05:46.873Z"
 }
