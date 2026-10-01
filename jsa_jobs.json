@@ -1496,25 +1496,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c998fbEYV1",
-      "company": "Affirm",
-      "title": "Revenue Operations Analyst II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454793312/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:06:19.387451+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c9a226P4rT",
       "company": "Bank of America",
       "title": "Operations Analyst",
@@ -7708,7 +7689,8 @@
     "https://www.linkedin.com/jobs/view/4441562202/",
     "https://www.linkedin.com/jobs/view/4467801697/",
     "https://www.linkedin.com/jobs/view/4473959810/",
-    "https://www.linkedin.com/jobs/view/4472657002/"
+    "https://www.linkedin.com/jobs/view/4472657002/",
+    "https://www.linkedin.com/jobs/view/4454793312/"
   ],
   "dismissedKeys": [
     {
@@ -7826,8 +7808,12 @@
     {
       "k": "southstate bank|commercial business analyst",
       "at": "2026-10-01T19:09:10.007Z"
+    },
+    {
+      "k": "affirm|revenue operations analyst ii",
+      "at": "2026-10-01T19:09:13.862Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:09:10.007Z"
+  "savedAt": "2026-10-01T19:09:13.863Z"
 }
