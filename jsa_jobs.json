@@ -52,25 +52,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b002b42zIY",
-      "company": "REPAY - Realtime Electronic Payments",
-      "title": "Sales Operations Analyst",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4429463330/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T18:17:59.732814+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b00adfTo8q",
       "company": "Flexport",
       "title": "Analyst, Transportation & Supply Chain Strategy",
@@ -7459,7 +7440,8 @@
     "https://www.linkedin.com/jobs/view/4474105746/",
     "https://www.linkedin.com/jobs/view/4471397552/",
     "https://www.linkedin.com/jobs/view/4465251424/",
-    "https://www.linkedin.com/jobs/view/4472338604/"
+    "https://www.linkedin.com/jobs/view/4472338604/",
+    "https://www.linkedin.com/jobs/view/4429463330/"
   ],
   "dismissedKeys": [
     {
@@ -7493,8 +7475,12 @@
     {
       "k": "coforge|business analyst",
       "at": "2026-10-01T18:34:44.586Z"
+    },
+    {
+      "k": "repay realtime electronic payments|sales operations analyst",
+      "at": "2026-10-01T18:35:21.462Z"
     }
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T18:34:49.956Z"
+  "savedAt": "2026-10-01T18:35:21.462Z"
 }
