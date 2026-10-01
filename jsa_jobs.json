@@ -1203,25 +1203,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b3741fpBxs",
-      "company": "Quest Global",
-      "title": "Data Analyst (6 Month Contract)",
-      "location": "Wilson, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472800211/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:21:45.375782+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f8b43572XehO",
       "company": "Find Great People | FGP",
       "title": "Customer Relationship Management Analyst",
@@ -7888,7 +7869,8 @@
     "https://www.linkedin.com/jobs/view/4472341872/",
     "https://www.linkedin.com/jobs/view/4464139020/",
     "https://www.linkedin.com/jobs/view/4471640062/",
-    "https://www.linkedin.com/jobs/view/4472939470/"
+    "https://www.linkedin.com/jobs/view/4472939470/",
+    "https://www.linkedin.com/jobs/view/4472800211/"
   ],
   "dismissedKeys": [
     {
@@ -7966,8 +7948,12 @@
     {
       "k": "hcltech|business analyst",
       "at": "2026-10-01T19:03:18.320Z"
+    },
+    {
+      "k": "quest global|data analyst 6 month contract",
+      "at": "2026-10-01T19:03:20.793Z"
     }
   ],
   "lastRun": "2026-10-01T18:37:27.625434+00:00",
-  "savedAt": "2026-10-01T19:03:18.320Z"
+  "savedAt": "2026-10-01T19:03:20.793Z"
 }
