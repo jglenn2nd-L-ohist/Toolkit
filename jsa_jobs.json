@@ -486,25 +486,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f43b729bSEYf",
-      "company": "OxyChem",
-      "title": "Corporate Reporting Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469614125/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-09-30T21:32:11.803699+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f43b79346CI6",
       "company": "City Electric Supply",
       "title": "DATA ANALYST",
@@ -6413,8 +6394,9 @@
     "https://www.linkedin.com/jobs/view/4473959363/",
     "https://www.linkedin.com/jobs/view/4472333701/",
     "https://www.linkedin.com/jobs/view/4473530808/",
-    "https://www.linkedin.com/jobs/view/4473006904/"
+    "https://www.linkedin.com/jobs/view/4473006904/",
+    "https://www.linkedin.com/jobs/view/4469614125/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T03:21:21.731Z"
+  "savedAt": "2026-10-01T03:21:40.172Z"
 }
