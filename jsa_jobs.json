@@ -20,25 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7c88587WQib",
-      "company": "AIG",
-      "title": "2027 Early Careers: Analyst, Data Office: Business Intelligence – United States, Multiple Cities",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471972011/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:08.871945+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c893fbIMFD",
       "company": "City of Atlanta",
       "title": "Airport Data/Reporting Analyst I- Contract Administration",
@@ -6732,8 +6713,9 @@
     "https://www.linkedin.com/jobs/view/4471774762/",
     "https://www.linkedin.com/jobs/view/4409426611/",
     "https://www.linkedin.com/jobs/view/4472302713/",
-    "https://www.linkedin.com/jobs/view/4473557953/"
+    "https://www.linkedin.com/jobs/view/4473557953/",
+    "https://www.linkedin.com/jobs/view/4471972011/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:31:03.059Z"
+  "savedAt": "2026-10-01T16:32:18.433Z"
 }
