@@ -20,27 +20,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7c8a8bbbj1q",
-      "company": "City of Atlanta",
-      "title": "Management Analyst II - Fleet Services",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472348854/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:17.883836+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7c8aef3mzb_",
       "company": "Delta Air Lines",
       "title": "DMS Foundry Data Analyst",
@@ -6696,8 +6675,9 @@
     "https://www.linkedin.com/jobs/view/4472302713/",
     "https://www.linkedin.com/jobs/view/4473557953/",
     "https://www.linkedin.com/jobs/view/4471972011/",
-    "https://www.linkedin.com/jobs/view/4471949975/"
+    "https://www.linkedin.com/jobs/view/4471949975/",
+    "https://www.linkedin.com/jobs/view/4472348854/"
   ],
   "lastRun": "2026-09-30T21:19:09.525543+00:00",
-  "savedAt": "2026-10-01T16:32:34.851Z"
+  "savedAt": "2026-10-01T16:32:39.873Z"
 }
