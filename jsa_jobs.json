@@ -2314,25 +2314,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2ad50coIIn",
-      "company": "MeeBoss",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474507679/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:10:37.836120+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2b37ffxM1S",
       "company": "Lowe's Companies, Inc.",
       "title": "Analyst-Digital Engagement",
@@ -8949,7 +8930,8 @@
     "https://www.linkedin.com/jobs/view/4450534068/",
     "https://www.linkedin.com/jobs/view/4463898631/",
     "https://www.linkedin.com/jobs/view/4474373044/",
-    "https://www.linkedin.com/jobs/view/4473904880/"
+    "https://www.linkedin.com/jobs/view/4473904880/",
+    "https://www.linkedin.com/jobs/view/4474507679/"
   ],
   "dismissedKeys": [
     {
@@ -9487,8 +9469,12 @@
     {
       "k": "advanced clinical|data analyst",
       "at": "2026-10-02T19:15:25.767Z"
+    },
+    {
+      "k": "meeboss|data analyst",
+      "at": "2026-10-02T19:15:48.140Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:15:27.885Z"
+  "savedAt": "2026-10-02T19:15:48.140Z"
 }
