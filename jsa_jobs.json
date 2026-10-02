@@ -1505,25 +1505,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c9c638UA5e",
-      "company": "DICK'S Sporting Goods",
-      "title": "Supply Chain Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472683496/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:06:30.968264+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c9cc99QYOW",
       "company": "INABA FOODS (USA), INC.",
       "title": "Sales Analyst",
@@ -7373,7 +7354,8 @@
     "https://www.linkedin.com/jobs/view/4472635547/",
     "https://www.linkedin.com/jobs/view/4454902205/",
     "https://www.linkedin.com/jobs/view/4473261829/",
-    "https://www.linkedin.com/jobs/view/4473790468/"
+    "https://www.linkedin.com/jobs/view/4473790468/",
+    "https://www.linkedin.com/jobs/view/4472683496/"
   ],
   "dismissedKeys": [
     {
@@ -7567,8 +7549,12 @@
     {
       "k": "envision technology solutions|software asset management sam business analyst entitlement contract data operations",
       "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "dick s sporting goods|supply chain analyst",
+      "at": "2026-10-02T02:35:38.343Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:35:27.307Z"
+  "savedAt": "2026-10-02T02:35:38.343Z"
 }
