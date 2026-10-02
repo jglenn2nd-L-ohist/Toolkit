@@ -2316,25 +2316,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2b8466r8bD",
-      "company": "TalentHop",
-      "title": "Data Analyst II (Full-time, Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473118974/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:11:22.726252+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2b8db8EteQ",
       "company": "Vizient",
       "title": "Analytics Engineer",
@@ -8895,7 +8876,8 @@
     "https://www.linkedin.com/jobs/view/4473904880/",
     "https://www.linkedin.com/jobs/view/4474507679/",
     "https://www.linkedin.com/jobs/view/4474396800/",
-    "https://www.linkedin.com/jobs/view/4474543413/"
+    "https://www.linkedin.com/jobs/view/4474543413/",
+    "https://www.linkedin.com/jobs/view/4473118974/"
   ],
   "dismissedKeys": [
     {
@@ -9445,8 +9427,12 @@
     {
       "k": "sports careers|analytics engineer customer experience",
       "at": "2026-10-02T19:16:49.585Z"
+    },
+    {
+      "k": "talenthop|data analyst ii full time remote",
+      "at": "2026-10-02T19:17:01.926Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:16:52.160Z"
+  "savedAt": "2026-10-02T19:17:01.926Z"
 }
