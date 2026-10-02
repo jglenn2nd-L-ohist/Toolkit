@@ -3482,25 +3482,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d0d410YfFV",
-      "company": "Elegant Enterprise-Wide Solutions, Inc.",
-      "title": "Business Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472533992/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:14:13.264878+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7d0dac73V7i",
       "company": "McLeod Health",
       "title": "Epic Application Analyst II - IT Clinical Systems (Epic Anesthesia Certification Required/Epic Optime Certification Preferred)",
@@ -6905,7 +6886,8 @@
     "https://www.linkedin.com/jobs/view/4474194411/",
     "https://www.linkedin.com/jobs/view/4473902920/",
     "https://www.linkedin.com/jobs/view/4474193754/",
-    "https://www.linkedin.com/jobs/view/4426129805/"
+    "https://www.linkedin.com/jobs/view/4426129805/",
+    "https://www.linkedin.com/jobs/view/4472533992/"
   ],
   "dismissedKeys": [
     {
@@ -7203,8 +7185,12 @@
     {
       "k": "compugroup medical se kgaa|operations analyst",
       "at": "2026-10-02T02:47:05.130Z"
+    },
+    {
+      "k": "elegant enterprise wide solutions|business analyst",
+      "at": "2026-10-02T02:49:06.627Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:48:33.271Z"
+  "savedAt": "2026-10-02T02:49:06.627Z"
 }
