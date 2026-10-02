@@ -1579,25 +1579,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2870acbwjK",
-      "company": "SBA Communications",
-      "title": "Real Estate Data Analyst II",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472803910/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:08:01.068851+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2877cbSU3r",
       "company": "Royal Caribbean Group",
       "title": "Analyst, Commercial Planning",
@@ -9039,7 +9020,8 @@
     "https://www.linkedin.com/jobs/view/4464832112/",
     "https://www.linkedin.com/jobs/view/4473772758/",
     "https://www.linkedin.com/jobs/view/4473135251/",
-    "https://www.linkedin.com/jobs/view/4444148354/"
+    "https://www.linkedin.com/jobs/view/4444148354/",
+    "https://www.linkedin.com/jobs/view/4472803910/"
   ],
   "dismissedKeys": [
     {
@@ -9557,8 +9539,12 @@
     {
       "k": "netflix|analytics engineer 5 content studio",
       "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "sba communications|real estate data analyst ii",
+      "at": "2026-10-02T19:13:22.037Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:13:13.101Z"
+  "savedAt": "2026-10-02T19:13:22.037Z"
 }
