@@ -2409,25 +2409,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ccfc54tq_c",
-      "company": "Sterling Capital Management LLC",
-      "title": "Product Marketing Analyst (Fixed Income)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460403315/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:10:01.428071+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cd05e7gxpH",
       "company": "Food Lion",
       "title": "Analyst CMP",
@@ -7247,7 +7228,8 @@
     "https://www.linkedin.com/jobs/view/4473556322/",
     "https://www.linkedin.com/jobs/view/4472362081/",
     "https://www.linkedin.com/jobs/view/4471255096/",
-    "https://www.linkedin.com/jobs/view/4473989173/"
+    "https://www.linkedin.com/jobs/view/4473989173/",
+    "https://www.linkedin.com/jobs/view/4460403315/"
   ],
   "dismissedKeys": [
     {
@@ -7469,8 +7451,12 @@
     {
       "k": "pacific life|ai and analytics specialist",
       "at": "2026-10-02T02:38:50.964Z"
+    },
+    {
+      "k": "sterling capital management|product marketing analyst fixed income",
+      "at": "2026-10-02T02:39:06.117Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:38:53.187Z"
+  "savedAt": "2026-10-02T02:39:06.117Z"
 }
