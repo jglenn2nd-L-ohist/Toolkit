@@ -2682,25 +2682,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ce26d3gYOW",
-      "company": "Duke Health",
-      "title": "Ambulatory Operations Analyst (Hybrid NC)",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472374516/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:11:17.843239+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7ce2e1fbwwr",
       "company": "Pacer Group",
       "title": "Business Analyst - Flexera, Integrations & Licensing Analytics",
@@ -7157,7 +7138,8 @@
     "https://www.linkedin.com/jobs/view/4471534597/",
     "https://www.linkedin.com/jobs/view/4473940746/",
     "https://www.linkedin.com/jobs/view/4473565965/",
-    "https://www.linkedin.com/jobs/view/4472320755/"
+    "https://www.linkedin.com/jobs/view/4472320755/",
+    "https://www.linkedin.com/jobs/view/4472374516/"
   ],
   "dismissedKeys": [
     {
@@ -7399,8 +7381,12 @@
     {
       "k": "delta system software|oracle financial business analyst",
       "at": "2026-10-02T02:40:21.559Z"
+    },
+    {
+      "k": "duke health|ambulatory operations analyst",
+      "at": "2026-10-02T02:40:26.614Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:40:21.559Z"
+  "savedAt": "2026-10-02T02:40:26.614Z"
 }
