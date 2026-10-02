@@ -1904,25 +1904,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cb217eX9sk",
-      "company": "Waystar",
-      "title": "Billing Systems Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465095619/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:07:59.870087+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cb26abJThw",
       "company": "Optomi",
       "title": "Oracle HCM Analyst",
@@ -7355,7 +7336,8 @@
     "https://www.linkedin.com/jobs/view/4454902205/",
     "https://www.linkedin.com/jobs/view/4473261829/",
     "https://www.linkedin.com/jobs/view/4473790468/",
-    "https://www.linkedin.com/jobs/view/4472683496/"
+    "https://www.linkedin.com/jobs/view/4472683496/",
+    "https://www.linkedin.com/jobs/view/4465095619/"
   ],
   "dismissedKeys": [
     {
@@ -7553,8 +7535,12 @@
     {
       "k": "dick s sporting goods|supply chain analyst",
       "at": "2026-10-02T02:35:38.343Z"
+    },
+    {
+      "k": "waystar|billing systems analyst",
+      "at": "2026-10-02T02:36:00.100Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:35:41.174Z"
+  "savedAt": "2026-10-02T02:36:00.100Z"
 }
