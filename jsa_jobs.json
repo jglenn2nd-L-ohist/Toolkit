@@ -134,27 +134,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a0fd22ada1zsfn",
-      "company": "Signode",
-      "title": "Pricing Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474389831/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:01:43.457643+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd231270x753",
       "company": "Lewis Brisbois",
       "title": "Practice Management Rate Analyst",
@@ -6655,7 +6634,8 @@
     "https://www.linkedin.com/jobs/view/4473797949/",
     "https://www.linkedin.com/jobs/view/4472817631/",
     "https://www.linkedin.com/jobs/view/4471270162/",
-    "https://www.linkedin.com/jobs/view/4472827098/"
+    "https://www.linkedin.com/jobs/view/4472827098/",
+    "https://www.linkedin.com/jobs/view/4474389831/"
   ],
   "dismissedKeys": [
     {
@@ -7657,8 +7637,12 @@
     {
       "k": "gellert global group|logistics compliance analyst",
       "at": "2026-10-02T19:42:10.337Z"
+    },
+    {
+      "k": "signode|pricing analyst",
+      "at": "2026-10-02T19:43:24.310Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:42:10.337Z"
+  "savedAt": "2026-10-02T19:43:24.310Z"
 }
