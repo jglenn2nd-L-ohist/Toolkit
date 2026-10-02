@@ -2199,25 +2199,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cc37da_s_p",
-      "company": "Daimler Truck North America",
-      "title": "Business Systems Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471255096/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:09:11.130310+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cc429bzwRu",
       "company": "NTT DATA North America",
       "title": "Product Owner / Business Analyst - Payments",
@@ -7283,7 +7264,8 @@
     "https://www.linkedin.com/jobs/view/4465095619/",
     "https://www.linkedin.com/jobs/view/4471773856/",
     "https://www.linkedin.com/jobs/view/4473556322/",
-    "https://www.linkedin.com/jobs/view/4472362081/"
+    "https://www.linkedin.com/jobs/view/4472362081/",
+    "https://www.linkedin.com/jobs/view/4471255096/"
   ],
   "dismissedKeys": [
     {
@@ -7497,8 +7479,12 @@
     {
       "k": "calculated hire|business analyst",
       "at": "2026-10-02T02:37:04.475Z"
+    },
+    {
+      "k": "daimler truck north america|business systems analyst",
+      "at": "2026-10-02T02:38:31.778Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:37:07.517Z"
+  "savedAt": "2026-10-02T02:38:31.778Z"
 }
