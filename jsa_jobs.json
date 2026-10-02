@@ -218,27 +218,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd23bd9d7oeL",
-      "company": "US Foods",
-      "title": "Pricing Analyst - ONSITE in Tampa",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465878001/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:53.085420+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd23d881IbjS",
       "company": "Deloitte",
       "title": "Associate, Analytics and Insights",
@@ -416,27 +395,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:04:53.003092+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd259a5eVDfh",
-      "company": "FreshPoint, Inc.",
-      "title": "Pricing and Margin Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474583703/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:55.134937+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -2037,27 +1995,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:05:34.744370+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7c9054eEbjF",
-      "company": "Georgia Power Company",
-      "title": "Pricing & Rates Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468825892/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:41.582646+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -6615,7 +6552,10 @@
     "https://www.linkedin.com/jobs/view/4471270162/",
     "https://www.linkedin.com/jobs/view/4472827098/",
     "https://www.linkedin.com/jobs/view/4474389831/",
-    "https://www.linkedin.com/jobs/view/4472576144/"
+    "https://www.linkedin.com/jobs/view/4472576144/",
+    "https://www.linkedin.com/jobs/view/4465878001/",
+    "https://www.linkedin.com/jobs/view/4474583703/",
+    "https://www.linkedin.com/jobs/view/4468825892/"
   ],
   "dismissedKeys": [
     {
@@ -7625,8 +7565,20 @@
     {
       "k": "s h search|business systems analyst",
       "at": "2026-10-02T19:43:48.718Z"
+    },
+    {
+      "k": "us foods|pricing analyst",
+      "at": "2026-10-02T19:44:16.188Z"
+    },
+    {
+      "k": "freshpoint|pricing and margin analyst",
+      "at": "2026-10-02T19:44:16.188Z"
+    },
+    {
+      "k": "georgia power|pricing rates analyst",
+      "at": "2026-10-02T19:44:16.188Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:43:48.718Z"
+  "savedAt": "2026-10-02T19:44:16.188Z"
 }
