@@ -2682,25 +2682,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ce2096Li3B",
-      "company": "Delta System & Software, Inc.",
-      "title": "Oracle Financial Business Analyst",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472320755/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:11:16.246880+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7ce26d3gYOW",
       "company": "Duke Health",
       "title": "Ambulatory Operations Analyst (Hybrid NC)",
@@ -7175,7 +7156,8 @@
     "https://www.linkedin.com/jobs/view/4460403315/",
     "https://www.linkedin.com/jobs/view/4471534597/",
     "https://www.linkedin.com/jobs/view/4473940746/",
-    "https://www.linkedin.com/jobs/view/4473565965/"
+    "https://www.linkedin.com/jobs/view/4473565965/",
+    "https://www.linkedin.com/jobs/view/4472320755/"
   ],
   "dismissedKeys": [
     {
@@ -7413,8 +7395,12 @@
     {
       "k": "fidelity investments|product analyst portfolio construction solutions",
       "at": "2026-10-02T02:39:58.784Z"
+    },
+    {
+      "k": "delta system software|oracle financial business analyst",
+      "at": "2026-10-02T02:40:21.559Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:39:58.784Z"
+  "savedAt": "2026-10-02T02:40:21.559Z"
 }
