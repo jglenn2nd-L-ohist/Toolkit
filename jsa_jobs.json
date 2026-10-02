@@ -2682,25 +2682,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ce2e1fbwwr",
-      "company": "Pacer Group",
-      "title": "Business Analyst - Flexera, Integrations & Licensing Analytics",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471727913/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:11:19.711966+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7ce3877qVzQ",
       "company": "Pacer Group",
       "title": "Business Analyst - Entitlement & Contract Data Operations",
@@ -7139,7 +7120,8 @@
     "https://www.linkedin.com/jobs/view/4473940746/",
     "https://www.linkedin.com/jobs/view/4473565965/",
     "https://www.linkedin.com/jobs/view/4472320755/",
-    "https://www.linkedin.com/jobs/view/4472374516/"
+    "https://www.linkedin.com/jobs/view/4472374516/",
+    "https://www.linkedin.com/jobs/view/4471727913/"
   ],
   "dismissedKeys": [
     {
@@ -7385,8 +7367,12 @@
     {
       "k": "duke health|ambulatory operations analyst",
       "at": "2026-10-02T02:40:26.614Z"
+    },
+    {
+      "k": "pacer group|business analyst flexera integrations licensing analytics",
+      "at": "2026-10-02T02:42:32.375Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:42:24.187Z"
+  "savedAt": "2026-10-02T02:42:32.375Z"
 }
