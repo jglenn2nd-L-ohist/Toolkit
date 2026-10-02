@@ -197,48 +197,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd22bb2aXv3Q",
-      "company": "Baptist Health",
-      "title": "Performance Analyst 1, Workforce Management, FT, 8:30A-5P",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473538601/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:46.922545+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd22ca1d0gLM",
-      "company": "Baptist Health",
-      "title": "Performance Analyst 2, Workforce Management, FT, 8:30A-5P",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473531816/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:50.749457+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd231270x753",
       "company": "Lewis Brisbois",
       "title": "Practice Management Rate Analyst",
@@ -603,50 +561,8 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4472638483/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-02T15:03:46.449823+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd24bd8cUN2s",
-      "company": "Raymond James",
-      "title": "Analyst, Digital Workplace Product Management (Microsoft 365)",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4453455829/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:58.604628+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd24d8c3Dvfq",
-      "company": "Central Florida Behavioral Health Network (CFBHN)",
-      "title": "Systems Support Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474319332/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:05.571203+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -722,27 +638,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd256bfbv8NM",
-      "company": "Southern Home Services",
-      "title": "Workforce Management and Performance Analyst",
-      "location": "Maitland, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471963221/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:43.259460+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd2581edc0U8",
       "company": "BNY",
       "title": "AI Process Analyst (contract)",
@@ -752,27 +647,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:04:48.877531+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd25899fhWVm",
-      "company": "NextPath Workforce Solutions",
-      "title": "CRM Campaign Segmentation Analyst (5902)",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464192039/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:50.847610+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1426,27 +1300,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:08:41.374947+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd291869_C9M",
-      "company": "Mount Sinai Medical Center",
-      "title": "HR Workday Analyst",
-      "location": "Miami Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459604551/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:44.009868+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -2805,27 +2658,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ca10ed-Sgn",
-      "company": "Emory Healthcare",
-      "title": "Workforce Analytics Partner",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473960737/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:06:50.093478+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7ca1bceCoHS",
       "company": "Solventum",
       "title": "Analytics Application Developer",
@@ -2925,27 +2757,6 @@
       "filter_status": "review",
       "filter_reasons": [
         "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cae5f0_3Tq",
-      "company": "Davidson Hospitality Group",
-      "title": "Workday Product Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473973609/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:44.624170+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
       ],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
@@ -7594,7 +7405,16 @@
     "https://www.linkedin.com/jobs/view/4455398369/",
     "https://www.linkedin.com/jobs/view/4471539065/",
     "https://www.linkedin.com/jobs/view/4467205971/",
-    "https://www.linkedin.com/jobs/view/4473966199/"
+    "https://www.linkedin.com/jobs/view/4473966199/",
+    "https://www.linkedin.com/jobs/view/4473538601/",
+    "https://www.linkedin.com/jobs/view/4473531816/",
+    "https://www.linkedin.com/jobs/view/4453455829/",
+    "https://www.linkedin.com/jobs/view/4474319332/",
+    "https://www.linkedin.com/jobs/view/4471963221/",
+    "https://www.linkedin.com/jobs/view/4464192039/",
+    "https://www.linkedin.com/jobs/view/4459604551/",
+    "https://www.linkedin.com/jobs/view/4473960737/",
+    "https://www.linkedin.com/jobs/view/4473973609/"
   ],
   "dismissedKeys": [
     {
@@ -8408,8 +8228,44 @@
     {
       "k": "martin marietta|associate workday hris analyst",
       "at": "2026-10-02T19:30:27.274Z"
+    },
+    {
+      "k": "baptist health|performance analyst 1 workforce management ft 8 30a 5p",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "baptist health|performance analyst 2 workforce management ft 8 30a 5p",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "raymond james|analyst digital workplace product management microsoft 365",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "central florida behavioral health network cfbhn|systems support analyst",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "southern home services|workforce management and performance analyst",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "nextpath workforce solutions|crm campaign segmentation analyst 5902",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "mount sinai medical center|hr workday analyst",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "emory healthcare|workforce analytics partner",
+      "at": "2026-10-02T19:32:06.616Z"
+    },
+    {
+      "k": "davidson hospitality group|workday product analyst",
+      "at": "2026-10-02T19:32:06.616Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:30:27.274Z"
+  "savedAt": "2026-10-02T19:32:08.562Z"
 }
