@@ -239,48 +239,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd22e9557eiC",
-      "company": "Bloomin' Brands, Inc.",
-      "title": "Financial Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4359196608/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:58.741227+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd22fc56Mh9o",
-      "company": "BayCare Health System",
-      "title": "Financial Analyst II",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473560358/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:03.606316+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd231270x753",
       "company": "Lewis Brisbois",
       "title": "Practice Management Rate Analyst",
@@ -470,27 +428,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd239b33aHCJ",
-      "company": "MUFG",
-      "title": "Trade Finance Servicing, Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473510583/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:44.275278+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd23b3161CGN",
       "company": "Booz Allen Hamilton",
       "title": "PCO Analyst",
@@ -596,48 +533,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2427895TIE",
-      "company": "General Dynamics Ordnance and Tactical Systems",
-      "title": "Financial Analyst II",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4445159257/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:20.201726+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd242f04Ow3H",
-      "company": "Lincare",
-      "title": "Financial Analyst",
-      "location": "Clearwater, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472954176/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:22.116063+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd24387dilPc",
       "company": "USI Insurance Services",
       "title": "Employee Benefits Analyst III",
@@ -647,27 +542,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:03:24.541317+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd243f76UmXI",
-      "company": "CFS",
-      "title": "Financial Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464146246/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:26.326684+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -827,27 +701,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd252944oS3m",
-      "company": "Reworld Waste",
-      "title": "Financial Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471762357/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:26.180271+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd2565c3JHJg",
       "company": "AdventHealth",
       "title": "Pharmacy Accounting Analyst",
@@ -878,27 +731,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:04:43.259460+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2579a7kqR6",
-      "company": "Adecco",
-      "title": "Financial Planning Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472824446/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:46.759327+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1121,27 +953,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd25fc43Dk_-",
-      "company": "Truist",
-      "title": "Financial Crimes Analyst III",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473514640/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:05:20.195450+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd264ec2bDDQ",
       "company": "BMO U.S.",
       "title": "Commercial Credit Analyst/Associate",
@@ -1256,48 +1067,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:06:17.365502+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2700b1jQWZ",
-      "company": "VyStar Credit Union",
-      "title": "Financial Analyst I",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473943121/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:26.865858+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2708929aKm",
-      "company": "JEA",
-      "title": "Financial Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474321565/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:28.882312+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1436,27 +1205,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd27ca21rtO7",
-      "company": "FIS",
-      "title": "Financial Analyst I, FIS University Program",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464691821/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:07:18.433729+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd27d31fpgZc",
       "company": "Boutique Recruiting",
       "title": "Private Equity Analyst",
@@ -1550,27 +1298,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:08:09.806187+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd28b200HOT-",
-      "company": "Leeds Professional Resources",
-      "title": "Financial Analyst",
-      "location": "Coral Gables, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463120451/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:17.792358+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1900,27 +1627,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd29c638OFkt",
-      "company": "Baptist Health",
-      "title": "Financial Analyst 3, Finance Corporate Support, FT,  08:30A-5P",
-      "location": "Coral Gables, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4401500273/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:09:28.504023+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd29cc87ZPMy",
       "company": "Prosperity Life",
       "title": "Investment Analyst",
@@ -1942,27 +1648,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd29d212SKfB",
-      "company": "Cinch Home Services",
-      "title": "Financial Analyst (HYBRID)",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473289273/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:09:31.538675+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd2a18a5Puff",
       "company": "City of North Miami Beach",
       "title": "Budget Analyst",
@@ -1972,27 +1657,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:09:49.605460+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2a1e21Ov5V",
-      "company": "Boeing",
-      "title": "Experienced Financial Analyst",
-      "location": "Hialeah, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472671900/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:09:51.009228+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -2511,48 +2175,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b05e7598sZ",
-      "company": "Bakelite",
-      "title": "Operations Financal Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474355628/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:18:23.221771+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f8b0d951QddB",
-      "company": "Benevis",
-      "title": "Financial Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474366033/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:18:54.673098+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f8b0e05euJ2d",
       "company": "Gleeds",
       "title": "Project Controls Analyst",
@@ -2562,48 +2184,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T18:18:56.478606+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f8b0e877u4f-",
-      "company": "McKenney's, Inc.",
-      "title": "Financial Analyst - Atlanta",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472958200/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:18:58.551207+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f8b0edb6m2qX",
-      "company": "Axillon Aerospace",
-      "title": "Financial Analyst",
-      "location": "Rockmart, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471773660/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:18:59.894076+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -2805,27 +2385,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f8b1f196XBdW",
-      "company": "AIG",
-      "title": "Vendor & Financial Administration Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472586308/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:20:06.422553+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f8b258871Z8N",
       "company": "TIAA",
       "title": "Business Management Analyst",
@@ -2928,27 +2487,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Applied"
-    },
-    {
-      "id": "1a0f8b319f3kQNe",
-      "company": "Velocity Clinical Research, Inc.",
-      "title": "Financial Analyst, Commercial Strategy & Analytics",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472947011/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:21:22.291640+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
     },
     {
       "id": "1a0f8b32e67fX5k",
@@ -3330,48 +2868,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ca5cedji4S",
-      "company": "BGRE",
-      "title": "Financial Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471787579/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:09.549769+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7caa4173EcK",
-      "company": "Quikrete",
-      "title": "Financial Analyst",
-      "location": "Sandy Springs, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473516601/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:27.767033+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7caad6eGWiy",
       "company": "Fulton County",
       "title": "BUDGET ANALYST",
@@ -3624,27 +3120,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cb63f7eKiC",
-      "company": "Inspire",
-      "title": "Supply Chain Financial Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471759055/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:16.887690+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7cb6e46CazL",
       "company": "Qcells North America",
       "title": "Trade, Customs & Cost Compliance Analyst",
@@ -3771,28 +3246,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cc0493zqSu",
-      "company": "R.E. Mason",
-      "title": "Business Systems & Process Analyst - Finance",
-      "location": "Charlotte Metro",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466135191/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:58.003537+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:erp_implementation"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7cc1450nRgJ",
       "company": "Barings",
       "title": "Quantitative & Risk Analytics (Structured Products: CLOs, ABS, MBS)",
@@ -3886,27 +3339,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:09:20.425195+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cc7912Ja-v",
-      "company": "LPL Financial",
-      "title": "Associate Analyst, Alternative Investments",
-      "location": "Fort Mill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473940044/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:09:27.826756+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -4129,48 +3561,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cd40d5Zpyj",
-      "company": "The Intersect Group",
-      "title": "Financial Planning Analyst",
-      "location": "Charlotte Metro",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471901908/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:10:18.965135+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cd4677KfGq",
-      "company": "Addison Group",
-      "title": "Financial Analyst",
-      "location": "Monroe, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463531290/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:10:20.407316+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7cd73c17tTL",
       "company": "Wikoff",
       "title": "HR Analyst",
@@ -4180,27 +3570,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:10:32.001920+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cd7a0bBMHC",
-      "company": "Dauch",
-      "title": "Financial Analyst",
-      "location": "Newton, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455469151/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:10:33.611855+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -4549,27 +3918,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cec96eXEXc",
-      "company": "Blue Cross NC",
-      "title": "Client Financial Analyst",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471954296/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:11:59.470820+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7ced0bd_GG6",
       "company": "Martin Marietta",
       "title": "Commercial Development Analyst",
@@ -4633,48 +3981,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cefeb9V1-f",
-      "company": "Thermo Fisher Scientific",
-      "title": "Financial Analyst II - Bioanalytical and Vaccines",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472681713/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:12:13.113537+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cf10295GVi",
-      "company": "Cary Academy",
-      "title": "Financial Analyst",
-      "location": "Cary, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474129891/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:12:17.577191+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7cf195f2gHx",
       "company": "TEKsystems",
       "title": "Product Analyst",
@@ -4690,48 +3996,6 @@
       "filter_status": "review",
       "filter_reasons": [
         "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cf23b2VgDq",
-      "company": "Siemens",
-      "title": "Financial Analyst- Controlling",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471934119/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:12:22.578428+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cf2cfejJR6",
-      "company": "Truist",
-      "title": "Risk Finance Data Management Analyst II",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473588226/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:12:24.958694+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
       ],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
@@ -4768,70 +4032,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:12:37.349009+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cfb68d-FvD",
-      "company": "Deckers Brands",
-      "title": "Financial Analyst - Retail",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471213920/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:00.173762+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cfbea4lODh",
-      "company": "Lenovo",
-      "title": "Financial Analyst",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471932535/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:02.244404+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted",
-        "jd_term:erp_implementation"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cfc560digV",
-      "company": "Cisco",
-      "title": "Financial Controls & Compliance Analyst",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455398369/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:03.968399+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -4992,27 +4192,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d0805ek4Vi",
-      "company": "Kiewit",
-      "title": "Finance Analyst- Kiewit Nuclear Solutions- Aiken, SC , Idaho Falls, ID,& Lenexa, KS",
-      "location": "Aiken, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471539065/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:51.838212+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7d0947c-azc",
       "company": "US Tech Solutions",
       "title": "Clinical Analyst # 26-24847",
@@ -5022,27 +4201,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:13:56.988663+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d09b57CAUb",
-      "company": "BlueCross BlueShield of South Carolina",
-      "title": "Internal Financial Controls Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467205971/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:58.743432+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -8416,7 +7574,47 @@
     "https://www.linkedin.com/jobs/view/4471795749/",
     "https://www.linkedin.com/jobs/view/4465105913/",
     "https://www.linkedin.com/jobs/view/4473527526/",
-    "https://www.linkedin.com/jobs/view/4450818367/"
+    "https://www.linkedin.com/jobs/view/4450818367/",
+    "https://www.linkedin.com/jobs/view/4359196608/",
+    "https://www.linkedin.com/jobs/view/4473560358/",
+    "https://www.linkedin.com/jobs/view/4473510583/",
+    "https://www.linkedin.com/jobs/view/4445159257/",
+    "https://www.linkedin.com/jobs/view/4472954176/",
+    "https://www.linkedin.com/jobs/view/4464146246/",
+    "https://www.linkedin.com/jobs/view/4471762357/",
+    "https://www.linkedin.com/jobs/view/4472824446/",
+    "https://www.linkedin.com/jobs/view/4473514640/",
+    "https://www.linkedin.com/jobs/view/4473943121/",
+    "https://www.linkedin.com/jobs/view/4474321565/",
+    "https://www.linkedin.com/jobs/view/4464691821/",
+    "https://www.linkedin.com/jobs/view/4463120451/",
+    "https://www.linkedin.com/jobs/view/4401500273/",
+    "https://www.linkedin.com/jobs/view/4473289273/",
+    "https://www.linkedin.com/jobs/view/4472671900/",
+    "https://www.linkedin.com/jobs/view/4474355628/",
+    "https://www.linkedin.com/jobs/view/4474366033/",
+    "https://www.linkedin.com/jobs/view/4472958200/",
+    "https://www.linkedin.com/jobs/view/4471773660/",
+    "https://www.linkedin.com/jobs/view/4472586308/",
+    "https://www.linkedin.com/jobs/view/4472947011/",
+    "https://www.linkedin.com/jobs/view/4471787579/",
+    "https://www.linkedin.com/jobs/view/4473516601/",
+    "https://www.linkedin.com/jobs/view/4471759055/",
+    "https://www.linkedin.com/jobs/view/4466135191/",
+    "https://www.linkedin.com/jobs/view/4473940044/",
+    "https://www.linkedin.com/jobs/view/4471901908/",
+    "https://www.linkedin.com/jobs/view/4463531290/",
+    "https://www.linkedin.com/jobs/view/4455469151/",
+    "https://www.linkedin.com/jobs/view/4471954296/",
+    "https://www.linkedin.com/jobs/view/4472681713/",
+    "https://www.linkedin.com/jobs/view/4474129891/",
+    "https://www.linkedin.com/jobs/view/4471934119/",
+    "https://www.linkedin.com/jobs/view/4473588226/",
+    "https://www.linkedin.com/jobs/view/4471213920/",
+    "https://www.linkedin.com/jobs/view/4471932535/",
+    "https://www.linkedin.com/jobs/view/4455398369/",
+    "https://www.linkedin.com/jobs/view/4471539065/",
+    "https://www.linkedin.com/jobs/view/4467205971/"
   ],
   "dismissedKeys": [
     {
@@ -9066,8 +8264,168 @@
     {
       "k": "scout motors|analyst container repair",
       "at": "2026-10-02T19:27:49.457Z"
+    },
+    {
+      "k": "bloomin brands|financial analyst",
+      "at": "2026-10-02T19:29:08.483Z"
+    },
+    {
+      "k": "baycare health system|financial analyst ii",
+      "at": "2026-10-02T19:29:08.483Z"
+    },
+    {
+      "k": "mufg|trade finance servicing analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "general dynamics ordnance and tactical systems|financial analyst ii",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "lincare|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "cfs|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "reworld waste|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "adecco|financial planning analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "truist|financial crimes analyst iii",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "vystar credit union|financial analyst i",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "jea|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "fis|financial analyst i fis university program",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "leeds professional resources|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "baptist health|financial analyst 3 finance corporate support ft 08 30a 5p",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "cinch home services|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "boeing|experienced financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "bakelite|operations financal analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "benevis|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "mckenney s|financial analyst atlanta",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "axillon aerospace|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "aig|vendor financial administration analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "velocity clinical research|financial analyst commercial strategy analytics",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "bgre|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "quikrete|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "inspire|supply chain financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "r e mason|business systems process analyst finance",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "lpl financial|associate analyst alternative investments",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "intersect group|financial planning analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "addison group|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "dauch|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "blue cross nc|client financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "thermo fisher scientific|financial analyst ii bioanalytical and vaccines",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "cary academy|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "siemens|financial analyst controlling",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "truist|risk finance data management analyst ii",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "deckers brands|financial analyst retail",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "lenovo|financial analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "cisco|financial controls compliance analyst",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "kiewit|finance analyst kiewit nuclear solutions aiken sc idaho falls id lenexa ks",
+      "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "bluecross blueshield of south carolina|internal financial controls analyst",
+      "at": "2026-10-02T19:29:08.484Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:27:49.457Z"
+  "savedAt": "2026-10-02T19:29:08.484Z"
 }
