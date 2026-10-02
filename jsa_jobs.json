@@ -750,7 +750,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4464122083/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-02T15:06:56.673932+00:00",
       "notes": "",
       "remote_search": false,
@@ -1027,27 +1027,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:08:59.346563+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd296188LFqS",
-      "company": "Gellert Global Group",
-      "title": "Logistics Compliance Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472827098/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:09:02.728275+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -6675,7 +6654,8 @@
     "https://www.linkedin.com/jobs/view/4472614908/",
     "https://www.linkedin.com/jobs/view/4473797949/",
     "https://www.linkedin.com/jobs/view/4472817631/",
-    "https://www.linkedin.com/jobs/view/4471270162/"
+    "https://www.linkedin.com/jobs/view/4471270162/",
+    "https://www.linkedin.com/jobs/view/4472827098/"
   ],
   "dismissedKeys": [
     {
@@ -7673,8 +7653,12 @@
     {
       "k": "qcells north america|trade customs cost compliance analyst",
       "at": "2026-10-02T19:40:16.281Z"
+    },
+    {
+      "k": "gellert global group|logistics compliance analyst",
+      "at": "2026-10-02T19:42:10.337Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:40:16.281Z"
+  "savedAt": "2026-10-02T19:42:10.337Z"
 }
