@@ -2409,25 +2409,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ccd718b_7d",
-      "company": "Pacific Life",
-      "title": "AI and Analytics Specialist",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473989173/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:09:51.896792+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7ccfc54tq_c",
       "company": "Sterling Capital Management LLC",
       "title": "Product Marketing Analyst (Fixed Income)",
@@ -7265,7 +7246,8 @@
     "https://www.linkedin.com/jobs/view/4471773856/",
     "https://www.linkedin.com/jobs/view/4473556322/",
     "https://www.linkedin.com/jobs/view/4472362081/",
-    "https://www.linkedin.com/jobs/view/4471255096/"
+    "https://www.linkedin.com/jobs/view/4471255096/",
+    "https://www.linkedin.com/jobs/view/4473989173/"
   ],
   "dismissedKeys": [
     {
@@ -7483,8 +7465,12 @@
     {
       "k": "daimler truck north america|business systems analyst",
       "at": "2026-10-02T02:38:31.778Z"
+    },
+    {
+      "k": "pacific life|ai and analytics specialist",
+      "at": "2026-10-02T02:38:50.964Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:38:34.039Z"
+  "savedAt": "2026-10-02T02:38:50.964Z"
 }
