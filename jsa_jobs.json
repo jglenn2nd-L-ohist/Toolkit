@@ -2913,25 +2913,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ceb70ep_Mv",
-      "company": "Q2",
-      "title": "Data Analyst",
-      "location": "Cary, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462552010/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:11:54.766920+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cebfb3OVXR",
       "company": "Strata Clean Energy",
       "title": "Procurement Analyst",
@@ -7067,7 +7048,8 @@
     "https://www.linkedin.com/jobs/view/4471727913/",
     "https://www.linkedin.com/jobs/view/4471745149/",
     "https://www.linkedin.com/jobs/view/4471586555/",
-    "https://www.linkedin.com/jobs/view/4435164201/"
+    "https://www.linkedin.com/jobs/view/4435164201/",
+    "https://www.linkedin.com/jobs/view/4462552010/"
   ],
   "dismissedKeys": [
     {
@@ -7329,8 +7311,12 @@
     {
       "k": "te connectivity|supply chain analyst iv",
       "at": "2026-10-02T02:44:12.415Z"
+    },
+    {
+      "k": "q2|data analyst",
+      "at": "2026-10-02T02:44:39.058Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:44:15.367Z"
+  "savedAt": "2026-10-02T02:44:39.058Z"
 }
