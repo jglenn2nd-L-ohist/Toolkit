@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "Reports Analyst",
+      "company": "MetLife",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473525518/?trackingId=RjrrCB02pJKObO1abV66Sw%3D%3D&refId=x9oGqoc9e6GgxlXOLK0dxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BC%2BXOg1p7S8%2BDi5mn3lf2VQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1u1-AxE3pOsYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4473525518_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4473525518_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms-null-q9jfse~muqb8f2h~ms-null-null&eid=q9jfse-muqb8f2h-ms&otpToken=NDI4YzcyYjdjMTMyMDA3MDZhNDVlYTIwNWVjZjE5ZDk4NjhkMGE4ZmEyOTBhNGUyNTQ0OWQ5ZWI1ZmU4YTBjNjc2ODBiZmM2Nzk1NGFlNmFiYzNjMTE3MDIyYzg5ZWE4MDI3NzgzZmJkZjE1OTY1YzAyYjgwZGYzNTViMjMxNDI5ZWJiZDBiYmI4ZWVkYjRmYzksMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-02T21:13:38.723819+00:00"
+    },
+    {
       "title": "Service Center Senior Analyst",
       "company": "Cox Automotive Inc.",
       "location": "Atlanta, GA",
@@ -18255,19 +18267,6 @@
       ],
       "filter_version": "2026-09-24.4",
       "dateAdded": "2026-10-01T18:25:38.923729+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer",
-      "company": "Faegre Drinker",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4473516616/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.923975+00:00"
     }
   ]
 }
