@@ -3165,25 +3165,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cf88f6E_Cj",
-      "company": "Deloitte",
-      "title": "Onestream Developer Analytics and Insights Engineer II",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4456418673/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:12:48.502187+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cf9342b0Zm",
       "company": "The University of North Carolina at Chapel Hill",
       "title": "Data-Driven EnviroLab Temporary Research Specialist/Data Analyst",
@@ -7031,7 +7012,8 @@
     "https://www.linkedin.com/jobs/view/4471586555/",
     "https://www.linkedin.com/jobs/view/4435164201/",
     "https://www.linkedin.com/jobs/view/4462552010/",
-    "https://www.linkedin.com/jobs/view/4407234707/"
+    "https://www.linkedin.com/jobs/view/4407234707/",
+    "https://www.linkedin.com/jobs/view/4456418673/"
   ],
   "dismissedKeys": [
     {
@@ -7301,8 +7283,12 @@
     {
       "k": "captrust|analytics engineer",
       "at": "2026-10-02T02:45:09.707Z"
+    },
+    {
+      "k": "deloitte|onestream developer analytics and insights engineer ii",
+      "at": "2026-10-02T02:45:34.807Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:45:12.940Z"
+  "savedAt": "2026-10-02T02:45:34.807Z"
 }
