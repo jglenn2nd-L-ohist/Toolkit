@@ -125,7 +125,7 @@
       "salary": "",
       "url": "https://www.ziprecruiter.com/km/AAFBa3qwgZMXiSfzHCl6mCvbSbPR64emL1Id2nm_rDw6gfv9hFDYLRgufIClQsrnwsLVifAn3QQAgc41u8pwmlj_FUxPTn2HC-bTM_u60Sh_Gjyh-WbvpdJNYiRC67oi7AmPb9wy3elsCKph07-R8VwtxgdAe3_Hjr3sAEVp2B_BsmAaISnrAH8xdBfIv2JmaG6_3rl9Q_rEDWdUwxRgf2nAFrLTTC2eQdokt1QIbj9bt01RFsnhECVd67yAG1bUuDIwMlIIlvNGpKw03CHmjzbsWNVVCFTVtDH3Lpx0gjiwLac8Y197nY2fTt3r84YsH9yY4N1RfWiHnBSuOKk-HgWJ9_RA71m9Tf3iOlQuNYsue9uv3-_qemqDyGehgKEw2jQweRwrmQ?tsid\u00111000153&auth_token=5_1790807957_i-FeAOmbMfBhP5ITKNgLfNrbv4t0EVnOIjFdlZn7Hi8&contact_id�f05452&expires\u001791153557",
       "source": "ZipRecruiter",
-      "status": "Review",
+      "status": "New",
       "viewed": true,
       "dateAdded": "2026-10-01T18:37:02.173798+00:00",
       "notes": "",
@@ -134,7 +134,8 @@
         "location_unknown"
       ],
       "loc_class": "unknown",
-      "filter_version": "2026-09-24.4"
+      "filter_version": "2026-09-24.4",
+      "reviewed_by_user": true
     },
     {
       "id": "1a0f8c1715d0Kdd",
@@ -6833,5 +6834,5 @@
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T03:17:30.281Z"
+  "savedAt": "2026-10-02T03:26:31.004Z"
 }
