@@ -3039,25 +3039,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cf0615cZwI",
-      "company": "CAPTRUST",
-      "title": "Analytics Engineer",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4407234707/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:12:14.997919+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cf10295GVi",
       "company": "Cary Academy",
       "title": "Financial Analyst",
@@ -7049,7 +7030,8 @@
     "https://www.linkedin.com/jobs/view/4471745149/",
     "https://www.linkedin.com/jobs/view/4471586555/",
     "https://www.linkedin.com/jobs/view/4435164201/",
-    "https://www.linkedin.com/jobs/view/4462552010/"
+    "https://www.linkedin.com/jobs/view/4462552010/",
+    "https://www.linkedin.com/jobs/view/4407234707/"
   ],
   "dismissedKeys": [
     {
@@ -7315,8 +7297,12 @@
     {
       "k": "q2|data analyst",
       "at": "2026-10-02T02:44:39.058Z"
+    },
+    {
+      "k": "captrust|analytics engineer",
+      "at": "2026-10-02T02:45:09.707Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:44:42.187Z"
+  "savedAt": "2026-10-02T02:45:09.707Z"
 }
