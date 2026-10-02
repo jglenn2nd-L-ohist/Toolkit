@@ -4086,27 +4086,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d01941NZIq",
-      "company": "Martin Marietta",
-      "title": "Associate Workday HRIS Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473966199/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:25.441920+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7d0215dA30X",
       "company": "BuzzClan",
       "title": "Epic Orders Analyst",
@@ -7614,7 +7593,8 @@
     "https://www.linkedin.com/jobs/view/4471932535/",
     "https://www.linkedin.com/jobs/view/4455398369/",
     "https://www.linkedin.com/jobs/view/4471539065/",
-    "https://www.linkedin.com/jobs/view/4467205971/"
+    "https://www.linkedin.com/jobs/view/4467205971/",
+    "https://www.linkedin.com/jobs/view/4473966199/"
   ],
   "dismissedKeys": [
     {
@@ -8424,8 +8404,12 @@
     {
       "k": "bluecross blueshield of south carolina|internal financial controls analyst",
       "at": "2026-10-02T19:29:08.484Z"
+    },
+    {
+      "k": "martin marietta|associate workday hris analyst",
+      "at": "2026-10-02T19:30:27.274Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:29:08.484Z"
+  "savedAt": "2026-10-02T19:30:27.274Z"
 }
