@@ -155,27 +155,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd235cd7bEuz",
-      "company": "S+H Search",
-      "title": "Business Systems Analyst",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472576144/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:02:28.311151+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:erp_implementation"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd2364c4RZvx",
       "company": "Coca-Cola Beverages Florida",
       "title": "Application Analyst, Manufacturing",
@@ -6635,7 +6614,8 @@
     "https://www.linkedin.com/jobs/view/4472817631/",
     "https://www.linkedin.com/jobs/view/4471270162/",
     "https://www.linkedin.com/jobs/view/4472827098/",
-    "https://www.linkedin.com/jobs/view/4474389831/"
+    "https://www.linkedin.com/jobs/view/4474389831/",
+    "https://www.linkedin.com/jobs/view/4472576144/"
   ],
   "dismissedKeys": [
     {
@@ -7641,8 +7621,12 @@
     {
       "k": "signode|pricing analyst",
       "at": "2026-10-02T19:43:24.310Z"
+    },
+    {
+      "k": "s h search|business systems analyst",
+      "at": "2026-10-02T19:43:48.718Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:43:29.461Z"
+  "savedAt": "2026-10-02T19:43:48.718Z"
 }
