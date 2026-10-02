@@ -2335,25 +2335,6 @@
       "status": "New"
     },
     {
-      "id": "1a0fd2bfaedK-k0",
-      "company": "Leonardo DRS",
-      "title": "Supply Chain Analyst",
-      "location": "Melbourne, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472983661/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:11:53.069418+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2c0424YZAA",
       "company": "UPM",
       "title": "Procurement Analyst",
@@ -8805,7 +8786,8 @@
     "https://www.linkedin.com/jobs/view/4474357982/",
     "https://www.linkedin.com/jobs/view/4221779645/",
     "https://www.linkedin.com/jobs/view/4474531705/",
-    "https://www.linkedin.com/jobs/view/4456181715/"
+    "https://www.linkedin.com/jobs/view/4456181715/",
+    "https://www.linkedin.com/jobs/view/4472983661/"
   ],
   "dismissedKeys": [
     {
@@ -9375,8 +9357,12 @@
     {
       "k": "ahold delhaize usa|sap solutions and retail store operations business analyst",
       "at": "2026-10-02T19:19:38.349Z"
+    },
+    {
+      "k": "leonardo drs|supply chain analyst",
+      "at": "2026-10-02T19:20:08.647Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:19:41.014Z"
+  "savedAt": "2026-10-02T19:20:08.647Z"
 }
