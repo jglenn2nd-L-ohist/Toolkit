@@ -2030,25 +2030,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cbbe692LG7",
-      "company": "Calculated Hire",
-      "title": "Business Analyst",
-      "location": "Charlotte Metro",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472362081/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:40.041880+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cbc52eVY9C",
       "company": "Ahold Delhaize USA",
       "title": "Analyst IV A-Brands Analytics",
@@ -7301,7 +7282,8 @@
     "https://www.linkedin.com/jobs/view/4472683496/",
     "https://www.linkedin.com/jobs/view/4465095619/",
     "https://www.linkedin.com/jobs/view/4471773856/",
-    "https://www.linkedin.com/jobs/view/4473556322/"
+    "https://www.linkedin.com/jobs/view/4473556322/",
+    "https://www.linkedin.com/jobs/view/4472362081/"
   ],
   "dismissedKeys": [
     {
@@ -7511,8 +7493,12 @@
     {
       "k": "apex systems|business data analyst",
       "at": "2026-10-02T02:37:01.291Z"
+    },
+    {
+      "k": "calculated hire|business analyst",
+      "at": "2026-10-02T02:37:04.475Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:37:01.291Z"
+  "savedAt": "2026-10-02T02:37:04.475Z"
 }
