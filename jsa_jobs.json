@@ -428,27 +428,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd264ec2bDDQ",
-      "company": "BMO U.S.",
-      "title": "Commercial Credit Analyst/Associate",
-      "location": "Winter Park, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474517996/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:05:41.314014+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd26589du-Pd",
       "company": "SpaceX",
       "title": "Real Estate Analyst",
@@ -506,27 +485,6 @@
       "filter_status": "review",
       "filter_reasons": [
         "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd270fb4048g",
-      "company": "VyStar Credit Union",
-      "title": "Digital Product Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473954031/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:30.708441+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
       ],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
@@ -6435,7 +6393,9 @@
     "https://www.linkedin.com/jobs/view/4463080694/",
     "https://www.linkedin.com/jobs/view/4471770421/",
     "https://www.linkedin.com/jobs/view/4474113632/",
-    "https://www.linkedin.com/jobs/view/4437490209/"
+    "https://www.linkedin.com/jobs/view/4437490209/",
+    "https://www.linkedin.com/jobs/view/4474517996/",
+    "https://www.linkedin.com/jobs/view/4473954031/"
   ],
   "dismissedKeys": [
     {
@@ -7481,8 +7441,16 @@
     {
       "k": "usi insurance services|employee benefits analyst iii",
       "at": "2026-10-02T19:46:54.328Z"
+    },
+    {
+      "k": "bmo u s|commercial credit analyst associate",
+      "at": "2026-10-02T19:49:39.873Z"
+    },
+    {
+      "k": "vystar credit union|digital product analyst",
+      "at": "2026-10-02T19:49:39.873Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:46:54.328Z"
+  "savedAt": "2026-10-02T19:49:39.874Z"
 }
