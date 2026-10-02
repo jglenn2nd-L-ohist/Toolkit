@@ -375,6 +375,7 @@ def main():
             if data:
                 enriched += 1
                 jsa_enrich.apply_enrichment(j, data)
+        j['via'] = 'email'
         verdict = jsa_filters.evaluate(j, data['jd'] if data else None)
         j.update(verdict)
         records.append(j)
@@ -388,7 +389,9 @@ def main():
     by_src, reasons = jsa_store.summarize(records)
     jsa_store.print_summary(by_src, reasons)
     run_stat = {'at': datetime.now(timezone.utc).isoformat(), 'runner': 'email',
-                'rules': jsa_filters.FILTER_VERSION, 'bySource': by_src, 'reasons': reasons}
+                'rules': jsa_filters.FILTER_VERSION, 'bySource': by_src, 'reasons': reasons,
+                'messages': len(all_message_ids), 'found': len(candidates) + duped,
+                'known': duped}   # 'known' = already in your file, dismissed, or rejected earlier
 
     today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     added = jsa_store.merge_jobs(github_token, keep, rejects, run_stat,

@@ -169,15 +169,9 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       <div class="metric"><div class="metric-label">Interviews</div><div class="metric-value mv-amber" id="m-interview">0</div></div>
     </div>
     <div class="card">
-      <div class="card-title">Harvest criteria — runs via Claude scheduled task at 9am</div>
-      <div class="crit-grid">
-        <div><div class="crit-label">Gmail keywords</div><div class="crit-value">job alert · analyst · hiring · job opportunities</div></div>
-        <div><div class="crit-label">Excluded</div><div class="crit-value">Senior · Sr. · Intern · Co-op · No URL</div></div>
-        <div><div class="crit-label">Locations</div><div class="crit-value">Atlanta · FL · SC · TX · Remote · Hybrid</div></div>
-        <div><div class="crit-label">Salary floor</div><div class="crit-value">$65,000 — shown, never filtered</div></div>
-        <div><div class="crit-label">Industries</div><div class="crit-value">All industries</div></div>
-        <div><div class="crit-label">Degree req.</div><div class="crit-value">Always shown — your call</div></div>
-      </div>
+      <div class="card-title">Harvest log — what each channel produced</div>
+      <div id="channel-summary" style="font-size:12px;margin-bottom:10px"></div>
+      <div style="overflow-x:auto"><div id="harvest-log"></div></div>
     </div>
     <div id="gh-status"></div>
   </div>
@@ -199,6 +193,7 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
         <option>Offer</option><option>Rejected</option><option>Closed</option>
       </select>
       <select class="fsel" onchange="renderJobs()" id="fsource"><option value="">All sources</option></select>
+      <select class="fsel" onchange="renderJobs()" id="fvia"><option value="">All channels</option><option value="email">Email sweep</option><option value="proactive">Proactive search</option><option value="legacy">Older (pre-pipeline)</option></select>
     </div>
     <div class="sel-all-row">
       <input type="checkbox" id="sel-all" class="job-cb" onchange="toggleSelectAll(this.checked)">
@@ -579,12 +574,14 @@ function renderJobs() {
   const q   = (document.getElementById('fsearch')?.value||'').toLowerCase();
   const sf  = document.getElementById('fstatus')?.value||'';
   const src = document.getElementById('fsource')?.value||'';
+  const via = document.getElementById('fvia')?.value||'';
 
   const filtered = jobs.filter(j => {
     if (q && !j.company.toLowerCase().includes(q) && !j.title.toLowerCase().includes(q)) return false;
     if (!sf && j.status === 'Review') return false;          // default feed = verified only
     if (sf && sf !== '__all' && j.status !== sf) return false;
     if (src && j.source !== src) return false;
+    if (via && viaOf(j) !== via) return false;
     return true;
   });
 
@@ -612,6 +609,7 @@ function renderJobs() {
       <div class="job-right">
         <span class="chip ${sc}">${j.status||'New'}</span>
         <span class="chip ch-src">${j.source}</span>
+        <span class="chip ch-src" title="How this job reached you">${({email:"✉ email",proactive:"⌕ search",legacy:"older"})[viaOf(j)]}</span>
       </div>
       <div class="row-actions">
         ${j.status==='Review'?`<button class="row-btn" onclick="keepJob(event,'${j.id}')">Keep</button>`:''}
@@ -851,7 +849,41 @@ function goPage(id,el) {
 }
 
 // ── METRICS ───────────────────────────────────────────────
+// Which channel delivered a job. Older records predate the 'via' stamp, so infer it.
+function viaOf(j) {
+  if (j.via) return j.via;
+  if ('remote_search' in j) return 'proactive';
+  if (j.filter_version) return 'email';
+  return 'legacy';
+}
+
+function renderHarvestLog() {
+  const el = document.getElementById('harvest-log'); if (!el) return;
+  const runs = (fileExtra.runStats || []).filter(r => r.runner !== 'backfill').slice(-12).reverse();
+  const tot = r => { const t = {pass:0, review:0, reject:0};
+    Object.values(r.bySource || {}).forEach(v => { t.pass += v.pass; t.review += v.review; t.reject += v.reject; });
+    return t; };
+  const td = 'style="padding:4px 10px;border-bottom:1px solid var(--border,#333);white-space:nowrap"';
+  const rows = runs.map(r => { const t = tot(r); const d = new Date(r.at);
+    return `<tr><td ${td}>${d.toLocaleDateString([], {month:'short', day:'numeric'})} ${d.toLocaleTimeString([], {hour:'numeric', minute:'2-digit'})}</td>
+      <td ${td}>${r.runner === 'email' ? '✉ Email sweep' : '⌕ Proactive search'}</td>
+      <td ${td}>${r.messages ?? '—'}</td><td ${td}>${r.found ?? '—'}</td><td ${td}>${r.known ?? '—'}</td>
+      <td ${td} style="color:var(--blue)">${t.pass}</td><td ${td} style="color:var(--amber)">${t.review}</td><td ${td}>${t.reject}</td>
+      <td ${td}>${Object.entries(r.bySource || {}).map(([k, v]) => k + ' ' + (v.pass + v.review)).join(', ') || '—'}</td></tr>`; }).join('');
+  el.innerHTML = runs.length ? `<table style="border-collapse:collapse;font-size:12px;width:100%">
+    <tr style="text-align:left;opacity:.7"><th ${td}>Run</th><th ${td}>Channel</th><th ${td}>Emails</th><th ${td}>Jobs seen</th>
+    <th ${td}>Already known</th><th ${td}>New</th><th ${td}>Review</th><th ${td}>Rejected</th><th ${td}>Kept by source</th></tr>${rows}</table>`
+    : '<div style="opacity:.7">No runs logged yet — appears after the next harvest.</div>';
+  // Outcome per channel: does what it delivers turn into applications?
+  const since = Date.now() - 14 * 864e5, adv = ['Applied', 'Interviewing', 'Offer'];
+  const sum = ch => { const js = jobs.filter(j => viaOf(j) === ch && new Date(j.dateAdded) >= since);
+    return `${js.length} in file, ${js.filter(j => adv.includes(j.status)).length} applied`; };
+  document.getElementById('channel-summary').innerHTML =
+    `Last 14 days — <b>✉ Email sweep:</b> ${sum('email')} &nbsp;·&nbsp; <b>⌕ Proactive search:</b> ${sum('proactive')}`;
+}
+
 function updateMetrics() {
+  renderHarvestLog();
   document.getElementById('m-total').textContent     = jobs.length;
   document.getElementById('m-unseen').textContent    = jobs.filter(j=>!j.viewed && j.status!=='Review').length;
   document.getElementById('m-applied').textContent   = jobs.filter(j=>['Applied','Interviewing','Offer'].includes(j.status)).length;

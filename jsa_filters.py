@@ -15,7 +15,7 @@ evaluate() never silently drops anything. Every decision carries reason codes.
 
 import re
 
-FILTER_VERSION = '2026-09-24.4'   # bump when rules change; stamped on every record
+FILTER_VERSION = '2026-10-02.1'   # bump when rules change; stamped on every record
 
 # ── WHERE YOU CAN WORK ────────────────────────────────────
 ALLOWED_STATES = {'GA', 'FL', 'NC', 'SC'}
@@ -82,10 +82,17 @@ TARGET_TITLES = [
     'analytics specialist', 'data analytics', 'insights', 'data visualization',
     'logistics analyst', 'sales operations', 'revenue operations', 'analytics associate',
     'operations data', 'marketing analytics',
+    # added 10-02 from your applications: Distribution, Pricing, Dealer System, Data & Automation
+    'distribution analyst', 'pricing analyst', 'system analyst',
 ]
+# 'data' anywhere before 'analyst' also counts (Data & Automation Analyst, Data Impact Analyst)
+TARGET_REGEX = r'\bdata\b.{0,25}\banalyst\b'
 # Titles containing these words but no TARGET_TITLES match go to REVIEW, not reject.
 # Your call on each; promote recurring families into TARGET_TITLES.
 ANALYST_WORDS = r'\b(analyst|analytics|insights?|intelligence)\b'
+# 10-02: you applied to ~0 of 118 'title_unlisted' jobs (treasury, budget, procurement, real estate...).
+# 'reject' sends them to the rejects log (auditable) instead of your Review queue.
+UNLISTED_POLICY = 'reject'
 
 # Word-boundary regexes so 'staff' doesn't hit 'staffing', 'lead' doesn't hit 'leader'
 TITLE_EXCLUDE = [
@@ -93,12 +100,21 @@ TITLE_EXCLUDE = [
     r'\bintern(ship)?\b', r'\bco-?op\b', r'\bdirector\b', r'\bvp\b', r'\bvice president\b',
     r'\bhead of\b', r'\bmanager\b', r'\bsummer 20\d\d\b',
     r'cyber ?security', r'information security', r'\binfosec\b', r'network security',
-    r'\bsoc analyst\b', r'threat intel', r'penetration test',
+    r'\bsoc analyst\b', r'threat intel', r'penetration test', r'\bvulnerability\b',
     r'\bcollections\b', r'accounts (payable|receivable)', r'\bcard dispute', r'\bchargeback',
     r'software engineer', r'\bdevops\b', r'cloud engineer', r'full[- ]?stack',
     r'\bwarehouse\b', r'\bpurchasing\b', r'\badministrative\b',
     r'demand\b.{0,15}plann', r'(supply|material|inventory|demand) plann', r'\bforecast', r'salesforce admin', r'\bfp&a\b', r'\bcapex\b',
     r'\b(java|c\+\+|\.net) developer\b', r'\bskillbridge\b',
+    # 10-02, from 263 removals vs 30 applications:
+    r'\b(financial|finance|accounting|treasury|budget|tax|audit|fiscal)\b',          # 40 removed, 0 applied
+    r'\b(iii|iv|vi)\b', r'\banalyst\s+(3|4|5|v)\b', r'\badvanced\b',            # level III+: you apply at I-II
+    r'\b20(27|28)\b', r'future leaders', r'rotational', r'early careers?\b', r'new grad',  # degree-track programs
+    r'\d+\s*(month|mo)\s*contract', r'\(contract\)',
+    r'\b(erp|oracle|sap|servicenow|workday|essbase|hcm)\b',                          # platform admin roles
+    r'\b(esg|sustainability|brokerage|investment|investor|private equity|real estate|401\s*k|payroll|'
+    r'medical coding|nurse|crime|fraud|risk|compliance|regulatory|collateral|procurement|sourcing|'
+    r'commission|rebate|insurance sales)\b',
 ]
 
 JUNK_TITLE = [r'^your job alert for', r'^jobs? (similar|for you)', r'^see all', r'^view ']
@@ -237,9 +253,9 @@ def evaluate(job, jd_text=None):
             if m:
                 reject.append('title_excluded:' + m.group(0).strip())
                 break
-        if not reject and not any(p in tl for p in TARGET_TITLES):
+        if not reject and not any(p in tl for p in TARGET_TITLES) and not re.search(TARGET_REGEX, tl):
             if re.search(ANALYST_WORDS, tl):
-                review.append('title_unlisted')
+                (reject if UNLISTED_POLICY == 'reject' else review).append('title_unlisted')
             else:
                 reject.append('title_not_target')
 

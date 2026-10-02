@@ -56,7 +56,7 @@ def new_job(title, company, location, url, source, remote_search=False):
     return {'id': uid(), 'company': company or 'See posting', 'title': title,
             'location': location, 'salary': '', 'url': url, 'source': source,
             'viewed': False, 'dateAdded': datetime.now(timezone.utc).isoformat(), 'notes': '',
-            'remote_search': remote_search}
+            'remote_search': remote_search, 'via': 'proactive'}
 
 
 # ── LINKEDIN ──────────────────────────────────────────────
@@ -210,7 +210,8 @@ def main():
         print("\nNothing new to evaluate — GitHub unchanged.")
         return
     stat = {'at': datetime.now(timezone.utc).isoformat(), 'runner': 'proactive',
-            'rules': jsa_filters.FILTER_VERSION, 'bySource': by_src, 'reasons': reasons}
+            'rules': jsa_filters.FILTER_VERSION, 'bySource': by_src, 'reasons': reasons,
+            'found': len(records), 'opened': fetched}
     added = jsa_store.merge_jobs(token, keep, rejects, stat,
         f"JSA proactive {datetime.now():%Y-%m-%d %H:%M}: +{len(keep)} kept, {len(rejects)} rejected",
         set_last_run=False)
