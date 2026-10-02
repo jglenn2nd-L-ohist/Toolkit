@@ -135,66 +135,6 @@
       "filter_version": "2026-09-24.4"
     },
     {
-      "id": "1a0fdcbd078oQgo",
-      "company": "See posting",
-      "title": "Salesforce Business Analyst- W2",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAEgs-siolT6xrjE9n6i14UY_sjp4xSGOUskQxJiuenZly2Pavlt0Lh8LfnjQCp0X90gPgCRLXqIDpx_j7ZP42xs99otWq0saGdT8aQtdkx6jbq26UE5sJzmmLbkflt7VP6Ja-HNDSqGhojdCwWUqw3dDD7LFS3kO4G_eaheUE6ArmKpGZ4ieExYq0EfvJhtP6LeLQ7CgMGjez1VN-NT_GIM6LIwtmA2-vSVvf6oWhrmegaXsWIdPpcZsEK0NOtSsIqiHfASytRwriruxL1brQO_YsqzZl1udeuUVcp-XEZ1XkbON-EPYRzkob0Ad-ZjawA6ccRvyt0_tz8sTDQgBoUflj6rIADE6HDJUE3TzfN42i9MK_iNHgdf1IVRMo76MSRhiA?tsid&#x3D;111000304&auth_token&#x3D;5_1790924683_s2RJQZwrf_y10dKYtrP55vV3Lx3WjpKC4zV4u99e0AI&contact_id&#x3D;f8f05452&expires&#x3D;1791270283",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-02T18:06:27.960059+00:00",
-      "notes": "",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-09-24.4"
-    },
-    {
-      "id": "1a0fdcbd773-GAN",
-      "company": "Gulfstream Aerospace",
-      "title": "Sales Intelligence Analyst",
-      "location": "Savannah, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4472225886/?trackingId\fv0o2Pr%2B5aOlcYywJBBrQ%3D%3D&refId=6VeKjWcYm6w4tTAR9STFkg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQHAi3E1ZR7e6QKaWq%2F53fQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3V5ysBgQXwsIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4472225886_ssid_8797982178_fmid_q9jfse~muq60nhj~3f&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4472225886_ssid_8797982178_fmid_q9jfse~muq60nhj~3f-null-q9jfse~muq60nhj~3f-null-null&eid=q9jfse-muq60nhj-3f&otpToken=ZmVhMDM3MDEzOTM0OTUzN2JmYWE5NmE5NDFhNTlkZDE1NDY3OWE3OWVkNDFmOTBiMzdmZWYxOGNiMjYyNGIyNjhkOTE4YTYzNzI0NDJkM2JkMjRhMGVlODI2Mjg2ZjNmZmNhMDU5OWNjNjZhNzIxYTg2MTg3NWFkMmI5ZWQ1MmU5MmUwZGIxODE1YjE3MDlhNGQsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-02T18:06:29.747392+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4"
-    },
-    {
-      "id": "1a0fd228564KGIq",
-      "company": "NinjaOne",
-      "title": "Sales Analytics Analyst",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474545632/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:33.156129+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd229027ng6T",
       "company": "BRG",
       "title": "Consultant - Health Analytics",
@@ -349,27 +289,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:02:03.606316+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd230c25bU-1",
-      "company": "BD",
-      "title": "Salesforce CPQ Administrator / Analyst",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474128279/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:07.653505+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1959,27 +1878,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd29768e46-g",
-      "company": "Verifone",
-      "title": "Sales Support Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471973892/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:09:08.110078+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd299d77XNUP",
       "company": "Royal Caribbean Group",
       "title": "Analyst, Customer and Lifecycle Marketing",
@@ -2588,26 +2486,6 @@
       "filter_version": "2026-09-24.4"
     },
     {
-      "id": "1a0f8c1723al1ca",
-      "company": "Tekmetric",
-      "title": "Sales Operations Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4462271739/?trackingId=Rs5uFXvB87cK1BQkdu58oQ%3D%3D&refId=OOD%2Bbkc2%2FZNgGkqhlkaHvQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsnaIETR%2BR3KQ7HgC0fxJuw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0001trFtpDQbrss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4462271739_ssid_8461940610_fmid_q9jfse~muooo6vj~us&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4462271739_ssid_8461940610_fmid_q9jfse~muooo6vj~us-null-q9jfse~muooo6vj~us-null-null&eid=q9jfse-muooo6vj-us&otpToken=NjBjNDAwMWViM2I4ZDFmYWFlN2QwYTdiZDBjOGIwYjE3NWM4Y2Y2MjIzMzhhYmQyMTcxOTg4ZWMzOTZjMTBiYWJlZGE1NmM2N2U3NzJkY2RmNTE1MzczZWRmNTZiOTRkYmZmM2Q4MmMxY2RlNDNhOGMwMDc2ZDFjMWZhYWE4NjY1NTc4NjcxODdiYjAzMTg5YzYsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:37:02.394662+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4"
-    },
-    {
       "id": "1a0f8c1723axnVF",
       "company": "Highmark",
       "title": "Solution Analyst",
@@ -2700,27 +2578,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T18:18:10.810324+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f8b03f18pml4",
-      "company": "Software Technology Inc.",
-      "title": "Salesforce Business Analyst + Admin",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474363498/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T18:18:15.192113+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -3341,27 +3198,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c8f07d8n37",
-      "company": "The Home Depot",
-      "title": "GIFT CARD SALES ANALYST",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467567734/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:36.253524+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7c9054eEbjF",
       "company": "Georgia Power Company",
       "title": "Pricing & Rates Analyst",
@@ -3371,27 +3207,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:05:41.582646+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7c91d90s0hn",
-      "company": "INABA FOODS (USA), INC.",
-      "title": "Category Sales Analyst",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473594738/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:05:47.792938+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -3477,27 +3292,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:06:25.962554+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7c9cc99QYOW",
-      "company": "INABA FOODS (USA), INC.",
-      "title": "Sales Analyst",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473595683/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:06:32.601305+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -3750,27 +3544,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:07:34.219093+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cacd66QVHd",
-      "company": "Salesforce",
-      "title": "Financial Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464918928/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:38.342901+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -8787,7 +8560,18 @@
     "https://www.linkedin.com/jobs/view/4221779645/",
     "https://www.linkedin.com/jobs/view/4474531705/",
     "https://www.linkedin.com/jobs/view/4456181715/",
-    "https://www.linkedin.com/jobs/view/4472983661/"
+    "https://www.linkedin.com/jobs/view/4472983661/",
+    "https://www.ziprecruiter.com/km/AAEgs-siolT6xrjE9n6i14UY_sjp4xSGOUskQxJiuenZly2Pavlt0Lh8LfnjQCp0X90gPgCRLXqIDpx_j7ZP42xs99otWq0saGdT8aQtdkx6jbq26UE5sJzmmLbkflt7VP6Ja-HNDSqGhojdCwWUqw3dDD7LFS3kO4G_eaheUE6ArmKpGZ4ieExYq0EfvJhtP6LeLQ7CgMGjez1VN-NT_GIM6LIwtmA2-vSVvf6oWhrmegaXsWIdPpcZsEK0NOtSsIqiHfASytRwriruxL1brQO_YsqzZl1udeuUVcp-XEZ1XkbON-EPYRzkob0Ad-ZjawA6ccRvyt0_tz8sTDQgBoUflj6rIADE6HDJUE3TzfN42i9MK_iNHgdf1IVRMo76MSRhiA?tsid&#x3D;111000304&auth_token&#x3D;5_1790924683_s2RJQZwrf_y10dKYtrP55vV3Lx3WjpKC4zV4u99e0AI&contact_id&#x3D;f8f05452&expires&#x3D;1791270283",
+    "https://www.linkedin.com/comm/jobs/view/4472225886/?trackingId\fv0o2Pr%2B5aOlcYywJBBrQ%3D%3D&refId=6VeKjWcYm6w4tTAR9STFkg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQHAi3E1ZR7e6QKaWq%2F53fQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3V5ysBgQXwsIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4472225886_ssid_8797982178_fmid_q9jfse~muq60nhj~3f&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4472225886_ssid_8797982178_fmid_q9jfse~muq60nhj~3f-null-q9jfse~muq60nhj~3f-null-null&eid=q9jfse-muq60nhj-3f&otpToken=ZmVhMDM3MDEzOTM0OTUzN2JmYWE5NmE5NDFhNTlkZDE1NDY3OWE3OWVkNDFmOTBiMzdmZWYxOGNiMjYyNGIyNjhkOTE4YTYzNzI0NDJkM2JkMjRhMGVlODI2Mjg2ZjNmZmNhMDU5OWNjNjZhNzIxYTg2MTg3NWFkMmI5ZWQ1MmU5MmUwZGIxODE1YjE3MDlhNGQsMiwx",
+    "https://www.linkedin.com/jobs/view/4474545632/",
+    "https://www.linkedin.com/jobs/view/4474128279/",
+    "https://www.linkedin.com/jobs/view/4471973892/",
+    "https://www.linkedin.com/comm/jobs/view/4462271739/?trackingId=Rs5uFXvB87cK1BQkdu58oQ%3D%3D&refId=OOD%2Bbkc2%2FZNgGkqhlkaHvQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsnaIETR%2BR3KQ7HgC0fxJuw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0001trFtpDQbrss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4462271739_ssid_8461940610_fmid_q9jfse~muooo6vj~us&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4462271739_ssid_8461940610_fmid_q9jfse~muooo6vj~us-null-q9jfse~muooo6vj~us-null-null&eid=q9jfse-muooo6vj-us&otpToken=NjBjNDAwMWViM2I4ZDFmYWFlN2QwYTdiZDBjOGIwYjE3NWM4Y2Y2MjIzMzhhYmQyMTcxOTg4ZWMzOTZjMTBiYWJlZGE1NmM2N2U3NzJkY2RmNTE1MzczZWRmNTZiOTRkYmZmM2Q4MmMxY2RlNDNhOGMwMDc2ZDFjMWZhYWE4NjY1NTc4NjcxODdiYjAzMTg5YzYsMiwx",
+    "https://www.linkedin.com/jobs/view/4474363498/",
+    "https://www.linkedin.com/jobs/view/4467567734/",
+    "https://www.linkedin.com/jobs/view/4473594738/",
+    "https://www.linkedin.com/jobs/view/4473595683/",
+    "https://www.linkedin.com/jobs/view/4464918928/"
   ],
   "dismissedKeys": [
     {
@@ -9361,8 +9145,52 @@
     {
       "k": "leonardo drs|supply chain analyst",
       "at": "2026-10-02T19:20:08.647Z"
+    },
+    {
+      "k": "see posting|salesforce business analyst w2",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "gulfstream aerospace|sales intelligence analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "ninjaone|sales analytics analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "bd|salesforce cpq administrator analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "verifone|sales support analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "tekmetric|sales operations analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "software technology|salesforce business analyst admin",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "home depot|gift card sales analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "inaba foods usa|category sales analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "inaba foods usa|sales analyst",
+      "at": "2026-10-02T19:26:45.787Z"
+    },
+    {
+      "k": "salesforce|financial analyst",
+      "at": "2026-10-02T19:26:45.787Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:23:46.045Z"
+  "savedAt": "2026-10-02T19:26:45.787Z"
 }
