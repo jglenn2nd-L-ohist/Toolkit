@@ -1663,25 +1663,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2898290iKh",
-      "company": "Amerant Bank",
-      "title": "Business Intelligence Specialist III",
-      "location": "Miramar, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463898631/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:08:11.177443+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd289fe3JdL3",
       "company": "Palm Beach Accountable Care Organization",
       "title": "Data Analyst",
@@ -9003,7 +8984,8 @@
     "https://www.linkedin.com/jobs/view/4473135251/",
     "https://www.linkedin.com/jobs/view/4444148354/",
     "https://www.linkedin.com/jobs/view/4472803910/",
-    "https://www.linkedin.com/jobs/view/4450534068/"
+    "https://www.linkedin.com/jobs/view/4450534068/",
+    "https://www.linkedin.com/jobs/view/4463898631/"
   ],
   "dismissedKeys": [
     {
@@ -9529,8 +9511,12 @@
     {
       "k": "royal caribbean group|analyst business intelligence",
       "at": "2026-10-02T19:13:48.203Z"
+    },
+    {
+      "k": "amerant bank|business intelligence specialist iii",
+      "at": "2026-10-02T19:14:07.724Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:13:50.461Z"
+  "savedAt": "2026-10-02T19:14:07.724Z"
 }
