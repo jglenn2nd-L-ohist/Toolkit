@@ -1,6 +1,81 @@
 {
   "rejects": [
     {
+      "title": "Service Center Senior Analyst",
+      "company": "Cox Automotive Inc.",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473929556/?trackingId=oAlEWIMK0jE6UEV8vL9HcA%3D%3D&refId=iHFIvJEM9tOQUx2sBn9heQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B8v%2F6uhXkRAG2I5Ghj8LS3Q%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3rkCQq-JyWtIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473929556_ssid_15324419412_fmid_q9jfse~mur58o79~1d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4473929556_ssid_15324419412_fmid_q9jfse~mur58o79~1d-null-q9jfse~mur58o79~1d-null-null&eid=q9jfse-mur58o79-1d&otpToken=YzVjZTQ5OTc5NTkwYjA2YTk5Njc1YzBhM2FkNjlkNTAwOTYxZWI1MDAwNjZmY2QxNWZkNDc2ODc0YTc2MTc4YmRiZWUwMDljOTNjYTExMTIxNTEyZmE5MjM0MGE3NzY3NWJhZTk2N2JlZDM3ZDkyYjNiZDFjNDFhNjY2MWUxN2U3YzMwY2MwYmYyNjQyYjNjNzksMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:25.995850+00:00"
+    },
+    {
+      "title": "Business Analyst (Health)",
+      "company": "Guidehouse",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473798955/?trackingId=piSvGfmumMhl2sr1TjAdgw%3D%3D&refId=YcDu3b9cHQ3myUGfiA%2BYzw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZf2ueTYSSGG9nIJZotBJ8A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig0FF_1x612tIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4473798955_ssid_8352402866_fmid_q9jfse~mur0ycaa~bs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4473798955_ssid_8352402866_fmid_q9jfse~mur0ycaa~bs-null-q9jfse~mur0ycaa~bs-null-null&eid=q9jfse-mur0ycaa-bs&otpToken=N2Y0NzcwZDUzZDFiMWMzM2QyNTUxODQ0YmU3Mjc5YTViMjFkMjc3NTdkOGFhOGYyMzgwYjQ4NDkyNGIzNzIwYzc3MzdmMDMxN2ZiMTAwMDliNDIzMWRkMzE4YmY3ODM1Y2JmYmZlZWE5YzhhMzVhMDY3ZWMxZWZkMTRjYTYzM2U1OGYxYmU2ZDU0ZjVmNGI4ZjQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:26.286859+00:00"
+    },
+    {
+      "title": "Lead Customer Insights and Data Analyst",
+      "company": "Ryder System, Inc.",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4471984747/?trackingId=g5CPzywhQfi3rRba7Af%2BRQ%3D%3D&refId=GbAWywTZDYNmMX5TI3Kfsg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BqWd9K01QTx2JM1vCffh2fQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2UJnBK-dzWsIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4471984747_ssid_8758102954_fmid_q9jfse~muq6y42e~ew&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4471984747_ssid_8758102954_fmid_q9jfse~muq6y42e~ew-null-q9jfse~muq6y42e~ew-null-null&eid=q9jfse-muq6y42e-ew&otpToken=YWY4ZTM2MjI5ZmY0MmE2YWM5NjVhNTk5ZmNiZTZiYjI0YzQyNmEwNTA0Y2MwMjg3Y2RlYmI2MTYyZDUxMzQwYjEwYzJmNjBjZTUxMGU5Njg1MDVkZTVkNTlmYmU0NjIzMTU1YzIwN2Y2ODRlZjE4OWQzZjA0MjViN2NhNDlhOTM5NTMyZDAzZjE4NTEzOGU4ODUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:29.452159+00:00"
+    },
+    {
+      "title": "Staff Business Data Analyst \u2014 Quality Management System",
+      "company": "Intuit",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473289672/?trackingId=K%2BQ5ta4lrhdhM%2Bjra7WU7g%3D%3D&refId=GbAWywTZDYNmMX5TI3Kfsg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BqWd9K01QTx2JM1vCffh2fQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2UJnBK-dzWsIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473289672_ssid_8758102954_fmid_q9jfse~muq6y42e~ew&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473289672_ssid_8758102954_fmid_q9jfse~muq6y42e~ew-null-q9jfse~muq6y42e~ew-null-null&eid=q9jfse-muq6y42e-ew&otpToken=YWY4ZTM2MjI5ZmY0MmE2YWM5NjVhNTk5ZmNiZTZiYjI0YzQyNmEwNTA0Y2MwMjg3Y2RlYmI2MTYyZDUxMzQwYjEwYzJmNjBjZTUxMGU5Njg1MDVkZTVkNTlmYmU0NjIzMTU1YzIwN2Y2ODRlZjE4OWQzZjA0MjViN2NhNDlhOTM5NTMyZDAzZjE4NTEzOGU4ODUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:staff"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:29.452207+00:00"
+    },
+    {
+      "title": "Senior Analyst Asset Protection",
+      "company": "The Home Depot",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4471536052/?trackingId=dY%2BVvDShOYPWJP9f1R6QhQ%3D%3D&refId=GbAWywTZDYNmMX5TI3Kfsg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BqWd9K01QTx2JM1vCffh2fQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2UJnBK-dzWsIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471536052_ssid_8758102954_fmid_q9jfse~muq6y42e~ew&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4471536052_ssid_8758102954_fmid_q9jfse~muq6y42e~ew-null-q9jfse~muq6y42e~ew-null-null&eid=q9jfse-muq6y42e-ew&otpToken=YWY4ZTM2MjI5ZmY0MmE2YWM5NjVhNTk5ZmNiZTZiYjI0YzQyNmEwNTA0Y2MwMjg3Y2RlYmI2MTYyZDUxMzQwYjEwYzJmNjBjZTUxMGU5Njg1MDVkZTVkNTlmYmU0NjIzMTU1YzIwN2Y2ODRlZjE4OWQzZjA0MjViN2NhNDlhOTM5NTMyZDAzZjE4NTEzOGU4ODUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:29.452255+00:00"
+    },
+    {
+      "title": "Analyst, Demand Planning",
+      "company": "ASICS America Corporation",
+      "location": "Boston, MA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4473031740/?trackingId=K17CYtmfZR8FnpgOpF5G5A%3D%3D&refId=%2BNJ6LKeIFQOVsE6dUmG8FQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bj3ELy52VRoabxu3z1fjdcA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3_X33OBoOyscs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4473031740_ssid_5216629873_fmid_q9jfse~muplihtg~tw&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4473031740_ssid_5216629873_fmid_q9jfse~muplihtg~tw-null-q9jfse~muplihtg~tw-null-null&eid=q9jfse-muplihtg-tw&otpToken=NDBjZGQ2MTgwNzcyMzIwN2EwZTA5MmQ2YjY5MGY0ZjJmYjRhODlmNTJlZTZhOTQwZjQxMTExZDU2ZGViY2U5MjNkODA5OWUyMGU3N2M2MjE2NjRhMjYxNzM4ZGViYzkyYzE0YmQ0YWI1ZWIwODIzZWJiNWI3NTlkMWFmYzRlMmE5ZjdkNTkyOTE5NTNhOWFhM2MsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:demand plann",
+        "out_of_area:MA",
+        "clearance_required"
+      ],
+      "filter_version": "2026-09-24.4",
+      "dateAdded": "2026-10-02T18:06:31.213307+00:00"
+    },
+    {
       "title": "Data Analyst, Lead",
       "company": "Booz Allen Hamilton",
       "location": "Tampa, FL",
@@ -18193,84 +18268,6 @@
       ],
       "filter_version": "2026-09-24.4",
       "dateAdded": "2026-10-01T18:25:38.923975+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer",
-      "company": "CoreWeave",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4471209735/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:DC"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.924212+00:00"
-    },
-    {
-      "title": "Data Engineer, Amazon Prime Video Product Analytics",
-      "company": "Prime Video & Amazon MGM Studios",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4455916180/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:WA",
-        "title_unlisted"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.925395+00:00"
-    },
-    {
-      "title": "Senior Business Intelligence Engineer, Prime Video Partner Experience & Supply Chain",
-      "company": "Prime Video & Amazon MGM Studios",
-      "location": "Culver City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473572165/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.926434+00:00"
-    },
-    {
-      "title": "Lead Analytics Engineer",
-      "company": "Develop Health",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473907801/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.926795+00:00"
-    },
-    {
-      "title": "Sr. Staff Analytics Engineer",
-      "company": "Flex",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4465324003/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.927352+00:00"
-    },
-    {
-      "title": "Business Intelligence Senior Analyst",
-      "company": "Sevita",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4472609951/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-09-24.4",
-      "dateAdded": "2026-10-01T18:25:38.927700+00:00"
     }
   ]
 }
