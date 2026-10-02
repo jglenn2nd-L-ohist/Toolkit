@@ -3545,25 +3545,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d1f6c1BZAu",
-      "company": "The Urban Electric Co.",
-      "title": "Business Intelligence Developer",
-      "location": "North Charleston, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473796300/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:15:27.681110+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7d1fd7dG5ue",
       "company": "The Bolton Group",
       "title": "Inventory Analyst",
@@ -6869,7 +6850,8 @@
     "https://www.linkedin.com/jobs/view/4474193754/",
     "https://www.linkedin.com/jobs/view/4426129805/",
     "https://www.linkedin.com/jobs/view/4472533992/",
-    "https://www.linkedin.com/jobs/view/4471568242/"
+    "https://www.linkedin.com/jobs/view/4471568242/",
+    "https://www.linkedin.com/jobs/view/4473796300/"
   ],
   "dismissedKeys": [
     {
@@ -7175,8 +7157,12 @@
     {
       "k": "republic services|logistics analyst",
       "at": "2026-10-02T02:51:20.795Z"
+    },
+    {
+      "k": "urban electric|business intelligence developer",
+      "at": "2026-10-02T02:51:49.199Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:51:23.767Z"
+  "savedAt": "2026-10-02T02:51:49.199Z"
 }
