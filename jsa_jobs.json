@@ -3440,25 +3440,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d0a1d2p6m3",
-      "company": "CompuGroup Medical SE & Co. KGaA",
-      "title": "Operations Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4426129805/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:14:00.402161+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7d0ac682Tgv",
       "company": "SYSTEMTEC",
       "title": "Clinical Analyst",
@@ -6923,7 +6904,8 @@
     "https://www.linkedin.com/jobs/view/4472191099/",
     "https://www.linkedin.com/jobs/view/4474194411/",
     "https://www.linkedin.com/jobs/view/4473902920/",
-    "https://www.linkedin.com/jobs/view/4474193754/"
+    "https://www.linkedin.com/jobs/view/4474193754/",
+    "https://www.linkedin.com/jobs/view/4426129805/"
   ],
   "dismissedKeys": [
     {
@@ -7217,8 +7199,12 @@
     {
       "k": "maxpath technologies|healthcare business analyst clinical analyst",
       "at": "2026-10-02T02:46:32.652Z"
+    },
+    {
+      "k": "compugroup medical se kgaa|operations analyst",
+      "at": "2026-10-02T02:47:05.130Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:46:35.620Z"
+  "savedAt": "2026-10-02T02:47:05.130Z"
 }
