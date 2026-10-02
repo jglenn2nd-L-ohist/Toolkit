@@ -1294,25 +1294,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7c874b6bgh4",
-      "company": "CapTech",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455774747/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:05:04.566651+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7c8d39eGpP2",
       "company": "GXO Logistics, Inc.",
       "title": "Analyst, Logistics - 1st Shift",
@@ -1711,25 +1692,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ca3e7eLbBQ",
-      "company": "Visionaire Partners",
-      "title": "Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471201881/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:07:01.758089+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7ca5cedji4S",
       "company": "BGRE",
       "title": "Financial Analyst",
@@ -1749,44 +1711,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f7ca7dd6kwe5",
-      "company": "Harnham",
-      "title": "Analytics Engineer",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473944504/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:07:17.974266+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0f7ca87d6-cl1",
-      "company": "Children's Healthcare of Atlanta",
-      "title": "Business Intelligence Architect",
-      "location": "Brookhaven, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473961671/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:20.534405+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f7caa4173EcK",
@@ -1913,25 +1837,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f7caf009xGV9",
-      "company": "Google",
-      "title": "Trust and Safety AI Ecosystems Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472175119/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:47.209515+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f7cb067fPs5a",
@@ -2182,25 +2087,6 @@
       "status": "New"
     },
     {
-      "id": "1a0f7cba0ceuGhf",
-      "company": "USAA",
-      "title": "Business Strategy Analyst (Mid-level)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472635547/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:32.462373+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cbb7b98yy6",
       "company": "Apex Systems",
       "title": "Business/Data Analyst",
@@ -2258,25 +2144,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f7cbcf817t9h",
-      "company": "Broad River Retail",
-      "title": "Business Intelligence Developer",
-      "location": "Fort Mill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454902205/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:08:44.417159+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f7cbe218hCFn",
@@ -2488,25 +2355,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cc55c55ywk",
-      "company": "Motion Recruitment",
-      "title": "Business Systems Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473261829/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:09:18.789608+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7cc5c29H3cc",
       "company": "Motion Recruitment",
       "title": "Business System Analyst",
@@ -2589,25 +2437,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f7cc92c3oTlA",
-      "company": "Envision Technology Solutions",
-      "title": "Software Asset Management (SAM) Business Analyst - Entitlement & Contract Data Operations",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473790468/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:09:34.403211+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f7cc97f4xGGU",
@@ -7535,7 +7364,16 @@
     "https://www.linkedin.com/jobs/view/4463083000/",
     "https://www.linkedin.com/jobs/view/4474127267/",
     "https://www.linkedin.com/jobs/view/4463073412/",
-    "https://www.linkedin.com/jobs/view/4473560320/"
+    "https://www.linkedin.com/jobs/view/4473560320/",
+    "https://www.linkedin.com/jobs/view/4455774747/",
+    "https://www.linkedin.com/jobs/view/4471201881/",
+    "https://www.linkedin.com/jobs/view/4473944504/",
+    "https://www.linkedin.com/jobs/view/4473961671/",
+    "https://www.linkedin.com/jobs/view/4472175119/",
+    "https://www.linkedin.com/jobs/view/4472635547/",
+    "https://www.linkedin.com/jobs/view/4454902205/",
+    "https://www.linkedin.com/jobs/view/4473261829/",
+    "https://www.linkedin.com/jobs/view/4473790468/"
   ],
   "dismissedKeys": [
     {
@@ -7693,8 +7531,44 @@
     {
       "k": "troutman pepper locke|emerge operations analyst",
       "at": "2026-10-02T02:28:37.483Z"
+    },
+    {
+      "k": "captech|data analyst",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "visionaire partners|data analyst",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "harnham|analytics engineer",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "children s healthcare of atlanta|business intelligence architect",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "google|trust and safety ai ecosystems analyst",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "usaa|business strategy analyst mid level",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "broad river retail|business intelligence developer",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "motion recruitment|business systems analyst",
+      "at": "2026-10-02T02:35:27.306Z"
+    },
+    {
+      "k": "envision technology solutions|software asset management sam business analyst entitlement contract data operations",
+      "at": "2026-10-02T02:35:27.306Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:30:17.024Z"
+  "savedAt": "2026-10-02T02:35:27.307Z"
 }
