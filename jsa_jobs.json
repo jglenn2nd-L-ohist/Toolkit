@@ -3608,101 +3608,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d371ffJ58L",
-      "company": "Stripe",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473996755/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:04.767196+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0f7d3775bqSgJ",
-      "company": "AdventHealth",
-      "title": "Net Rev Business Intelligence Analyst",
-      "location": "Altamonte Springs, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473976002/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:06.139987+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0f7d3813eGJtq",
-      "company": "Chevron Phillips Chemical Company",
-      "title": "Specialist, Business Analyst (Commercial)",
-      "location": "Spring, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472920517/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:08.670567+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0f7d3983d-ZOu",
-      "company": "RemoteHunter",
-      "title": "Data Analyst, Growth Marketing & Attribution",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472532441/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:14.557363+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0f7d3d4151dBz",
-      "company": "TalentHop",
-      "title": "Analytics Engineer",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472689993/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:29.877490+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7d405abKZa2",
       "company": "Ladders",
       "title": "Analyst III, Product (Remote)",
@@ -3723,25 +3628,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0f7d4101ftvA9",
-      "company": "Wiraa",
-      "title": "Product Analyst, AI",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474155320/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-01T14:17:45.247686+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0f7d444c9N2uV",
@@ -6851,7 +6737,13 @@
     "https://www.linkedin.com/jobs/view/4426129805/",
     "https://www.linkedin.com/jobs/view/4472533992/",
     "https://www.linkedin.com/jobs/view/4471568242/",
-    "https://www.linkedin.com/jobs/view/4473796300/"
+    "https://www.linkedin.com/jobs/view/4473796300/",
+    "https://www.linkedin.com/jobs/view/4473996755/",
+    "https://www.linkedin.com/jobs/view/4473976002/",
+    "https://www.linkedin.com/jobs/view/4472920517/",
+    "https://www.linkedin.com/jobs/view/4472532441/",
+    "https://www.linkedin.com/jobs/view/4472689993/",
+    "https://www.linkedin.com/jobs/view/4474155320/"
   ],
   "dismissedKeys": [
     {
@@ -7161,8 +7053,32 @@
     {
       "k": "urban electric|business intelligence developer",
       "at": "2026-10-02T02:51:49.199Z"
+    },
+    {
+      "k": "stripe|data analyst",
+      "at": "2026-10-02T02:53:29.648Z"
+    },
+    {
+      "k": "adventhealth|net rev business intelligence analyst",
+      "at": "2026-10-02T02:53:29.648Z"
+    },
+    {
+      "k": "chevron phillips chemical|specialist business analyst commercial",
+      "at": "2026-10-02T02:53:29.648Z"
+    },
+    {
+      "k": "remotehunter|data analyst growth marketing attribution",
+      "at": "2026-10-02T02:53:29.648Z"
+    },
+    {
+      "k": "talenthop|analytics engineer",
+      "at": "2026-10-02T02:53:29.648Z"
+    },
+    {
+      "k": "wiraa|product analyst ai",
+      "at": "2026-10-02T02:53:29.648Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:53:07.830Z"
+  "savedAt": "2026-10-02T02:53:29.649Z"
 }
