@@ -260,27 +260,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd24387dilPc",
-      "company": "USI Insurance Services",
-      "title": "Employee Benefits Analyst III",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4437490209/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:24.541317+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd2469f8_tqd",
       "company": "USAA",
       "title": "Mid-Level Decision Science Analyst - P&C Analytics",
@@ -6455,7 +6434,8 @@
     "https://www.linkedin.com/jobs/view/4471779138/",
     "https://www.linkedin.com/jobs/view/4463080694/",
     "https://www.linkedin.com/jobs/view/4471770421/",
-    "https://www.linkedin.com/jobs/view/4474113632/"
+    "https://www.linkedin.com/jobs/view/4474113632/",
+    "https://www.linkedin.com/jobs/view/4437490209/"
   ],
   "dismissedKeys": [
     {
@@ -7497,8 +7477,12 @@
     {
       "k": "wikoff|hr analyst",
       "at": "2026-10-02T19:45:56.259Z"
+    },
+    {
+      "k": "usi insurance services|employee benefits analyst iii",
+      "at": "2026-10-02T19:46:54.328Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:45:56.259Z"
+  "savedAt": "2026-10-02T19:46:54.328Z"
 }
