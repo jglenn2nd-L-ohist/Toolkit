@@ -3377,25 +3377,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d074fcovaO",
-      "company": "TALENT Software Services",
-      "title": "IT - SCDHHS - IT Healthcare Consultant - Business Analyst - Advanced - Clinical Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472191099/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:48.924143+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0f7d07a53Ibgu",
       "company": "Chandra Technologies, Inc",
       "title": "Healthcare Coding & Clinical Business Analyst - HYBRID (W2 ONLY)",
@@ -6995,7 +6976,8 @@
     "https://www.linkedin.com/jobs/view/4462552010/",
     "https://www.linkedin.com/jobs/view/4407234707/",
     "https://www.linkedin.com/jobs/view/4456418673/",
-    "https://www.linkedin.com/jobs/view/4471987980/"
+    "https://www.linkedin.com/jobs/view/4471987980/",
+    "https://www.linkedin.com/jobs/view/4472191099/"
   ],
   "dismissedKeys": [
     {
@@ -7273,8 +7255,12 @@
     {
       "k": "university of north carolina at chapel hill|data driven envirolab temporary research specialist data analyst",
       "at": "2026-10-02T02:45:44.680Z"
+    },
+    {
+      "k": "talent software services|it scdhhs it healthcare consultant business analyst advanced clinical analyst",
+      "at": "2026-10-02T02:45:53.748Z"
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T02:45:44.680Z"
+  "savedAt": "2026-10-02T02:45:53.748Z"
 }
