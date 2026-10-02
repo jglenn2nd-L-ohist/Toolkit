@@ -155,27 +155,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a0fd22a477oJR4",
-      "company": "Sign In App | Visitor Management and Employee Sign In",
-      "title": "GTM Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472486334/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:01:41.111123+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd22ada1zsfn",
       "company": "Signode",
       "title": "Pricing Analyst",
@@ -212,69 +191,6 @@
       "filter_status": "review",
       "filter_reasons": [
         "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd233b1fx1rL",
-      "company": "Geographic Solutions, Inc.",
-      "title": "UI Business Analyst",
-      "location": "Palm Harbor, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472579493/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:02:19.679509+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd23479374KY",
-      "company": "Deloitte",
-      "title": "SAP Data Conversion, Transformation Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4457048309/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:22.867081+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd234de51XbH",
-      "company": "ID Projetos Educacionais",
-      "title": "UI Business Analyst",
-      "location": "Palm Harbor, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474706549/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:24.485521+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
       ],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
@@ -353,27 +269,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:02:35.025766+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd237f842mZx",
-      "company": "Evara Health",
-      "title": "EPIC Application Analyst",
-      "location": "Clearwater, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4455429367/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:37.188363+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -764,27 +659,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd25d0180WXc",
-      "company": "Health First",
-      "title": "Epic Certified Applications Analyst II – Resolute Professional Billing (RPB)",
-      "location": "Rockledge, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473512517/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:05:08.888534+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd25f488jM4W",
       "company": "Paychex",
       "title": "Collateral Analyst - Alterna",
@@ -878,27 +752,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:06:00.042882+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd26b7e22K1C",
-      "company": "Health First",
-      "title": "Epic Applications Analyst II - Epic Willow",
-      "location": "Rockledge, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473940042/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:08.226481+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -1270,27 +1123,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd290e1eANrr",
-      "company": "Mount Sinai Medical Center",
-      "title": "System Analyst Epic Beaker",
-      "location": "Miami Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473961740/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:41.374947+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd294302AQf8",
       "company": "Bunge",
       "title": "Analyst Commercial Logistics",
@@ -1552,48 +1384,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-02T15:10:12.036205+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2a7778uOQU",
-      "company": "University of Miami",
-      "title": "Epic Analyst -Hospital Billing",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4432441461/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:10:13.880453+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd2a8219xZKN",
-      "company": "GuideIT",
-      "title": "Clinical Application Support Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471924099/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:10:16.601362+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -2763,27 +2553,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7cb0bd9KK53",
-      "company": "Prosum",
-      "title": "SAP Plan-to-Produce (PTP) Analyst (Remote role, 25% travel)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463815346/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:54.329529+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7cb137aL5tK",
       "company": "Freeman Mathis & Gary, LLP",
       "title": "Application Support Analyst",
@@ -2793,27 +2562,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:07:56.282625+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cb1bb8Bb7a",
-      "company": "Emory Healthcare",
-      "title": "EPIC Analyst III (Beaker AP)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454556824/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:07:58.392840+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -3498,27 +3246,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7ce57afRZ3w",
-      "company": "Duke Health",
-      "title": "Application Analyst - Epic Inpatient",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471540253/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:11:30.351935+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7ce729b-6Gb",
       "company": "SECU",
       "title": "Cash Ordering and Reconciliation Analyst II",
@@ -3876,48 +3603,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0f7d0215dA30X",
-      "company": "BuzzClan",
-      "title": "Epic Orders Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472630806/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:27.517247+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d0284b221Q",
-      "company": "Rang Technologies Inc",
-      "title": "Epic Order Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473980348/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:29.291327+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0f7d02f33ToWW",
       "company": "Harris Computer",
       "title": "ServiceNow Administrator / Automation Analyst",
@@ -3949,90 +3634,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:13:33.502427+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d0947c-azc",
-      "company": "US Tech Solutions",
-      "title": "Clinical Analyst # 26-24847",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472310282/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:13:56.988663+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d0ac682Tgv",
-      "company": "SYSTEMTEC",
-      "title": "Clinical Analyst",
-      "location": "South Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472352743/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:14:03.112798+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d0b318Dx8x",
-      "company": "Prisma Health",
-      "title": "Epic Analyst, Radiant, FT, Days, - Remote",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471940401/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:14:04.824970+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7d0dac73V7i",
-      "company": "McLeod Health",
-      "title": "Epic Application Analyst II - IT Clinical Systems (Epic Anesthesia Certification Required/Epic Optime Certification Preferred)",
-      "location": "South Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472326198/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:14:14.983909+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -7394,7 +6995,26 @@
     "https://www.linkedin.com/jobs/view/4459604551/",
     "https://www.linkedin.com/jobs/view/4473960737/",
     "https://www.linkedin.com/jobs/view/4473973609/",
-    "https://www.linkedin.com/jobs/view/4472638483/"
+    "https://www.linkedin.com/jobs/view/4472638483/",
+    "https://www.linkedin.com/jobs/view/4472486334/",
+    "https://www.linkedin.com/jobs/view/4472579493/",
+    "https://www.linkedin.com/jobs/view/4457048309/",
+    "https://www.linkedin.com/jobs/view/4474706549/",
+    "https://www.linkedin.com/jobs/view/4455429367/",
+    "https://www.linkedin.com/jobs/view/4473512517/",
+    "https://www.linkedin.com/jobs/view/4473940042/",
+    "https://www.linkedin.com/jobs/view/4473961740/",
+    "https://www.linkedin.com/jobs/view/4432441461/",
+    "https://www.linkedin.com/jobs/view/4471924099/",
+    "https://www.linkedin.com/jobs/view/4463815346/",
+    "https://www.linkedin.com/jobs/view/4454556824/",
+    "https://www.linkedin.com/jobs/view/4471540253/",
+    "https://www.linkedin.com/jobs/view/4472630806/",
+    "https://www.linkedin.com/jobs/view/4473980348/",
+    "https://www.linkedin.com/jobs/view/4472310282/",
+    "https://www.linkedin.com/jobs/view/4472352743/",
+    "https://www.linkedin.com/jobs/view/4471940401/",
+    "https://www.linkedin.com/jobs/view/4472326198/"
   ],
   "dismissedKeys": [
     {
@@ -8248,8 +7868,84 @@
     {
       "k": "manatee county government work that matters|budget analyst gfo",
       "at": "2026-10-02T19:32:32.671Z"
+    },
+    {
+      "k": "sign in app visitor management and employee sign in|gtm analyst",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "geographic solutions|ui business analyst",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "deloitte|sap data conversion transformation analyst",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "id projetos educacionais|ui business analyst",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "evara health|epic application analyst",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "health first|epic certified applications analyst ii resolute professional billing rpb",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "health first|epic applications analyst ii epic willow",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "mount sinai medical center|system analyst epic beaker",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "university of miami|epic analyst hospital billing",
+      "at": "2026-10-02T19:38:32.658Z"
+    },
+    {
+      "k": "guideit|clinical application support analyst",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "prosum|sap plan to produce ptp analyst",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "emory healthcare|epic analyst iii beaker ap",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "duke health|application analyst epic inpatient",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "buzzclan|epic orders analyst",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "rang technologies|epic order analyst",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "us tech solutions|clinical analyst 26 24847",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "systemtec|clinical analyst",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "prisma health|epic analyst radiant ft days",
+      "at": "2026-10-02T19:38:32.659Z"
+    },
+    {
+      "k": "mcleod health|epic application analyst ii it clinical systems epic anesthesia certification required epic optime certification preferred",
+      "at": "2026-10-02T19:38:32.659Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:37:34.814Z"
+  "savedAt": "2026-10-02T19:38:32.659Z"
 }
