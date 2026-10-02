@@ -243,7 +243,7 @@
       "url": "https://www.ziprecruiter.com/km/AAGcf4Up-m0_oyxlQI7vXEyfqoMHW7v2oNnJ8jUyEMFwiurPA8MdhxQCj07ani7njMFyYbjfnqjqVQQ6iWWxJUV0GkcNePe79Q7TIZBnMFqEFZZ5kUzB3zBZFxRPy4HvF8DxQjNVp-uH946fCq5heF_PloGpygU1OpIHQdDu29-diA9bEbbL0NeKvz5C_-GFglgU7xkBlzuhq0RJWiR2Vdt0V30yh6sauegSL8hZH0QIcgv-JfT-u4L8sSf2GajTz8QEry9J9RlfbmNaCtJ2y405MU1AALn4n3aOkkyQEhWOwulYDuBnXFs_vX19VQK5OH8Zr8q4TUnTsiV-1g3Q4EmiEb1INIlLTEyC0ai70KpTLtT6xD2QPEwKnXfy6VejVLHWdjRoQg?tsid\u00111000153&auth_token=5_1790807957_i-FeAOmbMfBhP5ITKNgLfNrbv4t0EVnOIjFdlZn7Hi8&contact_id�f05452&expires\u001791153557",
       "source": "ZipRecruiter",
       "status": "Review",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-01T18:37:02.174131+00:00",
       "notes": "",
       "filter_status": "review",
@@ -6834,5 +6834,5 @@
     }
   ],
   "lastRun": "2026-10-01T21:40:04.336304+00:00",
-  "savedAt": "2026-10-02T03:27:13.204Z"
+  "savedAt": "2026-10-02T03:27:26.061Z"
 }
