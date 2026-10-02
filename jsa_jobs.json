@@ -154,24 +154,6 @@
       "filter_version": "2026-09-24.4"
     },
     {
-      "id": "1a0fdcbd434UwzC",
-      "company": "Tanner Health",
-      "title": "TMG Operations Analyst - TMG Financial (ON SITE)",
-      "location": "Georgia, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4473293813/?trackingId=V0dZqzG00CEJEXXtWnYYSA%3D%3D&refId=x9oGqoc9e6GgxlXOLK0dxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BC%2BXOg1p7S8%2BDi5mn3lf2VQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1u1-AxE3pOsYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473293813_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473293813_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms-null-q9jfse~muqb8f2h~ms-null-null&eid=q9jfse-muqb8f2h-ms&otpToken=NDI4YzcyYjdjMTMyMDA3MDZhNDVlYTIwNWVjZjE5ZDk4NjhkMGE4ZmEyOTBhNGUyNTQ0OWQ5ZWI1ZmU4YTBjNjc2ODBiZmM2Nzk1NGFlNmFiYzNjMTE3MDIyYzg5ZWE4MDI3NzgzZmJkZjE1OTY1YzAyYjgwZGYzNTViMjMxNDI5ZWJiZDBiYmI4ZWVkYjRmYzksMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-02T18:06:28.916288+00:00",
-      "notes": "",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4"
-    },
-    {
       "id": "1a0fdcbd773-GAN",
       "company": "Gulfstream Aerospace",
       "title": "Sales Intelligence Analyst",
@@ -190,25 +172,6 @@
       ],
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4"
-    },
-    {
-      "id": "1a0fd227465oqyV",
-      "company": "Florida Orthopaedic Institute",
-      "title": "Business Analyst - Must Reside in Tampa Bay Area",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465881301/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:28.805979+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd228564KGIq",
@@ -314,25 +277,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd22b2f4Rmla",
-      "company": "Deloitte",
-      "title": "Analytics and Insights Engineer II",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466055071/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:01:44.820441+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd22bb2aXv3Q",
       "company": "Baptist Health",
       "title": "Performance Analyst 1, Workforce Management, FT, 8:30A-5P",
@@ -352,25 +296,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd22c0046Cl4",
-      "company": "SouthState Bank",
-      "title": "Consumer Business Intelligence Developer",
-      "location": "Winter Haven, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472985334/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:01:48.164044+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd22ca1d0gLM",
@@ -394,25 +319,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd22d6d60jvu",
-      "company": "Tata Consultancy Services",
-      "title": "Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463536008/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:01:54.006852+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd22e9557eiC",
       "company": "Bloomin' Brands, Inc.",
       "title": "Financial Analyst",
@@ -434,25 +340,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd22f1c1ou3R",
-      "company": "Holland & Knight LLP",
-      "title": "Financial Business Intelligence Developer",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4446141806/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:00.897856+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd22fc56Mh9o",
       "company": "BayCare Health System",
       "title": "Financial Analyst II",
@@ -472,25 +359,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd2301e7C2-n",
-      "company": "5WPR",
-      "title": "Account Supervisor, Measurement & Insights",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473907956/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:05.031768+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd230c25bU-1",
@@ -535,25 +403,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd23182aRcOA",
-      "company": "Kenco Group",
-      "title": "Revenue Operations Mgr",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474507070/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:02:10.730609+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd233b1fx1rL",
       "company": "Geographic Solutions, Inc.",
       "title": "UI Business Analyst",
@@ -573,25 +422,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd234152zqBl",
-      "company": "Paychex",
-      "title": "Business Analyst - SurePayroll",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472645113/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:02:21.266206+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd23479374KY",
@@ -951,25 +781,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd246457HN2a",
-      "company": "Deloitte",
-      "title": "Fraud, Waste, and Abuse Analytics and Insights Engineer III",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465612631/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:35.767753+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2469f8_tqd",
       "company": "USAA",
       "title": "Mid-Level Decision Science Analyst - P&C Analytics",
@@ -1031,25 +842,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd24949bYGBO",
-      "company": "Baptist Health",
-      "title": "HIM Clinical Data Analyst, Remote, Health Information Management, FT, 08:30A-5P",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4444555386/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:03:48.123813+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd24bd8cUN2s",
@@ -1157,44 +949,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd25470fM0Zu",
-      "company": "Fortress Information Security",
-      "title": "Cyber Data Analyst",
-      "location": "Greater Orlando",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471987439/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:04:33.807736+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0fd2551cbizzf",
-      "company": "Collabera",
-      "title": "AML / Data Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472969327/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:04:36.555684+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2565c3JHJg",
       "company": "AdventHealth",
       "title": "Pharmacy Accounting Analyst",
@@ -1235,25 +989,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd257289IyQk",
-      "company": "Jobot",
-      "title": "Business Intelligence Developer",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473741257/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:44.937194+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd2579a7kqR6",
@@ -1508,25 +1243,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2602d7Od6d",
-      "company": "Apex Systems",
-      "title": "Client Operations Analyst-Mutual Funds",
-      "location": "Lake Mary, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473977312/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:05:21.879331+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd264ec2bDDQ",
       "company": "BMO U.S.",
       "title": "Commercial Credit Analyst/Associate",
@@ -1567,25 +1283,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd2672aaWV70",
-      "company": "Collabera",
-      "title": "Data Analyst - Fresh Graduate",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472827027/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:05:50.506371+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd26927avAPt",
@@ -1672,25 +1369,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd26fa8ckfHz",
-      "company": "First Citizens Bank",
-      "title": "Commercial Business Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474537117/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:25.292286+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2700b1jQWZ",
       "company": "VyStar Credit Union",
       "title": "Financial Analyst I",
@@ -1754,25 +1432,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2719a6Um2P",
-      "company": "Citizens Property Insurance Corporation",
-      "title": "Insurance Product Analyst - Interm",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465804172/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:33.254231+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2721c6F2PR",
       "company": "Unity Systems",
       "title": "ASSOCIATE DATA SCIENTIST ANALYST",
@@ -1792,44 +1451,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd2744baBwH4",
-      "company": "Bank of America",
-      "title": "Managed Account Trading Operations Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465888342/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:44.282898+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
-      "id": "1a0fd274f938hw1",
-      "company": "Deutsche Bank",
-      "title": "Trade Operations Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474317453/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:06:47.059947+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd275888Wl9C",
@@ -1895,25 +1516,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd278582DBJo",
-      "company": "Gildan",
-      "title": "Business Analyst, IT",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4472805755/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:07:00.866677+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd27a4b7WctI",
       "company": "Brown & Brown",
       "title": "Placement Analyst",
@@ -1975,25 +1577,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd2869ec9-H0",
-      "company": "University of Miami",
-      "title": "Data Analyst 2",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474519228/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:07:59.340497+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd2870acbwjK",
@@ -2238,25 +1821,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd28dff9h2li",
-      "company": "AARATECH",
-      "title": "Business Analyst",
-      "location": "Miami-Fort Lauderdale Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473338688/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:29.561893+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd28e7a2mEJM",
       "company": "Norwegian Cruise Line Holdings Ltd.",
       "title": "Functional Analyst – Supply Chain Applications",
@@ -2299,25 +1863,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd28fcb0aNlR",
-      "company": "University of Miami",
-      "title": "Business Systems Analyst, Revenue Integrity",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4444510135/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:36.912860+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd290337nXZJ",
@@ -2381,25 +1926,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd293c421C8u",
-      "company": "BankUnited",
-      "title": "Fraud Operations Analyst",
-      "location": "Miami Lakes, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464832112/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:08:53.186099+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd294302AQf8",
@@ -2673,25 +2199,6 @@
       "status": "New"
     },
     {
-      "id": "1a0fd29f5baZpd7",
-      "company": "Robert Half",
-      "title": "Data Analyst",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473772758/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:09:40.666061+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2a18a5Puff",
       "company": "City of North Miami Beach",
       "title": "Budget Analyst",
@@ -2902,25 +2409,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd2acae8ybOn",
-      "company": "TalentHop",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473135251/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:10:35.240584+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd2ad50coIIn",
       "company": "MeeBoss",
       "title": "Data Analyst",
@@ -2959,25 +2447,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-09-24.4",
       "status": "Review"
-    },
-    {
-      "id": "1a0fd2b7076s6Kg",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Content & Studio",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4444148354/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:11:17.622179+00:00",
-      "notes": "",
-      "remote_search": true,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
     },
     {
       "id": "1a0fd2b7b28ZX9o",
@@ -9542,7 +9011,35 @@
     "https://www.ziprecruiter.com/ekm/AAFTPbq3bkx1H1ZlR9lAPJy7z7j5ARbKfngdX61bcIIwkU4MAOtpi8iqi88zCJssk2mhh9G-MxDxmnhCiNwT3hTy8-51N6DWIBPW0Kwvw4bvl6U57LdOrvGfzeJhA0tyxv-lTKMsdQ9WJhcVTc6_DaLXSNSSXIPCZcekKaENwyTfhghoo9u18rudPEt2VsYXiY4eFMF1LSoTN0eFc6DqJeQ9lhpcUOLahVQiITjQ9rykpFL-nFRc5PexxpVRnddQPRvBjJY-AzI2rN6HdXY2-CKwsnBAOUuvTQADRD3CTwmg3_lkBzAW0daxRaT1PVTXDvkvtP9Yec7uJZASXGaXpeSjzbk0POqXyTEcmdKP_YXpStwu4FljxTf5x8lQKOQJAQOBJ9MHIfLY24fz0FVx8dM?tsid\u00111000153",
     "https://www.ziprecruiter.com/ekm/AAHw8wqIIjnq3vYng-WNW4K5xuenRVXIEz8V0pQZG8QHfQOqQRPbWk30sw_Vwoao3HRMTEBg-i3Ume0Q4AtqWoIdDPogVjCTbj_8WWmlKrprqDjuVavCctZ_8ljpVTjgEF0zRq_R2ustJZo3OUBZcXANUMenjQUMANSghhBKd1v9avncltL6a-9R87ZlOFx8YAQrO60XnzT0aKCob8uZcuqYi2vPw-ypEFJuDXrkxy3q-WPnieP3jq09jvhyYHForvQbaY8f56ePQsEeIZ8GJkumvgsLRCmCVno7BtxWxvMF253CL3GPaQv5aBy741FcZU2tyKWLMmjOXXN-772b7l7Jfswc4d1WstDMu9cO64_61TA_6YPOhIT-fQ3yhnlsAiglT0ljielvF1yF9riQ-pY?tsid\u00111000153",
     "https://www.linkedin.com/comm/jobs/view/4472779679/?trackingId=7YvJYGB4vBa3oWP52EbehQ%3D%3D&refId=GyF9fZxGJQWSnW7QWLtOfQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BPChgaqxrQzW1CJfwiOhsrA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\f4NOBYptarIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4472779679_ssid_8367968258_fmid_q9jfse~mup02wez~p3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4472779679_ssid_8367968258_fmid_q9jfse~mup02wez~p3-null-q9jfse~mup02wez~p3-null-null&eid=q9jfse-mup02wez-p3&otpToken=NjU0Y2NkYmFjMzBiZjg1NWI2Y2I3NDg5ZDZkM2E3MmZmZDA2ZDJiNTgwMTc0Yzc5NmE1NWNkM2YzMGE2YjYxODQ1OWE0Y2JmMGEwODE1ZjE0MGY3NTMzMTM0ZmRiMTFmZWRhZTZkOTBiMjVkODI1ZDM4MDM2NDI1OWQ2NjY3N2Q5YTNlNjc2MzZhZDA5YmQ4NDAsMiwx",
-    "https://www.linkedin.com/jobs/view/4472665024/"
+    "https://www.linkedin.com/jobs/view/4472665024/",
+    "https://www.linkedin.com/comm/jobs/view/4473293813/?trackingId=V0dZqzG00CEJEXXtWnYYSA%3D%3D&refId=x9oGqoc9e6GgxlXOLK0dxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BC%2BXOg1p7S8%2BDi5mn3lf2VQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1u1-AxE3pOsYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473293813_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4473293813_ssid_8461940610_fmid_q9jfse~muqb8f2h~ms-null-q9jfse~muqb8f2h~ms-null-null&eid=q9jfse-muqb8f2h-ms&otpToken=NDI4YzcyYjdjMTMyMDA3MDZhNDVlYTIwNWVjZjE5ZDk4NjhkMGE4ZmEyOTBhNGUyNTQ0OWQ5ZWI1ZmU4YTBjNjc2ODBiZmM2Nzk1NGFlNmFiYzNjMTE3MDIyYzg5ZWE4MDI3NzgzZmJkZjE1OTY1YzAyYjgwZGYzNTViMjMxNDI5ZWJiZDBiYmI4ZWVkYjRmYzksMiwx",
+    "https://www.linkedin.com/jobs/view/4465881301/",
+    "https://www.linkedin.com/jobs/view/4466055071/",
+    "https://www.linkedin.com/jobs/view/4472985334/",
+    "https://www.linkedin.com/jobs/view/4463536008/",
+    "https://www.linkedin.com/jobs/view/4446141806/",
+    "https://www.linkedin.com/jobs/view/4473907956/",
+    "https://www.linkedin.com/jobs/view/4474507070/",
+    "https://www.linkedin.com/jobs/view/4472645113/",
+    "https://www.linkedin.com/jobs/view/4465612631/",
+    "https://www.linkedin.com/jobs/view/4444555386/",
+    "https://www.linkedin.com/jobs/view/4471987439/",
+    "https://www.linkedin.com/jobs/view/4472969327/",
+    "https://www.linkedin.com/jobs/view/4473741257/",
+    "https://www.linkedin.com/jobs/view/4473977312/",
+    "https://www.linkedin.com/jobs/view/4472827027/",
+    "https://www.linkedin.com/jobs/view/4474537117/",
+    "https://www.linkedin.com/jobs/view/4465804172/",
+    "https://www.linkedin.com/jobs/view/4465888342/",
+    "https://www.linkedin.com/jobs/view/4474317453/",
+    "https://www.linkedin.com/jobs/view/4472805755/",
+    "https://www.linkedin.com/jobs/view/4474519228/",
+    "https://www.linkedin.com/jobs/view/4473338688/",
+    "https://www.linkedin.com/jobs/view/4444510135/",
+    "https://www.linkedin.com/jobs/view/4464832112/",
+    "https://www.linkedin.com/jobs/view/4473772758/",
+    "https://www.linkedin.com/jobs/view/4473135251/",
+    "https://www.linkedin.com/jobs/view/4444148354/"
   ],
   "dismissedKeys": [
     {
@@ -9948,8 +9445,120 @@
     {
       "k": "embry riddle aeronautical university|recruitment systems analyst",
       "at": "2026-10-02T15:59:07.664Z"
+    },
+    {
+      "k": "tanner health|tmg operations analyst tmg financial on site",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "florida orthopaedic institute|business analyst must reside in tampa bay area",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "deloitte|analytics and insights engineer ii",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "southstate bank|consumer business intelligence developer",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "tata consultancy services|business analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "holland knight|financial business intelligence developer",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "5wpr|account supervisor measurement insights",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "kenco group|revenue operations mgr",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "paychex|business analyst surepayroll",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "deloitte|fraud waste and abuse analytics and insights engineer iii",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "baptist health|him clinical data analyst remote health information management ft 08 30a 5p",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "fortress information security|cyber data analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "collabera|aml data analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "jobot|business intelligence developer",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "apex systems|client operations analyst mutual funds",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "collabera|data analyst fresh graduate",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "first citizens bank|commercial business analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "citizens property insurance|insurance product analyst interm",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "bank of america|managed account trading operations analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "deutsche bank|trade operations analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "gildan|business analyst it",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "university of miami|data analyst 2",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "aaratech|business analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "university of miami|business systems analyst revenue integrity",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "bankunited|fraud operations analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "robert half|data analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "talenthop|data analyst",
+      "at": "2026-10-02T19:13:08.719Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 content studio",
+      "at": "2026-10-02T19:13:08.719Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:10:58.069Z"
+  "savedAt": "2026-10-02T19:13:08.719Z"
 }
