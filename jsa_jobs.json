@@ -386,48 +386,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd25920bRtX1",
-      "company": "Darden",
-      "title": "Compensation Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4436816693/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:53.003092+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0fd25a3ce8eBm",
-      "company": "Signature Aviation",
-      "title": "Analyst, HR Technology - Oracle (Compensation & Core)",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4471779138/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-02T15:04:57.550430+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
       "id": "1a0fd25a943fvJ_",
       "company": "CFS",
       "title": "AR Analyst",
@@ -2731,27 +2689,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-01T14:10:32.001920+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "Review"
-    },
-    {
-      "id": "1a0f7cd8262cqMV",
-      "company": "Ingersoll Rand",
-      "title": "Executive Compensation Analyst",
-      "location": "Davidson, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463080694/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-01T14:10:35.746858+00:00",
       "notes": "",
       "remote_search": false,
       "enriched": true,
@@ -6555,7 +6492,10 @@
     "https://www.linkedin.com/jobs/view/4472576144/",
     "https://www.linkedin.com/jobs/view/4465878001/",
     "https://www.linkedin.com/jobs/view/4474583703/",
-    "https://www.linkedin.com/jobs/view/4468825892/"
+    "https://www.linkedin.com/jobs/view/4468825892/",
+    "https://www.linkedin.com/jobs/view/4436816693/",
+    "https://www.linkedin.com/jobs/view/4471779138/",
+    "https://www.linkedin.com/jobs/view/4463080694/"
   ],
   "dismissedKeys": [
     {
@@ -7577,8 +7517,20 @@
     {
       "k": "georgia power|pricing rates analyst",
       "at": "2026-10-02T19:44:16.188Z"
+    },
+    {
+      "k": "darden|compensation analyst",
+      "at": "2026-10-02T19:45:29.293Z"
+    },
+    {
+      "k": "signature aviation|analyst hr technology oracle compensation core",
+      "at": "2026-10-02T19:45:29.293Z"
+    },
+    {
+      "k": "ingersoll rand|executive compensation analyst",
+      "at": "2026-10-02T19:45:29.294Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:44:16.188Z"
+  "savedAt": "2026-10-02T19:45:29.294Z"
 }
