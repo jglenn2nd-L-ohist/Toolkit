@@ -1663,25 +1663,6 @@
       "status": "Review"
     },
     {
-      "id": "1a0fd289fe3JdL3",
-      "company": "Palm Beach Accountable Care Organization",
-      "title": "Data Analyst",
-      "location": "Palm Springs, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474373044/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-02T15:08:13.155935+00:00",
-      "notes": "",
-      "remote_search": false,
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-09-24.4",
-      "status": "New"
-    },
-    {
       "id": "1a0fd28a874a1Tr",
       "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
       "title": "Operations Analyst - Entry Level",
@@ -8985,7 +8966,8 @@
     "https://www.linkedin.com/jobs/view/4444148354/",
     "https://www.linkedin.com/jobs/view/4472803910/",
     "https://www.linkedin.com/jobs/view/4450534068/",
-    "https://www.linkedin.com/jobs/view/4463898631/"
+    "https://www.linkedin.com/jobs/view/4463898631/",
+    "https://www.linkedin.com/jobs/view/4474373044/"
   ],
   "dismissedKeys": [
     {
@@ -9515,8 +9497,12 @@
     {
       "k": "amerant bank|business intelligence specialist iii",
       "at": "2026-10-02T19:14:07.724Z"
+    },
+    {
+      "k": "palm beach accountable care organization|data analyst",
+      "at": "2026-10-02T19:14:17.345Z"
     }
   ],
   "lastRun": "2026-10-02T18:06:48.268419+00:00",
-  "savedAt": "2026-10-02T19:14:10.110Z"
+  "savedAt": "2026-10-02T19:14:17.345Z"
 }
