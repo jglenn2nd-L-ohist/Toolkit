@@ -332,7 +332,7 @@
       "filter_reasons": [],
       "loc_class": "us_remote",
       "filter_version": "2026-10-02.1",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a1078f94b7ZSqg",
@@ -5562,5 +5562,5 @@
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-04T16:04:00.148Z"
+  "savedAt": "2026-10-04T16:11:15.863Z"
 }
