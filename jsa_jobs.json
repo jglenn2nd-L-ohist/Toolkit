@@ -315,26 +315,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1078f58acs4g_",
-      "company": "LiquidPower Specialty Products Inc. (a Berkshire Hathaway Company)",
-      "title": "Strategy Analyst",
-      "location": "Greater Houston",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473378996/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-04T15:36:37.292963+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a1078f6ee2av7g",
       "company": "Twin Health",
       "title": "Product Analytics Associate Engineer",
@@ -3966,7 +3946,8 @@
     "https://www.linkedin.com/jobs/view/4474794604/",
     "https://www.linkedin.com/jobs/view/4463611434/",
     "https://www.linkedin.com/jobs/view/4473398595/",
-    "https://www.linkedin.com/jobs/view/4473808078/"
+    "https://www.linkedin.com/jobs/view/4473808078/",
+    "https://www.linkedin.com/jobs/view/4473378996/"
   ],
   "dismissedKeys": [
     {
@@ -5604,8 +5585,12 @@
     {
       "k": "come near|business reporting data analyst",
       "at": "2026-10-04T16:00:23.909Z"
+    },
+    {
+      "k": "liquidpower specialty products a berkshire hathaway|strategy analyst",
+      "at": "2026-10-04T16:00:55.281Z"
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-04T16:00:27.569Z"
+  "savedAt": "2026-10-04T16:00:55.282Z"
 }
