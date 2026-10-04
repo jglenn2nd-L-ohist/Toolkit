@@ -1,0 +1,33 @@
+name: JSA Proactive Search
+
+on:
+  workflow_dispatch:            # started from the app's "Run a harvest" button
+    inputs:
+      region:
+        description: 'Markets to search'
+        type: choice
+        options: [rotation, atl-carolinas, florida, texas, remote]
+        default: rotation
+
+concurrency:                    # never two proactive runs at once
+  group: jsa-proactive
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run proactive search
+        env:
+          JSA_GH_TOKEN: ${{ secrets.JSA_GITHUB_TOKEN }}
+          JSA_REGION: ${{ inputs.region }}
+        run: python -u jsa_proactive.py

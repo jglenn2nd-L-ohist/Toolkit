@@ -169,6 +169,21 @@ html,body{height:100%;font-family:var(--sans);background:var(--bg);color:var(--i
       <div class="metric"><div class="metric-label">Interviews</div><div class="metric-value mv-amber" id="m-interview">0</div></div>
     </div>
     <div class="card">
+      <div class="card-title">Run a harvest now</div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+        <select class="fsel" id="harvest-choice">
+          <option value="email">✉ Email sweep (~1 min)</option>
+          <option value="rotation">⌕ Proactive — today's rotation + Remote (~15 min)</option>
+          <option value="atl-carolinas">⌕ Proactive — Atlanta + Carolinas</option>
+          <option value="florida">⌕ Proactive — Florida</option>
+          <option value="texas">⌕ Proactive — Dallas + Houston</option>
+          <option value="remote">⌕ Proactive — Remote (US) only</option>
+        </select>
+        <button class="btn btn-primary btn-sm" id="harvest-btn" onclick="runHarvest()">▶ Run</button>
+      </div>
+      <div id="harvest-status" style="font-size:12px;margin-top:8px;opacity:.85"></div>
+    </div>
+    <div class="card">
       <div class="card-title">Harvest log — what each channel produced</div>
       <div id="channel-summary" style="font-size:12px;margin-bottom:10px"></div>
       <div style="overflow-x:auto"><div id="harvest-log"></div></div>
@@ -421,7 +436,7 @@ function updateTokenStatus() {
     foot.textContent = 'GitHub: connected';
     foot.style.color = 'var(--green)';
     banner.className = 'gh-banner ok';
-    banner.innerHTML = '<span>✓ GitHub connected</span><button onclick="loadFromGitHub(true)">Sync now</button>';
+    banner.innerHTML = '<span>✓ GitHub connected</span>';   // Sync lives in the top bar only
   } else {
     el.textContent = 'No token set';
     el.style.color = 'var(--ink3)';
@@ -849,6 +864,63 @@ function goPage(id,el) {
 }
 
 // ── METRICS ───────────────────────────────────────────────
+// ── ON-DEMAND HARVEST (GitHub Actions workflow_dispatch) ──
+// Token needs "Actions: Read and write" in addition to "Contents: Read and write".
+const HARVESTS = {
+  'email':         { wf: 'jsa_harvest.yml',   inputs: {},                         label: 'Email sweep' },
+  'rotation':      { wf: 'jsa_proactive.yml', inputs: { region: 'rotation' },      label: "Proactive (today's rotation)" },
+  'atl-carolinas': { wf: 'jsa_proactive.yml', inputs: { region: 'atl-carolinas' }, label: 'Proactive (Atlanta + Carolinas)' },
+  'florida':       { wf: 'jsa_proactive.yml', inputs: { region: 'florida' },       label: 'Proactive (Florida)' },
+  'texas':         { wf: 'jsa_proactive.yml', inputs: { region: 'texas' },         label: 'Proactive (Dallas + Houston)' },
+  'remote':        { wf: 'jsa_proactive.yml', inputs: { region: 'remote' },        label: 'Proactive (Remote only)' },
+};
+let harvestPoll = null;
+function setHarvestStatus(html, bad) {
+  const el = document.getElementById('harvest-status');
+  el.innerHTML = html; el.style.color = bad ? 'var(--red)' : '';
+}
+async function runHarvest() {
+  const t = getToken();
+  if (!t) { setHarvestStatus('Set your token in Settings first.', true); return; }
+  const h = HARVESTS[document.getElementById('harvest-choice').value];
+  const btn = document.getElementById('harvest-btn');
+  btn.disabled = true;
+  setHarvestStatus('Starting ' + h.label + '…');
+  const started = Date.now();
+  try {
+    const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${h.wf}/dispatches`, {
+      method: 'POST',
+      headers: { 'Authorization': 'token ' + t, 'Accept': 'application/vnd.github+json' },
+      body: JSON.stringify({ ref: 'main', inputs: h.inputs }) });
+    if (r.status !== 204) {
+      let msg = String(r.status); try { msg = (await r.json()).message || msg; } catch (e) {}
+      setHarvestStatus((r.status === 403 || r.status === 404)
+        ? `Couldn't start: ${msg}. Your token needs <b>Actions: Read and write</b> (and the workflow file must exist).`
+        : `Couldn't start: ${msg}`, true);
+      btn.disabled = false; return;
+    }
+  } catch (e) { setHarvestStatus('Couldn\'t reach GitHub: ' + e.message, true); btn.disabled = false; return; }
+  pollHarvest(h, started, t, btn);
+}
+function pollHarvest(h, started, t, btn) {
+  clearInterval(harvestPoll);
+  const tick = async () => {
+    try {
+      const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${h.wf}/runs?event=workflow_dispatch&per_page=1&t=${Date.now()}`,
+        { headers: { 'Authorization': 'token ' + t, 'Accept': 'application/vnd.github+json' }, cache: 'no-store' });
+      const run = ((await r.json()).workflow_runs || [])[0];
+      const mins = Math.round((Date.now() - started) / 60000);
+      if (!run || new Date(run.created_at).getTime() < started - 60000) { setHarvestStatus(`${h.label}: queued… (${mins} min)`); return; }
+      const link = `<a href="${run.html_url}" target="_blank" rel="noopener">view log</a>`;
+      if (run.status !== 'completed') { setHarvestStatus(`${h.label}: ${run.status.replace('_', ' ')}… (${mins} min) · ${link}`); return; }
+      clearInterval(harvestPoll); btn.disabled = false;
+      if (run.conclusion === 'success') { setHarvestStatus(`${h.label}: finished ✓ (${mins} min) · ${link} — synced`); await loadFromGitHub(true); }
+      else setHarvestStatus(`${h.label}: ${run.conclusion} · ${link}`, true);
+    } catch (e) { setHarvestStatus('Status check failed: ' + e.message, true); }
+  };
+  harvestPoll = setInterval(tick, 15000); setTimeout(tick, 5000);
+}
+
 // Which channel delivered a job. Older records predate the 'via' stamp, so infer it.
 function viaOf(j) {
   if (j.via) return j.via;

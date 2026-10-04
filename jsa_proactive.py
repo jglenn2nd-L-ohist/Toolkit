@@ -40,6 +40,25 @@ def todays_cities():
         return ['Tampa, FL', 'Orlando, FL', 'Jacksonville, FL', 'Miami, FL']
     return ['Dallas, TX', 'Houston, TX']
 
+REGIONS = {
+    'atl-carolinas': ['Atlanta, GA', 'Charlotte, NC', 'Raleigh, NC', 'Columbia, SC', 'Charleston, SC'],
+    'florida':       ['Tampa, FL', 'Orlando, FL', 'Jacksonville, FL', 'Miami, FL'],
+    'texas':         ['Dallas, TX', 'Houston, TX'],
+}
+
+
+def search_plan():
+    """Region comes from JSA_REGION (set by the app's Run button via GitHub Actions) or argv.
+    rotation = today's cities + Remote (the scheduled default); a named region = only those
+    cities; remote = Remote/US only."""
+    region = (os.environ.get('JSA_REGION') or (sys.argv[1] if len(sys.argv) > 1 else 'rotation')).strip().lower()
+    if region == 'remote':
+        return region, [], True
+    if region in REGIONS:
+        return region, REGIONS[region], False
+    return 'rotation', todays_cities(), True
+
+
 STALE = ['week', 'month', '4 days', '5 days', '6 days']
 MAX_FETCH = 250          # per run, LinkedIn posting fetches (each ~1-2.5s)
 
@@ -126,8 +145,9 @@ def main():
 
     # LinkedIn — local cities first, Remote last: Remote results are mostly out-of-area,
     # so they should never consume the budget before your real markets are covered.
-    searches = [(t, c) for c in todays_cities() for t in TITLES] + [(t, 'Remote') for t in TITLES]
-    print(f"\nLinkedIn: {len(searches)} searches")
+    region, cities, with_remote = search_plan()
+    searches = [(t, c) for c in cities for t in TITLES] + ([(t, 'Remote') for t in TITLES] if with_remote else [])
+    print(f"\nRegion: {region} — LinkedIn: {len(searches)} searches")
     card_rejects = 0
     for kw, loc in searches:
         try:
@@ -211,7 +231,7 @@ def main():
         return
     stat = {'at': datetime.now(timezone.utc).isoformat(), 'runner': 'proactive',
             'rules': jsa_filters.FILTER_VERSION, 'bySource': by_src, 'reasons': reasons,
-            'found': len(records), 'opened': fetched}
+            'found': len(records), 'opened': fetched, 'region': region}
     added = jsa_store.merge_jobs(token, keep, rejects, stat,
         f"JSA proactive {datetime.now():%Y-%m-%d %H:%M}: +{len(keep)} kept, {len(rejects)} rejected",
         set_last_run=False)
