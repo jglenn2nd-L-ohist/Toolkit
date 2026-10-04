@@ -335,26 +335,6 @@
       "status": "New"
     },
     {
-      "id": "1a1078f7483HJp9",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - New Content Experiences DSE",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4445078309/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-04T15:36:44.419163+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a1078f94b7ZSqg",
       "company": "Wiraa",
       "title": "Business Intelligence Analyst II",
@@ -371,26 +351,6 @@
       "filter_status": "pass",
       "filter_reasons": [],
       "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1078fd4be-NP6",
-      "company": "Texas Children's Hospital",
-      "title": "Systems Analyst (Endpoint Engineering)",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475346622/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-04T15:37:09.054370+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
       "filter_version": "2026-10-02.1",
       "status": "New"
     },
@@ -3947,7 +3907,9 @@
     "https://www.linkedin.com/jobs/view/4463611434/",
     "https://www.linkedin.com/jobs/view/4473398595/",
     "https://www.linkedin.com/jobs/view/4473808078/",
-    "https://www.linkedin.com/jobs/view/4473378996/"
+    "https://www.linkedin.com/jobs/view/4473378996/",
+    "https://www.linkedin.com/jobs/view/4445078309/",
+    "https://www.linkedin.com/jobs/view/4475346622/"
   ],
   "dismissedKeys": [
     {
@@ -5589,8 +5551,16 @@
     {
       "k": "liquidpower specialty products a berkshire hathaway|strategy analyst",
       "at": "2026-10-04T16:00:55.281Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 new content experiences dse",
+      "at": "2026-10-04T16:04:00.148Z"
+    },
+    {
+      "k": "texas children s hospital|systems analyst endpoint engineering",
+      "at": "2026-10-04T16:04:00.148Z"
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-04T16:03:27.738Z"
+  "savedAt": "2026-10-04T16:04:00.148Z"
 }
