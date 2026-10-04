@@ -163,28 +163,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1078e9a33jobW",
-      "company": "Capco",
-      "title": "Business Analyst - Retail Energy",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466422316/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-04T15:35:48.531248+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1078ea1f0W1xb",
       "company": "Loggerhead",
       "title": "Technical Business Analyst",
@@ -3888,7 +3866,8 @@
     "https://www.linkedin.com/jobs/view/4473378996/",
     "https://www.linkedin.com/jobs/view/4445078309/",
     "https://www.linkedin.com/jobs/view/4475346622/",
-    "https://www.linkedin.com/jobs/view/4466416223/"
+    "https://www.linkedin.com/jobs/view/4466416223/",
+    "https://www.linkedin.com/jobs/view/4466422316/"
   ],
   "dismissedKeys": [
     {
@@ -5542,8 +5521,12 @@
     {
       "k": "corporate one federal credit union|business analyst",
       "at": "2026-10-04T17:57:11.081Z"
+    },
+    {
+      "k": "capco|business analyst retail energy",
+      "at": "2026-10-04T17:57:28.680Z"
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-04T17:57:13.325Z"
+  "savedAt": "2026-10-04T17:57:28.681Z"
 }
