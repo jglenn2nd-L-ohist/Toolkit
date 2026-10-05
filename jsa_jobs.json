@@ -244,26 +244,6 @@
       "status": "New"
     },
     {
-      "id": "1a10c6f76d18a91",
-      "company": "Troutman Pepper Locke LLP",
-      "title": "Conflicts Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466320827/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-05T14:19:53.937227+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a10c6f81bb4W_-",
       "company": "Visionaire Partners",
       "title": "Pricing Analyst",
@@ -4949,7 +4929,8 @@
     "https://www.linkedin.com/jobs/view/4437318176/",
     "https://www.linkedin.com/jobs/view/4473364121/",
     "https://www.linkedin.com/jobs/view/4446948390/",
-    "https://www.linkedin.com/jobs/view/4474788446/"
+    "https://www.linkedin.com/jobs/view/4474788446/",
+    "https://www.linkedin.com/jobs/view/4466320827/"
   ],
   "dismissedKeys": [
     {
@@ -6627,8 +6608,12 @@
     {
       "k": "mckesson|product operations analyst",
       "at": "2026-10-05T14:44:08.222Z"
+    },
+    {
+      "k": "troutman pepper locke|conflicts data analyst",
+      "at": "2026-10-05T14:46:47.210Z"
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-05T14:45:58.111Z"
+  "savedAt": "2026-10-05T14:46:47.210Z"
 }
