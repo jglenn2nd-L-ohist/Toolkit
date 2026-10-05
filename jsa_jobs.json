@@ -224,26 +224,6 @@
   ],
   "jobs": [
     {
-      "id": "1a10c6f58d5IdCg",
-      "company": "McKesson",
-      "title": "Product Operations Analyst",
-      "location": "Alpharetta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474788446/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-05T14:19:46.261588+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a10c6f6d62bFmM",
       "company": "Keen",
       "title": "Operations & Strategy Analyst (AI-Native), Atlanta",
@@ -4968,7 +4948,8 @@
     "https://www.linkedin.com/jobs/view/4473853709/",
     "https://www.linkedin.com/jobs/view/4437318176/",
     "https://www.linkedin.com/jobs/view/4473364121/",
-    "https://www.linkedin.com/jobs/view/4446948390/"
+    "https://www.linkedin.com/jobs/view/4446948390/",
+    "https://www.linkedin.com/jobs/view/4474788446/"
   ],
   "dismissedKeys": [
     {
@@ -6642,8 +6623,12 @@
     {
       "k": "girl scouts of usa|associate marketing analytics",
       "at": "2026-10-04T18:02:48.593Z"
+    },
+    {
+      "k": "mckesson|product operations analyst",
+      "at": "2026-10-05T14:44:08.222Z"
     }
   ],
   "lastRun": "2026-10-02T21:13:45.497803+00:00",
-  "savedAt": "2026-10-05T14:43:29.017Z"
+  "savedAt": "2026-10-05T14:44:08.223Z"
 }
