@@ -379,9 +379,48 @@
       "messages": 52,
       "found": 134,
       "known": 108
+    },
+    {
+      "at": "2026-10-06T21:28:50.650078+00:00",
+      "runner": "email",
+      "rules": "2026-10-02.1",
+      "bySource": {
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 1,
+          "reject": 1
+        }
+      },
+      "reasons": {
+        "location_unknown": 2,
+        "title_excluded": 1
+      },
+      "messages": 29,
+      "found": 68,
+      "known": 66
     }
   ],
   "jobs": [
+    {
+      "id": "1a1131e7a29rX1V",
+      "company": "See posting",
+      "title": "Program Reporting Analyst, Acquisitions",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAF3qrXOfb9VNURrwnBr2gOkQJoyaU3Ejm6RV9lVMNGZjOxrTj9TTfNnQUswHN-qPI5VCiQ-lI9kz_oEAWj3SyZnO53UFdgF4UIsjDa2KsdN54xS1jY8Vy6WM3P6dsyLUg_Ny3kG_6WT-uHxOQnsl_MFAWR02mHg7mKp5Hh_73rfbedwPt7nDmHVm7-uwqn5AusScCNuhfjXlTDHBlDQ1T_FdWw9QM74UQ4OhuB1PyAdvi5b5-ohLxfVCHxXT7nB1BBDrAW9Mh_Rlv2COvl7YGjeRmMH_FlmTD04ODqiG9kG0BIhIfiN0AcHNvJE0y_ukimGh7gpGl5UCxxmiabYYx1jUQTcdOhPP-cmtt1PpWGondVb50B_8b9PmP4l1SqbuIW2sA?tsid&#x3D;111000304&auth_token&#x3D;5_1791313960_LI-8yHNEtFnP6JsnDFeUa9zGWR7EEGqpksdoh8nQ2GU&contact_id&#x3D;f8f05452&expires&#x3D;1791659560",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-06T21:28:46.889239+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-02.1"
+    },
     {
       "id": "1a1124ba3d5ANfP",
       "company": "Talenzaa",
@@ -6687,6 +6726,6 @@
       "at": "2026-10-06T15:55:42.009Z"
     }
   ],
-  "lastRun": "2026-10-06T18:41:42.457783+00:00",
-  "savedAt": "2026-10-06T18:41:42.457783+00:00"
+  "lastRun": "2026-10-06T21:28:50.827721+00:00",
+  "savedAt": "2026-10-06T21:28:50.827721+00:00"
 }
