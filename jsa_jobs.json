@@ -327,6 +327,19 @@
   ],
   "jobs": [
     {
+      "id": "muwtkwdwg5m3",
+      "company": "NAPA Auto Parts",
+      "title": "Sr Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/search-results/?currentJobId=4473011419&eBP=NON_CHARGEABLE_CHANNEL&refId=ctKPlPDqqz7OQYWvYHbPhQ%3D%3D&trackingId=g3OZZzcztX0yexa8Injuvw%3D%3D&keywords=%22automotive%22%20%22analyst%22&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4463611434%2C4463671485%2C4384626678",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-06T15:14:41.780Z",
+      "notes": ""
+    },
+    {
       "id": "1a11199f2a9gNxW",
       "company": "Robert Half",
       "title": "Power BI/NetSuite Data Analytics Engineer",
@@ -7927,5 +7940,5 @@
     }
   ],
   "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T15:05:57.778Z"
+  "savedAt": "2026-10-06T15:14:41.781Z"
 }
