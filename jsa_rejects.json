@@ -1,6 +1,19 @@
 {
   "rejects": [
     {
+      "title": "Real Estate Market Research Analyst (Field Analyst)",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAFt0JsJ6immkE_ih1JQMRQYnjajuiRgYb9-RBBgn6lGRZDs_BBtxnDzHrwF04dvjEpuvoeuHf2ZBWqMxzihbwO264Z9-BTmd8aLgAs3FQYTnGa8o-vaTRXAmcMB0AgZfe17oaXWpPdRjhw9Q4LNiLTFXOOYaB97zV7ovGUXpNYllDOYXIqmc1pGoxHm-qXK9yDxPoJ7EzbXueg5FGotMYARGpofxlymhUqks2mFmcFbvTj9a5FeAvqx8jn6-1usXEHwOUhtXR1jGa-uYkU40luN1x8TiEoSmKMsE4_uxT_JTvn6pR283Vf1Dc1_lPL9WSsKVjv5U9eC55GnCQfRShkgDehVgPHBOJvI-rKu5o2alwGQUUgdu2ptWJk99pf40ZP9TiOgUA?tsid&#x3D;111000304&auth_token&#x3D;5_1791313960_LI-8yHNEtFnP6JsnDFeUa9zGWR7EEGqpksdoh8nQ2GU&contact_id&#x3D;f8f05452&expires&#x3D;1791659560",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:real estate",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-06T21:28:46.889319+00:00"
+    },
+    {
       "title": "Supply Chain & Data Analytics - Analyst Co-op",
       "company": "Bose",
       "location": "",
@@ -18293,18 +18306,6 @@
       ],
       "filter_version": "2026-10-02.1",
       "dateAdded": "2026-10-06T14:31:16.301011+00:00"
-    },
-    {
-      "title": "Microsoft Dynamics 365 ERP (F&O) Systems Analyst",
-      "company": "R2 Global",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4464119329/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:erp"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T14:31:18.133761+00:00"
     }
   ]
 }
