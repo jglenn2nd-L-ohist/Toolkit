@@ -353,6 +353,32 @@
       "found": 356,
       "opened": 11,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-06T18:41:42.077677+00:00",
+      "runner": "email",
+      "rules": "2026-10-02.1",
+      "bySource": {
+        "Builtin": {
+          "pass": 0,
+          "review": 0,
+          "reject": 3
+        },
+        "LinkedIn": {
+          "pass": 0,
+          "review": 0,
+          "reject": 23
+        }
+      },
+      "reasons": {
+        "title_unlisted": 14,
+        "title_excluded": 11,
+        "location_unknown": 6,
+        "clearance_required": 3
+      },
+      "messages": 52,
+      "found": 134,
+      "known": 108
     }
   ],
   "jobs": [
@@ -6661,6 +6687,6 @@
       "at": "2026-10-06T15:55:42.009Z"
     }
   ],
-  "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T17:45:40.929304+00:00"
+  "lastRun": "2026-10-06T18:41:42.457783+00:00",
+  "savedAt": "2026-10-06T18:41:42.457783+00:00"
 }
