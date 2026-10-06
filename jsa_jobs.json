@@ -389,26 +389,6 @@
       "status": "New"
     },
     {
-      "id": "1a1119a3d31rvxz",
-      "company": "Jabil",
-      "title": "Quality Data Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474613858/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T14:24:43.313997+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a1119b204cVZFd",
       "company": "Collabera",
       "title": "Entry Level Data Analyst",
@@ -6093,7 +6073,8 @@
     "https://www.linkedin.com/jobs/view/4473637197/",
     "https://www.linkedin.com/jobs/view/4475360084/",
     "https://www.linkedin.com/jobs/view/4475095964/",
-    "https://www.linkedin.com/jobs/view/4474009962/"
+    "https://www.linkedin.com/jobs/view/4474009962/",
+    "https://www.linkedin.com/jobs/view/4474613858/"
   ],
   "dismissedKeys": [
     {
@@ -7939,8 +7920,12 @@
     {
       "k": "southstate bank|payment operations analyst",
       "at": "2026-10-06T15:05:16.998Z"
+    },
+    {
+      "k": "jabil|quality data analyst",
+      "at": "2026-10-06T15:05:57.777Z"
     }
   ],
   "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T15:05:20.267Z"
+  "savedAt": "2026-10-06T15:05:57.778Z"
 }
