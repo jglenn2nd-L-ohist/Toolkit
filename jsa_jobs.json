@@ -1591,7 +1591,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4475084294/?trackingId=IA%2By2MO%2FXCrbh9dfwx5e5w%3D%3D&refId=L7OfP78YlhV8m4OuCgFHMA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B9%2BpOcGAxQ7Gn2onyhe1aNw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0018qb9rikT0wYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475084294_ssid_8461940610_fmid_q9jfse~muugc88p~79&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475084294_ssid_8461940610_fmid_q9jfse~muugc88p~79-null-q9jfse~muugc88p~79-null-null&eid=q9jfse-muugc88p-79&otpToken=YTA0NDQ4Y2JkMjllZmJjN2VlYzhlODQ1NzUzNmJiZWFkNmQyZjBlNDU2ZmM3MzQ5NGI2MWQyNDJmMzc4ZGU4ODY2NTE3NjhkYjNkYmNiZmNlOGYwNGI4OTYxNjBkNDY1Y2VmNWEyNWUwODgxZjM5MWU2MDljZDY0YzIwOWFlMWVjYmNiYWU4ZDdiZDliYzQ2MTQsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-05T19:06:07.369206+00:00",
       "notes": "",
       "enriched": true,
@@ -7895,5 +7895,5 @@
     }
   ],
   "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T15:35:15.960Z"
+  "savedAt": "2026-10-06T15:35:27.889Z"
 }
