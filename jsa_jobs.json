@@ -340,138 +340,6 @@
       "notes": ""
     },
     {
-      "id": "1a1119a1547kilU",
-      "company": "Staffingine LLC",
-      "title": "Technical Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476306250/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:24:33.095232+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119c5444j7gh",
-      "company": "SS&C Technologies",
-      "title": "Business Intelligence Reporting/ Web Developer",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467434609/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:27:00.292974+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119c5bdcCcT7",
-      "company": "Kemper",
-      "title": "Business Systems Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4430980674/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T14:27:02.236748+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119eb30aTuJx",
-      "company": "Sealaska",
-      "title": "Data Analyst",
-      "location": "Greater Fort Collins Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474611840/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:29:35.626462+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119edf5b6_FD",
-      "company": "Delta System & Software, Inc.",
-      "title": "BUSINESS ANALYST",
-      "location": "Juno Beach, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474636139/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T14:29:46.971884+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119eebe10ZAq",
-      "company": "EY",
-      "title": "SDC Business Systems Analyst, Banking Platforms-- Dallas or Alpharetta",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474614452/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:29:50.177207+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1119f543aQwZ3",
       "company": "Fetch Pet Insurance",
       "title": "Business Intelligence Analyst",
@@ -494,72 +362,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a1119f8ba7rQBu",
-      "company": "Acorns",
-      "title": "Data Analyst II",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476131760/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T14:30:31.079881+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119fad034tA1",
-      "company": "Stripe",
-      "title": "GTM Strategy & Operations Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467283061/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T14:30:39.619416+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1119fc617Iweu",
-      "company": "LangChain",
-      "title": "Analytics Engineer",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474629852/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:30:46.039123+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1119ff997ft4k",
       "company": "Kareer Basycs",
       "title": "Junior Data Analyst",
@@ -580,232 +382,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a111a018732jay",
-      "company": "Ace Technologies",
-      "title": "Retail Product Analyst_ Remote_ Must have experience working with hospitality industry in the past",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474618731/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:31:07.123803+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a111a03533eXhH",
-      "company": "Toyota Automated Logistics",
-      "title": "Business Systems Analyst",
-      "location": "Louisville Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475873476/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T14:31:14.483891+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10d756e67YUpg",
-      "company": "Avalere Health",
-      "title": "Business Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4472041722/?trackingId=Hauy7TDH79ENMusQvzu%2Bgg%3D%3D&refId=TmhqiZg0xcRpRwIOa7vEBg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BTDCjYn4vQSeqYAZmuxHUDA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3xfeee7vo4ycs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4472041722_sectionid_272001_fmid_q9jfse~muvjc9yr~ex&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4472041722_sectionid_272001_fmid_q9jfse~muvjc9yr~ex-null-q9jfse~muvjc9yr~ex-null-null&eid=q9jfse-muvjc9yr-ex&otpToken=YjQ0MjA3MzE4YjNjY2E0YzRkZmFjNjdiMzA3ODMyODllZjRiOGZiYmE4OGU3NmFmNGEwZjhkYWQ1NDkyNjFkMjg2NDg4OTQwYWE0MzY0NTc0ZGUzYjY4MWMwMmQxODVlNWExOGMzZTVmNDk1NGE4Y2IwNDkyMzA5MjFkOTRlNzgyMGE0MzUzYWQ5NzAzMTMzZmEsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-05T19:06:02.215885+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories",
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8xzWY",
-      "company": "See posting",
-      "title": "Product Operations Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAHcryu7fcAZFJloji0MlPXLBx9CFaEIKjV56VyXT_8TH0-4dJofTT1qiXjWCG6MfK2I1Wiv2Q05Qz5xQDQtmvpJl1Z_xSfHgkqkmjf1cWiQuCERfzeb0GcylRqmx1KG5G5tcG5IazrSHKpmax5z0R0iqOcbfK-4defALhAHerh8UK_YCuu6DqVMk_ri4qX4ghoqYyGZE57KgTa2FsrsjIsVIZ5QoZeF03gveincAPokEYiJKtaHEh0rlWsk78HdB8SaYQvDXfGdw-cPDywqCss7xkEz1wb0vJoGoIi2DDkUpeNKJI_c1H64ovRg_ZkJ3NYn8U5XzOf9gImPgo6yuf74XU3rDZX0WwtrwDMevTO4JlxMo3VmKOkb780ycUguM6Fn63eg8GwgRM9JmPzY1vXe?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-10-05T19:06:05.432251+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af87pmt",
-      "company": "See posting",
-      "title": "Program Data Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAHG3NmfK1yAugUH-UQdhQQrgCbdIs0iXhlDsgjf9OrUTcj8JKxb6V6Qg4Sbi4VAAh5bES3lgL_6nxZfIkif0VBdIErYQGFC1CyxJImkjQWrJ53VVqQAXfepq1jI1bNtbBwt1lVtI73oqawB3tahYaW1bMnGcr3y8piq9u_wL8NDY73A6pC2NzCG52nHCDIwB0dL3lgTLUiHHhZ1aB0prIfPqpzTmHhnjVyzPa5-g8cd0Gyu6k6sHxXv3M7Nt7g9bsNNanXlhRLeX6_WcyvlyV0LC255LYpSWkdZB4zNIEsqGgg9kCMBiB0_qRLrx0KqX_o83-Qwge-fglH3NPDgCPyrfnrw9jbjd1F6IzgPoBxXlPIdctnZLAR-MkKH66z0yOMtKR9qsg?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-10-05T19:06:05.432284+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8JZWn",
-      "company": "See posting",
-      "title": "Data Analyst - AI Trainer",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAGwCsgOHhuYtCty8mHCrQheCfcULaC9PhHH5OpUo4H94YYzJNezNH06wHDjS-y5rbb_PQpAnnbERklnBgdgfhOnuAtbcTZVYebCsx6cO9bxLpCZFQYg7nUOwgw-Oqr030DHXUKsC895383TqB49IUZjIX0-FzCyDxwt7dywUOrfECP38mjSk6Wgc09XzV8xG9-40zJd2haiPRcpRZczkNQElPfa2jEMBKlXTOeyp5CvncaIlUSKFRTZspuZyknCE5jyGAEMHgIMCoNTZ-_vfl34zyBKisDrt0BPOUL8pFB0Qg2KagMXQtMFpyyIi2hioITc1nX0NPo-PFc1En8i2OK0e01KcXx_lN9xPFNSWSqpn18qsx_imm8c7toeZDGF51giT1eihWxkKsia1cFG2JBs?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-05T19:06:05.432299+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8J9zL",
-      "company": "See posting",
-      "title": "Data Analyst (part-time work from home) - AI Trainer",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAFcWcGdNXckG2PURDne_tZ7vtVT97edruBv22atm74DPQPE4TVH2bZUgLcnQ_WBms2hubdc_RuqqTKj77YtjdyL9TxosINEoryi72Au5MLbnxrr4LCGpKkYLt6X1rVZPAqUdqjB1LQ3u5lL6Dnopbgt3JauT5K4jVdULdOLpWItQ2UzWkr9SnP2vWAwNAO5YDDu8OIxzY0lGd5wDewenoXuqdCID2xR4sOz0oAZufDya1O0zrP9osM5P5EelS5SHVL6HQglFIh6nXdY4FNRkjc9vCFb-EIoWd2GAxcOiKD48ESBDFeI_i2WL_DOeKBQq1uuclVaYx34cSNqh-aCoNIs4FV8umw9EpSVODp3lGGPMN6QKcskDeRKn4t5zXZVsNJHf5Rf7lS4wxKAhBQ9IO47?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-05T19:06:05.432313+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8qoCV",
-      "company": "See posting",
-      "title": "Junior Business Data Analyst (Remote)",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAH8O-CEJozKEBiyacqy_tHb1wrOC6QN3SfWPTVZY7cMAlZLQJ-47jRYQjC9VEPXditJUuuxfR3gPrh4Nr4ZARKy6f4hmXyfcHeCPAoBK5Dhb7j9YFbrt_K9WssYdienhTb0cdRiCSnV6UADcAA9dMVLw7hBr23wLfY9GAqCw1X2PmtaLxUM7UAlKIZzaTepxcHWNHjv6d8eakbrtZq3w2b3zGmiR4JSsEt-f9UPoU9qAEWAD7IMUXjIoJ29M8GTmTQHdXLac-0whksAX-63eTx47SGUVcjg8UB57UMe7mrt1cHXda5Ic4FMmMn3cj0JiE-pRU4GAV5N40x7ee_AwPJe6Af_k-_WZfj5WOOd2g4YNZft-oabnpPBSVdtVmxI0OmwWMhhy4ANEXdWIn_IZr2-?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-10-05T19:06:05.432513+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8fHl0",
-      "company": "See posting",
-      "title": "Strategic Business Analyst - Accela",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAEBjd37w5YRUCiD4H4k1KefHJIro46NggTegZU5XiizKHBUlTegBKM9duB7FP9BiP_r7armLdFQExZGeW3xAz5sessh4WlY44QHKzzWHGfFwLR3mpkCEWebGIJOLLy_lNbgn4f2ARK2hPvBE5cBMoxJ20iDqK3yTA-lwvcbGTyokv0VvLED4dbOe3yj0dSMVvcIswUXx7VrstDX_Z0nqY9qcJvzEZkO1rf3EZGnR4zpoS2cnItQXsiqOJticdT6RjCQE4bzd8iqqrP4d4RJSCysJF4wDTi8f4NcY8e1UXAUxf7Uu4CvBWps3ZHe6HVRPv4GxH2dhMnKAMeTkRDE92CUAjs1qZfx5fVzFcQmNfQmzW1ije7Q3lgcNKDUfF4qaH24vXrJqhL0sSasmvmkGdOQ?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-10-05T19:06:05.432527+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8IrrA",
-      "company": "See posting",
-      "title": "Business Analyst, ATS ACES",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAGSl5efb-ni_jiRCanQzYnylZ8ajQmM3d_XqhiERj1AcBOW66n7wVqwIBVcu6h0IcEor_qHkJSWCY8TqTwe96nqCMxI8HmMYkkByLA6-0JuVJy6uCIbGt1TGorX84c9ymjsCSnTonV3Y3UmatXuqk_ht_L859rv1Mzmx-UkYC4rCBGPSxLTiYe2I9H5prs60RRHvyWga5MUDi0h4sBhZ2uuZqF7rR8OoVkWoMqQQ0EVkLn0_qOO3NC3qVuWReFzZP00nAUrVbR4C13_rIUhsT5uKfoobaB38vp3KDz9MK9FwJ9kzCjluD8RRd12MS-JzwLfhBov2iWukOPhy8Rrd2k0S_LjNf-j_fMn1xbONZeoMNb0KB92hmY8VaaGkJeuUGpcP-qNfg?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-10-05T19:06:05.432776+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d757af8DdUH",
-      "company": "See posting",
-      "title": "Entry Level Data/Business Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAGorbIZTwMY9PrQwqYu1uE4uUtnEmDPzYrucKm1sv0vCKd6lTyNZEsEOsTmp5DttYgdUfaUjUMJPI5iEc3h-xOGG21QRhkZXQAQfT6xK5NG3gNXVchXjqqYEUXeBsMMV5w_x2m_KVRrCtgHocYFslQPNFbBaGd9x_iXFwTXgDDfaRX49ecfn7S0lokqLsSwGz5bqdB4Uw6a0QP-3AzNAYj1nT7IDS9NfVFV_8J9JaUreaAudC2Bou44hGzDNoaB1BS9NwUSDHf4dFVRmfKuf1zoiVrZbLpg0Efnj8E-Wa-TqcFluY8k1fb1Xj4EyqXyZdGfkVGSsxsl-yo9rX-gAe9NAm5I8lC9BBFCT5MipnCx2zFJlRolhdrqfPNQ0bxMB9Tusq2gOQ?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-10-05T19:06:05.432884+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-02.1"
-    },
-    {
       "id": "1a10d75980f_LMm",
       "company": "Instacart",
       "title": "Data Analyst, Platform Excellence Ops Analytics",
@@ -823,50 +399,6 @@
       "filter_reasons": [],
       "loc_class": "us_remote",
       "filter_version": "2026-10-02.1"
-    },
-    {
-      "id": "1a10d323a95Bn61",
-      "company": "Search Services",
-      "title": "Business/Product Analyst - (Techno-functional)",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463089073/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T17:52:38.037980+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10d324177EhuL",
-      "company": "Copart",
-      "title": "Technology Product Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4419948126/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-05T17:52:39.799151+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
     },
     {
       "id": "1a10c6f6d62bFmM",
@@ -889,72 +421,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a10c519a98_QbY",
-      "company": "Reqroute, Inc",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473194156/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-05T13:47:17.016226+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c51a4f58-Wm",
-      "company": "GAP Solutions, Inc.",
-      "title": "Intelligence Automation Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475006645/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:47:19.669681+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c51af5a1FPa",
-      "company": "Acuity",
-      "title": "BUILD Program - Business Analyst / Tech Product Management Specialist",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465184714/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:47:22.330493+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
       "id": "1a10c5203bfVURj",
       "company": "Associate Staffing",
       "title": "BI Analyst II",
@@ -973,204 +439,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-02.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a10c535ea5x8Bc",
-      "company": "CRC Group",
-      "title": "Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475555472/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:49:12.741200+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c537044bQXG",
-      "company": "Public Consulting Group",
-      "title": "Technical Business Analyst, Product",
-      "location": "Mecklenburg County, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4456035323/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:49:17.252452+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c537ba6sgE7",
-      "company": "Glansa Associates",
-      "title": "IVR BUSINESS ANALYST",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473643792/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:49:20.166188+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c5385dfRH9I",
-      "company": "Cyberobotix",
-      "title": "CRM Business Analyst, National Business Development",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474273748/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:49:22.783334+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c548fabSH_K",
-      "company": "Experis",
-      "title": "Technical Business Analyst – Payments & ACH Technologies",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473381961/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:50:30.827394+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c5546a8bHQt",
-      "company": "Piper Companies",
-      "title": "Business Systems Analyst - 175014",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473390017/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:51:17.672239+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c5574a9iZUs",
-      "company": "Valeris",
-      "title": "Junior Product Analyst",
-      "location": "Morrisville, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468181037/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-05T13:51:29.449241+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c557f417LCr",
-      "company": "Piper Companies",
-      "title": "Business Analyst - 174965",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473831263/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:51:32.161411+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a10c5ae3c9z3KU",
-      "company": "Wise Skulls",
-      "title": "Data Product Analyst – AWS / SQL",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473142704/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-05T13:57:25.577522+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "Review"
     },
     {
       "id": "1a1078f1c76-xs-",
@@ -4881,7 +4149,41 @@
     "https://www.linkedin.com/jobs/view/4472574523/",
     "https://www.linkedin.com/jobs/view/4475591815/",
     "https://www.linkedin.com/jobs/view/4475059386/",
-    "https://builtin.com/job/data-analyst-ii/11431522?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a10ca45103-9b8dc34e-b87c-49d5-8af8-137dadd3aca0-000000/nFmCMqWCfT-G-XL0qdi46Z07lBoG4"
+    "https://builtin.com/job/data-analyst-ii/11431522?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a10ca45103-9b8dc34e-b87c-49d5-8af8-137dadd3aca0-000000/nFmCMqWCfT-G-XL0qdi46Z07lBoG4",
+    "https://www.linkedin.com/jobs/view/4476306250/",
+    "https://www.linkedin.com/jobs/view/4467434609/",
+    "https://www.linkedin.com/jobs/view/4430980674/",
+    "https://www.linkedin.com/jobs/view/4474611840/",
+    "https://www.linkedin.com/jobs/view/4474636139/",
+    "https://www.linkedin.com/jobs/view/4474614452/",
+    "https://www.linkedin.com/jobs/view/4476131760/",
+    "https://www.linkedin.com/jobs/view/4467283061/",
+    "https://www.linkedin.com/jobs/view/4474629852/",
+    "https://www.linkedin.com/jobs/view/4474618731/",
+    "https://www.linkedin.com/jobs/view/4475873476/",
+    "https://www.linkedin.com/comm/jobs/view/4472041722/?trackingId=Hauy7TDH79ENMusQvzu%2Bgg%3D%3D&refId=TmhqiZg0xcRpRwIOa7vEBg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BTDCjYn4vQSeqYAZmuxHUDA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3xfeee7vo4ycs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4472041722_sectionid_272001_fmid_q9jfse~muvjc9yr~ex&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4472041722_sectionid_272001_fmid_q9jfse~muvjc9yr~ex-null-q9jfse~muvjc9yr~ex-null-null&eid=q9jfse-muvjc9yr-ex&otpToken=YjQ0MjA3MzE4YjNjY2E0YzRkZmFjNjdiMzA3ODMyODllZjRiOGZiYmE4OGU3NmFmNGEwZjhkYWQ1NDkyNjFkMjg2NDg4OTQwYWE0MzY0NTc0ZGUzYjY4MWMwMmQxODVlNWExOGMzZTVmNDk1NGE4Y2IwNDkyMzA5MjFkOTRlNzgyMGE0MzUzYWQ5NzAzMTMzZmEsMiwx",
+    "https://www.ziprecruiter.com/ekm/AAHcryu7fcAZFJloji0MlPXLBx9CFaEIKjV56VyXT_8TH0-4dJofTT1qiXjWCG6MfK2I1Wiv2Q05Qz5xQDQtmvpJl1Z_xSfHgkqkmjf1cWiQuCERfzeb0GcylRqmx1KG5G5tcG5IazrSHKpmax5z0R0iqOcbfK-4defALhAHerh8UK_YCuu6DqVMk_ri4qX4ghoqYyGZE57KgTa2FsrsjIsVIZ5QoZeF03gveincAPokEYiJKtaHEh0rlWsk78HdB8SaYQvDXfGdw-cPDywqCss7xkEz1wb0vJoGoIi2DDkUpeNKJI_c1H64ovRg_ZkJ3NYn8U5XzOf9gImPgo6yuf74XU3rDZX0WwtrwDMevTO4JlxMo3VmKOkb780ycUguM6Fn63eg8GwgRM9JmPzY1vXe?tsid\u00111000153",
+    "https://www.ziprecruiter.com/km/AAHG3NmfK1yAugUH-UQdhQQrgCbdIs0iXhlDsgjf9OrUTcj8JKxb6V6Qg4Sbi4VAAh5bES3lgL_6nxZfIkif0VBdIErYQGFC1CyxJImkjQWrJ53VVqQAXfepq1jI1bNtbBwt1lVtI73oqawB3tahYaW1bMnGcr3y8piq9u_wL8NDY73A6pC2NzCG52nHCDIwB0dL3lgTLUiHHhZ1aB0prIfPqpzTmHhnjVyzPa5-g8cd0Gyu6k6sHxXv3M7Nt7g9bsNNanXlhRLeX6_WcyvlyV0LC255LYpSWkdZB4zNIEsqGgg9kCMBiB0_qRLrx0KqX_o83-Qwge-fglH3NPDgCPyrfnrw9jbjd1F6IzgPoBxXlPIdctnZLAR-MkKH66z0yOMtKR9qsg?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
+    "https://www.ziprecruiter.com/ekm/AAGwCsgOHhuYtCty8mHCrQheCfcULaC9PhHH5OpUo4H94YYzJNezNH06wHDjS-y5rbb_PQpAnnbERklnBgdgfhOnuAtbcTZVYebCsx6cO9bxLpCZFQYg7nUOwgw-Oqr030DHXUKsC895383TqB49IUZjIX0-FzCyDxwt7dywUOrfECP38mjSk6Wgc09XzV8xG9-40zJd2haiPRcpRZczkNQElPfa2jEMBKlXTOeyp5CvncaIlUSKFRTZspuZyknCE5jyGAEMHgIMCoNTZ-_vfl34zyBKisDrt0BPOUL8pFB0Qg2KagMXQtMFpyyIi2hioITc1nX0NPo-PFc1En8i2OK0e01KcXx_lN9xPFNSWSqpn18qsx_imm8c7toeZDGF51giT1eihWxkKsia1cFG2JBs?tsid\u00111000153",
+    "https://www.ziprecruiter.com/ekm/AAFcWcGdNXckG2PURDne_tZ7vtVT97edruBv22atm74DPQPE4TVH2bZUgLcnQ_WBms2hubdc_RuqqTKj77YtjdyL9TxosINEoryi72Au5MLbnxrr4LCGpKkYLt6X1rVZPAqUdqjB1LQ3u5lL6Dnopbgt3JauT5K4jVdULdOLpWItQ2UzWkr9SnP2vWAwNAO5YDDu8OIxzY0lGd5wDewenoXuqdCID2xR4sOz0oAZufDya1O0zrP9osM5P5EelS5SHVL6HQglFIh6nXdY4FNRkjc9vCFb-EIoWd2GAxcOiKD48ESBDFeI_i2WL_DOeKBQq1uuclVaYx34cSNqh-aCoNIs4FV8umw9EpSVODp3lGGPMN6QKcskDeRKn4t5zXZVsNJHf5Rf7lS4wxKAhBQ9IO47?tsid\u00111000153",
+    "https://www.ziprecruiter.com/ekm/AAH8O-CEJozKEBiyacqy_tHb1wrOC6QN3SfWPTVZY7cMAlZLQJ-47jRYQjC9VEPXditJUuuxfR3gPrh4Nr4ZARKy6f4hmXyfcHeCPAoBK5Dhb7j9YFbrt_K9WssYdienhTb0cdRiCSnV6UADcAA9dMVLw7hBr23wLfY9GAqCw1X2PmtaLxUM7UAlKIZzaTepxcHWNHjv6d8eakbrtZq3w2b3zGmiR4JSsEt-f9UPoU9qAEWAD7IMUXjIoJ29M8GTmTQHdXLac-0whksAX-63eTx47SGUVcjg8UB57UMe7mrt1cHXda5Ic4FMmMn3cj0JiE-pRU4GAV5N40x7ee_AwPJe6Af_k-_WZfj5WOOd2g4YNZft-oabnpPBSVdtVmxI0OmwWMhhy4ANEXdWIn_IZr2-?tsid\u00111000153",
+    "https://www.ziprecruiter.com/ekm/AAEBjd37w5YRUCiD4H4k1KefHJIro46NggTegZU5XiizKHBUlTegBKM9duB7FP9BiP_r7armLdFQExZGeW3xAz5sessh4WlY44QHKzzWHGfFwLR3mpkCEWebGIJOLLy_lNbgn4f2ARK2hPvBE5cBMoxJ20iDqK3yTA-lwvcbGTyokv0VvLED4dbOe3yj0dSMVvcIswUXx7VrstDX_Z0nqY9qcJvzEZkO1rf3EZGnR4zpoS2cnItQXsiqOJticdT6RjCQE4bzd8iqqrP4d4RJSCysJF4wDTi8f4NcY8e1UXAUxf7Uu4CvBWps3ZHe6HVRPv4GxH2dhMnKAMeTkRDE92CUAjs1qZfx5fVzFcQmNfQmzW1ije7Q3lgcNKDUfF4qaH24vXrJqhL0sSasmvmkGdOQ?tsid\u00111000153",
+    "https://www.ziprecruiter.com/km/AAGSl5efb-ni_jiRCanQzYnylZ8ajQmM3d_XqhiERj1AcBOW66n7wVqwIBVcu6h0IcEor_qHkJSWCY8TqTwe96nqCMxI8HmMYkkByLA6-0JuVJy6uCIbGt1TGorX84c9ymjsCSnTonV3Y3UmatXuqk_ht_L859rv1Mzmx-UkYC4rCBGPSxLTiYe2I9H5prs60RRHvyWga5MUDi0h4sBhZ2uuZqF7rR8OoVkWoMqQQ0EVkLn0_qOO3NC3qVuWReFzZP00nAUrVbR4C13_rIUhsT5uKfoobaB38vp3KDz9MK9FwJ9kzCjluD8RRd12MS-JzwLfhBov2iWukOPhy8Rrd2k0S_LjNf-j_fMn1xbONZeoMNb0KB92hmY8VaaGkJeuUGpcP-qNfg?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
+    "https://www.ziprecruiter.com/km/AAGorbIZTwMY9PrQwqYu1uE4uUtnEmDPzYrucKm1sv0vCKd6lTyNZEsEOsTmp5DttYgdUfaUjUMJPI5iEc3h-xOGG21QRhkZXQAQfT6xK5NG3gNXVchXjqqYEUXeBsMMV5w_x2m_KVRrCtgHocYFslQPNFbBaGd9x_iXFwTXgDDfaRX49ecfn7S0lokqLsSwGz5bqdB4Uw6a0QP-3AzNAYj1nT7IDS9NfVFV_8J9JaUreaAudC2Bou44hGzDNoaB1BS9NwUSDHf4dFVRmfKuf1zoiVrZbLpg0Efnj8E-Wa-TqcFluY8k1fb1Xj4EyqXyZdGfkVGSsxsl-yo9rX-gAe9NAm5I8lC9BBFCT5MipnCx2zFJlRolhdrqfPNQ0bxMB9Tusq2gOQ?tsid\u00111000153&auth_token=5_1791224836_fTQyX2RWgRxQ7H0PJkQpgAoOjBoydEOYWwUmAU8Xw3Q&contact_id�f05452&expires\u001791570436",
+    "https://www.linkedin.com/jobs/view/4463089073/",
+    "https://www.linkedin.com/jobs/view/4419948126/",
+    "https://www.linkedin.com/jobs/view/4473194156/",
+    "https://www.linkedin.com/jobs/view/4475006645/",
+    "https://www.linkedin.com/jobs/view/4465184714/",
+    "https://www.linkedin.com/jobs/view/4475555472/",
+    "https://www.linkedin.com/jobs/view/4456035323/",
+    "https://www.linkedin.com/jobs/view/4473643792/",
+    "https://www.linkedin.com/jobs/view/4474273748/",
+    "https://www.linkedin.com/jobs/view/4473381961/",
+    "https://www.linkedin.com/jobs/view/4473390017/",
+    "https://www.linkedin.com/jobs/view/4468181037/",
+    "https://www.linkedin.com/jobs/view/4473831263/",
+    "https://www.linkedin.com/jobs/view/4473142704/"
   ],
   "dismissedKeys": [
     {
@@ -6987,8 +6289,144 @@
     {
       "k": "cox enterprises|data analyst ii",
       "at": "2026-10-06T15:47:55.629Z"
+    },
+    {
+      "k": "staffingine|technical business analyst",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "ss c technologies|business intelligence reporting web developer",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "kemper|business systems analyst",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "sealaska|data analyst",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "delta system software|business analyst",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "ey|sdc business systems analyst banking platforms dallas or alpharetta",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "acorns|data analyst ii",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "stripe|gtm strategy operations analyst",
+      "at": "2026-10-06T15:55:42.007Z"
+    },
+    {
+      "k": "langchain|analytics engineer",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "ace technologies|retail product analyst remote must have experience working with hospitality industry in the past",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "toyota automated logistics|business systems analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "avalere health|business analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|product operations analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|program data analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|data analyst ai trainer",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|data analyst part time work from home ai trainer",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|junior business data analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|strategic business analyst accela",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|business analyst ats aces",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "see posting|entry level data business analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "search services|business product analyst techno functional",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "copart|technology product analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "reqroute|business analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "gap solutions|intelligence automation business analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "acuity|build program business analyst tech product management specialist",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "crc group|business analyst",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "public consulting group|technical business analyst product",
+      "at": "2026-10-06T15:55:42.008Z"
+    },
+    {
+      "k": "glansa associates|ivr business analyst",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "cyberobotix|crm business analyst national business development",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "experis|technical business analyst payments ach technologies",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "piper companies|business systems analyst 175014",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "valeris|junior product analyst",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "piper companies|business analyst 174965",
+      "at": "2026-10-06T15:55:42.009Z"
+    },
+    {
+      "k": "wise skulls|data product analyst aws sql",
+      "at": "2026-10-06T15:55:42.009Z"
     }
   ],
   "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T15:54:39.355Z"
+  "savedAt": "2026-10-06T15:55:42.010Z"
 }
