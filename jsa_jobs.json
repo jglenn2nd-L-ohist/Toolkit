@@ -632,7 +632,7 @@
       "url": "https://builtin.com/job/data-analyst-ii/11431522?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a10ca45103-9b8dc34e-b87c-49d5-8af8-137dadd3aca0-000000/nFmCMqWCfT-G-XL0qdi46Z07lBoG4",
       "source": "Builtin",
       "status": "Review",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-05T19:05:54.535380+00:00",
       "notes": "",
       "via": "email",
@@ -7005,5 +7005,5 @@
     }
   ],
   "lastRun": "2026-10-05T23:05:08.289899+00:00",
-  "savedAt": "2026-10-06T15:46:10.938Z"
+  "savedAt": "2026-10-06T15:47:39.779Z"
 }
