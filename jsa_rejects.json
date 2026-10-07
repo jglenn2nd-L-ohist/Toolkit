@@ -1,6 +1,1537 @@
 {
   "rejects": [
     {
+      "title": "Sr. Analyst, Category Insights",
+      "company": "Saputo Inc.",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4467940354/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:05.587885+00:00"
+    },
+    {
+      "title": "Business Analysis Manager",
+      "company": "T-Mobile",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476141199/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:15.148282+00:00"
+    },
+    {
+      "title": "JDE Senior Technical Functional Analyst",
+      "company": "Golden State Foods",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474675051/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:15.148725+00:00"
+    },
+    {
+      "title": "Sr Applications Analyst",
+      "company": "JPS Health Network",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475877775/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:16.717626+00:00"
+    },
+    {
+      "title": "Tech Consulting - FinTech - AI Finance - Senior",
+      "company": "EY",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4446247538/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:16.718026+00:00"
+    },
+    {
+      "title": "Senior Business Systems Analyst",
+      "company": "CooperSurgical",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4438838800/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:16.718432+00:00"
+    },
+    {
+      "title": "Senior IT Business Partner \u2013 Distribution Operation",
+      "company": "Caterpillar Inc.",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476376504/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:16.718737+00:00"
+    },
+    {
+      "title": "Senior Dialer Analyst",
+      "company": "SoFi",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476392169/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:23.120439+00:00"
+    },
+    {
+      "title": "Measurement Analyst II",
+      "company": "BKV Corporation",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475845151/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:23.120781+00:00"
+    },
+    {
+      "title": "Industrial Engineer Staff - Level 4",
+      "company": "Lockheed Martin",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474066426/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:staff"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:23.121535+00:00"
+    },
+    {
+      "title": "Paid Search Manager",
+      "company": "D.R. Horton",
+      "location": "Arlington, TX",
+      "url": "https://www.linkedin.com/jobs/view/4467983749/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.859001+00:00"
+    },
+    {
+      "title": "Lead Commercialization",
+      "company": "AT&T",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474433873/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.859523+00:00"
+    },
+    {
+      "title": "Digital Marketing Manager",
+      "company": "Cofer Luster Criminal Defense Lawyers",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4473399245/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.859806+00:00"
+    },
+    {
+      "title": "Major Merchant Sales Manager",
+      "company": "Deluxe",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4417987058/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.860094+00:00"
+    },
+    {
+      "title": "Financial Product Marketing Specialist",
+      "company": "First Command Financial Services, Inc.",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4390673811/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.860357+00:00"
+    },
+    {
+      "title": "Go To Market Manager",
+      "company": "Samsung HVAC America",
+      "location": "Roanoke, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476352352/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.860708+00:00"
+    },
+    {
+      "title": "Manager, Commercial Analytics & Sales Enablement",
+      "company": "Alcon",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476160632/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.860987+00:00"
+    },
+    {
+      "title": "Business Insights Manager",
+      "company": "Onin Technology",
+      "location": "Terrell, TX",
+      "url": "https://www.linkedin.com/jobs/view/4469694564/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:35.861272+00:00"
+    },
+    {
+      "title": "SQL Server Data Engineer",
+      "company": "Anblicks",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475848748/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:45.653800+00:00"
+    },
+    {
+      "title": "Manager, Databricks",
+      "company": "KPMG US",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4471947853/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:45.654197+00:00"
+    },
+    {
+      "title": "Ab Initio Developer",
+      "company": "Ampstek",
+      "location": "Irving, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474993895/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:45.654393+00:00"
+    },
+    {
+      "title": "Finance Analyst",
+      "company": "Meritage Homes",
+      "location": "Irving, TX",
+      "url": "https://www.linkedin.com/jobs/view/4465593761/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:finance"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:50.865535+00:00"
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "HF Sinclair",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475106453/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:50.866025+00:00"
+    },
+    {
+      "title": "Project Controls Specialist",
+      "company": "Targa Resources",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474664313/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:30:50.866350+00:00"
+    },
+    {
+      "title": "Senior WMS Business Analyst",
+      "company": "Quality Custom Distribution",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476100534/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:01.210113+00:00"
+    },
+    {
+      "title": "SAP Senior Functional Consultant",
+      "company": "Deloitte",
+      "location": "Westlake, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476105508/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:01.210444+00:00"
+    },
+    {
+      "title": "Specialist, IT Solutions",
+      "company": "Celestica",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4429691545/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:01.210799+00:00"
+    },
+    {
+      "title": "Senior JD Edwards EnterpriseOne Technical Analyst",
+      "company": "GTN Technical Staffing",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474612033/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:01.211325+00:00"
+    },
+    {
+      "title": "Integration Analyst",
+      "company": "defi SOLUTIONS",
+      "location": "Westlake, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474614790/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:04.057421+00:00"
+    },
+    {
+      "title": "Skyward QMLATIV Student Systems",
+      "company": "McKinney ISD",
+      "location": "McKinney, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474604448/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:04.057846+00:00"
+    },
+    {
+      "title": "Sr Associate Analyst/Analyst, IT Platform",
+      "company": "American Airlines",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474405836/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:04.058174+00:00"
+    },
+    {
+      "title": "Senior Operations Consultant",
+      "company": "Bank of America",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476385665/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:04.058390+00:00"
+    },
+    {
+      "title": "Supply Chain Functional Planning Senior Consultant",
+      "company": "Deloitte",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476107443/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:09.506589+00:00"
+    },
+    {
+      "title": "SAP - Procurement and Inventory - Senior - Consulting - Location OPEN",
+      "company": "EY",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474410210/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:09.508025+00:00"
+    },
+    {
+      "title": "Sr. Associate, Supply Chain Strategy",
+      "company": "KPMG US",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4471583995/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:09.508501+00:00"
+    },
+    {
+      "title": "Client Value Analyst",
+      "company": "Reed Smith LLP",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4448652145/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:16.670738+00:00"
+    },
+    {
+      "title": "Pricing Strategy Manager, Celerity",
+      "company": "Bain & Company",
+      "location": "Greater Houston",
+      "url": "https://www.linkedin.com/jobs/view/4474972247/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:16.671286+00:00"
+    },
+    {
+      "title": "Research Specialist II",
+      "company": "Rice University",
+      "location": "Greater Houston",
+      "url": "https://www.linkedin.com/jobs/view/4474985606/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:16.671550+00:00"
+    },
+    {
+      "title": "Salesforce Commerce Cloud B2B Functional Consultant",
+      "company": "Deloitte",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475896912/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:21.603825+00:00"
+    },
+    {
+      "title": "Enterprise - ServiceNow SPM Business Process Consultant",
+      "company": "Slalom",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4463572389/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:servicenow"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:21.604295+00:00"
+    },
+    {
+      "title": "Credera Management Consulting Analyst",
+      "company": "Credera",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474297458/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:21.604672+00:00"
+    },
+    {
+      "title": "Credera Marketing Solutions Analyst",
+      "company": "Credera",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474295510/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:21.605024+00:00"
+    },
+    {
+      "title": "Associate, Commercial Real Estate Loan Operations",
+      "company": "SitusAMC",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4465937360/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:real estate"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:29.225762+00:00"
+    },
+    {
+      "title": "Analyst, Middle Office",
+      "company": "Venture Global LNG",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4457676170/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:29.226332+00:00"
+    },
+    {
+      "title": "Middle Officer",
+      "company": "Centalion",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475546270/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:29.226787+00:00"
+    },
+    {
+      "title": "Regional Quality & Benchmarking Specialist",
+      "company": "Amazon",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476709641/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:29.227926+00:00"
+    },
+    {
+      "title": "Ecommerce Specialist",
+      "company": "GME Supply",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475588967/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:42.154636+00:00"
+    },
+    {
+      "title": "Credera Marketing Solutions Intern Consultant",
+      "company": "Credera",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474602373/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:42.155132+00:00"
+    },
+    {
+      "title": "Marketing Technology Manager",
+      "company": "Spencer Fane LLP",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4442686183/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:42.155400+00:00"
+    },
+    {
+      "title": "Development and Marketing Coordinator - Child Nutrition",
+      "company": "Fort Bend ISD",
+      "location": "Sugar Land, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475883518/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:42.155736+00:00"
+    },
+    {
+      "title": "Procurement Strategy and Strategic Sourcing - Value Capture Senior Associate",
+      "company": "PwC",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476353336/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.081862+00:00"
+    },
+    {
+      "title": "Financial Planning Analyst",
+      "company": "Expand Energy",
+      "location": "Spring, TX",
+      "url": "https://www.linkedin.com/jobs/view/4454662502/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.082230+00:00"
+    },
+    {
+      "title": "Early Careers: Health Solutions",
+      "company": "Aon",
+      "location": "The Woodlands, TX",
+      "url": "https://www.linkedin.com/jobs/view/4467910902/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:early careers"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.082584+00:00"
+    },
+    {
+      "title": "M&A Analyst",
+      "company": "Univar Solutions",
+      "location": "The Woodlands, TX",
+      "url": "https://www.linkedin.com/jobs/view/4467293386/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.082959+00:00"
+    },
+    {
+      "title": "Organization Workforce & Change Consultant",
+      "company": "Deloitte",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475178473/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.083302+00:00"
+    },
+    {
+      "title": "Senior Associate, PEPI M&A - Professional Services Sector",
+      "company": "Alvarez & Marsal",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476331561/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.084027+00:00"
+    },
+    {
+      "title": "Specialist Strategic Sourcing",
+      "company": "Cemex US",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4445550373/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sourcing"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:47.084358+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "AMH",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474022407/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:54.199522+00:00"
+    },
+    {
+      "title": "Slalom Flex (Project Based)- Cloudera Data Engineer",
+      "company": "Slalom",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474269882/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:31:54.199824+00:00"
+    },
+    {
+      "title": "Project Controls Consultant",
+      "company": "WSP in the U.S.",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475878650/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.934292+00:00"
+    },
+    {
+      "title": "Project Cost Controller/Scheduler",
+      "company": "GC-Squared Resources, LLC",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475100899/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.934832+00:00"
+    },
+    {
+      "title": "Financial Analyst",
+      "company": "Robert Half",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476307747/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.935217+00:00"
+    },
+    {
+      "title": "Sr. Financial Consultant",
+      "company": "Brown & Brown",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476506310/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.936381+00:00"
+    },
+    {
+      "title": "Financial Reporting Accountant",
+      "company": "Service Corporation International",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4465787842/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.936651+00:00"
+    },
+    {
+      "title": "Financial Reporting and Accounting Senior",
+      "company": "repsol",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4473694363/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:01.936970+00:00"
+    },
+    {
+      "title": "Specialist, Manhattan Active WMS",
+      "company": "Daikin Comfort",
+      "location": "Waller, TX",
+      "url": "https://www.linkedin.com/jobs/view/4380601464/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:14.024985+00:00"
+    },
+    {
+      "title": "Applications Support Sr Analyst - Asst. Vice President",
+      "company": "Citi",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4419355249/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:14.025428+00:00"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "Independence Pet Holdings",
+      "location": "Ohio, United States",
+      "url": "https://www.linkedin.com/jobs/view/4474418760/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:24.459563+00:00"
+    },
+    {
+      "title": "Sr. Business Analyst, Global Cyber Security",
+      "company": "Carnival Corporation",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4466748092/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:31.000961+00:00"
+    },
+    {
+      "title": "Sr. Business Analyst",
+      "company": "Jackson Lewis P.C.",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/4476101796/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:WA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:31.001392+00:00"
+    },
+    {
+      "title": "Residential Solar Incentives & Operations Analyst",
+      "company": "IGS Energy",
+      "location": "Ohio, OH",
+      "url": "https://www.linkedin.com/jobs/view/4476736077/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:35.724191+00:00"
+    },
+    {
+      "title": "Senior Process Analyst",
+      "company": "GEICO",
+      "location": "Poway, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474994618/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:35.724741+00:00"
+    },
+    {
+      "title": "Business Operations Analyst / Process Improvement",
+      "company": "DataVisor",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476722903/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:35.725037+00:00"
+    },
+    {
+      "title": "Sales Operations Analyst",
+      "company": "OPOC.us",
+      "location": "Worthington, OH",
+      "url": "https://www.linkedin.com/jobs/view/4476751181/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:35.725488+00:00"
+    },
+    {
+      "title": "Business Intelligence Financial Analyst - onsite daily Chatsworth",
+      "company": "Premier America Credit Union",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476733570/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:41.052477+00:00"
+    },
+    {
+      "title": "Direct Marketing Analyst",
+      "company": "Uline",
+      "location": "Glenview, IL",
+      "url": "https://www.linkedin.com/jobs/view/4476707397/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:45.207407+00:00"
+    },
+    {
+      "title": "Sr. Analyst, Marketing Analytics, Burger King",
+      "company": "Burger King",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476115371/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr."
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:45.208066+00:00"
+    },
+    {
+      "title": "Senior Analyst, Business Analytics",
+      "company": "Hearts & Science",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474291735/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:45.208428+00:00"
+    },
+    {
+      "title": "Assistant Manager - Digital Marketing Analytics (SalonCentric)",
+      "company": "L'Or\u00e9al",
+      "location": "Clearwater, FL",
+      "url": "https://www.linkedin.com/jobs/view/4469049936/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:45.208701+00:00"
+    },
+    {
+      "title": "Associate Corporate Strategy",
+      "company": "Norwegian Cruise Line Holdings Ltd.",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4430747358/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:52.054238+00:00"
+    },
+    {
+      "title": "Data and Analytics Engineering Lead, Reinsurance",
+      "company": "Marsh",
+      "location": "Princeton, NJ",
+      "url": "https://www.linkedin.com/jobs/view/4458244808/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "out_of_area:NJ"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:32:58.271336+00:00"
+    },
+    {
+      "title": "Financial Analyst Junior",
+      "company": "City National Bank of Florida",
+      "location": "Coral Gables, FL",
+      "url": "https://www.linkedin.com/jobs/view/4447606364/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:05.220577+00:00"
+    },
+    {
+      "title": "Product Analyst, Digital Asset Platform",
+      "company": "Broadridge",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4467220609/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.431037+00:00"
+    },
+    {
+      "title": "Product Growth Analyst",
+      "company": "Meta",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4350285293/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.431430+00:00"
+    },
+    {
+      "title": "Product Analyst (Hybrid)",
+      "company": "NYCM Insurance",
+      "location": "Edmeston, NY",
+      "url": "https://www.linkedin.com/jobs/view/4474287627/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.431806+00:00"
+    },
+    {
+      "title": "Senior BLM Analyst",
+      "company": "CME Group",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4421340017/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.432134+00:00"
+    },
+    {
+      "title": "Analyst III \u2013 Product Analytics (Adobe Analytics)",
+      "company": "St. Jude Children's Research Hospital - ALSAC",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4475861456/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:iii",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.432329+00:00"
+    },
+    {
+      "title": "Commercial Lines Product Analyst (Hybrid - Webster or Boston)",
+      "company": "Mapfre",
+      "location": "Webster, MA",
+      "url": "https://www.linkedin.com/jobs/view/4417797228/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.432815+00:00"
+    },
+    {
+      "title": "Growth Data Scientist",
+      "company": "Smadex",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/4473658383/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "out_of_area:TX (not Dallas/Houston)"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.433224+00:00"
+    },
+    {
+      "title": "Product Data Scientist",
+      "company": "Baseten",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/4476561531/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target",
+        "out_of_area:NY"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:10.433548+00:00"
+    },
+    {
+      "title": "Associate Business Systems Analyst, D365 F&O",
+      "company": "Vuori",
+      "location": "Carlsbad, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467238711/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.600041+00:00"
+    },
+    {
+      "title": "Senior Systems Analyst",
+      "company": "Georgia Ports Authority",
+      "location": "Savannah, GA",
+      "url": "https://www.linkedin.com/jobs/view/4471008743/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.600465+00:00"
+    },
+    {
+      "title": "Sr. Financial Systems Analyst - Multiple Offices (Hybrid)",
+      "company": "Littler",
+      "location": "Chicago, IL",
+      "url": "https://www.linkedin.com/jobs/view/4467412401/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.600644+00:00"
+    },
+    {
+      "title": "Analyst Business Systems IT",
+      "company": "Medline",
+      "location": "Northbrook, IL",
+      "url": "https://www.linkedin.com/jobs/view/4465931614/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:IL"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.600827+00:00"
+    },
+    {
+      "title": "ERP Solution Specialist II",
+      "company": "Gulfstream Aerospace",
+      "location": "Savannah, GA",
+      "url": "https://www.linkedin.com/jobs/view/4475434470/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:erp"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.601124+00:00"
+    },
+    {
+      "title": "Sr. Business Analyst",
+      "company": "Community Behavioral Health",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4476739269/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr.",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.601394+00:00"
+    },
+    {
+      "title": "Senior Business Solutions Analyst \u2013 Core Financial Applications",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "location": "Laurel, MD",
+      "url": "https://www.linkedin.com/jobs/view/4464257554/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:MD"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.601614+00:00"
+    },
+    {
+      "title": "Senior Epic Analyst - CINCI Lab",
+      "company": "Cincinnati Children's",
+      "location": "Cincinnati, OH",
+      "url": "https://www.linkedin.com/jobs/view/4458785548/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.601823+00:00"
+    },
+    {
+      "title": "IS Application Analyst - Epic Resolute Hospital Billing",
+      "company": "South Shore Health",
+      "location": "Weymouth, MA",
+      "url": "https://www.linkedin.com/jobs/view/4438350915/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:MA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.602002+00:00"
+    },
+    {
+      "title": "SAP MM Business Systems Analyst",
+      "company": "Avnet",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4462102948/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sap",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.602346+00:00"
+    },
+    {
+      "title": "Intermediate Business Systems Analyst",
+      "company": "Transamerica",
+      "location": "Philadelphia, PA",
+      "url": "https://www.linkedin.com/jobs/view/4474615401/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.602606+00:00"
+    },
+    {
+      "title": "Senior Financial Systems Analyst",
+      "company": "The Phoenix Group",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474092077/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:CA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:17.603045+00:00"
+    },
+    {
+      "title": "Supply Strategy Analyst, Carrier Services, Procurement",
+      "company": "Amazon",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/jobs/view/4467400709/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:procurement",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.693328+00:00"
+    },
+    {
+      "title": "Replenishment Analyst",
+      "company": "Burpee Gardening",
+      "location": "Warminster, PA",
+      "url": "https://www.linkedin.com/jobs/view/4458220665/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.693914+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Mars",
+      "location": "Franklin, TN",
+      "url": "https://www.linkedin.com/jobs/view/4466168127/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TN"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.694315+00:00"
+    },
+    {
+      "title": "Materials Planning Analyst",
+      "company": "AV",
+      "location": "Albuquerque, NM",
+      "url": "https://www.linkedin.com/jobs/view/4476312971/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:NM"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.694628+00:00"
+    },
+    {
+      "title": "Senior Solar and Storage Analyst",
+      "company": "Solar Energy Industries Association",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/4474978382/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "out_of_area:DC"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.695030+00:00"
+    },
+    {
+      "title": "Sr Logistics Analyst - Beyond Beer",
+      "company": "Molson Coors Beverage Company",
+      "location": "Milwaukee, WI",
+      "url": "https://www.linkedin.com/jobs/view/4461900750/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sr",
+        "out_of_area:WI"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:22.695285+00:00"
+    },
+    {
+      "title": "Analyst II, Credit",
+      "company": "Affirm",
+      "location": "Remote UK",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832318003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_unlisted",
+        "foreign:Remote UK"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.196258+00:00"
+    },
+    {
+      "title": "Analyst II, Full Stack",
+      "company": "Affirm",
+      "location": "Remote Spain",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:full stack",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.196875+00:00"
+    },
+    {
+      "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+      "company": "Affirm",
+      "location": "Remote Poland",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7813362003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:full stack",
+        "foreign:Remote Poland"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.197305+00:00"
+    },
+    {
+      "title": "Analytics Lead, Deposit Fraud Risk",
+      "company": "Affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8004096003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.197536+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.197819+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack (Collections & Recoveries)",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7979912003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.197910+00:00"
+    },
+    {
+      "title": "Analytics Lead, Full Stack (Strategic Revenue Insights)",
+      "company": "Affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7871456003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:lead",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.197993+00:00"
+    },
+    {
+      "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7815954003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_unlisted",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.198430+00:00"
+    },
+    {
+      "title": "Quantitative Analytics Manager, Affirm Bank Model Governance",
+      "company": "Affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819441003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.198745+00:00"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "Affirm",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.199057+00:00"
+    },
+    {
+      "title": "Senior Software Engineer, Backend (Lake Analytics Platform) ",
+      "company": "Affirm",
+      "location": "Remote Canada",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7799633003",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "foreign:Remote Canada"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:33.199479+00:00"
+    },
+    {
+      "title": "Deal Desk Analyst",
+      "company": "Samsara",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.samsara.com/company/careers/roles/8187198?gh_jid=8187198",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_unlisted",
+        "foreign:London, England, United Kingdom"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:37.210998+00:00"
+    },
+    {
+      "title": "People Analytics AI Engineer",
+      "company": "Samsara",
+      "location": "Remote - Seattle",
+      "url": "https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:WA"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:37.211995+00:00"
+    },
+    {
+      "title": "Principal Business Systems Analyst",
+      "company": "Samsara",
+      "location": "Remote - OR",
+      "url": "https://www.samsara.com/company/careers/roles/8167808?gh_jid=8167808",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:principal",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:37.212608+00:00"
+    },
+    {
+      "title": "Senior Financial Analyst",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "url": "https://www.samsara.com/company/careers/roles/8209909?gh_jid=8209909",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:37.213265+00:00"
+    },
+    {
+      "title": "Senior Legal Analyst & Litigation Project Manager",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "url": "https://www.samsara.com/company/careers/roles/8029100?gh_jid=8029100",
+      "source": "Greenhouse",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "remote_unverified"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-07T13:33:37.213667+00:00"
+    },
+    {
       "title": "BI and Analytics Analyst",
       "company": "Zachry Construction Corporation",
       "location": "Irving, TX",
@@ -16783,1557 +18314,6 @@
       ],
       "filter_version": "2026-10-02.1",
       "dateAdded": "2026-10-06T17:42:57.009153+00:00"
-    },
-    {
-      "title": "Product Owner / Crew Labor Management",
-      "company": "Kforce Inc",
-      "location": "Hollywood, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476328659/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:05.789025+00:00"
-    },
-    {
-      "title": "Software Product Manager ( U.S.A )",
-      "company": "Marketeq Talent",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4474960884/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:05.789486+00:00"
-    },
-    {
-      "title": "EHR Support Analyst II",
-      "company": "HCA Healthcare",
-      "location": "Aventura, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476323426/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:12.435964+00:00"
-    },
-    {
-      "title": "Core Banking Support Specialist",
-      "company": "Banco Sabadell US",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476324610/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:12.436508+00:00"
-    },
-    {
-      "title": "Senior Solutions Architect \u2013 Oracle PPM, SCM & CX",
-      "company": "Moss",
-      "location": "Fort Lauderdale, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476333627/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:12.436910+00:00"
-    },
-    {
-      "title": "Systems Analyst-Cyber Security Junior Analyst",
-      "company": "Broward County Government",
-      "location": "Plantation, FL",
-      "url": "https://www.linkedin.com/jobs/view/4474089497/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:cyber security"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:12.437192+00:00"
-    },
-    {
-      "title": "IT Risk & Compliance Senior Associate",
-      "company": "Myna Partners",
-      "location": "Miami-Fort Lauderdale Area",
-      "url": "https://www.linkedin.com/jobs/view/4472629513/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:12.437532+00:00"
-    },
-    {
-      "title": "Global Trade & Logistics Specialist",
-      "company": "IOR Direct Solutions",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476320673/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:17.722949+00:00"
-    },
-    {
-      "title": "Supply Chain Inventory Associate - FT - Days - MHW",
-      "company": "Memorial Healthcare System",
-      "location": "Pembroke Pines, FL",
-      "url": "https://www.linkedin.com/jobs/view/4474972792/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:17.723828+00:00"
-    },
-    {
-      "title": "Assistant Project Manager, Concrete",
-      "company": "Liberty",
-      "location": "Miami, FL",
-      "url": "https://www.linkedin.com/jobs/view/4465062830/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:17.724535+00:00"
-    },
-    {
-      "title": "Senior Data Analyst - Card",
-      "company": "Capital One",
-      "location": "Richmond, VA",
-      "url": "https://www.linkedin.com/jobs/view/4476302669/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.795498+00:00"
-    },
-    {
-      "title": "Healthcare Data Analyst",
-      "company": "Haystack",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4471764011/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NJ"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.796024+00:00"
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Booz Allen Hamilton",
-      "location": "Reston, VA",
-      "url": "https://www.linkedin.com/jobs/view/4475868358/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.796439+00:00"
-    },
-    {
-      "title": "Business Intelligence Analyst",
-      "company": "Sweetwater",
-      "location": "Fort Wayne, IN",
-      "url": "https://www.linkedin.com/jobs/view/4476323483/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:IN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.796833+00:00"
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Noblis",
-      "location": "Chantilly, VA",
-      "url": "https://www.linkedin.com/jobs/view/4476330147/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.797261+00:00"
-    },
-    {
-      "title": "Healthcare Business Intelligence & Analytics Analyst",
-      "company": "Premium Health Center",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4413836472/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:23.797581+00:00"
-    },
-    {
-      "title": "PN Healthcare Analyst IV",
-      "company": "Medica",
-      "location": "Hopkins, MN",
-      "url": "https://www.linkedin.com/jobs/view/4475815985/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iv",
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:25.901368+00:00"
-    },
-    {
-      "title": "Senior AI Data Analyst, User & Content Insights",
-      "company": "Internet Brands",
-      "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409659244/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:25.901793+00:00"
-    },
-    {
-      "title": "TCEQ - Data Analyst III",
-      "company": "Texas Commission on Environmental Quality",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4475572102/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iii",
-        "out_of_area:TX (not Dallas/Houston)"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:25.902035+00:00"
-    },
-    {
-      "title": "Business Analyst-ADM",
-      "company": "IBM",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473691313/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.633898+00:00"
-    },
-    {
-      "title": "Business Analyst - Senior",
-      "company": "Accenture Federal Services",
-      "location": "Chantilly, VA",
-      "url": "https://www.linkedin.com/jobs/view/4476327296/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.634336+00:00"
-    },
-    {
-      "title": "Business Analyst II, WW Grocery Store Private Brands",
-      "company": "Amazon",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4475570487/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.634535+00:00"
-    },
-    {
-      "title": "Technical Business Analysis - Advisor II",
-      "company": "Fiserv",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474960988/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.634928+00:00"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "MeeBoss",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4475585947/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.635289+00:00"
-    },
-    {
-      "title": "Lead IT Business Analyst",
-      "company": "Eaton",
-      "location": "Beachwood, OH",
-      "url": "https://www.linkedin.com/jobs/view/4412489037/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:OH"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:31.635550+00:00"
-    },
-    {
-      "title": "Sr. Business Analyst",
-      "company": "Jackson Lewis P.C.",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4475896905/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:34.956098+00:00"
-    },
-    {
-      "title": "Business Systems Analyst I",
-      "company": "CesiumAstro",
-      "location": "Denver Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4467232479/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:34.956398+00:00"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Mayo Clinic",
-      "location": "Rochester, MN",
-      "url": "https://www.linkedin.com/jobs/view/4476343214/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:34.956951+00:00"
-    },
-    {
-      "title": "Business Process Analyst",
-      "company": "Boeing",
-      "location": "Everett, WA",
-      "url": "https://www.linkedin.com/jobs/view/4474068761/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:34.957323+00:00"
-    },
-    {
-      "title": "Curam Business Analyst",
-      "company": "Vertex Computer Systems",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4476325328/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:34.957665+00:00"
-    },
-    {
-      "title": "Senior Business Operations Analyst",
-      "company": "RVO Health",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4476317620/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.011131+00:00"
-    },
-    {
-      "title": "Parametric - Operations Analyst Cohort, Winter, 2027 (Recent Grads)",
-      "company": "Morgan Stanley",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4464841392/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:2027"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.011457+00:00"
-    },
-    {
-      "title": "Business Intelligence Analyst II",
-      "company": "AAA Life Insurance Company",
-      "location": "Livonia, MI",
-      "url": "https://www.linkedin.com/jobs/view/4474972297/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MI"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.011824+00:00"
-    },
-    {
-      "title": "Sales Operations Analyst",
-      "company": "KUKA",
-      "location": "Shelby Township, MI",
-      "url": "https://www.linkedin.com/jobs/view/4476309978/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MI"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.012143+00:00"
-    },
-    {
-      "title": "Sr. Operations Analyst",
-      "company": "Pacific Life",
-      "location": "Omaha, NE",
-      "url": "https://www.linkedin.com/jobs/view/4445272252/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:NE"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.012449+00:00"
-    },
-    {
-      "title": "Operations Analyst, AIFS Investor Services",
-      "company": "SEI",
-      "location": "Oaks, PA",
-      "url": "https://www.linkedin.com/jobs/view/4411769398/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:investor",
-        "out_of_area:PA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.012612+00:00"
-    },
-    {
-      "title": "Senior Portfolio Operations Analyst",
-      "company": "Vident Asset Management",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474221386/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.012863+00:00"
-    },
-    {
-      "title": "Business Operations Analyst",
-      "company": "MFS Investment Management",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4476333375/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.013034+00:00"
-    },
-    {
-      "title": "Trading Operations Analyst/Associate",
-      "company": "AQR Capital Management",
-      "location": "Greenwich, CT",
-      "url": "https://www.linkedin.com/jobs/view/4448876811/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CT"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.013304+00:00"
-    },
-    {
-      "title": "ZBB Specialist",
-      "company": "Pilgrim's",
-      "location": "Douglas, GA",
-      "url": "https://www.linkedin.com/jobs/view/4467420512/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.013623+00:00"
-    },
-    {
-      "title": "Analyst, Operations - Transfers",
-      "company": "Axos Bank",
-      "location": "Centennial, CO",
-      "url": "https://www.linkedin.com/jobs/view/4473696698/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:CO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.013874+00:00"
-    },
-    {
-      "title": "Data & AI Analyst",
-      "company": "Farmer Boys",
-      "location": "Riverside, CA",
-      "url": "https://www.linkedin.com/jobs/view/4473671585/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:42.014218+00:00"
-    },
-    {
-      "title": "Business Intelligence Analyst",
-      "company": "Boeing",
-      "location": "Hazelwood, MO",
-      "url": "https://www.linkedin.com/jobs/view/4474067822/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:51.202884+00:00"
-    },
-    {
-      "title": "IT Analyst",
-      "company": "New Era Cap",
-      "location": "Buffalo, NY",
-      "url": "https://www.linkedin.com/jobs/view/4475811965/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:51.203330+00:00"
-    },
-    {
-      "title": "Business Intelligence Analyst II, Finance & Administration",
-      "company": "The Johns Hopkins University",
-      "location": "Baltimore, MD",
-      "url": "https://www.linkedin.com/jobs/view/4474795399/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:finance",
-        "out_of_area:MD"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.830138+00:00"
-    },
-    {
-      "title": "Lead Business Analyst, Inside Sales",
-      "company": "Office Depot Group",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4460965522/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:TX (not Dallas/Houston)"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.830570+00:00"
-    },
-    {
-      "title": "Sr. Business Intelligence Analyst",
-      "company": "Sotera Health Company",
-      "location": "Oak Brook, IL",
-      "url": "https://www.linkedin.com/jobs/view/4464626176/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.830782+00:00"
-    },
-    {
-      "title": "Senior Analyst, Business Intelligence",
-      "company": "Horizon Next",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4417993259/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.830979+00:00"
-    },
-    {
-      "title": "IT BI & Data Solutions, Analyst",
-      "company": "Bvlgari",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4475806773/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.831250+00:00"
-    },
-    {
-      "title": "Principal Business Intelligence Analyst",
-      "company": "Boston Scientific",
-      "location": "Minneapolis, MN",
-      "url": "https://www.linkedin.com/jobs/view/4475898694/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:principal",
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:53.831628+00:00"
-    },
-    {
-      "title": "Marketing Data Analyst III",
-      "company": "Boston Scientific",
-      "location": "Maple Grove, MN",
-      "url": "https://www.linkedin.com/jobs/view/4473991106/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iii",
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.686608+00:00"
-    },
-    {
-      "title": "Marketing Insights Analyst I",
-      "company": "Rheem Manufacturing Company",
-      "location": "Oxnard, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475857059/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.687043+00:00"
-    },
-    {
-      "title": "Sr. Analyst, Marketing Analytics & Measurement",
-      "company": "Ovative Group",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4412170727/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.687386+00:00"
-    },
-    {
-      "title": "Marketing Data Analyst",
-      "company": "Wellmark Blue Cross and Blue Shield",
-      "location": "Des Moines, IA",
-      "url": "https://www.linkedin.com/jobs/view/4474072884/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:IA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.687637+00:00"
-    },
-    {
-      "title": "Staff Marketing Data Analyst",
-      "company": "Credit Genie",
-      "location": "Philadelphia, PA",
-      "url": "https://www.linkedin.com/jobs/view/4458439049/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:staff",
-        "out_of_area:PA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.687955+00:00"
-    },
-    {
-      "title": "Customer Marketing Analyst, CSP",
-      "company": "Mars",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4474965571/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.688156+00:00"
-    },
-    {
-      "title": "Commercial Intelligence Analyst",
-      "company": "Leatherman Tool Group",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4474215415/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:OR"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.688455+00:00"
-    },
-    {
-      "title": "Marketing Analyst",
-      "company": "Fourth Floor",
-      "location": "New York City Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4474980114/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.688766+00:00"
-    },
-    {
-      "title": "Analyst, International Media",
-      "company": "V-Soft Consulting Group, Inc.",
-      "location": "Universal City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474298534/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.689123+00:00"
-    },
-    {
-      "title": "Specialist, Global Brand Media Analytics",
-      "company": "Crocs, Inc.",
-      "location": "Broomfield, CO",
-      "url": "https://www.linkedin.com/jobs/view/4474076435/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:CO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.689546+00:00"
-    },
-    {
-      "title": "Lead Data Analyst",
-      "company": "Fullpath",
-      "location": "Detroit, MI",
-      "url": "https://www.linkedin.com/jobs/view/4475843991/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:MI"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.689924+00:00"
-    },
-    {
-      "title": "Sales & Mktg Insights Analyst",
-      "company": "Atria Management Company",
-      "location": "Louisville, KY",
-      "url": "https://www.linkedin.com/jobs/view/4467081618/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:KY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.690109+00:00"
-    },
-    {
-      "title": "Senior Analyst, Graduate & Undergraduate Brand Management",
-      "company": "Hilton",
-      "location": "McLean, VA",
-      "url": "https://www.linkedin.com/jobs/view/4475814797/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.690416+00:00"
-    },
-    {
-      "title": "Senior Analyst, Campaign ROI & Profitability",
-      "company": "Sud Recruiting",
-      "location": "Dallas-Fort Worth Metroplex",
-      "url": "https://www.linkedin.com/jobs/view/4474971798/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.690593+00:00"
-    },
-    {
-      "title": "Lead Campaign Measurement Specialist - Remote",
-      "company": "Ladders",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4473634296/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.690847+00:00"
-    },
-    {
-      "title": "Data Science Analyst - Growth, Marketing & Sales Practice at McKinsey & Company",
-      "company": "Berkeley Industrial Engineering & Operations Research",
-      "location": "Indiana, United States",
-      "url": "https://www.linkedin.com/jobs/view/4473885209/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "foreign:Indiana, United States"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.691080+00:00"
-    },
-    {
-      "title": "Digital Marketing Analyst",
-      "company": "Blinds To Go",
-      "location": "Paramus, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4349105726/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NJ"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.691410+00:00"
-    },
-    {
-      "title": "Manager, Marketing Research - Customer & Competitive Insights",
-      "company": "AutoZone",
-      "location": "Memphis, TN",
-      "url": "https://www.linkedin.com/jobs/view/4474283730/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager",
-        "out_of_area:TN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:43:59.691751+00:00"
-    },
-    {
-      "title": "Senior Technical Strategy Analyst",
-      "company": "StratasCorp Technologies",
-      "location": "Washington, DC",
-      "url": "https://www.linkedin.com/jobs/view/4473876095/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:DC"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.884781+00:00"
-    },
-    {
-      "title": "Senior Analyst, Finance",
-      "company": "Rent The Runway",
-      "location": "Brooklyn, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447580088/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885042+00:00"
-    },
-    {
-      "title": "Senior Strategic Planning Analyst",
-      "company": "JPS Health Network",
-      "location": "Fort Worth, TX",
-      "url": "https://www.linkedin.com/jobs/view/4474342275/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885215+00:00"
-    },
-    {
-      "title": "Senior Analyst - BCG Vantage, B2B SaaS (Client Focus Track)",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411779505/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885388+00:00"
-    },
-    {
-      "title": "Analytics Lead, Market Insights",
-      "company": "Lyft",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4401795956/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885570+00:00"
-    },
-    {
-      "title": "Senior Analyst - BCG Vantage, B2B SaaS (Topic Activation Track)",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4411787411/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885768+00:00"
-    },
-    {
-      "title": "Senior Business Analyst, Deal Economics & Analytics",
-      "company": "Capital One",
-      "location": "Chicago, IL",
-      "url": "https://www.linkedin.com/jobs/view/4476199708/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:IL"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.885948+00:00"
-    },
-    {
-      "title": "Associate, Strategic Finance",
-      "company": "Ramp",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421222776/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:finance",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.886130+00:00"
-    },
-    {
-      "title": "Senior Strategic Planning Analyst",
-      "company": "Motion Recruitment",
-      "location": "Irving, TX",
-      "url": "https://www.linkedin.com/jobs/view/4468303439/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.886386+00:00"
-    },
-    {
-      "title": "Strategic Supply Chain Analyst - MBA Leadership Program Class of 2027",
-      "company": "Emerson",
-      "location": "St Louis, MO",
-      "url": "https://www.linkedin.com/jobs/view/4475821569/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:2027",
-        "out_of_area:MO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.886554+00:00"
-    },
-    {
-      "title": "Strategy & AI Associate",
-      "company": "Hotwire Communications Ltd",
-      "location": "North Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4430757894/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.886897+00:00"
-    },
-    {
-      "title": "Strategy Enablement Associate",
-      "company": "The Depository Trust & Clearing Corporation (DTCC)",
-      "location": "Jersey City, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4476321753/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "out_of_area:NJ"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.887203+00:00"
-    },
-    {
-      "title": "WW Content Strat. & Analytics, Prime Video Licensing, Analytics, Operations, and Strategy (LASO)",
-      "company": "Prime Video & Amazon MGM Studios",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4476172953/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.887493+00:00"
-    },
-    {
-      "title": "Senior Corporate Development & Strategy Associate",
-      "company": "RapidSOS",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4471785125/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.887931+00:00"
-    },
-    {
-      "title": "Sales Operations Senior Associate, Global Business Strategy and Planning",
-      "company": "Google",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4474621257/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.888109+00:00"
-    },
-    {
-      "title": "Senior Analyst - Strategic Analytics",
-      "company": "Domestic & General",
-      "location": "Louisville, KY",
-      "url": "https://www.linkedin.com/jobs/view/4465779885/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:KY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.888285+00:00"
-    },
-    {
-      "title": "Energy Supply Chain Consultant (Graduate, 2027) - Houston",
-      "company": "Wood Mackenzie",
-      "location": "Houston, TX",
-      "url": "https://www.linkedin.com/jobs/view/4467207724/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:2027"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:04.888453+00:00"
-    },
-    {
-      "title": "BI Engineer",
-      "company": "OPENLANE",
-      "location": "Carmel, IN",
-      "url": "https://www.linkedin.com/jobs/view/4474291230/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "out_of_area:IN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:12.275162+00:00"
-    },
-    {
-      "title": "Sr. Business Intelligence Engineer, B2C, Amazon Leo",
-      "company": "Amazon",
-      "location": "Bellevue, WA",
-      "url": "https://www.linkedin.com/jobs/view/4457394012/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr.",
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:12.275525+00:00"
-    },
-    {
-      "title": "Analytics Engineer",
-      "company": "Taptap Send",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4446972501/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:12.275714+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer",
-      "company": "Mercury",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4473688965/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:OR"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:12.276003+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer, Product",
-      "company": "Harvey",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448265448/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:14.257958+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer",
-      "company": "World Finance",
-      "location": "Greenville, SC",
-      "url": "https://www.linkedin.com/jobs/view/4474963423/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:14.258221+00:00"
-    },
-    {
-      "title": "Lead Analytics Engineer",
-      "company": "Vero",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4435819803/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.222509+00:00"
-    },
-    {
-      "title": "Data Analyst, NYC",
-      "company": "Stripe",
-      "location": "New York, United States",
-      "url": "https://www.linkedin.com/jobs/view/4467271880/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.222816+00:00"
-    },
-    {
-      "title": "Analytics Engineer II",
-      "company": "SWBC",
-      "location": "San Antonio, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466517242/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:TX (not Dallas/Houston)"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.223192+00:00"
-    },
-    {
-      "title": "Sr Data Analytics Engineer",
-      "company": "Foot Locker",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4465245147/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.223643+00:00"
-    },
-    {
-      "title": "Manager, BI + Analytics Engineer",
-      "company": "Peregrine",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447414516/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.223938+00:00"
-    },
-    {
-      "title": "Analytics Engineer",
-      "company": "General Dynamics Information Technology",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4476307907/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "clearance_required"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:17.224309+00:00"
-    },
-    {
-      "title": "ASD Analytics Engineer (Data / SQL)",
-      "company": "KPI Solutions",
-      "location": "Nashville, TN",
-      "url": "https://www.linkedin.com/jobs/view/4476134641/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:TN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.362024+00:00"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Anthropic",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411763173/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.362387+00:00"
-    },
-    {
-      "title": "Data Analytics Engineer",
-      "company": "Avride",
-      "location": "Austin, TX",
-      "url": "https://www.linkedin.com/jobs/view/4466125692/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:TX (not Dallas/Houston)"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.362647+00:00"
-    },
-    {
-      "title": "BI ENGINEER",
-      "company": "HMG AMERICA LLC",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4474286484/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.363069+00:00"
-    },
-    {
-      "title": "Principal Analytics Engineer",
-      "company": "adMarketplace",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4473647844/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:principal",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.363425+00:00"
-    },
-    {
-      "title": "Customer data platform Developer",
-      "company": "Chasepro",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474972734/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.363633+00:00"
-    },
-    {
-      "title": "Analytics Engineer",
-      "company": "RemyCorporation",
-      "location": "Greater Boston",
-      "url": "https://www.linkedin.com/jobs/view/4476339158/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.364037+00:00"
-    },
-    {
-      "title": "Data Engineer I, Business Data Technologies",
-      "company": "Amazon",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4467405622/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target",
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.364359+00:00"
-    },
-    {
-      "title": "Analytics Engineer",
-      "company": "EquipmentShare",
-      "location": "Columbia, MO",
-      "url": "https://www.linkedin.com/jobs/view/4475815110/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:MO"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.364797+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer, Full-stack",
-      "company": "Hercules",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4475520548/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.365242+00:00"
-    },
-    {
-      "title": "Senior Data Analytics Engineer",
-      "company": "isolved",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4475803489/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:19.365476+00:00"
-    },
-    {
-      "title": "Data and Communication Analyst - TS",
-      "company": "VMD Corp",
-      "location": "Clarksburg, WV",
-      "url": "https://www.linkedin.com/jobs/view/4476333416/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:WV"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.558810+00:00"
-    },
-    {
-      "title": "Global Management Reporting Analyst",
-      "company": "Sherwin-Williams",
-      "location": "Cleveland, OH",
-      "url": "https://www.linkedin.com/jobs/view/4476314989/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:OH"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.559402+00:00"
-    },
-    {
-      "title": "Business Intelligence Analyst - In Office, Lincoln, NE only",
-      "company": "Sandhills Global",
-      "location": "Lincoln, NE",
-      "url": "https://www.linkedin.com/jobs/view/4335983507/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:NE"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.559886+00:00"
-    },
-    {
-      "title": "Customer Experience Data Analyst",
-      "company": "Deckers Brands",
-      "location": "California, United States",
-      "url": "https://www.linkedin.com/jobs/view/4474018719/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.560320+00:00"
-    },
-    {
-      "title": "Financial Analyst",
-      "company": "Harris County",
-      "location": "Houston, TX",
-      "url": "https://www.linkedin.com/jobs/view/4476312776/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:financial"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.560737+00:00"
-    },
-    {
-      "title": "Data Reporting, Senior Associate",
-      "company": "Vanguard",
-      "location": "Scottsdale, AZ",
-      "url": "https://www.linkedin.com/jobs/view/4472091458/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:AZ"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.561062+00:00"
-    },
-    {
-      "title": "Associate, Liquid Credit Portfolio Analytics & Reporting, PFS - New York",
-      "company": "BlackRock",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4447801054/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.561288+00:00"
-    },
-    {
-      "title": "Business/Financial Analyst",
-      "company": "Jacobs",
-      "location": "Richmond, VA",
-      "url": "https://www.linkedin.com/jobs/view/4467215851/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:financial",
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.561849+00:00"
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Peak Retirement Planning, Inc.",
-      "location": "Columbus, OH",
-      "url": "https://www.linkedin.com/jobs/view/4475800327/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:OH"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.562194+00:00"
-    },
-    {
-      "title": "Senior Associate, Business Intel Analyst",
-      "company": "L3Harris Technologies",
-      "location": "Palm Bay, FL",
-      "url": "https://www.linkedin.com/jobs/view/4475341456/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.562503+00:00"
-    },
-    {
-      "title": "Financial Analysis & Reporting Associate",
-      "company": "The D. E. Shaw Group",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4419831145/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:financial",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.562713+00:00"
-    },
-    {
-      "title": "Compliance Insights Analyst - Corporate Compliance",
-      "company": "DICK'S Sporting Goods",
-      "location": "Coraopolis, PA",
-      "url": "https://www.linkedin.com/jobs/view/4464769260/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:compliance",
-        "out_of_area:PA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:27.563051+00:00"
-    },
-    {
-      "title": "Staff Product Analyst (Product-Led Growth)",
-      "company": "Deepgram",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4360068003/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:staff",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:36.196355+00:00"
-    },
-    {
-      "title": "Data Product Analyst, Private Investor",
-      "company": "YipitData",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4403172617/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:investor",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:36.196774+00:00"
-    },
-    {
-      "title": "Senior Product Data Analyst, Dealer",
-      "company": "CarGurus",
-      "location": "Boston, MA",
-      "url": "https://www.linkedin.com/jobs/view/4445561324/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:36.197198+00:00"
-    },
-    {
-      "title": "Product Analyst (Hybrid)",
-      "company": "American Family Insurance",
-      "location": "Madison, WI",
-      "url": "https://www.linkedin.com/jobs/view/4476317787/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:WI"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-06T17:44:36.197447+00:00"
     }
   ]
 }
