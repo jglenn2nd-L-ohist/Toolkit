@@ -492,26 +492,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1168e959aYOZf",
-      "company": "Texas Health Resources",
-      "title": "Data Research Analyst – TX Center Joint Replacement– Full-Time, Days",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476342914/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:30:05.594596+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a1168ebaecQ_Ab",
       "company": "Aezion, Inc",
       "title": "Functional Data Analyst",
@@ -6341,7 +6321,8 @@
     "https://www.linkedin.com/jobs/view/4468181037/",
     "https://www.linkedin.com/jobs/view/4473831263/",
     "https://www.linkedin.com/jobs/view/4473142704/",
-    "https://www.linkedin.com/jobs/view/4476582154/"
+    "https://www.linkedin.com/jobs/view/4476582154/",
+    "https://www.linkedin.com/jobs/view/4476342914/"
   ],
   "dismissedKeys": [
     {
@@ -8587,8 +8568,12 @@
     {
       "k": "gsa|program analyst data analytics federal acquisition service",
       "at": "2026-10-07T13:53:33.757Z"
+    },
+    {
+      "k": "texas health resources|data research analyst tx center joint replacement full time days",
+      "at": "2026-10-07T13:54:04.205Z"
     }
   ],
   "lastRun": "2026-10-06T21:28:50.827721+00:00",
-  "savedAt": "2026-10-07T13:53:40.090Z"
+  "savedAt": "2026-10-07T13:54:04.206Z"
 }
