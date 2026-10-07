@@ -544,9 +544,113 @@
       "messages": 53,
       "found": 136,
       "known": 99
+    },
+    {
+      "at": "2026-10-07T21:49:03.129985+00:00",
+      "runner": "email",
+      "rules": "2026-10-02.1",
+      "bySource": {
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 2,
+          "reject": 4
+        },
+        "LinkedIn": {
+          "pass": 4,
+          "review": 1,
+          "reject": 0
+        }
+      },
+      "reasons": {
+        "location_unknown": 6,
+        "title_excluded": 3,
+        "title_unlisted": 1,
+        "jd_term": 1
+      },
+      "messages": 28,
+      "found": 85,
+      "known": 74
     }
   ],
   "jobs": [
+    {
+      "id": "1a11857350a3PdI",
+      "company": "See posting",
+      "title": "SeniorProductBusiness Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAE5oNmBC5mYhSjpc0aMg8oiCsy7AVRrEnLPuiYOpJWWL8dhpAgp6TAUWQF-zHK4kP-IIhgcaN5mBJfQcG4CESMxPOH2j4LafyLQcHHeXzHqHl7t-OMhWI0TnZMwDuEZXUYtHMQJW3H8G3WlFhAuayAvM_RAsLbmy4ulcIh0uhxQjlbaQO_htp-m8gQkLKJBlv2qsqQ0tRt5kRHycnE8iP71povioC5ou1mbOXizmHf6uRlP904HRpg6OvxncGfqbkLd4ddiKl71FtPEmbKpQ1z_cxee5qUWgwb2EwGzpJDAD8XimMv8sNm20QyBMJxGOavCfp7XI2ygjI0Vvkqy06Zw0J6X9PJvs_L3lC_YhKAZIWBzIVgjg_7IrdlSvxYQqQTEe-7ThA?tsid\u00111000153&auth_token=5_1791402330_Tu5OXZtcS8GaL8qvkAPOADMWnHVmDTpoh3e2IEbJWHY&contact_id\ufffdf05452&expires\u001791747930",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-07T21:48:50.826657+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a11857350aeXv7",
+      "company": "See posting",
+      "title": "Entry Level Business Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGw2KO45pzwBGDUVXI8c_3y8jQfqSRRQTp-3FYUV48LAjCFjx-qwlR8lqqhp1gNe29IwZPB6uz-jo6ZKc3LCAayJzgZJoAMY_l6wkh_PGsWE6I8mFukTjBLxJ3EAvF0t7gvKMPaZOrUQd_WEMkiUnO8xNUL36ayplKiWf6YKZrL_Pi3Ur_LLgMxxGJAocGj2OySwE3fTDMxrDIy6lCBxLKI27g3r5XlNmKA-C2opxUHODOPm0rczM-mqh9j6Oso5oYpcbB9m0qTQy7WQBQzfAQ3En64BL-P5w2OKgur5Qnsx64ftkrsnvyw0iS0poYYpSoK5Ji-jMSq-grSBKZcJxybRko950jzYo3XQ_ashtQGejcsQm6MF2hWruPQjF5ftWMZoNCrew?tsid\u00111000153&auth_token=5_1791402330_Tu5OXZtcS8GaL8qvkAPOADMWnHVmDTpoh3e2IEbJWHY&contact_id\ufffdf05452&expires\u001791747930",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-07T21:48:50.826728+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a118573901PW5m",
+      "company": "PrizePicks",
+      "title": "Game Operations Analyst - Pre Match",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4450363457?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B8JJ%2FdXfJR%2BqAWAEBjG7Skw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0IOKcAhe3yAYs1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~muyjv2dz~eh-null-null&eid=q9jfse-muyjv2dz-eh&otpToken=N2VhMWI5N2Q4MmExNDU1NTI3MGNkMDFjMjk2NjYxNDQ0NGJmY2ZjYWRiNDNiZjk5NDA2N2NmZWFiMmMwNGZhNjJkZWIxODU5YTE5N2NkMTYyYjNiYWFjZmZkNGEzN2RhMTkxN2EzYWNmNWYyODIzYjlhZDlhZGRlZWUwYjg2N2IwNzk5ZjFhYTIzZWZkZjllNjUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-07T21:48:51.841399+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a1185749a6x9PI",
+      "company": "HD Supply",
+      "title": "Logistics Analyst - Freight Payables",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476104867/?trackingId=z6DDrFtmzy%2B0i8S7XX%2F%2FDg%3D%3D&refId=su8zD1UMMzNMdzYDEWje0w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BKASoDW0hR7GaVfM9RVvpNA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2mFR5K6wcaBcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4476104867_ssid_8461940610_fmid_q9jfse~muykz1n8~id&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4476104867_ssid_8461940610_fmid_q9jfse~muykz1n8~id-null-q9jfse~muykz1n8~id-null-null&eid=q9jfse-muykz1n8-id&otpToken=NTExMGI1Y2E4MTNhZTAyNDYwYWQxZWNjOTZjMTFkMWVhZjA4YWNiODZjZDk3ZmQ1OGQyOGNhNmQ1ZTJiZjMwMDUyMzU3N2FlMWYzZDVjYzE0MjQ4YzEzYzFiMzVmZGY0ZGQ1NGRiZTdmZGNhMGY2MWMyMWFhNDVmMjliNjUwMmY0NzhlOWQ5NWNmMmQ4YjkzZjYsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-07T21:48:56.102946+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-02.1"
+    },
     {
       "id": "1a117c341ccCwBT",
       "company": "ICE",
@@ -9030,6 +9134,6 @@
       "at": "2026-10-07T13:54:04.205Z"
     }
   ],
-  "lastRun": "2026-10-07T19:08:14.857542+00:00",
-  "savedAt": "2026-10-07T19:08:14.857542+00:00"
+  "lastRun": "2026-10-07T21:49:03.316936+00:00",
+  "savedAt": "2026-10-07T21:49:03.316936+00:00"
 }
