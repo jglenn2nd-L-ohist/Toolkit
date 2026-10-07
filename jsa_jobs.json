@@ -517,9 +517,114 @@
       "found": 246,
       "opened": 16,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-07T19:08:14.358386+00:00",
+      "runner": "email",
+      "rules": "2026-10-02.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 5,
+          "review": 2,
+          "reject": 29
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 0,
+          "reject": 1
+        }
+      },
+      "reasons": {
+        "title_unlisted": 17,
+        "title_excluded": 13,
+        "jd_term": 4,
+        "clearance_required": 2,
+        "location_unknown": 1
+      },
+      "messages": 53,
+      "found": 136,
+      "known": 99
     }
   ],
   "jobs": [
+    {
+      "id": "1a117c341ccCwBT",
+      "company": "ICE",
+      "title": "Data Analyst, Corporate Systems",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4447708606?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3BgeAERhs8S8avDoGEjUxA2Q%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3GVpOKAM5gAYs1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~muyenfbi~jf-null-null&eid=q9jfse-muyenfbi-jf&otpToken=OTk4MjcyOWQxNmU3ZjkxOTU2NjFiYjJlMmQwY2RkY2IxMTMwNGJiYmFiMjkyYjkwYmUzMGY2MDY2ZDI4MGUxZjlkNTAzZDY4NjcwZTI5ZjlhMDdiYWRlZWRiNTI3MDUzZmVkYzMzMzI1Y2Y1ZmUyNDMwMmY1MzRiYzc0ODEyY2YxMmZmMTlkNjlhZGZmOGFjZWEsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-07T19:07:14.764692+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a117c346368LCO",
+      "company": "Jobgether",
+      "title": "Revenue Operations Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4474255695/?trackingId=Y%2FoERGYFo2UOP9WzEnPIBw%3D%3D&refId=tmSI%2FyPMxC6u%2Fc7HnxtPqQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwbJj94V%2BR7idcR7B59jCrQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0002fotpE-hyAIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4474255695_ssid_8461940610_fmid_q9jfse~muy65lis~lj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4474255695_ssid_8461940610_fmid_q9jfse~muy65lis~lj-null-q9jfse~muy65lis~lj-null-null&eid=q9jfse-muy65lis-lj&otpToken=MTM4MDZlZmUzZTUwMGUyZjVmZDZkZmVmMzNmNzViOGM0ZTc2MmE4Y2VkNGYzY2I0YmM1ZTcxMDFjN2NlNjAzN2Q3Y2RjMTZkOTQ4ZDRmMDhkYjVmMWU0ZDc5OWE4YzJkOWFmYzRmYzVhYWY0OTAwNTdlMDAxNDA3ZmZkY2E1NWEyYzZkNTdlY2JhZTY3MDRkZWYsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-07T19:07:15.894898+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a117c35eaaZrIJ",
+      "company": "Grady Health System",
+      "title": "Business Intelligence Developer (Research)",
+      "location": "Atlanta Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4475862220/?trackingId=R38Mp85kEwbZhMN5LzoFfw%3D%3D&refId=FgGTKt2GW1PCQC62Za0qJQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZCcwmEZHTEGJ610SvueBbw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig;wy0Bu3ZiAYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475862220_ssid_8694209842_fmid_q9jfse~muyeq8wc~wc&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475862220_ssid_8694209842_fmid_q9jfse~muyeq8wc~wc-null-q9jfse~muyeq8wc~wc-null-null&eid=q9jfse-muyeq8wc-wc&otpToken=MzE0NmJiOWEwZTc0MmIxM2E3Y2NhZGIxY2Q5ZGJiYmYwZjZlY2E0YTgwNjhhZjNjNGNhNmI0NjhlNGEyMDEwOTliMWIxOWFjNmJkZTM2MTQ2MTI5NWM1ODBjMjBhNmZiMGJkYzE1M2M2Njc2ZDc3YzVjMWUwMjlkZjA2Y2VlM2Q5ZmIxZGJlNGU0MTQyMDE0MDksMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-07T19:07:22.154149+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-02.1"
+    },
+    {
+      "id": "1a117c360c7RsJr",
+      "company": "Fetch Pet Insurance",
+      "title": "Business Intelligence Analyst \u2013 Member Experience & Operations",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4475844884/?trackingId=neivLBm6ZglNul96ACG8jA%3D%3D&refId=NiW%2BiEMXiAvqcC01mYirSw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B0rHqq8vISN%2Bc6kHH1OA5cg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3qEt0PfPNJAIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4475844884_ssid_8367968258_fmid_q9jfse~muy6jb1l~jt&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4475844884_ssid_8367968258_fmid_q9jfse~muy6jb1l~jt-null-q9jfse~muy6jb1l~jt-null-null&eid=q9jfse-muy6jb1l-jt&otpToken=ZWVmMWRkOTkzZGMzZDE2OTM3ODU3OGE4MGQ5MTgyZWE0MTkzNGU3YTlkOTBiN2Q4NmIyZDg2NzZkZGE4NGRlOWI1MmExYzFmMWE1OTBkYTRlYzUyZmVlNjMxNzQ3ODViZjk5ZWIzNzQ1M2M0NTJmNmM3YjYzN2NjYjgwY2Y0OTY1MmQxNTQ3ZTM3NGE3ZjhjYTEsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-07T19:07:22.695429+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:onsite_or_hybrid"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-02.1"
+    },
     {
       "id": "1a1176a7786C0bt",
       "company": "IDR",
@@ -8925,6 +9030,6 @@
       "at": "2026-10-07T13:54:04.205Z"
     }
   ],
-  "lastRun": "2026-10-06T21:28:50.827721+00:00",
-  "savedAt": "2026-10-07T17:34:21.768160+00:00"
+  "lastRun": "2026-10-07T19:08:14.857542+00:00",
+  "savedAt": "2026-10-07T19:08:14.857542+00:00"
 }
