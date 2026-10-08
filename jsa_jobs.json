@@ -605,46 +605,6 @@
   ],
   "jobs": [
     {
-      "id": "1a11ad8eff60-Zv",
-      "company": "Evlo AI",
-      "title": "Business Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475706839/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:29:47.254266+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11ad8f650RpP_",
-      "company": "Chenega Professional Services Strategic  Business Unit",
-      "title": "Scientific Data Analyst II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476944069/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:29:48.880044+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a11ad90191Zz4C",
       "company": "LexisNexis Risk Solutions",
       "title": "Data Analyst II",
@@ -8383,7 +8343,9 @@
     "https://www.linkedin.com/jobs/view/4473831263/",
     "https://www.linkedin.com/jobs/view/4473142704/",
     "https://www.linkedin.com/jobs/view/4476582154/",
-    "https://www.linkedin.com/jobs/view/4476342914/"
+    "https://www.linkedin.com/jobs/view/4476342914/",
+    "https://www.linkedin.com/jobs/view/4475706839/",
+    "https://www.linkedin.com/jobs/view/4476944069/"
   ],
   "dismissedKeys": [
     {
@@ -10633,8 +10595,16 @@
     {
       "k": "texas health resources|data research analyst tx center joint replacement full time days",
       "at": "2026-10-07T13:54:04.205Z"
+    },
+    {
+      "k": "evlo ai|business data analyst",
+      "at": "2026-10-08T17:14:31.743Z"
+    },
+    {
+      "k": "chenega professional services strategic business unit|scientific data analyst ii",
+      "at": "2026-10-08T17:14:31.743Z"
     }
   ],
   "lastRun": "2026-10-07T21:49:03.316936+00:00",
-  "savedAt": "2026-10-08T17:13:27.558Z"
+  "savedAt": "2026-10-08T17:14:31.743Z"
 }
