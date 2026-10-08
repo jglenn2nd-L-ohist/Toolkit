@@ -1733,26 +1733,6 @@
       "status": "New"
     },
     {
-      "id": "1a11bf9dd95fQvX",
-      "company": "Wiraa",
-      "title": "Business Intelligence Analyst (Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475798227/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:45:22.453130+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf9f9c948LY",
       "company": "Gildan",
       "title": "Brand Marketing Analyst",
@@ -8214,7 +8194,8 @@
     "https://www.linkedin.com/jobs/view/4475165228/",
     "https://www.linkedin.com/jobs/view/4447219032/",
     "https://www.linkedin.com/jobs/view/4475120296/",
-    "https://www.linkedin.com/jobs/view/4474450765/"
+    "https://www.linkedin.com/jobs/view/4474450765/",
+    "https://www.linkedin.com/jobs/view/4475798227/"
   ],
   "dismissedKeys": [
     {
@@ -10508,8 +10489,12 @@
     {
       "k": "camlin group|data analytics engineer",
       "at": "2026-10-08T18:28:29.327Z"
+    },
+    {
+      "k": "wiraa|business intelligence analyst",
+      "at": "2026-10-08T21:07:37.761Z"
     }
   ],
   "lastRun": "2026-10-08T19:04:16.443237+00:00",
-  "savedAt": "2026-10-08T20:58:15.967Z"
+  "savedAt": "2026-10-08T21:07:37.761Z"
 }
