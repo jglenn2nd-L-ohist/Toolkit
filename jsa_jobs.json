@@ -667,26 +667,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11ad93997xuIk",
-      "company": "DSV - Global Transport and Logistics",
-      "title": "Business Analyst, Inventory",
-      "location": "Lithia Springs, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475165228/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:30:06.103683+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a11ad93f0cu8mU",
       "company": "Amadeus",
       "title": "BI Data Acquisition Analyst",
@@ -705,46 +685,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-02.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a11ad950603YTw",
-      "company": "Stord",
-      "title": "Test & Analytics Engineer",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4447219032/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:30:11.936385+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11ad95b2dZAeC",
-      "company": "Superior Essex",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475120296/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:30:14.701468+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
     },
     {
       "id": "1a11ad962cfdzJC",
@@ -8250,7 +8190,10 @@
     "https://www.linkedin.com/jobs/view/4476937698/",
     "https://www.linkedin.com/jobs/view/4475774011/",
     "https://www.linkedin.com/jobs/view/4476742048/",
-    "https://www.linkedin.com/jobs/view/4475847828/"
+    "https://www.linkedin.com/jobs/view/4475847828/",
+    "https://www.linkedin.com/jobs/view/4475165228/",
+    "https://www.linkedin.com/jobs/view/4447219032/",
+    "https://www.linkedin.com/jobs/view/4475120296/"
   ],
   "dismissedKeys": [
     {
@@ -10528,8 +10471,20 @@
     {
       "k": "barnes thornburg|marketing business intelligence analyst",
       "at": "2026-10-08T17:43:45.486Z"
+    },
+    {
+      "k": "dsv global transport and logistics|business analyst inventory",
+      "at": "2026-10-08T18:28:00.606Z"
+    },
+    {
+      "k": "stord|test analytics engineer",
+      "at": "2026-10-08T18:28:00.606Z"
+    },
+    {
+      "k": "superior essex|business analyst",
+      "at": "2026-10-08T18:28:00.606Z"
     }
   ],
   "lastRun": "2026-10-07T21:49:03.316936+00:00",
-  "savedAt": "2026-10-08T18:14:19.756Z"
+  "savedAt": "2026-10-08T18:28:00.606Z"
 }
