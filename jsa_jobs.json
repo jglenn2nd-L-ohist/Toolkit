@@ -645,66 +645,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a11ad91306uTX6",
-      "company": "Georgia State University",
-      "title": "Data Analyst, Associate",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476937698/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T09:29:56.230850+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11ad91c7eTtyC",
-      "company": "Wellstar Health System",
-      "title": "Women's Health Business Insights - Healthy Start",
-      "location": "Marietta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475774011/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:29:58.654963+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11ad92b17suFc",
-      "company": "Agile Consulting Group, Inc.",
-      "title": "Data Analyst",
-      "location": "Peachtree Corners, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476742048/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:30:02.391749+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a11ad93161MJ-u",
       "company": "Surge Technology Solutions Inc",
       "title": "Business Data Analyst",
@@ -756,26 +696,6 @@
       "source": "LinkedIn",
       "viewed": true,
       "dateAdded": "2026-10-08T09:30:07.500846+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11ad94631O2k3",
-      "company": "Barnes & Thornburg LLP",
-      "title": "Marketing Business Intelligence Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475847828/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T09:30:09.329482+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -8326,7 +8246,11 @@
     "https://www.linkedin.com/jobs/view/4476342914/",
     "https://www.linkedin.com/jobs/view/4475706839/",
     "https://www.linkedin.com/jobs/view/4476944069/",
-    "https://www.linkedin.com/jobs/view/4475149328/"
+    "https://www.linkedin.com/jobs/view/4475149328/",
+    "https://www.linkedin.com/jobs/view/4476937698/",
+    "https://www.linkedin.com/jobs/view/4475774011/",
+    "https://www.linkedin.com/jobs/view/4476742048/",
+    "https://www.linkedin.com/jobs/view/4475847828/"
   ],
   "dismissedKeys": [
     {
@@ -10588,8 +10512,24 @@
     {
       "k": "relx|data analyst ii",
       "at": "2026-10-08T17:39:38.453Z"
+    },
+    {
+      "k": "georgia state university|data analyst associate",
+      "at": "2026-10-08T17:43:45.485Z"
+    },
+    {
+      "k": "wellstar health system|women s health business insights healthy start",
+      "at": "2026-10-08T17:43:45.485Z"
+    },
+    {
+      "k": "agile consulting group|data analyst",
+      "at": "2026-10-08T17:43:45.485Z"
+    },
+    {
+      "k": "barnes thornburg|marketing business intelligence analyst",
+      "at": "2026-10-08T17:43:45.486Z"
     }
   ],
   "lastRun": "2026-10-07T21:49:03.316936+00:00",
-  "savedAt": "2026-10-08T17:43:38.553Z"
+  "savedAt": "2026-10-08T17:43:45.486Z"
 }
