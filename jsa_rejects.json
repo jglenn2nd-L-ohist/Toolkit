@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "Commercial Analyst Development Program - Atlanta, GA (New Grad 2027)",
+      "company": "BMO U.S.",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4460921336/?trackingId=%2BAw8%2B73GpfRzNkWdQ6XbRQ%3D%3D&refId=7qKWLpiH8MSeE%2B%2BfhizrZg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BXaHygky%2BSDCGQIg3wnIH4A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mClJsyOxGCss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4460921336_ssid_8694211818_fmid_q9jfse~muzygeme~4z&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4460921336_ssid_8694211818_fmid_q9jfse~muzygeme~4z-null-q9jfse~muzygeme~4z-null-null&eid=q9jfse-muzygeme-4z&otpToken=MWMxZWE3ZWRmNWE0ZWI0MjRiMjU3NjM0MTk5NWQ0ODg3ZWRkMmVhOGJiNWY3ZmRmZTJmNTNiYjlkNzRmOTk2NzEwYTM2YTY1YTI3YzQzM2RmNjhmYTZhNTgwNzVmMDgwMGRlZjdjYmQ0ZDQ5Y2VjYmE5M2EzYmRjNjM5MTQ4MjM2NmNlNWNkY2JhZDIyYWY5MDMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:2027"
+      ],
+      "filter_version": "2026-10-02.1",
+      "dateAdded": "2026-10-08T21:52:24.826321+00:00"
+    },
+    {
       "title": "Summer 2027 Internship:  Learning Operations Analyst",
       "company": "QTS Data Centers",
       "location": "Duluth, GA",
@@ -18135,19 +18147,6 @@
       ],
       "filter_version": "2026-10-02.1",
       "dateAdded": "2026-10-07T17:33:20.213889+00:00"
-    },
-    {
-      "title": "Marketing Data Analyst III",
-      "company": "Boston Scientific",
-      "location": "Maple Grove, MN",
-      "url": "https://www.linkedin.com/jobs/view/4473991106/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iii",
-        "out_of_area:MN"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-07T17:33:25.141877+00:00"
     }
   ]
 }
