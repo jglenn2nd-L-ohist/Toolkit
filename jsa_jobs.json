@@ -1943,7 +1943,7 @@
       "url": "https://www.linkedin.com/comm/jobs/view/4450363457?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B8JJ%2FdXfJR%2BqAWAEBjG7Skw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0IOKcAhe3yAYs1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~muyjv2dz~eh-null-null&eid=q9jfse-muyjv2dz-eh&otpToken=N2VhMWI5N2Q4MmExNDU1NTI3MGNkMDFjMjk2NjYxNDQ0NGJmY2ZjYWRiNDNiZjk5NDA2N2NmZWFiMmMwNGZhNjJkZWIxODU5YTE5N2NkMTYyYjNiYWFjZmZkNGEzN2RhMTkxN2EzYWNmNWYyODIzYjlhZDlhZGRlZWUwYjg2N2IwNzk5ZjFhYTIzZWZkZjllNjUsMiwx",
       "source": "LinkedIn",
       "status": "New",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-07T21:48:51.841399+00:00",
       "notes": "",
       "enriched": true,
@@ -10511,5 +10511,5 @@
     }
   ],
   "lastRun": "2026-10-08T19:04:16.443237+00:00",
-  "savedAt": "2026-10-08T20:09:45.665Z"
+  "savedAt": "2026-10-08T20:10:20.507Z"
 }
