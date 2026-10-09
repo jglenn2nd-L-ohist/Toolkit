@@ -15,7 +15,7 @@ evaluate() never silently drops anything. Every decision carries reason codes.
 
 import re
 
-FILTER_VERSION = '2026-10-02.1'   # bump when rules change; stamped on every record
+FILTER_VERSION = '2026-10-09.1'   # bump when rules change; stamped on every record
 
 # ── WHERE YOU CAN WORK ────────────────────────────────────
 ALLOWED_STATES = {'GA', 'FL', 'NC', 'SC'}
@@ -151,6 +151,82 @@ SALARY_FLOOR = 60000   # annual; only applied when a salary is actually posted
 
 COMPANY_BLOCK = []   # lowercase substrings; empty on purpose — add only after evidence
 
+# ── HEALTHCARE (10-09: excluded at your request) ──────────
+# Checked against company name and title only. The JD body is NOT checked, because
+# nearly every JD mentions "healthcare" in its benefits section.
+HEALTHCARE_COMPANY = (
+    r'\b(health|healthcare|hospitals?|medical|medicine|clinics?|clinical|pharma\w*|pharmacy|'
+    r'oncology|pediatrics?|orthodontics?|dental|dentistry|surgical|surgery|surgeons?|anesthesi\w*|'
+    r'cardiology|radiology|dermatology|ortho\w*|physicians?|nursing|hospice|rehab\w*|'
+    r'behavioral|biotech|life sciences|eye|sight|vision care|children s healthcare)\b')
+HEALTHCARE_NAMES = [   # health organizations whose names don't say so
+    'kaiser permanente', 'elevance', 'anthem', 'cigna', 'humana', 'aetna', 'unitedhealth', 'optum',
+    'centene', 'molina', 'mckesson', 'cencora', 'cardinal', 'wellstar', 'piedmont', 'emory',
+    'northside', 'grady', 'navicent', 'adventhealth', 'hca', 'mayo', 'cleveland clinic', 'upmc',
+    'sharecare', 'oncohealth', 'spring health', 'springhealth', 'brightspring', 'privia',
+    'assistrx', 'practicesuite', 'carisk', 'enlyte', 'mount sinai', 'baptist', 'waystar', 'cerner',
+    'epic systems', 'athenahealth', 'labcorp', 'quest diagnostics', 'cvs', 'walgreens', 'davita',
+    'fresenius', 'medline', 'stryker', 'medtronic', 'abbott', 'pfizer', 'iqvia', 'veradigm',
+]
+HEALTHCARE_TITLE = (r'\b(healthcare|health care|clinical|medical|patient|hospital|pharmacy|'
+                    r'epic|cerner|ehr|emr|mychart|revenue cycle|rcm|hedis|'
+                    r'provider data|nurse|nursing)\b')
+
+# ── STAFFING AGENCIES (10-09) ─────────────────────────────
+# A staffing-agency posting passes only when the JOB is in the Atlanta metro.
+# Remote and other-city staffing postings are rejected.
+# Set to 'remote_only' to reject only remote staffing postings and keep other cities.
+STAFFING_POLICY = 'atlanta_only'
+STAFFING_NAMES = [
+    'robert half', 'kforce', 'insight global', 'teksystems', 'tek systems', 'aerotek', 'actalent',
+    'randstad', 'adecco', 'manpower', 'experis', 'kelly services', 'apex systems', 'motion recruitment',
+    'addison group', 'russell tobin', 'ektello', 'collabera', 'aquent', 'sotalent', 'swooped', 'lhh',
+    'harnham', 'calculated hire', 'allegis', 'jobgether', 'divine talent', 'talenthop', 'cybercoders',
+    'beacon hill', 'hays', 'modis', 'akkodis', 'vaco', 'creative circle', 'judge group', 'system one',
+    'spherion', 'express employment', 'robert walters', 'michael page', 'page group', 'planet group',
+    'diverse lynx', 'mastech', 'infojini', 'atrium', 'brooksource', 'eliassen', 'signature consultants',
+    'ascendo', 'yoh', 'volt', 'k force', 'jobot', 'dice', 'hirequest', 'lancesoft', 'rangam',
+    'pyramid consulting', 'tekwissen', 'artech', 'net2source', 'mindlance', 'idr', 'fns',
+    'global business ser', 'programmers io', 'cloud computing sgs',
+]
+STAFFING_WORDS = (r'\b(staffing|recruit\w*|talent|personnel|placement|resourcing|'
+                  r'search group|workforce solutions|employment services|hire)\b')
+
+ATLANTA_METRO = [
+    'atlanta', 'norcross', 'alpharetta', 'duluth', 'marietta', 'roswell', 'sandy springs',
+    'johns creek', 'peachtree corners', 'smyrna', 'kennesaw', 'decatur', 'dunwoody', 'lawrenceville',
+    'suwanee', 'buford', 'brookhaven', 'chamblee', 'tucker', 'stone mountain', 'college park',
+    'east point', 'mcdonough', 'cumming', 'douglasville', 'lithia springs', 'austell', 'conyers',
+    'snellville', 'fayetteville, ga', 'peachtree city', 'newnan', 'woodstock', 'canton, ga',
+    'acworth', 'doraville', 'union city', 'morrow', 'stockbridge', 'milton, ga', 'vinings',
+    'lilburn', 'loganville', 'dacula', 'hapeville', 'forest park', 'covington, ga', 'mableton',
+]
+
+
+def _norm_co(c):
+    return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9]+', ' ', (c or '').lower())).strip()
+
+
+def is_healthcare(company, title):
+    co = _norm_co(company)
+    if co and (re.search(HEALTHCARE_COMPANY, co) or any(re.search(r'\b' + n + r'\b', co) for n in HEALTHCARE_NAMES)):
+        return 'company'
+    if re.search(HEALTHCARE_TITLE, (title or '').lower()):
+        return 'title'
+    return None
+
+
+def is_staffing(company):
+    co = _norm_co(company)
+    if not co or co == 'see posting':
+        return False
+    return bool(re.search(STAFFING_WORDS, co) or any(re.search(r'\b' + n + r'\b', co) for n in STAFFING_NAMES))
+
+
+def in_atlanta_metro(location):
+    loc = (location or '').lower()
+    return any(c in loc for c in ATLANTA_METRO)
+
 
 # ── LOCATION PARSING ──────────────────────────────────────
 def _states_in(text):
@@ -267,6 +343,9 @@ def evaluate(job, jd_text=None):
     # 2. Company
     if any(c in company for c in COMPANY_BLOCK):
         reject.append('company_blocked')
+    hc = is_healthcare(job.get('company'), title)
+    if hc:
+        reject.append('healthcare:' + hc)
 
     # 3. Location (allowlist, fail closed)
     loc_class, detail = classify_location(job.get('location'))
@@ -286,6 +365,14 @@ def evaluate(job, jd_text=None):
         review.append('location_unknown')
     elif loc_class == 'us_remote' and jd_text is None:
         review.append('remote_unverified')
+
+    # 3b. Staffing agencies: only Atlanta-metro jobs survive
+    if is_staffing(job.get('company')):
+        remote = loc_class in ('us_remote', 'unknown') or job.get('remote_search') or 'remote' in tl
+        if STAFFING_POLICY == 'atlanta_only' and not in_atlanta_metro(job.get('location')):
+            reject.append('staffing_outside_atlanta')
+        elif STAFFING_POLICY == 'remote_only' and remote:
+            reject.append('staffing_remote')
 
     # 4. JD body
     if jd_text:
