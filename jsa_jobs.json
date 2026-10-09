@@ -675,6 +675,19 @@
   ],
   "jobs": [
     {
+      "id": "mv12wjr5jp16",
+      "company": "FNS",
+      "title": "Transportation Business Planning Analyst",
+      "location": "Duluth, GA",
+      "salary": "",
+      "url": "https://www.fnsusa.com/job-openings-2/?gh_jid=4693600006&gh_src=kwrhv9n16us&grnh.se=grnh.se",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-09T14:46:46.529Z",
+      "notes": ""
+    },
+    {
       "id": "1a120dd3725wYZN",
       "company": "Smith",
       "title": "Sales Data Analyst",
@@ -11405,5 +11418,5 @@
     }
   ],
   "lastRun": "2026-10-08T21:52:33.390121+00:00",
-  "savedAt": "2026-10-09T14:10:03.731Z"
+  "savedAt": "2026-10-09T14:46:46.530Z"
 }
