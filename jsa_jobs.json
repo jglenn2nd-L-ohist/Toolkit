@@ -675,26 +675,6 @@
   ],
   "jobs": [
     {
-      "id": "1a120dd320ch9wr",
-      "company": "University of South Florida",
-      "title": "Data Management Analyst I",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474855432/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:32:09.612795+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
-    },
-    {
       "id": "1a120dd3725wYZN",
       "company": "Smith",
       "title": "Sales Data Analyst",
@@ -1579,25 +1559,6 @@
       "status": "New"
     },
     {
-      "id": "1a11ce67309Q-Q3",
-      "company": "Gentiva",
-      "title": "Revenue Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4475158095/?trackingId=X%2BQ3oUYJFb6hRdsQYwQ8Ag%3D%3D&refId=QHBPR%2BcJJLhgzAhyKACMwg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BKjKFe4ZFTFmsUho3toZmsw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3wfnT0CnPOCcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475158095_ssid_8352402866_fmid_q9jfse~muzu63bb~tt&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475158095_ssid_8352402866_fmid_q9jfse~muzu63bb~tt-null-q9jfse~muzu63bb~tt-null-null&eid=q9jfse-muzu63bb-tt&otpToken=MTY1MzM1MDEzNjI5ZGVkZTdjMGYxOWVkZmU1MGEzNTk4YjFjNDIwYjJiYTVkMGRhYjI3Yjc4YWE0MTA2NDI5M2NhMDBhMGQ1ODgyZGQxMmJmMjAwZGJkYjQ1YmVjZTE1YzNhMzNmYTQzMjcxMDczYTA3ZTY4MTUxMDdhYWM5YmIxZGE1OGZmZDJmZTQ2M2ZhYmMsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-10-08T19:03:47.209685+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1"
-    },
-    {
       "id": "1a11ad90191Zz4C",
       "company": "LexisNexis Risk Solutions",
       "title": "Data Analyst II",
@@ -1830,26 +1791,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-02.1",
       "status": "Review"
-    },
-    {
-      "id": "1a11bf382e1jc5j",
-      "company": "DeKalb County Government",
-      "title": "Systems Analyst (Revenue Services)",
-      "location": "Decatur, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474468944/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:38:26.017922+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-02.1",
-      "status": "New"
     },
     {
       "id": "1a11bf38b29_qvj",
@@ -9148,7 +9089,10 @@
     "https://www.linkedin.com/jobs/view/4447219032/",
     "https://www.linkedin.com/jobs/view/4475120296/",
     "https://www.linkedin.com/jobs/view/4474450765/",
-    "https://www.linkedin.com/jobs/view/4475798227/"
+    "https://www.linkedin.com/jobs/view/4475798227/",
+    "https://www.linkedin.com/jobs/view/4474855432/",
+    "https://www.linkedin.com/comm/jobs/view/4475158095/?trackingId=X%2BQ3oUYJFb6hRdsQYwQ8Ag%3D%3D&refId=QHBPR%2BcJJLhgzAhyKACMwg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BKjKFe4ZFTFmsUho3toZmsw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3wfnT0CnPOCcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475158095_ssid_8352402866_fmid_q9jfse~muzu63bb~tt&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475158095_ssid_8352402866_fmid_q9jfse~muzu63bb~tt-null-q9jfse~muzu63bb~tt-null-null&eid=q9jfse-muzu63bb-tt&otpToken=MTY1MzM1MDEzNjI5ZGVkZTdjMGYxOWVkZmU1MGEzNTk4YjFjNDIwYjJiYTVkMGRhYjI3Yjc4YWE0MTA2NDI5M2NhMDBhMGQ1ODgyZGQxMmJmMjAwZGJkYjQ1YmVjZTE1YzNhMzNmYTQzMjcxMDczYTA3ZTY4MTUxMDdhYWM5YmIxZGE1OGZmZDJmZTQ2M2ZhYmMsMiwx",
+    "https://www.linkedin.com/jobs/view/4474468944/"
   ],
   "dismissedKeys": [
     {
@@ -11446,8 +11390,20 @@
     {
       "k": "wiraa|business intelligence analyst",
       "at": "2026-10-08T21:07:37.761Z"
+    },
+    {
+      "k": "university of south florida|data management analyst i",
+      "at": "2026-10-09T14:10:03.730Z"
+    },
+    {
+      "k": "gentiva|revenue operations analyst",
+      "at": "2026-10-09T14:10:03.730Z"
+    },
+    {
+      "k": "dekalb county government|systems analyst revenue services",
+      "at": "2026-10-09T14:10:03.730Z"
     }
   ],
   "lastRun": "2026-10-08T21:52:33.390121+00:00",
-  "savedAt": "2026-10-09T14:09:17.389Z"
+  "savedAt": "2026-10-09T14:10:03.731Z"
 }
