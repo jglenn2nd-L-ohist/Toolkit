@@ -1,6 +1,755 @@
 {
   "rejects": [
     {
+      "title": "Data Analyst, Platform Excellence Ops Analytics",
+      "company": "Swooped",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476952265/?trackingId,GgYhZOwCurL%2FgzK5dw%2Bg%3D%3D&refId=G%2BgrIv%2FxVLcufin4xyWwXg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FY2qRIgKRPW5HR16TwkBxQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\ftGhZ7TWiDIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476952265_ssid_15402374820_fmid_q9jfse~mv19lygj~nq&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476952265_ssid_15402374820_fmid_q9jfse~mv19lygj~nq-null-q9jfse~mv19lygj~nq-null-null&eid=q9jfse-mv19lygj-nq&otpToken=YzcyNzM1ZTFkMTc0ZTljODI4MDVlMjVmYTg1NjI0OThmZDY1YWNkMmQ3NTg1NTVlMDkyM2JiMGM0NzI1OTU1ZWUwODkwYjQzMTdlY2JkZjg1N2I3MzliODRmYWFjZDMzOTQ4YTIwYTg2OTI1ZDJkMjIwOWM4Y2ViZGUyOWVhNGY1NWE0ZWYyZmY0MTQzYzNmMzYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T18:34:06.182443+00:00"
+    },
+    {
+      "title": "Power BI/NetSuite/Adaptive Insights Analyst",
+      "company": "Robert Half",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476748085/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:12.745766+00:00"
+    },
+    {
+      "title": "Learning & Dev Data Analytics Reporting Mgr",
+      "company": "Kforce Inc",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4468822750/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:14.548553+00:00"
+    },
+    {
+      "title": "Revenue Operations Specialist",
+      "company": "PracticeSuite, Inc.",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476775517/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:17.175568+00:00"
+    },
+    {
+      "title": "3334 RCM Business Analyst",
+      "company": "US Eye",
+      "location": "Sarasota, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477482325/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:32.289435+00:00"
+    },
+    {
+      "title": "3334 RCM Business Analyst",
+      "company": "Center For Sight",
+      "location": "Sarasota, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477470314/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:33.932616+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "AssistRx",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4476912016/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:32:43.541288+00:00"
+    },
+    {
+      "title": "Payor Pricing Analyst (BioPlus)",
+      "company": "Elevance Health",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477626093/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:33:32.486711+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Collabera",
+      "location": "Orlando, FL",
+      "url": "https://www.linkedin.com/jobs/view/4472355264/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:33:34.250781+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Insight Global",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4475998065/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:34:51.357600+00:00"
+    },
+    {
+      "title": "Computers Systems Analyst/Enterprise Application Integration Engineer- Multiple openings - Jacksonville, FL",
+      "company": "Cloud computing - SGS Technologie",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477405528/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:34:59.333400+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Vitana Pediatric & Orthodontic Partners",
+      "location": "Plantation, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477699054/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:07.458925+00:00"
+    },
+    {
+      "title": "Business Operations Analyst-Facilities, Construction Management, FT, 8A-4:30P",
+      "company": "Baptist Health",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476570908/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:10.041063+00:00"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477468675/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:18.698924+00:00"
+    },
+    {
+      "title": "Clinical Systems Analyst",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477471572/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:20.227525+00:00"
+    },
+    {
+      "title": "Epic System Analyst Ambulatory Healthy Planet",
+      "company": "Mount Sinai Medical Center",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477420075/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:22.583788+00:00"
+    },
+    {
+      "title": "Data Analyst (Marketing Cloud)",
+      "company": "Global Business Ser. 4u",
+      "location": "Fort Lauderdale, FL",
+      "url": "https://www.linkedin.com/jobs/view/4475747304/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:36:45.840476+00:00"
+    },
+    {
+      "title": "MIAP Product Data Analyst",
+      "company": "Kforce Inc",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4477419380/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:37:00.397029+00:00"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Insight Global",
+      "location": "Miramar, FL",
+      "url": "https://www.linkedin.com/jobs/view/4475997117/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:37:16.016500+00:00"
+    },
+    {
+      "title": "Clinical Systems Analyst-Associate",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476774467/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:37:24.821818+00:00"
+    },
+    {
+      "title": "Data & Systems Support Analyst",
+      "company": "Carisk Partners",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476939689/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:37:26.396256+00:00"
+    },
+    {
+      "title": "Business Intelligence Analyst",
+      "company": "Enlyte",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4476219110/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:38:01.825168+00:00"
+    },
+    {
+      "title": "IS Systems Analyst",
+      "company": "Piedmont",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/jobs/view/4477664208/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-09T13:38:57.751847+00:00"
+    },
+    {
+      "title": "Supply Chain Analyst II - Supply Chain & Logistics",
+      "company": "Kaiser Permanente",
+      "location": "Duluth, GA",
+      "url": "https://www.linkedin.com/jobs/view/4475946056/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:38:36.760898+00:00"
+    },
+    {
+      "title": "Liquidity Data Analyst",
+      "company": "Apex Systems",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4476947211/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:39:56.598833+00:00"
+    },
+    {
+      "title": "Predictive Maintenance Engineer",
+      "company": "I-care Reliability Inc.",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4471653342/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:40:06.132909+00:00"
+    },
+    {
+      "title": "Technical Business Analyst",
+      "company": "Pyramid Consulting, Inc",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4476938190/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:40:37.815153+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Central Florida Health Care, Inc.",
+      "location": "Winter Haven, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476976600/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:45:21.122999+00:00"
+    },
+    {
+      "title": "Product Operations Analyst",
+      "company": "SoTalent",
+      "location": "Irving, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474480072/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-08T14:46:04.223822+00:00"
+    },
+    {
+      "title": "Revenue Operations Analyst",
+      "company": "Jobgether",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4474255695/?trackingId=Y%2FoERGYFo2UOP9WzEnPIBw%3D%3D&refId=tmSI%2FyPMxC6u%2Fc7HnxtPqQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwbJj94V%2BR7idcR7B59jCrQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0002fotpE-hyAIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4474255695_ssid_8461940610_fmid_q9jfse~muy65lis~lj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4474255695_ssid_8461940610_fmid_q9jfse~muy65lis~lj-null-q9jfse~muy65lis~lj-null-null&eid=q9jfse-muy65lis-lj&otpToken=MTM4MDZlZmUzZTUwMGUyZjVmZDZkZmVmMzNmNzViOGM0ZTc2MmE4Y2VkNGYzY2I0YmM1ZTcxMDFjN2NlNjAzN2Q3Y2RjMTZkOTQ4ZDRmMDhkYjVmMWU0ZDc5OWE4YzJkOWFmYzRmYzVhYWY0OTAwNTdlMDAxNDA3ZmZkY2E1NWEyYzZkNTdlY2JhZTY3MDRkZWYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T19:07:15.894898+00:00"
+    },
+    {
+      "title": "Business Intelligence Developer (Research)",
+      "company": "Grady Health System",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/comm/jobs/view/4475862220/?trackingId=R38Mp85kEwbZhMN5LzoFfw%3D%3D&refId=FgGTKt2GW1PCQC62Za0qJQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZCcwmEZHTEGJ610SvueBbw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig;wy0Bu3ZiAYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475862220_ssid_8694209842_fmid_q9jfse~muyeq8wc~wc&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4475862220_ssid_8694209842_fmid_q9jfse~muyeq8wc~wc-null-q9jfse~muyeq8wc~wc-null-null&eid=q9jfse-muyeq8wc-wc&otpToken=MzE0NmJiOWEwZTc0MmIxM2E3Y2NhZGIxY2Q5ZGJiYmYwZjZlY2E0YTgwNjhhZjNjNGNhNmI0NjhlNGEyMDEwOTliMWIxOWFjNmJkZTM2MTQ2MTI5NWM1ODBjMjBhNmZiMGJkYzE1M2M2Njc2ZDc3YzVjMWUwMjlkZjA2Y2VlM2Q5ZmIxZGJlNGU0MTQyMDE0MDksMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T19:07:22.154149+00:00"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "IDR",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476749251/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta",
+        "jd_term:erp_implementation"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T17:30:15.814407+00:00"
+    },
+    {
+      "title": "Commercial Operations Analyst",
+      "company": "Yoh, A Day & Zimmermann Company",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476756098/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T17:30:31.785246+00:00"
+    },
+    {
+      "title": "Database Marketing Operations Analyst",
+      "company": "IDR",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476743537/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T17:31:52.214585+00:00"
+    },
+    {
+      "title": "Healthcare Data Analyst",
+      "company": "McLeod Centers for Wellbeing",
+      "location": "Charlotte, NC",
+      "url": "https://www.linkedin.com/jobs/view/4476738670/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:title"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T17:32:57.990768+00:00"
+    },
+    {
+      "title": "Reporting Analyst",
+      "company": "SoTalent",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/4474468127/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T17:33:43.999208+00:00"
+    },
+    {
+      "title": "Analyst, Insights & Analytics",
+      "company": "Sud Recruiting",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475110635/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:15:49.007077+00:00"
+    },
+    {
+      "title": "Business Analyst I",
+      "company": "Addison Group",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475567457/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:16:24.723064+00:00"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "company": "Robert Half",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476188927/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:16:29.009617+00:00"
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "company": "ektello",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474631094/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:16:41.441962+00:00"
+    },
+    {
+      "title": "Business Analyst (Business Operations)",
+      "company": "ektello",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476378332/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:16:48.761535+00:00"
+    },
+    {
+      "title": "eCommerce Data Analyst \u2013 Business Intelligence",
+      "company": "ektello",
+      "location": "Plano, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475876298/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:17:34.158572+00:00"
+    },
+    {
+      "title": "IT Systems Analyst",
+      "company": "SoTalent",
+      "location": "Grand Prairie, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474067146/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:17:42.813659+00:00"
+    },
+    {
+      "title": "Business Analyst lll",
+      "company": "Insight Global",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4475121378/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:18:04.793165+00:00"
+    },
+    {
+      "title": "Epic Business Analyst I - Cadence",
+      "company": "Harris Health",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476534395/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:18:16.871334+00:00"
+    },
+    {
+      "title": "Business System Analyst",
+      "company": "Robert Half",
+      "location": "The Woodlands, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474954812/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:18:19.091273+00:00"
+    },
+    {
+      "title": "D365 CRM Business Analyst",
+      "company": "Robert Half",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476307222/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:18:20.907484+00:00"
+    },
+    {
+      "title": "Business Analyst (Level I)",
+      "company": "TALENT Software Services",
+      "location": "Houston, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474414265/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T13:18:33.055558+00:00"
+    },
+    {
+      "title": "Healthcare Strategic Data Analyst",
+      "company": "Healthfirst",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4475122210/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:title"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:07:52.029902+00:00"
+    },
+    {
+      "title": "Business Analyst II, Provider Data",
+      "company": "Centene Corporation",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/4476395049/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:07:53.439809+00:00"
+    },
+    {
+      "title": "Business Analyst with JIRA/SQL/Agile",
+      "company": "1ST-RECRUIT LLC, An E-Verified Company",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476378953/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:08:00.081441+00:00"
+    },
+    {
+      "title": "Data Security Analyst",
+      "company": "Programmers.io",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4475111922/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:08:03.887937+00:00"
+    },
+    {
+      "title": "Data Security Analyst (DLP)",
+      "company": "Programmers.io",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4475121395/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:08:19.230946+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Brooksource",
+      "location": "Lake Mary, FL",
+      "url": "https://www.linkedin.com/jobs/view/4474098953/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:09:10.534677+00:00"
+    },
+    {
+      "title": "Proposal & Pricing Strategist, Deal Desk (On-Site, Jacksonville)",
+      "company": "Jimerson Birr",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4474095702/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_not_target"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:10:14.733580+00:00"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "Kforce Inc",
+      "location": "Jacksonville, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476384908/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:10:16.895024+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476393159/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:29:15.308132+00:00"
+    },
+    {
+      "title": "Information Technology Business Analyst",
+      "company": "Leon Recruitment",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/jobs/view/4476514635/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:29:29.814826+00:00"
+    },
+    {
+      "title": "Data Analyst - Transplant Administration",
+      "company": "UT Southwestern Medical Center",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4474418663/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:30:33.908278+00:00"
+    },
+    {
+      "title": "Data Analyst - Transplant Administration",
+      "company": "UT Southwestern Department of Dermatology",
+      "location": "Dallas, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476528669/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:30:36.006549+00:00"
+    },
+    {
+      "title": "Consumer Insights Analyst",
+      "company": "Addison Group",
+      "location": "Fort Worth, TX",
+      "url": "https://www.linkedin.com/jobs/view/4476333854/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-07T03:31:12.263086+00:00"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Talenzaa",
+      "location": "Tampa, FL",
+      "url": "https://www.linkedin.com/jobs/view/4474970554/",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-06T17:38:29.461899+00:00"
+    },
+    {
       "title": "Client Services Analyst",
       "company": "YouGov",
       "location": "United States",
@@ -17454,750 +18203,6 @@
       ],
       "filter_version": "2026-10-02.1",
       "dateAdded": "2026-10-08T14:39:20.064986+00:00"
-    },
-    {
-      "title": "Financial Analyst III",
-      "company": "Yamaha Motor Corporation, USA",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475868769/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:financial"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:20.065137+00:00"
-    },
-    {
-      "title": "Strategy & Operations, Risk",
-      "company": "Stripe",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4467431910/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:risk"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:26.879242+00:00"
-    },
-    {
-      "title": "Senior Technical Product Engineer",
-      "company": "Delta Air Lines",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4457632029/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:26.879435+00:00"
-    },
-    {
-      "title": "Corporate Intern - Digital Product Strategy Team",
-      "company": "White Cap",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476944499/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:intern"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:28.925099+00:00"
-    },
-    {
-      "title": "Sr IT Analyst - SAP S/4 HANA PP/QM Functional Consultant",
-      "company": "Honeywell Technologies",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476948696/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.899035+00:00"
-    },
-    {
-      "title": "Dynamics 365 Finance & Operations (F&O) Analyst",
-      "company": "Holder Construction",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4419969444/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:finance"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.899525+00:00"
-    },
-    {
-      "title": "Enterprise Applications Analyst - Manufacturing",
-      "company": "Oldcastle Infrastructure",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4444014557/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.899939+00:00"
-    },
-    {
-      "title": "Application Analyst",
-      "company": "Children's Healthcare of Atlanta",
-      "location": "Brookhaven, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474526637/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.900302+00:00"
-    },
-    {
-      "title": "Senior Financial Systems Analyst",
-      "company": "Dentons",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472635129/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.900663+00:00"
-    },
-    {
-      "title": "Community Connect - Certified Epic Professional Billing Sr Application Analyst",
-      "company": "Wellstar Health System",
-      "location": "Marietta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4440811476/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.900868+00:00"
-    },
-    {
-      "title": "SAP Senior Functional Consultant",
-      "company": "Deloitte",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476111099/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.901099+00:00"
-    },
-    {
-      "title": "Sr. Lead Systems Analyst, Identity & Access",
-      "company": "Chick-fil-A Corporate Support Center",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4418837282/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr."
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.901291+00:00"
-    },
-    {
-      "title": "Senior HRIS Analyst",
-      "company": "RaceTrac",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4456516551/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.901507+00:00"
-    },
-    {
-      "title": "Senior Epic Analyst - Ambulatory Care",
-      "company": "Deloitte",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475171712/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.901699+00:00"
-    },
-    {
-      "title": "Research Informatics Analyst School of Medicine Brain Health",
-      "company": "Emory University",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4473667996/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:33.901895+00:00"
-    },
-    {
-      "title": "ServiceNow - ServiceNow HR Service Delivery (HRSD) - Senior - Tech Consulting - Open Location",
-      "company": "EY",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4465541981/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.982615+00:00"
-    },
-    {
-      "title": "Senior SAP Concur Consultant",
-      "company": "Maitsys",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475469799/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.983001+00:00"
-    },
-    {
-      "title": "Managed Services, Epic Certified Senior Associate (Beaker, Radiant, Willow)",
-      "company": "PwC",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476786849/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.983263+00:00"
-    },
-    {
-      "title": "Senior Systems Analyst",
-      "company": "Stable Kernel",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475806807/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.983460+00:00"
-    },
-    {
-      "title": "Implementation Specialist - Advanced Planning Systems - SCM Connections",
-      "company": "McKinsey & Company",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4440584883/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:advanced"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.983652+00:00"
-    },
-    {
-      "title": "ServiceNow Analyst",
-      "company": "DMI",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4438216255/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:servicenow"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.984043+00:00"
-    },
-    {
-      "title": "SAP SCM Analyst",
-      "company": "Qcells Georgia, Inc.",
-      "location": "Cartersville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466184159/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sap"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.984323+00:00"
-    },
-    {
-      "title": "Warehouse Automation Software Consultant",
-      "company": "Hai Robotics",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4476377686/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:warehouse"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.984617+00:00"
-    },
-    {
-      "title": "Senior Application Manager",
-      "company": "Kennesaw State University",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4440196761/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.984989+00:00"
-    },
-    {
-      "title": "Manager, Global Travel & Expense Systems",
-      "company": "Arclin",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474826195/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.985208+00:00"
-    },
-    {
-      "title": "Transformation - Workday Manager",
-      "company": "Grant Thornton (US)",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474472645/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.985446+00:00"
-    },
-    {
-      "title": "Implementation Consultant",
-      "company": "Tyler Technologies",
-      "location": "Lawrenceville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474988317/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.985692+00:00"
-    },
-    {
-      "title": "Engineer, Systems Engineering",
-      "company": "ICE",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4467406857/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.986034+00:00"
-    },
-    {
-      "title": "Senior Associate Software Engineer \uf0e0 Salesforce Business Analyst",
-      "company": "Truist",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475000877/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.986339+00:00"
-    },
-    {
-      "title": "Professional Services Consultant",
-      "company": "Sage",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4467403151/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.986525+00:00"
-    },
-    {
-      "title": "Senior Learning Technology Systems Administrator",
-      "company": "Kennesaw State University",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4440187983/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.986894+00:00"
-    },
-    {
-      "title": "Manager, Enterprise Systems, Data & Compliance",
-      "company": "AMETEK",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4467208084/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.987073+00:00"
-    },
-    {
-      "title": "Delivery Consultant \u2013 IBM Maximo Application Suite",
-      "company": "IBM",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474411236/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.987284+00:00"
-    },
-    {
-      "title": "SAP EWM Lead Consultant",
-      "company": "DXC Technology",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4466581843/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.987696+00:00"
-    },
-    {
-      "title": "Epic HIM Analyst",
-      "company": "Insight Global",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475720194/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.987885+00:00"
-    },
-    {
-      "title": "Workday Financials Technical Lead 5530",
-      "company": "Tier4 Group",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4472192214/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:35.988186+00:00"
-    },
-    {
-      "title": "Inventory Planning Analyst",
-      "company": "HD Supply",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476529100/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:inventory plann"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.185263+00:00"
-    },
-    {
-      "title": "Purchasing Analyst",
-      "company": "Slip Robotics",
-      "location": "Norcross, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476374079/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:purchasing"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.185578+00:00"
-    },
-    {
-      "title": "Supply Chain Planner",
-      "company": "Corsair",
-      "location": "Duluth, GA",
-      "url": "https://www.linkedin.com/jobs/view/4403502518/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.185832+00:00"
-    },
-    {
-      "title": "Supply Chain Functional Planning Senior Consultant",
-      "company": "Deloitte",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4476103594/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.186113+00:00"
-    },
-    {
-      "title": "Production Control Specialist - Automotive Parts Manufacture",
-      "company": "Activ8 Recruitment & Solutions",
-      "location": "Pendergrass, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475869465/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.186278+00:00"
-    },
-    {
-      "title": "SAP - Procurement and Inventory - Senior - Consulting - Location OPEN",
-      "company": "EY",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474096801/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.186662+00:00"
-    },
-    {
-      "title": "Purchasing Agent (Service)",
-      "company": "Panasonic Automotive North America",
-      "location": "Peachtree City, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475869067/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:purchasing"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.186858+00:00"
-    },
-    {
-      "title": "Master Scheduler",
-      "company": "Hillphoenix",
-      "location": "Conyers, GA",
-      "url": "https://www.linkedin.com/jobs/view/4465238535/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.187095+00:00"
-    },
-    {
-      "title": "Manufacturing Planning Specialist (Korean Bilingual)",
-      "company": "Qcells Georgia, Inc.",
-      "location": "Cartersville, GA",
-      "url": "https://www.linkedin.com/jobs/view/4457642764/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.187339+00:00"
-    },
-    {
-      "title": "Procurement Specialist, Material Planner",
-      "company": "DSV - Global Transport and Logistics",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4457605307/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:material plann"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.187675+00:00"
-    },
-    {
-      "title": "Procurement Analyst",
-      "company": "Yamaha Motor Corporation, USA",
-      "location": "Newnan, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475439018/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:procurement"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.187983+00:00"
-    },
-    {
-      "title": "Supply Chain Consultant",
-      "company": "RELEX Solutions",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4465911932/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:42.188230+00:00"
-    },
-    {
-      "title": "The Carter Center: Logistician, Overseas Operations",
-      "company": "Emory University",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4438448134/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.063609+00:00"
-    },
-    {
-      "title": "Inventory Control Manager",
-      "company": "DEUTZ Corporation",
-      "location": "Norcross, GA",
-      "url": "https://www.linkedin.com/jobs/view/4433284472/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.064136+00:00"
-    },
-    {
-      "title": "Master Scheduler Inventory Optimization Senior Consultant",
-      "company": "Crowe",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4392034213/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.064403+00:00"
-    },
-    {
-      "title": "Planning Associate",
-      "company": "Resonant Clinical Solutions",
-      "location": "Oakwood, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475869929/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.064624+00:00"
-    },
-    {
-      "title": "Manufacturing Procurement Specialist",
-      "company": "IPA\u2122",
-      "location": "Duluth, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474972727/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:procurement"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.065952+00:00"
-    },
-    {
-      "title": "Planning Engineer",
-      "company": "NPAworldwide",
-      "location": "Covington, GA",
-      "url": "https://www.linkedin.com/jobs/view/4472553141/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.066471+00:00"
-    },
-    {
-      "title": "Logistics Specialist - J0051968",
-      "company": "Astemo Ltd.",
-      "location": "Monroe, GA",
-      "url": "https://www.linkedin.com/jobs/view/4471827144/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:44.066854+00:00"
-    },
-    {
-      "title": "Inventory Manager & Planning - Manufacturing",
-      "company": "Mauser Packaging Solutions",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4470459714/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.693190+00:00"
-    },
-    {
-      "title": "Transportation Specialist",
-      "company": "The Coca-Cola Company",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475951684/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.693546+00:00"
-    },
-    {
-      "title": "Buyer",
-      "company": "Hillphoenix",
-      "location": "Conyers, GA",
-      "url": "https://www.linkedin.com/jobs/view/4465236581/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.693917+00:00"
-    },
-    {
-      "title": "Business Process Engineer",
-      "company": "Randstad Digital Americas",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475448477/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.694198+00:00"
-    },
-    {
-      "title": "Freight Specialist - Manufacture",
-      "company": "Activ8 Recruitment & Solutions",
-      "location": "College Park, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475813388/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.694536+00:00"
-    },
-    {
-      "title": "Buyer",
-      "company": "Ryerson",
-      "location": "Norcross, GA",
-      "url": "https://www.linkedin.com/jobs/view/4474400253/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.694905+00:00"
-    },
-    {
-      "title": "Senior Solution Consultant",
-      "company": "Swisslog",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475835040/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-02.1",
-      "dateAdded": "2026-10-08T14:39:46.695208+00:00"
     }
   ]
 }
