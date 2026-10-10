@@ -744,8 +744,8 @@
       "salary": "",
       "url": "https://myjobs.adp.com/spsx/cx/app?assignmentId=33958994227&reqId=5001229101306&workflowComponent=eeoc",
       "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
+      "status": "Applied",
+      "viewed": true,
       "dateAdded": "2026-10-10T03:57:20.379Z",
       "notes": ""
     },
@@ -10325,5 +10325,5 @@
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-10T03:57:20.379Z"
+  "savedAt": "2026-10-10T03:57:25.648Z"
 }
