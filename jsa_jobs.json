@@ -844,46 +844,6 @@
       "status": "New"
     },
     {
-      "id": "1a120dec50eLi5y",
-      "company": "Entrega",
-      "title": "Dealer Operations Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476775060/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:33:52.782691+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a120dfe86ediLR",
-      "company": "SoFi",
-      "title": "Crypto Core Operations Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477474287/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:35:07.374937+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e08aacJIPD",
       "company": "Wounded Warrior Project",
       "title": "QA Testing Systems Analyst I",
@@ -7842,7 +7802,9 @@
     "https://www.linkedin.com/jobs/view/4466202823/",
     "https://www.linkedin.com/jobs/view/4474842932/",
     "https://www.linkedin.com/jobs/view/4474076256/",
-    "https://www.linkedin.com/jobs/view/4476394245/"
+    "https://www.linkedin.com/jobs/view/4476394245/",
+    "https://www.linkedin.com/jobs/view/4476775060/",
+    "https://www.linkedin.com/jobs/view/4477474287/"
   ],
   "dismissedKeys": [
     {
@@ -10188,8 +10150,16 @@
     {
       "k": "software technology|geographic information systems analyst",
       "at": "2026-10-10T03:59:48.862Z"
+    },
+    {
+      "k": "entrega|dealer operations analyst",
+      "at": "2026-10-10T04:05:47.390Z"
+    },
+    {
+      "k": "sofi|crypto core operations analyst",
+      "at": "2026-10-10T04:05:47.391Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-10T04:02:39.845Z"
+  "savedAt": "2026-10-10T04:05:47.391Z"
 }
