@@ -864,26 +864,6 @@
       "status": "New"
     },
     {
-      "id": "1a120df99b4hN-s",
-      "company": "FIS",
-      "title": "Analyst, People Insights",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477469948/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:34:47.220869+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120dfe86ediLR",
       "company": "SoFi",
       "title": "Crypto Core Operations Analyst",
@@ -7937,7 +7917,8 @@
     "https://www.linkedin.com/comm/jobs/view/4475472895/?trackingId=4q39Tben6%2B1kqShEd3XpBw%3D%3D&refId=TKGohnC9KlPQo%2BQYcZL1mQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BJTWslysyTbGhA6srv2Hn9g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1LapVOsbC4DIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4475472895_sectionid_272001_fmid_q9jfse~mv193o05~5a&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4475472895_sectionid_272001_fmid_q9jfse~mv193o05~5a-null-q9jfse~mv193o05~5a-null-null&eid=q9jfse-mv193o05-5a&otpToken=MWE0YWM4Zjg2OWYyZmFkYjY4YTA0NjBkNzc2NGY0NmUzNDEwY2I3ZjcyZTliNTE1ZmI4Y2Q0N2U1MGUyYWM5ZGM0MzVlMjI2NTEzMjI1NmFmYzdiYmRiZDllYjNiMDQxNmY5NWVhZDdkOTEyM2RmYTgyNzJmNWNiM2MyZjFhYzQzZDFmZjFkNDhlNjAzZTM3NjYsMiwx",
     "https://www.linkedin.com/jobs/view/4476271101/",
     "https://www.linkedin.com/jobs/view/4477667205/",
-    "https://www.linkedin.com/jobs/view/4467765610/"
+    "https://www.linkedin.com/jobs/view/4467765610/",
+    "https://www.linkedin.com/jobs/view/4477469948/"
   ],
   "dismissedKeys": [
     {
@@ -10263,8 +10244,12 @@
     {
       "k": "mosaic|hr connect systems analyst",
       "at": "2026-10-10T03:57:52.139Z"
+    },
+    {
+      "k": "fis|analyst people insights",
+      "at": "2026-10-10T03:58:19.293Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-10T03:58:09.714Z"
+  "savedAt": "2026-10-10T03:58:19.328Z"
 }
