@@ -1066,26 +1066,6 @@
       "status": "New"
     },
     {
-      "id": "1a120e2f409jD_3",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Identity & Signal",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466202823/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-09T13:38:26.953203+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e33607uQd1",
       "company": "Go4",
       "title": "Product Analyst",
@@ -1135,26 +1115,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-09T13:38:48.648397+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a120e363149AS3",
-      "company": "State of South Carolina",
-      "title": "Information Technology Business Systems Analyst",
-      "location": "Rock Hill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474842932/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-09T13:38:55.380231+00:00",
       "notes": "",
       "remote_search": true,
       "via": "proactive",
@@ -1584,26 +1544,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf48c0ez_WW",
-      "company": "Georgia System Operations Corporation",
-      "title": "Human Resources Information System Analyst",
-      "location": "Tucker, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474076256/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:39:33.902360+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf4ac6csnJ6",
       "company": "Flip Electronics",
       "title": "Digital Inventory Marketing Analyst",
@@ -1917,26 +1857,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-08T14:41:28.322992+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11bf653f4ktZW",
-      "company": "Software Technology Inc.",
-      "title": "Geographic Information Systems Analyst",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476394245/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:41:30.612231+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -7918,7 +7838,11 @@
     "https://www.linkedin.com/jobs/view/4476271101/",
     "https://www.linkedin.com/jobs/view/4477667205/",
     "https://www.linkedin.com/jobs/view/4467765610/",
-    "https://www.linkedin.com/jobs/view/4477469948/"
+    "https://www.linkedin.com/jobs/view/4477469948/",
+    "https://www.linkedin.com/jobs/view/4466202823/",
+    "https://www.linkedin.com/jobs/view/4474842932/",
+    "https://www.linkedin.com/jobs/view/4474076256/",
+    "https://www.linkedin.com/jobs/view/4476394245/"
   ],
   "dismissedKeys": [
     {
@@ -10248,8 +10172,24 @@
     {
       "k": "fis|analyst people insights",
       "at": "2026-10-10T03:58:19.293Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 identity signal",
+      "at": "2026-10-10T03:59:48.862Z"
+    },
+    {
+      "k": "state of south carolina|information technology business systems analyst",
+      "at": "2026-10-10T03:59:48.862Z"
+    },
+    {
+      "k": "georgia system operations|human resources information system analyst",
+      "at": "2026-10-10T03:59:48.862Z"
+    },
+    {
+      "k": "software technology|geographic information systems analyst",
+      "at": "2026-10-10T03:59:48.862Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-10T03:58:19.328Z"
+  "savedAt": "2026-10-10T03:59:48.863Z"
 }
