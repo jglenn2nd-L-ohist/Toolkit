@@ -1242,26 +1242,6 @@
       "status": "New"
     },
     {
-      "id": "1a1305237b21C0v",
-      "company": "MISTRAS Group",
-      "title": "In-line Inspection MFL/GEO Data Analyst (Level 2-3)",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4459424825/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:34:17.011086+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130523e5ePJe6",
       "company": "ASK Consulting",
       "title": "Supply chain Data Analyst",
@@ -8512,7 +8492,8 @@
     "https://www.linkedin.com/jobs/view/4475123208/",
     "https://www.linkedin.com/jobs/view/4475104860/",
     "https://www.linkedin.com/jobs/view/4474987234/",
-    "https://www.linkedin.com/jobs/view/4469191478/"
+    "https://www.linkedin.com/jobs/view/4469191478/",
+    "https://www.linkedin.com/jobs/view/4459424825/"
   ],
   "dismissedKeys": [
     {
@@ -10982,8 +10963,12 @@
     {
       "k": "aditi consulting|junior supply chain analyst",
       "at": "2026-10-12T14:40:52.018Z"
+    },
+    {
+      "k": "mistras group|in line inspection mfl geo data analyst level 2 3",
+      "at": "2026-10-12T14:41:58.952Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T14:41:27.276Z"
+  "savedAt": "2026-10-12T14:41:58.952Z"
 }
