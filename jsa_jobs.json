@@ -1182,26 +1182,6 @@
       "status": "New"
     },
     {
-      "id": "1a130522759t2BR",
-      "company": "Mace",
-      "title": "Data & Reporting Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478096778/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-12T13:34:12.825671+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130522d3efM31",
       "company": "Ezee Fiber",
       "title": "Analyst, Business Intelligence",
@@ -1273,26 +1253,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-12T13:34:28.800927+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a130533a21k7SO",
-      "company": "Indotronix Avani Group",
-      "title": "Reporting Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476868130/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-12T13:35:23.170015+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -2261,26 +2221,6 @@
       "status": "New"
     },
     {
-      "id": "1a11bf45065oia7",
-      "company": "City of Atlanta",
-      "title": "Data/Reporting Analyst I",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4463089360/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:39:18.629315+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf46823fB48",
       "company": "Global Business Ser. 4u",
       "title": "Technical Ontology CPG Business Analyst",
@@ -2423,26 +2363,6 @@
       "status": "New"
     },
     {
-      "id": "1a11bf4f3387uOr",
-      "company": "Ahold Delhaize USA",
-      "title": "IT Service Analytics & Reporting Analyst",
-      "location": "Salisbury, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475416101/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:40:00.312213+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf4f9187wK_",
       "company": "SMBC Group",
       "title": "CCAR Data Analyst, Associate",
@@ -2556,26 +2476,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-08T14:41:20.619444+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11bf634d5Wmna",
-      "company": "Abrigo",
-      "title": "Reporting Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474624060/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:41:22.645064+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -4295,26 +4195,6 @@
       "status": "New"
     },
     {
-      "id": "1a1146a9cd4MCIB",
-      "company": "Leidos",
-      "title": "Reporting Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474413358/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:31:33.717011+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1146ad1b9wk59",
       "company": "Fulton County Schools",
       "title": "System Analyst, Enterprise Applications",
@@ -4324,26 +4204,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-07T03:31:47.257596+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1146aeaa39J6R",
-      "company": "Nexus Circular",
-      "title": "Feedstock Planning & Reporting Analyst-On-Site Atlanta, GA",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475114178/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:31:53.635974+00:00",
       "notes": "",
       "remote_search": true,
       "via": "proactive",
@@ -4431,26 +4291,6 @@
       "filter_status": "pass",
       "filter_reasons": [],
       "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a112508ca3VVTr",
-      "company": "MeridianLink",
-      "title": "Data Analyst, Reporting",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476329614/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T17:43:51.203636+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "New"
     },
@@ -8455,7 +8295,15 @@
     "https://www.linkedin.com/jobs/view/4469191478/",
     "https://www.linkedin.com/jobs/view/4459424825/",
     "https://www.linkedin.com/jobs/view/4476806484/",
-    "https://www.linkedin.com/jobs/view/4475990529/"
+    "https://www.linkedin.com/jobs/view/4475990529/",
+    "https://www.linkedin.com/jobs/view/4478096778/",
+    "https://www.linkedin.com/jobs/view/4476868130/",
+    "https://www.linkedin.com/jobs/view/4463089360/",
+    "https://www.linkedin.com/jobs/view/4475416101/",
+    "https://www.linkedin.com/jobs/view/4474624060/",
+    "https://www.linkedin.com/jobs/view/4474413358/",
+    "https://www.linkedin.com/jobs/view/4475114178/",
+    "https://www.linkedin.com/jobs/view/4476329614/"
   ],
   "dismissedKeys": [
     {
@@ -10937,8 +10785,40 @@
     {
       "k": "tenaska|settlement reporting analyst",
       "at": "2026-10-12T20:38:53.200Z"
+    },
+    {
+      "k": "mace|data reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "indotronix avani group|reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "city of atlanta|data reporting analyst i",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "ahold delhaize usa|it service analytics reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "abrigo|reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "leidos|reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "nexus circular|feedstock planning reporting analyst",
+      "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "meridianlink|data analyst reporting",
+      "at": "2026-10-12T20:41:27.975Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T20:41:14.684Z"
+  "savedAt": "2026-10-12T20:41:27.975Z"
 }
