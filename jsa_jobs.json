@@ -2742,26 +2742,6 @@
       "status": "New"
     },
     {
-      "id": "1a116824969vhKR",
-      "company": "PrincePerelson and Associates",
-      "title": "Asset Management Operations Analyst - Entry Level",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474975170/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:16:39.657745+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a116825887hgU-",
       "company": "G MASS Consulting",
       "title": "Alternative Investments Operations Analyst",
@@ -7747,7 +7727,8 @@
     "https://www.linkedin.com/jobs/view/4477474287/",
     "https://www.linkedin.com/jobs/view/4476210130/",
     "https://www.linkedin.com/jobs/view/4468303833/",
-    "https://www.linkedin.com/jobs/view/4476951236/"
+    "https://www.linkedin.com/jobs/view/4476951236/",
+    "https://www.linkedin.com/jobs/view/4474975170/"
   ],
   "dismissedKeys": [
     {
@@ -10113,8 +10094,12 @@
     {
       "k": "wounded warrior project|qa testing systems analyst i",
       "at": "2026-10-12T13:34:15.046Z"
+    },
+    {
+      "k": "princeperelson and associates|asset management operations analyst entry level",
+      "at": "2026-10-12T13:34:18.637Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T13:34:15.046Z"
+  "savedAt": "2026-10-12T13:34:18.637Z"
 }
