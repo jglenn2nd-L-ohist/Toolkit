@@ -790,26 +790,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a126859cdeQuVg",
-      "company": "Texas Instruments",
-      "title": "Inventory and Product Operations Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475713998/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-10T15:54:13.086230+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a12685a52ajeRW",
       "company": "Tenaska",
       "title": "Settlement Reporting Analyst",
@@ -8816,7 +8796,8 @@
     "https://www.linkedin.com/jobs/view/4478028194/",
     "https://www.linkedin.com/jobs/view/4476856431/",
     "https://www.linkedin.com/jobs/view/4476815833/",
-    "https://www.linkedin.com/jobs/view/4478054112/"
+    "https://www.linkedin.com/jobs/view/4478054112/",
+    "https://www.linkedin.com/jobs/view/4475713998/"
   ],
   "dismissedKeys": [
     {
@@ -11222,8 +11203,12 @@
     {
       "k": "fannie mae|business intelligence ai solutions analyst single family",
       "at": "2026-10-12T14:11:50.527Z"
+    },
+    {
+      "k": "texas instruments|inventory and product operations analyst",
+      "at": "2026-10-12T14:38:49.000Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T14:18:44.845Z"
+  "savedAt": "2026-10-12T14:38:49.000Z"
 }
