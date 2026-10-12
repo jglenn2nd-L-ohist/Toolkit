@@ -800,6 +800,26 @@
       "messages": 89,
       "found": 232,
       "known": 174
+    },
+    {
+      "at": "2026-10-12T23:32:55.283364+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 0,
+          "review": 0,
+          "reject": 3
+        }
+      },
+      "reasons": {
+        "title_unlisted": 2,
+        "title_excluded": 1,
+        "location_unknown": 1
+      },
+      "messages": 25,
+      "found": 60,
+      "known": 57
     }
   ],
   "jobs": [
@@ -11136,6 +11156,6 @@
       "at": "2026-10-12T20:48:17.541Z"
     }
   ],
-  "lastRun": "2026-10-12T21:28:23.188299+00:00",
-  "savedAt": "2026-10-12T21:28:23.188299+00:00"
+  "lastRun": "2026-10-12T23:32:55.953984+00:00",
+  "savedAt": "2026-10-12T23:32:55.953984+00:00"
 }
