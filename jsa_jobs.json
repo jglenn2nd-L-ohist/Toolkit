@@ -804,26 +804,6 @@
       "notes": ""
     },
     {
-      "id": "1a120de8319Y6B5",
-      "company": "Orlando Magic",
-      "title": "Global Partnership Solutions & Insights Specialist",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476797075/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:33:35.897206+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120de8954mlu8",
       "company": "Siemens Energy",
       "title": "Sales Operations Professional",
@@ -7728,7 +7708,8 @@
     "https://www.linkedin.com/jobs/view/4476210130/",
     "https://www.linkedin.com/jobs/view/4468303833/",
     "https://www.linkedin.com/jobs/view/4476951236/",
-    "https://www.linkedin.com/jobs/view/4474975170/"
+    "https://www.linkedin.com/jobs/view/4474975170/",
+    "https://www.linkedin.com/jobs/view/4476797075/"
   ],
   "dismissedKeys": [
     {
@@ -10098,8 +10079,12 @@
     {
       "k": "princeperelson and associates|asset management operations analyst entry level",
       "at": "2026-10-12T13:34:18.637Z"
+    },
+    {
+      "k": "orlando magic|global partnership solutions insights specialist",
+      "at": "2026-10-12T13:35:12.778Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T13:34:45.965Z"
+  "savedAt": "2026-10-12T13:35:12.778Z"
 }
