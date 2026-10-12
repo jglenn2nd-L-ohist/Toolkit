@@ -770,26 +770,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1268565e8iL_q",
-      "company": "WebTPA",
-      "title": "Data Analyst - Irving, Texas",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477883550/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-10T15:53:59.016140+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a126856ca6N3e_",
       "company": "DSV - Global Transport and Logistics",
       "title": "Data Analyst, Operations-LBJ FWY",
@@ -8911,7 +8891,8 @@
     "https://www.linkedin.com/jobs/view/4476797075/",
     "https://www.linkedin.com/jobs/view/4434697380/",
     "https://www.linkedin.com/jobs/view/4477465083/",
-    "https://www.linkedin.com/jobs/view/4476799145/"
+    "https://www.linkedin.com/jobs/view/4476799145/",
+    "https://www.linkedin.com/jobs/view/4477883550/"
   ],
   "dismissedKeys": [
     {
@@ -11297,8 +11278,12 @@
     {
       "k": "bca financial services|remote application systems analyst",
       "at": "2026-10-12T13:36:28.500Z"
+    },
+    {
+      "k": "webtpa|data analyst irving texas",
+      "at": "2026-10-12T13:52:35.935Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T13:52:15.793Z"
+  "savedAt": "2026-10-12T13:52:35.935Z"
 }
