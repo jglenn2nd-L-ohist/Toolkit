@@ -864,26 +864,6 @@
       "status": "New"
     },
     {
-      "id": "1a120e12ce7T3HS",
-      "company": "SBA Communications",
-      "title": "Bilingual Operations Analyst II | English & Spanish | Boca Raton, FL",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476210130/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-09T13:36:30.439366+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e132afpkfP",
       "company": "Dynamic Specialty Inc (MGA)",
       "title": "Business Analyst",
@@ -1371,26 +1351,6 @@
       "source": "LinkedIn",
       "viewed": true,
       "dateAdded": "2026-10-08T14:38:39.037193+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11bf3dbbbhYxS",
-      "company": "Cisco",
-      "title": "Leader, Business Intelligence",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468303833/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:38:48.763771+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -7804,7 +7764,9 @@
     "https://www.linkedin.com/jobs/view/4474076256/",
     "https://www.linkedin.com/jobs/view/4476394245/",
     "https://www.linkedin.com/jobs/view/4476775060/",
-    "https://www.linkedin.com/jobs/view/4477474287/"
+    "https://www.linkedin.com/jobs/view/4477474287/",
+    "https://www.linkedin.com/jobs/view/4476210130/",
+    "https://www.linkedin.com/jobs/view/4468303833/"
   ],
   "dismissedKeys": [
     {
@@ -10158,8 +10120,16 @@
     {
       "k": "sofi|crypto core operations analyst",
       "at": "2026-10-10T04:05:47.391Z"
+    },
+    {
+      "k": "sba communications|bilingual operations analyst ii english spanish boca raton fl",
+      "at": "2026-10-12T13:33:02.412Z"
+    },
+    {
+      "k": "cisco|leader business intelligence",
+      "at": "2026-10-12T13:34:02.836Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-10T04:05:56.864Z"
+  "savedAt": "2026-10-12T13:34:02.836Z"
 }
