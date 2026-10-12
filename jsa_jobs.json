@@ -1530,26 +1530,6 @@
       "status": "New"
     },
     {
-      "id": "1a1305524eetAV0",
-      "company": "Hertz",
-      "title": "Product Owner - Commercial Analysis & Data Visualization",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476236375/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:37:28.814926+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13055499672ar",
       "company": "Housing Authority of Columbus Georgia",
       "title": "Business Systems Analyst",
@@ -8303,7 +8283,8 @@
     "https://www.linkedin.com/jobs/view/4474624060/",
     "https://www.linkedin.com/jobs/view/4474413358/",
     "https://www.linkedin.com/jobs/view/4475114178/",
-    "https://www.linkedin.com/jobs/view/4476329614/"
+    "https://www.linkedin.com/jobs/view/4476329614/",
+    "https://www.linkedin.com/jobs/view/4476236375/"
   ],
   "dismissedKeys": [
     {
@@ -10817,8 +10798,12 @@
     {
       "k": "meridianlink|data analyst reporting",
       "at": "2026-10-12T20:41:27.975Z"
+    },
+    {
+      "k": "hertz|product owner commercial analysis data visualization",
+      "at": "2026-10-12T20:44:42.260Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T20:42:03.625Z"
+  "savedAt": "2026-10-12T20:44:42.260Z"
 }
