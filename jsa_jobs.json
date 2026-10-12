@@ -804,26 +804,6 @@
       "notes": ""
     },
     {
-      "id": "1a120e132afpkfP",
-      "company": "Dynamic Specialty Inc (MGA)",
-      "title": "Business Analyst",
-      "location": "Coral Springs, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477465083/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:36:31.919541+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e1fc1cGHjQ",
       "company": "BCA Financial Services, Inc.",
       "title": "Remote Application Systems Analyst",
@@ -7690,7 +7670,8 @@
     "https://www.linkedin.com/jobs/view/4476951236/",
     "https://www.linkedin.com/jobs/view/4474975170/",
     "https://www.linkedin.com/jobs/view/4476797075/",
-    "https://www.linkedin.com/jobs/view/4434697380/"
+    "https://www.linkedin.com/jobs/view/4434697380/",
+    "https://www.linkedin.com/jobs/view/4477465083/"
   ],
   "dismissedKeys": [
     {
@@ -10068,8 +10049,12 @@
     {
       "k": "siemens energy|sales operations professional",
       "at": "2026-10-12T13:35:32.338Z"
+    },
+    {
+      "k": "dynamic specialty mga|business analyst",
+      "at": "2026-10-12T13:35:46.569Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T13:35:34.639Z"
+  "savedAt": "2026-10-12T13:35:46.569Z"
 }
