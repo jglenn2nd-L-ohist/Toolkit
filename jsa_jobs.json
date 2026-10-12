@@ -2427,26 +2427,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf568caSOEm",
-      "company": "CRG",
-      "title": "Jr Business Intelligence Developer",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475712402/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:40:30.410702+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf62cebl6Zl",
       "company": "PDA, Inc.",
       "title": "Consultant/Data Analyst",
@@ -2993,26 +2973,6 @@
       "status": "New"
     },
     {
-      "id": "1a1176b29bc4hoq",
-      "company": "HOLT Group",
-      "title": "Business Intelligence Developer",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467917884/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-07T17:31:01.436964+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1176b92ffmFPo",
       "company": "Aditi Consulting",
       "title": "Supply Chain Analyst",
@@ -3481,46 +3441,6 @@
       "status": "New"
     },
     {
-      "id": "1a116828264kybz",
-      "company": "Leap Metrics",
-      "title": "Business Intelligence Developer",
-      "location": "Dallas-Fort Worth Metroplex",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4384888610/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-07T13:16:54.244538+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11682896foYVi",
-      "company": "Standard Motor Products",
-      "title": "Business Intelligence Developer",
-      "location": "Lewisville, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4418841639/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-07T13:16:56.047676+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11682e6d6LSLy",
       "company": "Deloitte",
       "title": "GCP Cloud Analytics Engineer",
@@ -3610,26 +3530,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-07T13:17:59.157257+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1168384d3sbHW",
-      "company": "Barrios Technology",
-      "title": "Data Analytics Developer I",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474614927/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:00.403949+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -8284,7 +8184,12 @@
     "https://www.linkedin.com/jobs/view/4474413358/",
     "https://www.linkedin.com/jobs/view/4475114178/",
     "https://www.linkedin.com/jobs/view/4476329614/",
-    "https://www.linkedin.com/jobs/view/4476236375/"
+    "https://www.linkedin.com/jobs/view/4476236375/",
+    "https://www.linkedin.com/jobs/view/4475712402/",
+    "https://www.linkedin.com/jobs/view/4467917884/",
+    "https://www.linkedin.com/jobs/view/4384888610/",
+    "https://www.linkedin.com/jobs/view/4418841639/",
+    "https://www.linkedin.com/jobs/view/4474614927/"
   ],
   "dismissedKeys": [
     {
@@ -10802,8 +10707,28 @@
     {
       "k": "hertz|product owner commercial analysis data visualization",
       "at": "2026-10-12T20:44:42.260Z"
+    },
+    {
+      "k": "crg|jr business intelligence developer",
+      "at": "2026-10-12T20:48:17.541Z"
+    },
+    {
+      "k": "holt group|business intelligence developer",
+      "at": "2026-10-12T20:48:17.541Z"
+    },
+    {
+      "k": "leap metrics|business intelligence developer",
+      "at": "2026-10-12T20:48:17.541Z"
+    },
+    {
+      "k": "standard motor products|business intelligence developer",
+      "at": "2026-10-12T20:48:17.541Z"
+    },
+    {
+      "k": "barrios technology|data analytics developer i",
+      "at": "2026-10-12T20:48:17.541Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T20:45:35.209Z"
+  "savedAt": "2026-10-12T20:48:17.542Z"
 }
