@@ -844,26 +844,6 @@
       "status": "New"
     },
     {
-      "id": "1a120e08aacJIPD",
-      "company": "Wounded Warrior Project",
-      "title": "QA Testing Systems Analyst I",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476951236/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-09T13:35:48.908951+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e132afpkfP",
       "company": "Dynamic Specialty Inc (MGA)",
       "title": "Business Analyst",
@@ -7766,7 +7746,8 @@
     "https://www.linkedin.com/jobs/view/4476775060/",
     "https://www.linkedin.com/jobs/view/4477474287/",
     "https://www.linkedin.com/jobs/view/4476210130/",
-    "https://www.linkedin.com/jobs/view/4468303833/"
+    "https://www.linkedin.com/jobs/view/4468303833/",
+    "https://www.linkedin.com/jobs/view/4476951236/"
   ],
   "dismissedKeys": [
     {
@@ -10128,8 +10109,12 @@
     {
       "k": "cisco|leader business intelligence",
       "at": "2026-10-12T13:34:02.836Z"
+    },
+    {
+      "k": "wounded warrior project|qa testing systems analyst i",
+      "at": "2026-10-12T13:34:15.046Z"
     }
   ],
   "lastRun": "2026-10-09T21:30:36.487348+00:00",
-  "savedAt": "2026-10-12T13:34:02.836Z"
+  "savedAt": "2026-10-12T13:34:15.046Z"
 }
