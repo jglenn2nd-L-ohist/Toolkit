@@ -1304,26 +1304,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13054189e6uy1",
-      "company": "USClaims",
-      "title": "Operations Analyst",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475263532/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:36:20.126674+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130543c3fXgPr",
       "company": "BrightCore",
       "title": "Data / BI Analyst",
@@ -7600,7 +7580,8 @@
     "https://www.linkedin.com/jobs/view/4475245181/",
     "https://www.linkedin.com/jobs/view/4477848580/",
     "https://www.linkedin.com/jobs/view/4478382777/",
-    "https://www.linkedin.com/jobs/view/4477852935/"
+    "https://www.linkedin.com/jobs/view/4477852935/",
+    "https://www.linkedin.com/jobs/view/4475263532/"
   ],
   "dismissedKeys": [
     {
@@ -10354,8 +10335,12 @@
     {
       "k": "makai labs|business analyst",
       "at": "2026-10-13T03:26:52.595Z"
+    },
+    {
+      "k": "usclaims|operations analyst",
+      "at": "2026-10-13T03:27:27.919Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:26:56.937Z"
+  "savedAt": "2026-10-13T03:27:27.919Z"
 }
