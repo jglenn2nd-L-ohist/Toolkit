@@ -1519,26 +1519,6 @@
       "status": "Review"
     },
     {
-      "id": "1a120e2ec6dpIXs",
-      "company": "BLACKBEARD OPERATING, LLC",
-      "title": "Data Analytics Engineer",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477660075/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:38:25.005526+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e33607uQd1",
       "company": "Go4",
       "title": "Product Analyst",
@@ -7467,7 +7447,8 @@
     "https://www.linkedin.com/jobs/view/4432882493/",
     "https://www.linkedin.com/jobs/view/4476837774/",
     "https://www.linkedin.com/jobs/view/4476835759/",
-    "https://www.linkedin.com/jobs/view/4475998526/"
+    "https://www.linkedin.com/jobs/view/4475998526/",
+    "https://www.linkedin.com/jobs/view/4477660075/"
   ],
   "dismissedKeys": [
     {
@@ -10249,8 +10230,12 @@
     {
       "k": "veryable|data analyst",
       "at": "2026-10-13T03:40:34.901Z"
+    },
+    {
+      "k": "blackbeard operating|data analytics engineer",
+      "at": "2026-10-13T03:41:48.058Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:41:19.604Z"
+  "savedAt": "2026-10-13T03:41:48.058Z"
 }
