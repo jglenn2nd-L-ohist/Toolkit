@@ -846,9 +846,93 @@
       "messages": 51,
       "found": 115,
       "known": 100
+    },
+    {
+      "at": "2026-10-13T21:46:32.968558+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 1,
+          "reject": 4
+        },
+        "LinkedIn": {
+          "pass": 1,
+          "review": 1,
+          "reject": 0
+        }
+      },
+      "reasons": {
+        "location_unknown": 6,
+        "title_excluded": 2,
+        "title_unlisted": 2
+      },
+      "messages": 28,
+      "found": 64,
+      "known": 57
     }
   ],
   "jobs": [
+    {
+      "id": "1a1373b27ef8Gre",
+      "company": "See posting",
+      "title": "Quantitative Business Analyst, Product Development",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAEr3o7xFWxAICa_LpRJfp_yqcq3o_OXq1cifULK50SFl9uYa9jgPZSRFrYR59KYVrhK91G8GwIZc5G2H9Df7-U2D0u2SrtVvkv59BxwqMb4EQzEis5XuTnGWguv0gIREDF2BMfbHxmQJKTW97WfUrwQzhKLOZKSeL_nxUJ1XrF_9ND_hyGPbtKPe7Lokoa_A7phHEgjFlq-l5B7c405rI0ksEo97bYTEY1MHU2Cd_I2vP9mp3JFVzzxhe5i1jmWEJA7_Ie6y-x0OgzyJWKj4TmaZAGp63pinR0Jf3ApREglDKI1AAqzASDdvn0_X-sZKKOnyspn-u0gmXnKSg6MUVADy8_MoMnrNrVN9gBz9PdfkIBZSd1Pt-FOeJQm1PiVqwotvfpAOg?tsid\u00111000153&auth_token=5_1791927239__WYQHucpwuugnporouiyG9H3ujWJWLRb-BVJ4NC7Uac&contact_id\ufffdf05452&expires\u001792272839",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-13T21:46:26.159259+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a1373b2b5eWqWa",
+      "company": "Wiraa",
+      "title": "Data Analyst I",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478508376/?trackingId=1nzkoip9uEhlfHAyKr3%2F1A%3D%3D&refId=4xUcp2cagtaT5fYkkxAy%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2t6600nDQlW3f%2FXH5fhqNQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3WkBaHlKCaJss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej-null-q9jfse~mv73no9s~ej-null-null&eid=q9jfse-mv73no9s-ej&otpToken=MTM5ZjM5YjcwODIyZjgwZTBkYmExNDA5YmExMzZjZTI4YmNmZWM2OTdmNDkwZmRhOGM4YjE0NTMzZmViMGQ4MWMzZDAyOGY0OTg4ODg4NzBkZGViMzFiMWE0N2RiMGVjYzJjYTkxNzgxMjZlOGMxMzAwMWE0OGRhMTRiZWI2MDI2ZGUwNjU2MjczYWFkNjg2MGUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-13T21:46:27.038218+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a1373b3384meyn",
+      "company": "See posting",
+      "title": "Business Analyst I",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4469238128/?trackingId=AuQe0iQfaqqFzZu58DBb0w%3D%3D&refId=l47U8bPcP%2F3mxBF6lbUkjw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQJC1rKutSlyULOCXRx0sCg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2g91CAwiMOIYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4469238128_ssid_8797982178_fmid_q9jfse~mv6i82sm~cs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4469238128_ssid_8797982178_fmid_q9jfse~mv6i82sm~cs-null-q9jfse~mv6i82sm~cs-null-null&eid=q9jfse-mv6i82sm-cs&otpToken=ZDQ1ODAzZTdhZDM5MDEyN2QyNjk3Nzc1NWE2MjRjZDQ4NDNkZDZkNGU2MWVmN2FiODNiYWJkZmZlOWI2ZDQ5MjQ3NDEyZjZmNDgzNDA0MTkzN2YxODIwODE5ZmY3MDUxM2EyNmI5ZTA2MWIyNmIyMDdjM2NjMjg4NzEwNjU1NTg2ODZkYjE1MTRmMjIyNzFhMmMsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-13T21:46:29.124920+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a136c3ca5dYyR4",
       "company": "See posting",
@@ -10006,6 +10090,6 @@
       "at": "2026-10-13T04:00:45.280Z"
     }
   ],
-  "lastRun": "2026-10-13T19:36:21.490195+00:00",
-  "savedAt": "2026-10-13T19:36:21.490195+00:00"
+  "lastRun": "2026-10-13T21:46:33.513567+00:00",
+  "savedAt": "2026-10-13T21:46:33.513567+00:00"
 }
