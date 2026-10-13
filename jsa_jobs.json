@@ -1907,26 +1907,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf983caDAQ9",
-      "company": "BakerRipley",
-      "title": "Performance Data Analyst (In Office) (2615)",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475705660/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:44:59.466512+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf9bd4djtvK",
       "company": "Trellix",
       "title": "Revenue Operations Analyst",
@@ -7087,7 +7067,8 @@
     "https://www.linkedin.com/jobs/view/4476984358/",
     "https://www.linkedin.com/jobs/view/4475840632/",
     "https://www.linkedin.com/jobs/view/4474451538/",
-    "https://www.linkedin.com/jobs/view/4474073419/"
+    "https://www.linkedin.com/jobs/view/4474073419/",
+    "https://www.linkedin.com/jobs/view/4475705660/"
   ],
   "dismissedKeys": [
     {
@@ -9949,8 +9930,12 @@
     {
       "k": "eaton|supply chain analyst",
       "at": "2026-10-13T03:59:03.836Z"
+    },
+    {
+      "k": "bakerripley|performance data analyst in office 2615",
+      "at": "2026-10-13T03:59:45.076Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:59:08.209Z"
+  "savedAt": "2026-10-13T03:59:45.076Z"
 }
