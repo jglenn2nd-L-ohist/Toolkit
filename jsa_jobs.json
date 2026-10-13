@@ -1150,26 +1150,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13051650fxAYv",
-      "company": "CloudIngest",
-      "title": "Business Intelligence Architect",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476842079/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:33:23.087810+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13051a613pq9e",
       "company": "Topgolf",
       "title": "Product Analyst, POS",
@@ -7866,7 +7846,8 @@
     "https://www.linkedin.com/jobs/view/4474405523/",
     "https://www.linkedin.com/jobs/view/4475119696/",
     "https://www.linkedin.com/jobs/view/4476527808/",
-    "https://www.linkedin.com/jobs/view/4469177834/"
+    "https://www.linkedin.com/jobs/view/4469177834/",
+    "https://www.linkedin.com/jobs/view/4476842079/"
   ],
   "dismissedKeys": [
     {
@@ -10564,8 +10545,12 @@
     {
       "k": "aditi consulting|data analyst",
       "at": "2026-10-13T02:44:11.778Z"
+    },
+    {
+      "k": "cloudingest|business intelligence architect",
+      "at": "2026-10-13T02:44:29.174Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T02:44:14.130Z"
+  "savedAt": "2026-10-13T02:44:29.174Z"
 }
