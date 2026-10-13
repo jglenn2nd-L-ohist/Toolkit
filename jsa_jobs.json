@@ -1775,26 +1775,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a11bf4366bSYqw",
-      "company": "Skanska",
-      "title": "Data Analytics Engineer",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4465942487/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:39:11.979236+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf46823fB48",
       "company": "Global Business Ser. 4u",
       "title": "Technical Ontology CPG Business Analyst",
@@ -7353,7 +7333,8 @@
     "https://www.linkedin.com/jobs/view/4475989425/",
     "https://www.linkedin.com/jobs/view/4477453907/",
     "https://www.linkedin.com/jobs/view/4475992539/",
-    "https://www.linkedin.com/jobs/view/4476772888/"
+    "https://www.linkedin.com/jobs/view/4476772888/",
+    "https://www.linkedin.com/jobs/view/4465942487/"
   ],
   "dismissedKeys": [
     {
@@ -10159,8 +10140,12 @@
     {
       "k": "novelis|business data governance analyst",
       "at": "2026-10-13T03:53:19.545Z"
+    },
+    {
+      "k": "skanska|data analytics engineer",
+      "at": "2026-10-13T03:53:53.291Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:53:19.545Z"
+  "savedAt": "2026-10-13T03:53:53.291Z"
 }
