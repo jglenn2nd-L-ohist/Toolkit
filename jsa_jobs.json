@@ -1863,26 +1863,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf6802fGXOX",
-      "company": "First Citizens Bank",
-      "title": "Business Systems Analyst II",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476984358/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:41:41.935102+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf6ef59skxC",
       "company": "The Citco Group Limited",
       "title": "Data Analyst, Data Transformation",
@@ -1905,46 +1885,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf6f764rO38",
-      "company": "INSPYR Solutions",
-      "title": "360 Data Analyst",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475840632/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:42:12.452929+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11bf77e91XzQK",
-      "company": "State of South Carolina",
-      "title": "Program Coordinator II (BabyNet Data Analyst) / 61047519",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474451538/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:42:47.057887+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf79e3aOcPE",
       "company": "State of South Carolina",
       "title": "Business Systems Analyst (Information Systems/Business Analyst II) - 61166846",
@@ -1965,26 +1905,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a11bf87aa0AqnB",
-      "company": "Eaton",
-      "title": "Supply Chain Analyst",
-      "location": "Sumter, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474073419/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:43:51.584884+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a11bf983caDAQ9",
@@ -7163,7 +7083,11 @@
     "https://www.linkedin.com/jobs/view/4475452124/",
     "https://www.linkedin.com/jobs/view/4476330106/",
     "https://www.linkedin.com/jobs/view/4474089822/",
-    "https://www.linkedin.com/jobs/view/4466592572/"
+    "https://www.linkedin.com/jobs/view/4466592572/",
+    "https://www.linkedin.com/jobs/view/4476984358/",
+    "https://www.linkedin.com/jobs/view/4475840632/",
+    "https://www.linkedin.com/jobs/view/4474451538/",
+    "https://www.linkedin.com/jobs/view/4474073419/"
   ],
   "dismissedKeys": [
     {
@@ -10009,8 +9933,24 @@
     {
       "k": "lenovo|strategic insights analyst",
       "at": "2026-10-13T03:58:40.318Z"
+    },
+    {
+      "k": "first citizens bank|business systems analyst ii",
+      "at": "2026-10-13T03:59:03.836Z"
+    },
+    {
+      "k": "inspyr solutions|360 data analyst",
+      "at": "2026-10-13T03:59:03.836Z"
+    },
+    {
+      "k": "state of south carolina|program coordinator ii babynet data analyst 61047519",
+      "at": "2026-10-13T03:59:03.836Z"
+    },
+    {
+      "k": "eaton|supply chain analyst",
+      "at": "2026-10-13T03:59:03.836Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:58:43.368Z"
+  "savedAt": "2026-10-13T03:59:03.836Z"
 }
