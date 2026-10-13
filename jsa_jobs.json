@@ -1797,26 +1797,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf4b3c3BvLy",
-      "company": "Hunter Douglas, Inc.",
-      "title": "Master Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475476376/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-08T14:39:44.067264+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf4d10aT7rB",
       "company": "Odyssey Logistics",
       "title": "Commercial Data & Performance Analyst",
@@ -7315,7 +7295,8 @@
     "https://www.linkedin.com/jobs/view/4475992539/",
     "https://www.linkedin.com/jobs/view/4476772888/",
     "https://www.linkedin.com/jobs/view/4465942487/",
-    "https://www.linkedin.com/jobs/view/4475752200/"
+    "https://www.linkedin.com/jobs/view/4475752200/",
+    "https://www.linkedin.com/jobs/view/4475476376/"
   ],
   "dismissedKeys": [
     {
@@ -10129,8 +10110,12 @@
     {
       "k": "global business ser 4u|technical ontology cpg business analyst",
       "at": "2026-10-13T03:54:20.746Z"
+    },
+    {
+      "k": "hunter douglas|master data analyst",
+      "at": "2026-10-13T03:54:51.122Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:54:20.746Z"
+  "savedAt": "2026-10-13T03:54:51.122Z"
 }
