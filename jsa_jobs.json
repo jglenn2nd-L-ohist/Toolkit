@@ -1346,26 +1346,6 @@
       "status": "Review"
     },
     {
-      "id": "1a130555879FMGq",
-      "company": "Piper Companies",
-      "title": "Technical Business Systems Analyst - 176073",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476835759/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-12T13:37:42.009430+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130557966BXHs",
       "company": "BodyHealth",
       "title": "Junior Supply Chain Analyst",
@@ -7505,7 +7485,8 @@
     "https://www.linkedin.com/jobs/view/4469276163/",
     "https://www.linkedin.com/jobs/view/4433359043/",
     "https://www.linkedin.com/jobs/view/4432882493/",
-    "https://www.linkedin.com/jobs/view/4476837774/"
+    "https://www.linkedin.com/jobs/view/4476837774/",
+    "https://www.linkedin.com/jobs/view/4476835759/"
   ],
   "dismissedKeys": [
     {
@@ -10279,8 +10260,12 @@
     {
       "k": "housing authority of columbus georgia|business systems analyst",
       "at": "2026-10-13T03:36:50.143Z"
+    },
+    {
+      "k": "piper companies|technical business systems analyst 176073",
+      "at": "2026-10-13T03:37:33.520Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:36:50.143Z"
+  "savedAt": "2026-10-13T03:37:33.520Z"
 }
