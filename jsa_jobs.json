@@ -1216,26 +1216,6 @@
       "status": "Review"
     },
     {
-      "id": "1a130523e5ePJe6",
-      "company": "ASK Consulting",
-      "title": "Supply chain Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475244039/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:34:18.718768+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130525c87VO_f",
       "company": "Amentum",
       "title": "Business Analyst / Project Coordinator",
@@ -7733,7 +7713,8 @@
     "https://www.linkedin.com/jobs/view/4475256276/",
     "https://www.linkedin.com/jobs/view/4475693585/",
     "https://www.linkedin.com/jobs/view/4478027883/",
-    "https://www.linkedin.com/jobs/view/4468815727/"
+    "https://www.linkedin.com/jobs/view/4468815727/",
+    "https://www.linkedin.com/jobs/view/4475244039/"
   ],
   "dismissedKeys": [
     {
@@ -10459,8 +10440,12 @@
     {
       "k": "ezee fiber|analyst business intelligence",
       "at": "2026-10-13T02:47:36.590Z"
+    },
+    {
+      "k": "ask consulting|supply chain data analyst",
+      "at": "2026-10-13T02:48:09.089Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T02:47:48.638Z"
+  "savedAt": "2026-10-13T02:48:09.089Z"
 }
