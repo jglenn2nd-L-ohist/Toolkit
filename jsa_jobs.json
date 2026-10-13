@@ -1238,26 +1238,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1305384baenFB",
-      "company": "STI",
-      "title": "Desktop Engineer or system Analyst :: Intune/SCCM/Autopilot",
-      "location": "Spring, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477848580/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:35:42.266415+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13053bf14FVqB",
       "company": "Daice Labs",
       "title": "Data Analyst",
@@ -7657,7 +7637,8 @@
     "https://www.linkedin.com/jobs/view/4475244039/",
     "https://www.linkedin.com/jobs/view/4475273252/",
     "https://www.linkedin.com/jobs/view/4477819691/",
-    "https://www.linkedin.com/jobs/view/4475245181/"
+    "https://www.linkedin.com/jobs/view/4475245181/",
+    "https://www.linkedin.com/jobs/view/4477848580/"
   ],
   "dismissedKeys": [
     {
@@ -10399,8 +10380,12 @@
     {
       "k": "transcore|systems analyst i",
       "at": "2026-10-13T03:23:33.223Z"
+    },
+    {
+      "k": "sti|desktop engineer or system analyst intune sccm autopilot",
+      "at": "2026-10-13T03:24:49.356Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:23:37.106Z"
+  "savedAt": "2026-10-13T03:24:49.356Z"
 }
