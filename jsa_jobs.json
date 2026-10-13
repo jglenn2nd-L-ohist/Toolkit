@@ -1128,26 +1128,6 @@
       "status": "Review"
     },
     {
-      "id": "1a130511bc2MJUN",
-      "company": "Aditi Consulting",
-      "title": "Data Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469177834/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:33:04.322546+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a130515b62aWja",
       "company": "U.S. Bank",
       "title": "Infrastructure Data Analytics Engineer",
@@ -7885,7 +7865,8 @@
     "https://www.linkedin.com/jobs/view/4458259416/",
     "https://www.linkedin.com/jobs/view/4474405523/",
     "https://www.linkedin.com/jobs/view/4475119696/",
-    "https://www.linkedin.com/jobs/view/4476527808/"
+    "https://www.linkedin.com/jobs/view/4476527808/",
+    "https://www.linkedin.com/jobs/view/4469177834/"
   ],
   "dismissedKeys": [
     {
@@ -10579,8 +10560,12 @@
     {
       "k": "mdvip|sales operations specialist",
       "at": "2026-10-13T02:43:51.850Z"
+    },
+    {
+      "k": "aditi consulting|data analyst",
+      "at": "2026-10-13T02:44:11.778Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T02:43:55.051Z"
+  "savedAt": "2026-10-13T02:44:11.778Z"
 }
