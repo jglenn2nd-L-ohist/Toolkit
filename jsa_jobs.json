@@ -1519,26 +1519,6 @@
       "status": "New"
     },
     {
-      "id": "1a120e348c8DxxG",
-      "company": "Turtlebox Audio",
-      "title": "Quality Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477453907/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:38:48.648397+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11ad90191Zz4C",
       "company": "LexisNexis Risk Solutions",
       "title": "Data Analyst II",
@@ -7410,7 +7390,8 @@
     "https://www.linkedin.com/jobs/view/4475998526/",
     "https://www.linkedin.com/jobs/view/4477660075/",
     "https://www.linkedin.com/jobs/view/4476204034/",
-    "https://www.linkedin.com/jobs/view/4475989425/"
+    "https://www.linkedin.com/jobs/view/4475989425/",
+    "https://www.linkedin.com/jobs/view/4477453907/"
   ],
   "dismissedKeys": [
     {
@@ -10204,8 +10185,12 @@
     {
       "k": "home depot|logistics analyst lm sustainment dfc",
       "at": "2026-10-13T03:47:10.204Z"
+    },
+    {
+      "k": "turtlebox audio|quality data analyst",
+      "at": "2026-10-13T03:49:28.758Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:48:26.896Z"
+  "savedAt": "2026-10-13T03:49:28.758Z"
 }
