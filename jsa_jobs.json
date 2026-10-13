@@ -1324,26 +1324,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a13055499672ar",
-      "company": "Housing Authority of Columbus Georgia",
-      "title": "Business Systems Analyst",
-      "location": "Columbus, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476837774/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:37:38.198917+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1305551bb0YeQ",
       "company": "Mission Produce®",
       "title": "IT Business Analyst I",
@@ -7524,7 +7504,8 @@
     "https://www.linkedin.com/jobs/view/4475263532/",
     "https://www.linkedin.com/jobs/view/4469276163/",
     "https://www.linkedin.com/jobs/view/4433359043/",
-    "https://www.linkedin.com/jobs/view/4432882493/"
+    "https://www.linkedin.com/jobs/view/4432882493/",
+    "https://www.linkedin.com/jobs/view/4476837774/"
   ],
   "dismissedKeys": [
     {
@@ -10294,8 +10275,12 @@
     {
       "k": "cursor|data analyst user operations",
       "at": "2026-10-13T03:30:28.774Z"
+    },
+    {
+      "k": "housing authority of columbus georgia|business systems analyst",
+      "at": "2026-10-13T03:36:50.143Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:36:46.947Z"
+  "savedAt": "2026-10-13T03:36:50.143Z"
 }
