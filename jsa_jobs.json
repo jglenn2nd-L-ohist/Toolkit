@@ -1797,26 +1797,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf4eb16Fqc9",
-      "company": "TalentBridge",
-      "title": "Business Data Analyst (Derivatives)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475452124/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:39:58.230098+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf52945JPDo",
       "company": "AMISEQ",
       "title": "Pega Business Analyst",
@@ -7239,7 +7219,8 @@
     "https://www.linkedin.com/jobs/view/4475476376/",
     "https://www.linkedin.com/jobs/view/4474619150/",
     "https://www.linkedin.com/jobs/view/4474606693/",
-    "https://www.linkedin.com/jobs/view/4475114629/"
+    "https://www.linkedin.com/jobs/view/4475114629/",
+    "https://www.linkedin.com/jobs/view/4475452124/"
   ],
   "dismissedKeys": [
     {
@@ -10069,8 +10050,12 @@
     {
       "k": "axelon services|data analyst",
       "at": "2026-10-13T03:56:24.369Z"
+    },
+    {
+      "k": "talentbridge|business data analyst derivatives",
+      "at": "2026-10-13T03:56:52.588Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:56:27.033Z"
+  "savedAt": "2026-10-13T03:56:52.588Z"
 }
