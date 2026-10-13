@@ -1477,26 +1477,6 @@
       "notes": ""
     },
     {
-      "id": "1a120e27620vOCG",
-      "company": "The Home Depot",
-      "title": "Logistics Analyst, LM Sustainment (DFC)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475989425/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:37:54.720847+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a120e2e5082AL_",
       "company": "Liliʻuokalani Trust",
       "title": "Business Intelligence Solutions Engineer",
@@ -7429,7 +7409,8 @@
     "https://www.linkedin.com/jobs/view/4476835759/",
     "https://www.linkedin.com/jobs/view/4475998526/",
     "https://www.linkedin.com/jobs/view/4477660075/",
-    "https://www.linkedin.com/jobs/view/4476204034/"
+    "https://www.linkedin.com/jobs/view/4476204034/",
+    "https://www.linkedin.com/jobs/view/4475989425/"
   ],
   "dismissedKeys": [
     {
@@ -10219,8 +10200,12 @@
     {
       "k": "go4|product analyst",
       "at": "2026-10-13T03:46:58.316Z"
+    },
+    {
+      "k": "home depot|logistics analyst lm sustainment dfc",
+      "at": "2026-10-13T03:47:10.204Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:47:02.554Z"
+  "savedAt": "2026-10-13T03:47:10.204Z"
 }
