@@ -1841,26 +1841,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf62cebl6Zl",
-      "company": "PDA, Inc.",
-      "title": "Consultant/Data Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476330106/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:41:20.619444+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf6405f7crO",
       "company": "Wake County Public School System",
       "title": "Data Analyst-OPT (Personnel Data)",
@@ -7220,7 +7200,8 @@
     "https://www.linkedin.com/jobs/view/4474619150/",
     "https://www.linkedin.com/jobs/view/4474606693/",
     "https://www.linkedin.com/jobs/view/4475114629/",
-    "https://www.linkedin.com/jobs/view/4475452124/"
+    "https://www.linkedin.com/jobs/view/4475452124/",
+    "https://www.linkedin.com/jobs/view/4476330106/"
   ],
   "dismissedKeys": [
     {
@@ -10054,8 +10035,12 @@
     {
       "k": "talentbridge|business data analyst derivatives",
       "at": "2026-10-13T03:56:52.588Z"
+    },
+    {
+      "k": "pda|consultant data analyst",
+      "at": "2026-10-13T03:57:06.544Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:56:55.677Z"
+  "savedAt": "2026-10-13T03:57:06.544Z"
 }
