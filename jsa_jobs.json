@@ -1755,26 +1755,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf3953as8hX",
-      "company": "Novelis",
-      "title": "Business Data & Governance Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476772888/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:38:30.714763+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf3e4d55ZjU",
       "company": "Workday Talent Hub",
       "title": "Data Analyst, Associate",
@@ -7372,7 +7352,8 @@
     "https://www.linkedin.com/jobs/view/4476204034/",
     "https://www.linkedin.com/jobs/view/4475989425/",
     "https://www.linkedin.com/jobs/view/4477453907/",
-    "https://www.linkedin.com/jobs/view/4475992539/"
+    "https://www.linkedin.com/jobs/view/4475992539/",
+    "https://www.linkedin.com/jobs/view/4476772888/"
   ],
   "dismissedKeys": [
     {
@@ -10174,8 +10155,12 @@
     {
       "k": "delta air lines|analytics specialist product operations",
       "at": "2026-10-13T03:51:10.984Z"
+    },
+    {
+      "k": "novelis|business data governance analyst",
+      "at": "2026-10-13T03:53:19.545Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:51:14.168Z"
+  "savedAt": "2026-10-13T03:53:19.545Z"
 }
