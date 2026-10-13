@@ -1499,26 +1499,6 @@
       "status": "Review"
     },
     {
-      "id": "1a120e33e1did2_",
-      "company": "Delta Air Lines",
-      "title": "Analytics Specialist, Product Operations",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475992539/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-09T13:38:45.917464+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11ad90191Zz4C",
       "company": "LexisNexis Risk Solutions",
       "title": "Data Analyst II",
@@ -7391,7 +7371,8 @@
     "https://www.linkedin.com/jobs/view/4477660075/",
     "https://www.linkedin.com/jobs/view/4476204034/",
     "https://www.linkedin.com/jobs/view/4475989425/",
-    "https://www.linkedin.com/jobs/view/4477453907/"
+    "https://www.linkedin.com/jobs/view/4477453907/",
+    "https://www.linkedin.com/jobs/view/4475992539/"
   ],
   "dismissedKeys": [
     {
@@ -10189,8 +10170,12 @@
     {
       "k": "turtlebox audio|quality data analyst",
       "at": "2026-10-13T03:49:28.758Z"
+    },
+    {
+      "k": "delta air lines|analytics specialist product operations",
+      "at": "2026-10-13T03:51:10.984Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:50:55.349Z"
+  "savedAt": "2026-10-13T03:51:10.984Z"
 }
