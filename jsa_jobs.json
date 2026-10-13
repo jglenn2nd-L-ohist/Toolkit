@@ -1841,26 +1841,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bf64b027s5a",
-      "company": "Lenovo",
-      "title": "Strategic Insights Analyst",
-      "location": "Morrisville, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466592572/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:41:28.322992+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bf678d2lmrw",
       "company": "Clinisys",
       "title": "Product Analyst - Anatomic Pathology (Laboratory/LIS Specialist)",
@@ -7182,7 +7162,8 @@
     "https://www.linkedin.com/jobs/view/4475114629/",
     "https://www.linkedin.com/jobs/view/4475452124/",
     "https://www.linkedin.com/jobs/view/4476330106/",
-    "https://www.linkedin.com/jobs/view/4474089822/"
+    "https://www.linkedin.com/jobs/view/4474089822/",
+    "https://www.linkedin.com/jobs/view/4466592572/"
   ],
   "dismissedKeys": [
     {
@@ -10024,8 +10005,12 @@
     {
       "k": "wake county public school system|data analyst opt personnel data",
       "at": "2026-10-13T03:57:25.346Z"
+    },
+    {
+      "k": "lenovo|strategic insights analyst",
+      "at": "2026-10-13T03:58:40.318Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T03:57:29.654Z"
+  "savedAt": "2026-10-13T03:58:40.318Z"
 }
