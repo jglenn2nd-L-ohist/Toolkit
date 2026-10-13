@@ -1216,26 +1216,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13051cb04RyLt",
-      "company": "ATI",
-      "title": "Business Systems Analyst – Manufacturing Systems (MES)",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4404996766/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:33:49.188693+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13051d1f5C4E-",
       "company": "Kenco Group",
       "title": "Business Systems Analyst I",
@@ -7847,7 +7827,8 @@
     "https://www.linkedin.com/jobs/view/4475119696/",
     "https://www.linkedin.com/jobs/view/4476527808/",
     "https://www.linkedin.com/jobs/view/4469177834/",
-    "https://www.linkedin.com/jobs/view/4476842079/"
+    "https://www.linkedin.com/jobs/view/4476842079/",
+    "https://www.linkedin.com/jobs/view/4404996766/"
   ],
   "dismissedKeys": [
     {
@@ -10549,8 +10530,12 @@
     {
       "k": "cloudingest|business intelligence architect",
       "at": "2026-10-13T02:44:29.174Z"
+    },
+    {
+      "k": "ati|business systems analyst manufacturing systems mes",
+      "at": "2026-10-13T02:44:48.658Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T02:44:31.699Z"
+  "savedAt": "2026-10-13T02:44:48.659Z"
 }
