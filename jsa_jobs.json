@@ -1216,26 +1216,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13051d1f5C4E-",
-      "company": "Kenco Group",
-      "title": "Business Systems Analyst I",
-      "location": "Lancaster, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460145858/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-12T13:33:50.965160+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13051d8f0uKhJ",
       "company": "Mary Kay Global",
       "title": "Creative Systems Analyst",
@@ -7828,7 +7808,8 @@
     "https://www.linkedin.com/jobs/view/4476527808/",
     "https://www.linkedin.com/jobs/view/4469177834/",
     "https://www.linkedin.com/jobs/view/4476842079/",
-    "https://www.linkedin.com/jobs/view/4404996766/"
+    "https://www.linkedin.com/jobs/view/4404996766/",
+    "https://www.linkedin.com/jobs/view/4460145858/"
   ],
   "dismissedKeys": [
     {
@@ -10534,8 +10515,12 @@
     {
       "k": "ati|business systems analyst manufacturing systems mes",
       "at": "2026-10-13T02:44:48.658Z"
+    },
+    {
+      "k": "kenco group|business systems analyst i",
+      "at": "2026-10-13T02:45:54.073Z"
     }
   ],
   "lastRun": "2026-10-12T23:32:55.953984+00:00",
-  "savedAt": "2026-10-13T02:44:50.742Z"
+  "savedAt": "2026-10-13T02:45:54.073Z"
 }
