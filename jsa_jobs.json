@@ -1025,9 +1025,133 @@
       "found": 432,
       "opened": 18,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-14T20:31:22.836237+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 4,
+          "review": 1,
+          "reject": 2
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 0,
+          "reject": 1
+        }
+      },
+      "reasons": {
+        "jd_term": 2,
+        "healthcare": 1,
+        "title_unlisted": 1,
+        "title_excluded": 1,
+        "location_unknown": 1
+      },
+      "messages": 25,
+      "found": 53,
+      "known": 45
     }
   ],
   "jobs": [
+    {
+      "id": "1a13c1c8ddd6AyX",
+      "company": "Wiraa",
+      "title": "Business Analyst (Remote)",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4479501454/?trackingId=qosDkCXdpygx1QsZtaELWg%3D%3D&refId=%2BLucXi5uAx1Lnp%2Fm0i%2FDTw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4479501454_sectionid_272001_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4479501454_sectionid_272001_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-14T20:31:06.717679+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a13c1c8dddQcm7",
+      "company": "RxVantage",
+      "title": "Business Intelligence Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478168771/?trackingId=wba8GRMODoebGT%2B6ZtpQoA%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_0_jobid_4478168771_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_0_jobid_4478168771_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-14T20:31:06.717753+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a13c1c8dddqKiQ",
+      "company": "Abertis Mobility Services",
+      "title": "Business Analyst - SRTA",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4479081677/?trackingId=EuXZI1YtULnKmFSZ9%2ForSg%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-14T20:31:06.717765+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a13c1c8dddz-uV",
+      "company": "V Group Inc.",
+      "title": "Business Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4477188824/?trackingId=gEFe%2F96hpN1LaGzSQhQ%2B%2BA%3D%3D&refId=Z5DI32xOI%2BMXkDMcduXBPw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_3-0-job_card_1_jobid_4477188824_sectionid_295004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_3-0-job_card_1_jobid_4477188824_sectionid_295004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-14T20:31:06.717825+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a13c1c9337zXoA",
+      "company": "TicketKings",
+      "title": "Ticket Pricing Analyst",
+      "location": "Miami, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476782817/?trackingId=UFNxhEyFq2Y%2B01RsSSXKow%3D%3D&refId=8uZ4iTgz2KePsI%2FSTKO6wA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpweMlXkUTaSXNKfdVxek5w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rGHTOz-MGKYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476782817_ssid_8797982178_fmid_q9jfse~mv8j3jcm~vj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476782817_ssid_8797982178_fmid_q9jfse~mv8j3jcm~vj-null-q9jfse~mv8j3jcm~vj-null-null&eid=q9jfse-mv8j3jcm-vj&otpToken=ODBjYjU4NThmN2EwMmIyNjk2OWI4ZjZjYTY1MWE0M2JlYzQ5MDA0OGZlYjQxODhkOWM2NDZkNTkzNDRhZjU0ZDU5NDEzZjljNDBmOGJjMTBhZDU5YmY0YjQ4N2Q1ZGFhMmU4M2Y0YTBlYzE0OGU3NjhkM2NlMmQ2YTRiNzhiNjUzZjI1YmQ1YjExZTY3MzgyOTcsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-14T20:31:08.087962+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a13bb914844CCO",
       "company": "Vari",
@@ -9914,6 +10038,6 @@
       "at": "2026-10-14T15:16:44.057Z"
     }
   ],
-  "lastRun": "2026-10-14T17:40:25.993261+00:00",
-  "savedAt": "2026-10-14T18:46:35.601749+00:00"
+  "lastRun": "2026-10-14T20:31:23.443854+00:00",
+  "savedAt": "2026-10-14T20:31:23.443854+00:00"
 }
