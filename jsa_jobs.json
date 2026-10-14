@@ -2648,46 +2648,6 @@
       "status": "New"
     },
     {
-      "id": "1a1176ac081t9Ie",
-      "company": "Career Group",
-      "title": "Operations Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475450242/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T17:30:34.497873+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1176b92ffmFPo",
-      "company": "Aditi Consulting",
-      "title": "Supply Chain Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475813668/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T17:31:28.383862+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1176baeafHuT3",
       "company": "Clinisoltech",
       "title": "Data Analyst",
@@ -2717,26 +2677,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-07T17:31:37.139299+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1176bf74dALrB",
-      "company": "TC Energy",
-      "title": "Business Analyst",
-      "location": "Greater Houston",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474460564/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T17:31:54.061239+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -2792,46 +2732,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1168f74fefk9j",
-      "company": "MHMR of Tarrant County",
-      "title": "State Rpt System Analyst",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476365539/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:31:02.782887+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a116817dc54hFU",
-      "company": "PDI Technologies",
-      "title": "Mid-Level Data Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466544559/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:15:47.525713+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11681c7aenR9u",
       "company": "Axon",
       "title": "Implementation Business Analyst II",
@@ -2874,46 +2774,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a11682085fWnTK",
-      "company": "Newrez",
-      "title": "Imaging Business Analyst (On-site)",
-      "location": "Coppell, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476343150/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:16:23.007825+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1168218895RrQ",
-      "company": "The Exchange",
-      "title": "Business Analyst I",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475001727/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:16:27.145772+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a116837ff5Gobs",
@@ -3020,26 +2880,6 @@
       "status": "New"
     },
     {
-      "id": "1a11683e74cNFVl",
-      "company": "C&S Wholesale Grocers",
-      "title": "Category Business Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475849255/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:25.612559+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a116840bdbXesl",
       "company": "Search Services",
       "title": "Operations Analyst",
@@ -3111,46 +2951,6 @@
       "dateAdded": "2026-10-07T13:20:38.203878+00:00",
       "notes": "",
       "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11454e054fkYo",
-      "company": "TEORE, LLC",
-      "title": "Data Analyst",
-      "location": "Lakeland, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476540098/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:07:49.204068+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11455041cnO2q",
-      "company": "Meridian of Illinois",
-      "title": "Business Analyst II Business Enterprise Programs",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476397021/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:07:58.364709+00:00",
-      "notes": "",
-      "remote_search": false,
       "via": "proactive",
       "enriched": true,
       "filter_status": "pass",
@@ -3266,26 +3066,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11469fc7eI6Xw",
-      "company": "Advanced Asset Management",
-      "title": "Operations Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475118258/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:30:52.670873+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1146a2233VREp",
       "company": "North Texas Tollway Authority",
       "title": "Business Intelligence Analyst",
@@ -3330,26 +3110,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1146a8363dU2X",
-      "company": "ADT",
-      "title": "Data & Analytics Engineer",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470607676/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:31:27.203931+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1146ad1b9wk59",
       "company": "Fulton County Schools",
       "title": "System Analyst, Enterprise Applications",
@@ -3390,26 +3150,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a1124f1e0a-1Py",
-      "company": "So Jobs",
-      "title": "System Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474067911/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T17:42:17.354826+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a112502196mz8j",
       "company": "MP Materials",
       "title": "Data Analyst",
@@ -3419,26 +3159,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-06T17:43:23.798816+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a112504033jgBO",
-      "company": "BlueCross BlueShield of South Carolina",
-      "title": "Business Analyst I",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476327920/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T17:43:31.635763+00:00",
       "notes": "",
       "remote_search": true,
       "via": "proactive",
@@ -3472,26 +3192,6 @@
       "status": "Review"
     },
     {
-      "id": "1a112513c68KeE7",
-      "company": "MedRisk",
-      "title": "Data Analyst Level II",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474956790/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-06T17:44:36.200321+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a112515e71EKdp",
       "company": "Koch",
       "title": "Business Systems Analyst",
@@ -3512,26 +3212,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a11251881cd-n7",
-      "company": "Fossil Group, Inc.",
-      "title": "Supply Chain Analyst",
-      "location": "Richardson, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467430326/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T17:44:55.580535+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "muwtkwdwg5m3",
@@ -7555,7 +7235,23 @@
     "https://www.linkedin.com/jobs/view/4474631444/",
     "https://www.linkedin.com/jobs/view/4474276815/",
     "https://www.linkedin.com/jobs/view/4475441172/",
-    "https://www.linkedin.com/jobs/view/4474670048/"
+    "https://www.linkedin.com/jobs/view/4474670048/",
+    "https://www.linkedin.com/jobs/view/4475450242/",
+    "https://www.linkedin.com/jobs/view/4475813668/",
+    "https://www.linkedin.com/jobs/view/4474460564/",
+    "https://www.linkedin.com/jobs/view/4476365539/",
+    "https://www.linkedin.com/jobs/view/4466544559/",
+    "https://www.linkedin.com/jobs/view/4476343150/",
+    "https://www.linkedin.com/jobs/view/4475001727/",
+    "https://www.linkedin.com/jobs/view/4475849255/",
+    "https://www.linkedin.com/jobs/view/4476540098/",
+    "https://www.linkedin.com/jobs/view/4476397021/",
+    "https://www.linkedin.com/jobs/view/4475118258/",
+    "https://www.linkedin.com/jobs/view/4470607676/",
+    "https://www.linkedin.com/jobs/view/4474067911/",
+    "https://www.linkedin.com/jobs/view/4476327920/",
+    "https://www.linkedin.com/jobs/view/4474956790/",
+    "https://www.linkedin.com/jobs/view/4467430326/"
   ],
   "dismissedKeys": [
     {
@@ -10457,8 +10153,72 @@
     {
       "k": "southwest airlines|integrated data analyst",
       "at": "2026-10-14T02:57:02.212Z"
+    },
+    {
+      "k": "career group|operations analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "aditi consulting|supply chain analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "tc energy|business analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "mhmr of tarrant county|state rpt system analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "pdi technologies|mid level data analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "newrez|imaging business analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "exchange|business analyst i",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "c s wholesale grocers|category business analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "teore|data analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "meridian of illinois|business analyst ii business enterprise programs",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "advanced asset management|operations analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "adt|data analytics engineer",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "so jobs|system analyst",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "bluecross blueshield of south carolina|business analyst i",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "medrisk|data analyst level ii",
+      "at": "2026-10-14T02:58:06.578Z"
+    },
+    {
+      "k": "fossil group|supply chain analyst",
+      "at": "2026-10-14T02:58:06.578Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T02:57:02.212Z"
+  "savedAt": "2026-10-14T02:58:06.578Z"
 }
