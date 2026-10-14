@@ -3120,26 +3120,6 @@
       "status": "New"
     },
     {
-      "id": "1a1168429fa6Elv",
-      "company": "Primary Services",
-      "title": "Campaign Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474631444/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:42.682456+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a116847cebdgm5",
       "company": "KnowIt Training",
       "title": "Analytics Engineer",
@@ -7631,7 +7611,8 @@
     "https://www.linkedin.com/jobs/view/4454426717/",
     "https://www.linkedin.com/jobs/view/4469699163/",
     "https://www.linkedin.com/jobs/view/4477921424/",
-    "https://www.linkedin.com/jobs/view/4476704723/"
+    "https://www.linkedin.com/jobs/view/4476704723/",
+    "https://www.linkedin.com/jobs/view/4474631444/"
   ],
   "dismissedKeys": [
     {
@@ -10517,8 +10498,12 @@
     {
       "k": "wahoo fitness|commercial data analyst",
       "at": "2026-10-14T02:56:05.290Z"
+    },
+    {
+      "k": "primary services|campaign data analyst",
+      "at": "2026-10-14T02:56:18.102Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T02:56:10.727Z"
+  "savedAt": "2026-10-14T02:56:18.102Z"
 }
