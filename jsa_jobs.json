@@ -1163,26 +1163,6 @@
       "status": "New"
     },
     {
-      "id": "1a1384c29c47_VL",
-      "company": "Medasource",
-      "title": "Product Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477597287/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T02:44:37.956848+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1384c49f5C37N",
       "company": "Photon",
       "title": "Mainframes Systems Analyst",
@@ -2675,26 +2655,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a116837ff5Gobs",
-      "company": "Star Pipe Products",
-      "title": "Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476723554/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:17:59.157257+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a116838e84VBvC",
@@ -7157,7 +7117,9 @@
     "https://www.linkedin.com/jobs/view/4468698416/",
     "https://www.linkedin.com/jobs/view/4479047609/",
     "https://www.linkedin.com/jobs/view/4479067926/",
-    "https://www.linkedin.com/comm/jobs/view/4478310504/?trackingId=2ieJOjVw1BKeLsnd701acg%3D%3D&refId=0YgIylMEZWrQsqWCsYJoqg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B867GTaVATpycf0COECjZHQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1ilkrUbxtiIss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478310504_ssid_8461940610_fmid_q9jfse~mv612stv~ox&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478310504_ssid_8461940610_fmid_q9jfse~mv612stv~ox-null-q9jfse~mv612stv~ox-null-null&eid=q9jfse-mv612stv-ox&otpToken=MzQ5ZTg4NGU5N2RlNTQyODZkZGUzNTM4YmE3MjcyNDI4YTNiZWVkMTY4NGI0YjQ4OGQxYWE2OTIyZDkxZDVkZDRkN2FmYzAwZmVhOWVkNWUxMzAyZTQ1MzI0MDhmYmE2ZDJjYmQxMjZlMmNmM2M0YzY1N2QyNjM0YTE1ZmQ3ZjhkMWE2OTg2MDk4MzE3NTMzNzYsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4478310504/?trackingId=2ieJOjVw1BKeLsnd701acg%3D%3D&refId=0YgIylMEZWrQsqWCsYJoqg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B867GTaVATpycf0COECjZHQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1ilkrUbxtiIss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478310504_ssid_8461940610_fmid_q9jfse~mv612stv~ox&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478310504_ssid_8461940610_fmid_q9jfse~mv612stv~ox-null-q9jfse~mv612stv~ox-null-null&eid=q9jfse-mv612stv-ox&otpToken=MzQ5ZTg4NGU5N2RlNTQyODZkZGUzNTM4YmE3MjcyNDI4YTNiZWVkMTY4NGI0YjQ4OGQxYWE2OTIyZDkxZDVkZDRkN2FmYzAwZmVhOWVkNWUxMzAyZTQ1MzI0MDhmYmE2ZDJjYmQxMjZlMmNmM2M0YzY1N2QyNjM0YTE1ZmQ3ZjhkMWE2OTg2MDk4MzE3NTMzNzYsMiwx",
+    "https://www.linkedin.com/jobs/view/4477597287/",
+    "https://www.linkedin.com/jobs/view/4476723554/"
   ],
   "dismissedKeys": [
     {
@@ -10143,8 +10105,16 @@
     {
       "k": "referment|market data operations analyst 3692b08",
       "at": "2026-10-14T03:01:19.835Z"
+    },
+    {
+      "k": "medasource|product analyst",
+      "at": "2026-10-14T03:02:18.949Z"
+    },
+    {
+      "k": "star pipe products|data analyst",
+      "at": "2026-10-14T03:02:18.949Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T03:02:09.884Z"
+  "savedAt": "2026-10-14T03:02:18.949Z"
 }
