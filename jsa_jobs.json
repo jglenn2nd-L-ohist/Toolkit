@@ -990,50 +990,6 @@
       "status": "New"
     },
     {
-      "id": "1a13af13b02-5il",
-      "company": "PNC",
-      "title": "Business Systems Analyst Consultant",
-      "location": "Farmers Branch, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479543348/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:04:10.242885+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a13af142fbkBH-",
-      "company": "Infosys",
-      "title": "Pega Business Analyst",
-      "location": "Richardson, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476412679/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:04:12.283839+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a13af14979BwYv",
       "company": "Nucor Corporation",
       "title": "Business Analyst",
@@ -1274,28 +1230,6 @@
       "status": "New"
     },
     {
-      "id": "1a13af2fe38tkWG",
-      "company": "ClearCaptions, LLC",
-      "title": "Data Analyst (100% Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478172585/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:06:05.752856+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a13af303e4YkhM",
       "company": "First Bank (FBNC)",
       "title": "Data Analyst",
@@ -1476,28 +1410,6 @@
       "status": "New"
     },
     {
-      "id": "1a13addbb29M3BI",
-      "company": "Cognizant",
-      "title": "Business Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470239359/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T14:42:52.329019+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a13adde651MyTt",
       "company": "Lockheed Martin",
       "title": "Data Analyst - E2",
@@ -1516,28 +1428,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "New"
-    },
-    {
-      "id": "1a13ade020fLqUO",
-      "company": "Stake",
-      "title": "Stake.Rent Business Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477967586/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T14:43:10.479017+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
     },
     {
       "id": "1a13ade20faprUL",
@@ -1818,28 +1708,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "New"
-    },
-    {
-      "id": "1a13adffcb27lKC",
-      "company": "First Horizon Bank",
-      "title": "BUS SYSTEMS ANALYST",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470618628/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T14:45:20.178190+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
     },
     {
       "id": "1a13ae0030dA--a",
@@ -6225,7 +6093,13 @@
     "https://www.linkedin.com/jobs/view/4475150428/",
     "https://www.ziprecruiter.com/km/AAF3qrXOfb9VNURrwnBr2gOkQJoyaU3Ejm6RV9lVMNGZjOxrTj9TTfNnQUswHN-qPI5VCiQ-lI9kz_oEAWj3SyZnO53UFdgF4UIsjDa2KsdN54xS1jY8Vy6WM3P6dsyLUg_Ny3kG_6WT-uHxOQnsl_MFAWR02mHg7mKp5Hh_73rfbedwPt7nDmHVm7-uwqn5AusScCNuhfjXlTDHBlDQ1T_FdWw9QM74UQ4OhuB1PyAdvi5b5-ohLxfVCHxXT7nB1BBDrAW9Mh_Rlv2COvl7YGjeRmMH_FlmTD04ODqiG9kG0BIhIfiN0AcHNvJE0y_ukimGh7gpGl5UCxxmiabYYx1jUQTcdOhPP-cmtt1PpWGondVb50B_8b9PmP4l1SqbuIW2sA?tsid&#x3D;111000304&auth_token&#x3D;5_1791313960_LI-8yHNEtFnP6JsnDFeUa9zGWR7EEGqpksdoh8nQ2GU&contact_id&#x3D;f8f05452&expires&#x3D;1791659560",
     "https://www.linkedin.com/jobs/view/4465229874/",
-    "https://www.linkedin.com/jobs/view/4474075955/"
+    "https://www.linkedin.com/jobs/view/4474075955/",
+    "https://www.linkedin.com/jobs/view/4479543348/",
+    "https://www.linkedin.com/jobs/view/4476412679/",
+    "https://www.linkedin.com/jobs/view/4478172585/",
+    "https://www.linkedin.com/jobs/view/4470239359/",
+    "https://www.linkedin.com/jobs/view/4477967586/",
+    "https://www.linkedin.com/jobs/view/4470618628/"
   ],
   "dismissedKeys": [
     {
@@ -9591,8 +9465,32 @@
     {
       "k": "koch|business systems analyst",
       "at": "2026-10-14T03:17:38.072Z"
+    },
+    {
+      "k": "pnc|business systems analyst consultant",
+      "at": "2026-10-14T15:16:44.057Z"
+    },
+    {
+      "k": "infosys|pega business analyst",
+      "at": "2026-10-14T15:16:44.057Z"
+    },
+    {
+      "k": "clearcaptions|data analyst 100 remote",
+      "at": "2026-10-14T15:16:44.057Z"
+    },
+    {
+      "k": "cognizant|business analyst",
+      "at": "2026-10-14T15:16:44.057Z"
+    },
+    {
+      "k": "stake|stake rent business analyst",
+      "at": "2026-10-14T15:16:44.057Z"
+    },
+    {
+      "k": "first horizon bank|bus systems analyst",
+      "at": "2026-10-14T15:16:44.057Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T15:16:13.274Z"
+  "savedAt": "2026-10-14T15:16:44.057Z"
 }
