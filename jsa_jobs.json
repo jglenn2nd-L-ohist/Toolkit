@@ -929,28 +929,6 @@
       "status": "Review"
     },
     {
-      "id": "1a135cb1d4cALG_",
-      "company": "Talenzaa",
-      "title": "Product Owner / Business Analyst -KYC",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477586465/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-13T15:04:26.188617+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a135cb24349wGG",
       "company": "Bridgeway Benefit Technologies",
       "title": "Business Analyst",
@@ -960,50 +938,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-13T15:04:27.956742+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a135cb2bc9ddYe",
-      "company": "Kodeva LLC",
-      "title": "Product Owner / Business Analyst with KYC",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479020210/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-13T15:04:29.897148+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a135cb31f7YZok",
-      "company": "HireOn Tech",
-      "title": "Product Owner / Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477598129/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-13T15:04:31.479284+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -6741,7 +6675,10 @@
     "https://www.linkedin.com/jobs/view/4479051715/",
     "https://www.linkedin.com/comm/jobs/view/4478508376/?trackingId=1nzkoip9uEhlfHAyKr3%2F1A%3D%3D&refId=4xUcp2cagtaT5fYkkxAy%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2t6600nDQlW3f%2FXH5fhqNQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3WkBaHlKCaJss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej-null-q9jfse~mv73no9s~ej-null-null&eid=q9jfse-mv73no9s-ej&otpToken=MTM5ZjM5YjcwODIyZjgwZTBkYmExNDA5YmExMzZjZTI4YmNmZWM2OTdmNDkwZmRhOGM4YjE0NTMzZmViMGQ4MWMzZDAyOGY0OTg4ODg4NzBkZGViMzFiMWE0N2RiMGVjYzJjYTkxNzgxMjZlOGMxMzAwMWE0OGRhMTRiZWI2MDI2ZGUwNjU2MjczYWFkNjg2MGUsMiwx",
     "https://www.linkedin.com/jobs/view/4468274407/",
-    "https://www.linkedin.com/jobs/view/4470107956/"
+    "https://www.linkedin.com/jobs/view/4470107956/",
+    "https://www.linkedin.com/jobs/view/4477586465/",
+    "https://www.linkedin.com/jobs/view/4479020210/",
+    "https://www.linkedin.com/jobs/view/4477598129/"
   ],
   "dismissedKeys": [
     {
@@ -9815,8 +9752,20 @@
     {
       "k": "gac group|data analyst",
       "at": "2026-10-14T03:12:24.053Z"
+    },
+    {
+      "k": "talenzaa|product owner business analyst kyc",
+      "at": "2026-10-14T03:13:13.316Z"
+    },
+    {
+      "k": "kodeva|product owner business analyst with kyc",
+      "at": "2026-10-14T03:13:13.316Z"
+    },
+    {
+      "k": "hireon tech|product owner business analyst",
+      "at": "2026-10-14T03:13:13.316Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T03:12:24.053Z"
+  "savedAt": "2026-10-14T03:13:13.316Z"
 }
