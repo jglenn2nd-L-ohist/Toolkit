@@ -3180,26 +3180,6 @@
       "status": "New"
     },
     {
-      "id": "1a11685cec975gV",
-      "company": "Wahoo Fitness",
-      "title": "Commercial Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476704723/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:20:30.409133+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11685ed3bgor9",
       "company": "Seminole Hard Rock Support Services",
       "title": "Systems Analyst II",
@@ -7650,7 +7630,8 @@
     "https://www.linkedin.com/jobs/view/4476906576/",
     "https://www.linkedin.com/jobs/view/4454426717/",
     "https://www.linkedin.com/jobs/view/4469699163/",
-    "https://www.linkedin.com/jobs/view/4477921424/"
+    "https://www.linkedin.com/jobs/view/4477921424/",
+    "https://www.linkedin.com/jobs/view/4476704723/"
   ],
   "dismissedKeys": [
     {
@@ -10532,8 +10513,12 @@
     {
       "k": "orange county government|business systems analyst",
       "at": "2026-10-14T02:55:00.041Z"
+    },
+    {
+      "k": "wahoo fitness|commercial data analyst",
+      "at": "2026-10-14T02:56:05.290Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T02:55:54.826Z"
+  "savedAt": "2026-10-14T02:56:05.290Z"
 }
