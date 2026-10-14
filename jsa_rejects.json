@@ -1,6 +1,44 @@
 {
   "rejects": [
     {
+      "title": "Business Analyst",
+      "company": "VSP Vision Care",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476472367/?trackingId=U4GhkiORRErmILpYwb0bXA%3D%3D&refId=%2BLucXi5uAx1Lnp%2Fm0i%2FDTw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4476472367_sectionid_272001_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4476472367_sectionid_272001_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company",
+        "jd_term:onsite_or_hybrid"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-14T20:31:06.717706+00:00"
+    },
+    {
+      "title": "Renewable Energy Analyst (Entry-Level)",
+      "company": "Renewable Careers",
+      "location": "Miami, FL",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478536487/?trackingId=q9WzCL9C3MNNlzzfET52UQ%3D%3D&refId=8uZ4iTgz2KePsI%2FSTKO6wA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpweMlXkUTaSXNKfdVxek5w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rGHTOz-MGKYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478536487_ssid_8797982178_fmid_q9jfse~mv8j3jcm~vj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478536487_ssid_8797982178_fmid_q9jfse~mv8j3jcm~vj-null-q9jfse~mv8j3jcm~vj-null-null&eid=q9jfse-mv8j3jcm-vj&otpToken=ODBjYjU4NThmN2EwMmIyNjk2OWI4ZjZjYTY1MWE0M2JlYzQ5MDA0OGZlYjQxODhkOWM2NDZkNTkzNDRhZjU0ZDU5NDEzZjljNDBmOGJjMTBhZDU5YmY0YjQ4N2Q1ZGFhMmU4M2Y0YTBlYzE0OGU3NjhkM2NlMmQ2YTRiNzhiNjUzZjI1YmQ1YjExZTY3MzgyOTcsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-14T20:31:08.088072+00:00"
+    },
+    {
+      "title": "Senior Actuarial Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAH1LrqOYJaL5SCs9oEhk4nsefkVXEP3ar4xcj3f69hFc5O1jPGO9vsBsuQvwFMs8_jBxWqdwcz7NdCV4lJPXL4E7tSLR01TWzCF0dKoPtunjLyC2xOkMTbiN9usxMDlZSfWWOelu_tFFhFIOHytZCnwdlHLAZDNn_4PGqE6AJWeGi3jsZDC5Q8HQa_iHn_3vpydt-MH6KDCCrRtSp3yCq1B6BeTUlCcT8fJUF9eNuRybHF3ruP1ENcMO3iGGPUsneuPu889T20cgS5jS6X15Fqo90x9ImfatI8HdChQfel188jd2J-KIk5TMkpYuqdbKqN5p4EQWYz_ORcn8rXWEKiHUXkTOkDBU9wRp3HbbV17u9TQDf1ZuPkUxJ2Yp__QHkxF_A?tsid&#x3D;111000304&auth_token&#x3D;5_1791955992_6pE94EB32IQ-K9KYfVWXJHFudMK6b8aoTvIwvQ8cWDk&contact_id&#x3D;f8f05452&expires&#x3D;1792301592",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-14T20:31:11.093805+00:00"
+    },
+    {
       "title": "Sr Data Analyst (On-site)",
       "company": "Newrez",
       "location": "Coppell, TX",
@@ -18490,42 +18528,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-14T02:42:12.443970+00:00"
-    },
-    {
-      "title": "Principal SAP Service Management Enterprise Applications Consultant",
-      "company": "Infosys",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476412681/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:principal"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:12.444616+00:00"
-    },
-    {
-      "title": "Applications Engineer",
-      "company": "Jackson Lewis P.C.",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4469820796/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:12.445100+00:00"
-    },
-    {
-      "title": "Systems Engineer",
-      "company": "GLOTECH, Inc.",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4440577674/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:12.447953+00:00"
     }
   ]
 }
