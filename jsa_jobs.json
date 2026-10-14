@@ -2450,26 +2450,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a1176a83b0A0jB",
-      "company": "Integrity",
-      "title": "Associate Commissions Business Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474457750/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T17:30:18.928531+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1176baeafHuT3",
       "company": "Clinisoltech",
       "title": "Data Analyst",
@@ -2488,26 +2468,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-02.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a1176bb5336bTV",
-      "company": "United Engines",
-      "title": "Jr. Pricing Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4475451742/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T17:31:37.139299+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1168ebaecQ_Ab",
@@ -2662,86 +2622,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11683de825NG1",
-      "company": "eTeam",
-      "title": "BUSINESS ANALYST I",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476198679/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:23.362790+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a116840bdbXesl",
-      "company": "Search Services",
-      "title": "Operations Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4438757533/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:34.971421+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11684f24bz-1O",
-      "company": "EnableComp",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476346008/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:19:33.963422+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11685ed3bgor9",
-      "company": "Seminole Hard Rock Support Services",
-      "title": "Systems Analyst II",
-      "location": "Davie, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4458244089/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:20:38.203878+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1145513b0Sukr",
       "company": "L'Oréal",
       "title": "MGR- Digital Business Systems Analyst - SalonCentic",
@@ -2784,46 +2664,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a11468893f0-PH",
-      "company": "BioTissue",
-      "title": "Analyst, Sales Operations",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476397057/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:29:17.631422+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a11469ae54g_Sd",
-      "company": "Wilson Elser",
-      "title": "Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4474985690/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:30:32.660734+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a11469da28UINY",
@@ -2892,26 +2732,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1146ad1b9wk59",
-      "company": "Fulton County Schools",
-      "title": "System Analyst, Enterprise Applications",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476374664/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T03:31:47.257596+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1131e7a29rX1V",
       "company": "See posting",
       "title": "Program Reporting Analyst, Acquisitions",
@@ -2930,26 +2750,6 @@
       ],
       "loc_class": "unknown",
       "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a112502196mz8j",
-      "company": "MP Materials",
-      "title": "Data Analyst",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4431122598/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-06T17:43:23.798816+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a11250e6b2uv5U",
@@ -7044,7 +6844,17 @@
     "https://www.linkedin.com/jobs/view/4478150944/",
     "https://job-boards.greenhouse.io/affirm/jobs/8010489003",
     "https://www.linkedin.com/jobs/view/4477164280/",
-    "https://www.linkedin.com/jobs/view/4476370213/"
+    "https://www.linkedin.com/jobs/view/4476370213/",
+    "https://www.linkedin.com/jobs/view/4474457750/",
+    "https://www.linkedin.com/jobs/view/4475451742/",
+    "https://www.linkedin.com/jobs/view/4476198679/",
+    "https://www.linkedin.com/jobs/view/4438757533/",
+    "https://www.linkedin.com/jobs/view/4476346008/",
+    "https://www.linkedin.com/jobs/view/4458244089/",
+    "https://www.linkedin.com/jobs/view/4476397057/",
+    "https://www.linkedin.com/jobs/view/4474985690/",
+    "https://www.linkedin.com/jobs/view/4476374664/",
+    "https://www.linkedin.com/jobs/view/4431122598/"
   ],
   "dismissedKeys": [
     {
@@ -10054,8 +9864,48 @@
     {
       "k": "knowit training|analytics engineer",
       "at": "2026-10-14T03:05:48.277Z"
+    },
+    {
+      "k": "integrity|associate commissions business analyst",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "united engines|jr pricing analyst",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "eteam|business analyst i",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "search services|operations analyst",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "enablecomp|data analyst",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "seminole hard rock support services|systems analyst ii",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "biotissue|analyst sales operations",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "wilson elser|data analyst",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "fulton county schools|system analyst enterprise applications",
+      "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "mp materials|data analyst",
+      "at": "2026-10-14T03:09:17.704Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T03:09:05.197Z"
+  "savedAt": "2026-10-14T03:09:17.704Z"
 }
