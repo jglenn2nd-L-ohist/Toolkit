@@ -1017,26 +1017,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1384886e1pAgh",
-      "company": "Airlines Reporting Corporation (ARC)",
-      "title": "Data & Insights Analyst II",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469699163/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T02:40:39.649188+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a138494d0aw7w3",
       "company": "Orange County Government",
       "title": "Business Systems Analyst",
@@ -7688,7 +7668,8 @@
     "https://www.linkedin.com/jobs/view/4474073419/",
     "https://www.linkedin.com/jobs/view/4475705660/",
     "https://www.linkedin.com/jobs/view/4476906576/",
-    "https://www.linkedin.com/jobs/view/4454426717/"
+    "https://www.linkedin.com/jobs/view/4454426717/",
+    "https://www.linkedin.com/jobs/view/4469699163/"
   ],
   "dismissedKeys": [
     {
@@ -10562,8 +10543,12 @@
     {
       "k": "igas usa|business systems analyst",
       "at": "2026-10-14T02:53:50.635Z"
+    },
+    {
+      "k": "airlines reporting arc|data insights analyst ii",
+      "at": "2026-10-14T02:54:53.231Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T02:54:02.215Z"
+  "savedAt": "2026-10-14T02:54:53.231Z"
 }
