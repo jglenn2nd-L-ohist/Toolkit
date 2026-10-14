@@ -1039,26 +1039,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1384aeb3dI7gB",
-      "company": "GA Telesis",
-      "title": "Business Analyst",
-      "location": "Medley, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478524993/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T02:43:16.424056+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1384af14dT5W-",
       "company": "FHM Consulting",
       "title": "Business Analyst",
@@ -1081,26 +1061,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1384afcb5OyxM",
-      "company": "FUSTIS LLC",
-      "title": "Business Analyst (AI & Customer Experience)",
-      "location": "Boca Raton, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479041014/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T02:43:20.885285+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1384ba11fa6uL",
       "company": "University of Kentucky",
       "title": "Data Analyst II",
@@ -1121,26 +1081,6 @@
       "loc_class": "unknown",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1384ba9f7pHug",
-      "company": "IDR, Inc.",
-      "title": "Data Analyst",
-      "location": "Norcross, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479051715/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T02:44:05.239986+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1384c49f5C37N",
@@ -1182,25 +1122,6 @@
         "location_unknown"
       ],
       "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a1373b2b5eWqWa",
-      "company": "Wiraa",
-      "title": "Data Analyst I",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4478508376/?trackingId=1nzkoip9uEhlfHAyKr3%2F1A%3D%3D&refId=4xUcp2cagtaT5fYkkxAy%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2t6600nDQlW3f%2FXH5fhqNQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3WkBaHlKCaJss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej-null-q9jfse~mv73no9s~ej-null-null&eid=q9jfse-mv73no9s-ej&otpToken=MTM5ZjM5YjcwODIyZjgwZTBkYmExNDA5YmExMzZjZTI4YmNmZWM2OTdmNDkwZmRhOGM4YjE0NTMzZmViMGQ4MWMzZDAyOGY0OTg4ODg4NzBkZGViMzFiMWE0N2RiMGVjYzJjYTkxNzgxMjZlOGMxMzAwMWE0OGRhMTRiZWI2MDI2ZGUwNjU2MjczYWFkNjg2MGUsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-13T21:46:27.038218+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
       "filter_version": "2026-10-09.1"
     },
     {
@@ -2347,26 +2268,6 @@
       "status": "Review"
     },
     {
-      "id": "1a11bfa18083PlC",
-      "company": "Aven Hospitality",
-      "title": "Corporate Strategy Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4468274407/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-08T14:45:37.416125+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a11bfa8750hgag",
       "company": "FinThrive",
       "title": "Product Analyst",
@@ -2556,26 +2457,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a116838e84VBvC",
-      "company": "GAC Group",
-      "title": "Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470107956/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-07T13:18:02.884167+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a11683a49bRP9R",
@@ -6854,7 +6735,13 @@
     "https://www.linkedin.com/jobs/view/4476397057/",
     "https://www.linkedin.com/jobs/view/4474985690/",
     "https://www.linkedin.com/jobs/view/4476374664/",
-    "https://www.linkedin.com/jobs/view/4431122598/"
+    "https://www.linkedin.com/jobs/view/4431122598/",
+    "https://www.linkedin.com/jobs/view/4478524993/",
+    "https://www.linkedin.com/jobs/view/4479041014/",
+    "https://www.linkedin.com/jobs/view/4479051715/",
+    "https://www.linkedin.com/comm/jobs/view/4478508376/?trackingId=1nzkoip9uEhlfHAyKr3%2F1A%3D%3D&refId=4xUcp2cagtaT5fYkkxAy%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2t6600nDQlW3f%2FXH5fhqNQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3WkBaHlKCaJss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478508376_ssid_15402374820_fmid_q9jfse~mv73no9s~ej-null-q9jfse~mv73no9s~ej-null-null&eid=q9jfse-mv73no9s-ej&otpToken=MTM5ZjM5YjcwODIyZjgwZTBkYmExNDA5YmExMzZjZTI4YmNmZWM2OTdmNDkwZmRhOGM4YjE0NTMzZmViMGQ4MWMzZDAyOGY0OTg4ODg4NzBkZGViMzFiMWE0N2RiMGVjYzJjYTkxNzgxMjZlOGMxMzAwMWE0OGRhMTRiZWI2MDI2ZGUwNjU2MjczYWFkNjg2MGUsMiwx",
+    "https://www.linkedin.com/jobs/view/4468274407/",
+    "https://www.linkedin.com/jobs/view/4470107956/"
   ],
   "dismissedKeys": [
     {
@@ -9904,8 +9791,32 @@
     {
       "k": "mp materials|data analyst",
       "at": "2026-10-14T03:09:17.704Z"
+    },
+    {
+      "k": "ga telesis|business analyst",
+      "at": "2026-10-14T03:12:24.052Z"
+    },
+    {
+      "k": "fustis|business analyst ai customer experience",
+      "at": "2026-10-14T03:12:24.053Z"
+    },
+    {
+      "k": "idr|data analyst",
+      "at": "2026-10-14T03:12:24.053Z"
+    },
+    {
+      "k": "wiraa|data analyst i",
+      "at": "2026-10-14T03:12:24.053Z"
+    },
+    {
+      "k": "aven hospitality|corporate strategy analyst",
+      "at": "2026-10-14T03:12:24.053Z"
+    },
+    {
+      "k": "gac group|data analyst",
+      "at": "2026-10-14T03:12:24.053Z"
     }
   ],
   "lastRun": "2026-10-13T21:46:33.513567+00:00",
-  "savedAt": "2026-10-14T03:12:10.335Z"
+  "savedAt": "2026-10-14T03:12:24.053Z"
 }
