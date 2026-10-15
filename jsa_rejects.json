@@ -1,6 +1,80 @@
 {
   "rejects": [
     {
+      "title": "Data Analyst - Entry Level",
+      "company": "Divine Talent",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4477586211/?trackingId=%2BObco%2Fec8TeduYIMvjEVPg%3D%3D&refId=4uLChnhMhbjaCTFQ5I52Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bw9L7EPtKT8eXu72dHjMcVA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477586211_ssid_5216629873_fmid_q9jfse~mv9lofas~mp&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477586211_ssid_5216629873_fmid_q9jfse~mv9lofas~mp-null-q9jfse~mv9lofas~mp-null-null&eid=q9jfse-mv9lofas-mp&otpToken=NDQ2MjVhYTkyMWNmZGNhMWQyODNmYWRkMjVlNzYyZjVlOWZhZDY2M2ZjODc3M2RmYmZkZTJlNzMzMzI3MWEyNGFmY2NlNzg1NWJiYzc5ZTY1MDQ3OTdkNGE4MDliZjgxMWYyYWIzNTExZjZhZGE5N2IwNGExYzBiYzY5YmQxMmJiNjg3MjczNzJhZDI4NTczOWYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:40.508138+00:00"
+    },
+    {
+      "title": "Analyst",
+      "company": "BlueRidge Real Estate Partners",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478564603/?trackingId=ptIbXvE0ZozTWxz7sKLW2g%3D%3D&refId=4uLChnhMhbjaCTFQ5I52Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bw9L7EPtKT8eXu72dHjMcVA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478564603_ssid_5216629873_fmid_q9jfse~mv9lofas~mp&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4478564603_ssid_5216629873_fmid_q9jfse~mv9lofas~mp-null-q9jfse~mv9lofas~mp-null-null&eid=q9jfse-mv9lofas-mp&otpToken=NDQ2MjVhYTkyMWNmZGNhMWQyODNmYWRkMjVlNzYyZjVlOWZhZDY2M2ZjODc3M2RmYmZkZTJlNzMzMzI3MWEyNGFmY2NlNzg1NWJiYzc5ZTY1MDQ3OTdkNGE4MDliZjgxMWYyYWIzNTExZjZhZGE5N2IwNGExYzBiYzY5YmQxMmJiNjg3MjczNzJhZDI4NTczOWYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:40.508239+00:00"
+    },
+    {
+      "title": "IFEC QoE Analyst",
+      "company": "Delta Air Lines",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4477919228/?trackingId=PUVGmxjVPG%2BSKN%2B%2BIdx24g%3D%3D&refId=0ihiPwdKSX2k2MenT4Y1KA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BhIyp5gcRROyMsr%2BiIbbEaA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4477919228_ssid_8758102954_fmid_q9jfse~mv9lofas~9y&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4477919228_ssid_8758102954_fmid_q9jfse~mv9lofas~9y-null-q9jfse~mv9lofas~9y-null-null&eid=q9jfse-mv9lofas-9y&otpToken=ZWMwMWJlYzcyY2M3MjA1NDJlMDYyZDdiZDI1N2JlZWUyYTZmODMzN2UzYjllNmZiNTcyZmVkMTlhNjUxMDgxNDRmMDU4Y2U0N2E0MTQxNTNlN2FkMTMxMjg4YjkyM2I4ZWEwYjgzYmUzM2M1YjJlMzk0NmE1YzkwZTE5MjVkMWZlYWM1Zjk0MDgxNTVkZmFkMmIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:40.843552+00:00"
+    },
+    {
+      "title": "Manager, Business Intelligence - Customer Success",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478597840/?trackingId=YvLr1%2B14AZxpAdlkFmHzyw%3D%3D&refId=0ihiPwdKSX2k2MenT4Y1KA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BhIyp5gcRROyMsr%2BiIbbEaA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4478597840_ssid_8758102954_fmid_q9jfse~mv9lofas~9y&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4478597840_ssid_8758102954_fmid_q9jfse~mv9lofas~9y-null-q9jfse~mv9lofas~9y-null-null&eid=q9jfse-mv9lofas-9y&otpToken=ZWMwMWJlYzcyY2M3MjA1NDJlMDYyZDdiZDI1N2JlZWUyYTZmODMzN2UzYjllNmZiNTcyZmVkMTlhNjUxMDgxNDRmMDU4Y2U0N2E0MTQxNTNlN2FkMTMxMjg4YjkyM2I4ZWEwYjgzYmUzM2M1YjJlMzk0NmE1YzkwZTE5MjVkMWZlYWM1Zjk0MDgxNTVkZmFkMmIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:40.843594+00:00"
+    },
+    {
+      "title": "Sales Analyst - Strategic Partnerships",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4477944420/?trackingId=BKLjnthJ4JjQErrKpLVsyg%3D%3D&refId=0ihiPwdKSX2k2MenT4Y1KA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BhIyp5gcRROyMsr%2BiIbbEaA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4477944420_ssid_8758102954_fmid_q9jfse~mv9lofas~9y&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4477944420_ssid_8758102954_fmid_q9jfse~mv9lofas~9y-null-q9jfse~mv9lofas~9y-null-null&eid=q9jfse-mv9lofas-9y&otpToken=ZWMwMWJlYzcyY2M3MjA1NDJlMDYyZDdiZDI1N2JlZWUyYTZmODMzN2UzYjllNmZiNTcyZmVkMTlhNjUxMDgxNDRmMDU4Y2U0N2E0MTQxNTNlN2FkMTMxMjg4YjkyM2I4ZWEwYjgzYmUzM2M1YjJlMzk0NmE1YzkwZTE5MjVkMWZlYWM1Zjk0MDgxNTVkZmFkMmIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:40.843634+00:00"
+    },
+    {
+      "title": "Warehouse Mgmt. Systems (WMS) Analyst II",
+      "company": "DHL Supply Chain",
+      "location": "Palmetto, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478595392/?trackingId=LzcHCsXTvtwuDmVc95h5kQ%3D%3D&refId=fs0f1TGg9f7k03znPgKOxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BO5K2AQg1S9OEaWcUIBaSPA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5q_F0PwjGLIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478595392_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478595392_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2-null-q9jfse~mv9he3bw~x2-null-null&eid=q9jfse-mv9he3bw-x2&otpToken=ZDcwMmEyMDVhNmVmMGYxYWMwOGRmYmU4M2ZkMDU1ZDA4OWZmYmE4ZDlmMmZiNmY4OWEwMGI2NzI0NDQzZDk5ZWUyYTg3Y2VkYTE5MTJkNDQ4ZjE3NmE1ZDhlZGI4YTI5M2YwNWM0ZWNkZmY1NDIzNTVlZGQ5ZDZlYTAxMTkzNjI4NWY3YTRiMmZkMTgwNWUzZGEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:warehouse"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T17:26:41.105972+00:00"
+    },
+    {
       "title": "Business Analyst",
       "company": "VSP Vision Care",
       "location": "United States",
@@ -18455,79 +18529,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-14T02:42:07.403521+00:00"
-    },
-    {
-      "title": "Product Management (SAP Finance & Accounting)",
-      "company": "TalentOla",
-      "location": "Lake Mary, FL",
-      "url": "https://www.linkedin.com/jobs/view/4477583560/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:finance"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.420628+00:00"
-    },
-    {
-      "title": "Delivery Analyst, UX Design",
-      "company": "Deloitte",
-      "location": "Lake Mary, FL",
-      "url": "https://www.linkedin.com/jobs/view/4461029673/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.439843+00:00"
-    },
-    {
-      "title": "Consultant Technical Product Manager",
-      "company": "Kforce Inc",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4479220214/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager",
-        "staffing_outside_atlanta"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.440603+00:00"
-    },
-    {
-      "title": "Software Development Engineer III",
-      "company": "Blue Origin",
-      "location": "Merritt Island, FL",
-      "url": "https://www.linkedin.com/jobs/view/4411188990/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iii"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.458043+00:00"
-    },
-    {
-      "title": "Product Manager",
-      "company": "Rang Technologies Inc",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4479038432/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.463309+00:00"
-    },
-    {
-      "title": "SAP EWM Consultant",
-      "company": "Infosys",
-      "location": "Orlando, FL",
-      "url": "https://www.linkedin.com/jobs/view/4476426052/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sap"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:12.443970+00:00"
     }
   ]
 }
