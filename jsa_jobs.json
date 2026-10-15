@@ -1052,9 +1052,93 @@
       "messages": 25,
       "found": 53,
       "known": 45
+    },
+    {
+      "at": "2026-10-15T17:26:54.946041+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 0,
+          "review": 3,
+          "reject": 6
+        }
+      },
+      "reasons": {
+        "title_unlisted": 3,
+        "location_unknown": 3,
+        "jd_term": 2,
+        "title_excluded": 2,
+        "staffing_outside_atlanta": 1
+      },
+      "messages": 39,
+      "found": 68,
+      "known": 59
     }
   ],
   "jobs": [
+    {
+      "id": "1a1409a0e7c_wVS",
+      "company": "Wiraa",
+      "title": "Data Business Analyst I",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478796006/?trackingId=vFdaLA4A6SpQduA%2BaCPTzw%3D%3D&refId=4uLChnhMhbjaCTFQ5I52Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bw9L7EPtKT8eXu72dHjMcVA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2wlM41tx5yLYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4478796006_ssid_5216629873_fmid_q9jfse~mv9lofas~mp&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4478796006_ssid_5216629873_fmid_q9jfse~mv9lofas~mp-null-q9jfse~mv9lofas~mp-null-null&eid=q9jfse-mv9lofas-mp&otpToken=NDQ2MjVhYTkyMWNmZGNhMWQyODNmYWRkMjVlNzYyZjVlOWZhZDY2M2ZjODc3M2RmYmZkZTJlNzMzMzI3MWEyNGFmY2NlNzg1NWJiYzc5ZTY1MDQ3OTdkNGE4MDliZjgxMWYyYWIzNTExZjZhZGE5N2IwNGExYzBiYzY5YmQxMmJiNjg3MjczNzJhZDI4NTczOWYsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-15T17:26:40.508284+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a1409a10d2LMr2",
+      "company": "Rapid Eagle Inc",
+      "title": "Business Analyst Manufacturing Process",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476410909/?trackingId=PieN%2Ft8d3c3mtfsoBOntDA%3D%3D&refId=fs0f1TGg9f7k03znPgKOxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BO5K2AQg1S9OEaWcUIBaSPA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5q_F0PwjGLIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476410909_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476410909_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2-null-q9jfse~mv9he3bw~x2-null-null&eid=q9jfse-mv9he3bw-x2&otpToken=ZDcwMmEyMDVhNmVmMGYxYWMwOGRmYmU4M2ZkMDU1ZDA4OWZmYmE4ZDlmMmZiNmY4OWEwMGI2NzI0NDQzZDk5ZWUyYTg3Y2VkYTE5MTJkNDQ4ZjE3NmE1ZDhlZGI4YTI5M2YwNWM0ZWNkZmY1NDIzNTVlZGQ5ZDZlYTAxMTkzNjI4NWY3YTRiMmZkMTgwNWUzZGEsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-15T17:26:41.106066+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a1409a10d2gV2T",
+      "company": "See posting",
+      "title": "Business Analyst, for Engineering",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4468176401/?trackingId=mpIsqWqSw%2BqlmpeWQwqUqQ%3D%3D&refId=fs0f1TGg9f7k03znPgKOxg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BO5K2AQg1S9OEaWcUIBaSPA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5q_F0PwjGLIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468176401_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468176401_ssid_8709018482_fmid_q9jfse~mv9he3bw~x2-null-q9jfse~mv9he3bw~x2-null-null&eid=q9jfse-mv9he3bw-x2&otpToken=ZDcwMmEyMDVhNmVmMGYxYWMwOGRmYmU4M2ZkMDU1ZDA4OWZmYmE4ZDlmMmZiNmY4OWEwMGI2NzI0NDQzZDk5ZWUyYTg3Y2VkYTE5MTJkNDQ4ZjE3NmE1ZDhlZGI4YTI5M2YwNWM0ZWNkZmY1NDIzNTVlZGQ5ZDZlYTAxMTkzNjI4NWY3YTRiMmZkMTgwNWUzZGEsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-15T17:26:41.106180+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a13c1c8ddd6AyX",
       "company": "Wiraa",
@@ -10038,6 +10122,6 @@
       "at": "2026-10-14T15:16:44.057Z"
     }
   ],
-  "lastRun": "2026-10-14T20:31:23.443854+00:00",
-  "savedAt": "2026-10-14T20:31:23.443854+00:00"
+  "lastRun": "2026-10-15T17:26:55.148233+00:00",
+  "savedAt": "2026-10-15T17:26:55.148233+00:00"
 }
