@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "Customer Risk Analyst",
+      "company": "AMISEQ",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476937544/?trackingId=7I%2Fh9rpgKgsuJNnxN1wSkw%3D%3D&refId=IE9QkCKJylJFYFMbc8ax7A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B4mPmPo7nS4OCRY89YtXcrg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1X7V9A9IbaMcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476937544_ssid_8758102954_fmid_q9jfse~mv9yjdgu~s2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4476937544_ssid_8758102954_fmid_q9jfse~mv9yjdgu~s2-null-q9jfse~mv9yjdgu~s2-null-null&eid=q9jfse-mv9yjdgu-s2&otpToken=ZDI5ZjRjNDViOTU5MGUyMDU0ZDVlMmE2YjM0MDBlODBkZjZhODcwMjg4MjgxMDgxN2E3ODZmMmNkMzk3YzUzMjEzOWNlYWQzNjk1ZWM4MTRiMWZhNjhlODUyZWZlY2E2NjA4YjI0MjA0NDJjNjQ3NzQxOGNiYjkyZGQ0MDg3ODMzYTliMGZkOTlmN2FlYTg3ZGEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:risk"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-15T20:12:23.384167+00:00"
+    },
+    {
       "title": "Data Analyst - Entry Level",
       "company": "Divine Talent",
       "location": "United States",
@@ -18517,18 +18529,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-14T02:42:07.395184+00:00"
-    },
-    {
-      "title": "Product Manager (Guest Experience and Public Access Technology)",
-      "company": "Cella",
-      "location": "Kissimmee, FL",
-      "url": "https://www.linkedin.com/jobs/view/4468776766/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-14T02:42:07.403521+00:00"
     }
   ]
 }
