@@ -1247,26 +1247,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144ec1250uKEG",
-      "company": "Celigo",
-      "title": "Product Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4443041068/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:34:44.304684+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e0cdaf3mjE",
       "company": "GEICO",
       "title": "Business Intelligence Analyst / Data Engineer",
@@ -6955,7 +6935,8 @@
     "https://www.linkedin.com/jobs/view/4471171401/",
     "https://www.linkedin.com/jobs/view/4453014356/",
     "https://www.linkedin.com/jobs/view/4478811368/",
-    "https://www.linkedin.com/jobs/view/4477362679/"
+    "https://www.linkedin.com/jobs/view/4477362679/",
+    "https://www.linkedin.com/jobs/view/4443041068/"
   ],
   "dismissedKeys": [
     {
@@ -10501,8 +10482,12 @@
     {
       "k": "mosaic north america|client data analyst",
       "at": "2026-10-16T13:43:31.593Z"
+    },
+    {
+      "k": "celigo|product data analyst",
+      "at": "2026-10-16T13:43:53.808Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:43:33.843Z"
+  "savedAt": "2026-10-16T13:43:53.808Z"
 }
