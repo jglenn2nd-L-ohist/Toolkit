@@ -1247,26 +1247,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144ebe7fdPxMG",
-      "company": "City of Atlanta",
-      "title": "DWM Data Reporting Analyst II (DWM University)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478811368/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:34:33.469308+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144ebf010rV5H",
       "company": "Mosaic North America",
       "title": "Client Data Analyst",
@@ -6993,7 +6973,8 @@
     "https://www.linkedin.com/jobs/view/4479513674/",
     "https://www.linkedin.com/jobs/view/4479107088/",
     "https://www.linkedin.com/jobs/view/4471171401/",
-    "https://www.linkedin.com/jobs/view/4453014356/"
+    "https://www.linkedin.com/jobs/view/4453014356/",
+    "https://www.linkedin.com/jobs/view/4478811368/"
   ],
   "dismissedKeys": [
     {
@@ -10531,8 +10512,12 @@
     {
       "k": "netflix|analytics engineer 5 infrastructure efficiency productivity",
       "at": "2026-10-16T13:42:41.037Z"
+    },
+    {
+      "k": "city of atlanta|dwm data reporting analyst ii dwm university",
+      "at": "2026-10-16T13:43:01.535Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:42:45.183Z"
+  "savedAt": "2026-10-16T13:43:01.535Z"
 }
