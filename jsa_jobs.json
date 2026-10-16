@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bbc2556JAAf",
-      "company": "Price Industries",
-      "title": "Reporting Analyst",
-      "location": "Lawrenceville, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470461577/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:45:48.502428+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbc2f66K8PJ",
       "company": "Florida State University",
       "title": "Business Analyst",
@@ -6428,7 +6408,8 @@
     "https://www.linkedin.com/jobs/view/4479050536/",
     "https://www.linkedin.com/jobs/view/4477919571/",
     "https://www.linkedin.com/jobs/view/4479259133/",
-    "https://www.linkedin.com/jobs/view/4476491823/"
+    "https://www.linkedin.com/jobs/view/4476491823/",
+    "https://www.linkedin.com/jobs/view/4470461577/"
   ],
   "dismissedKeys": [
     {
@@ -9886,8 +9867,12 @@
     {
       "k": "arch capital group|operations analyst investments",
       "at": "2026-10-16T03:55:27.980Z"
+    },
+    {
+      "k": "price industries|reporting analyst",
+      "at": "2026-10-16T03:56:41.271Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:55:30.140Z"
+  "savedAt": "2026-10-16T03:56:41.271Z"
 }
