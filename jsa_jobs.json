@@ -2074,7 +2074,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4479056655/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-14T15:06:24.358347+00:00",
       "notes": "",
       "remote_search": true,
@@ -2084,7 +2084,7 @@
       "filter_reasons": [],
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a13add951cy2Yt",
@@ -10474,5 +10474,5 @@
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:44:36.490Z"
+  "savedAt": "2026-10-16T13:47:59.355Z"
 }
