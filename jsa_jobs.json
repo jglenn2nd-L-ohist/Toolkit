@@ -1293,26 +1293,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e1a5aa2-Z_",
-      "company": "Oak View Group",
-      "title": "Data Analytics Coordinator | Part-Time | Benchmark International Arena",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4462094130/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:23:21.130643+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e1aaf2uYH7",
       "company": "Pasco Police Department",
       "title": "Business Systems Analyst II - Innovation",
@@ -6746,7 +6726,8 @@
     "https://www.linkedin.com/jobs/view/4478804609/",
     "https://www.linkedin.com/jobs/view/4480338852/",
     "https://www.linkedin.com/jobs/view/4477364271/",
-    "https://www.linkedin.com/jobs/view/4469330300/"
+    "https://www.linkedin.com/jobs/view/4469330300/",
+    "https://www.linkedin.com/jobs/view/4462094130/"
   ],
   "dismissedKeys": [
     {
@@ -10336,8 +10317,12 @@
     {
       "k": "raymond james|it operations analyst",
       "at": "2026-10-16T13:58:42.545Z"
+    },
+    {
+      "k": "oak view group|data analytics coordinator part time benchmark international arena",
+      "at": "2026-10-16T13:59:05.338Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:58:46.827Z"
+  "savedAt": "2026-10-16T13:59:05.338Z"
 }
