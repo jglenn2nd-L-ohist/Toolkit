@@ -1293,26 +1293,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e189aaPVe4",
-      "company": "Raymond James",
-      "title": "IT Operations Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469330300/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:23:13.962762+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e1a5aa2-Z_",
       "company": "Oak View Group",
       "title": "Data Analytics Coordinator | Part-Time | Benchmark International Arena",
@@ -6765,7 +6745,8 @@
     "https://www.linkedin.com/jobs/view/4477351073/",
     "https://www.linkedin.com/jobs/view/4478804609/",
     "https://www.linkedin.com/jobs/view/4480338852/",
-    "https://www.linkedin.com/jobs/view/4477364271/"
+    "https://www.linkedin.com/jobs/view/4477364271/",
+    "https://www.linkedin.com/jobs/view/4469330300/"
   ],
   "dismissedKeys": [
     {
@@ -10351,8 +10332,12 @@
     {
       "k": "zenith american solutions|business systems analyst",
       "at": "2026-10-16T13:58:31.781Z"
+    },
+    {
+      "k": "raymond james|it operations analyst",
+      "at": "2026-10-16T13:58:42.545Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:58:31.781Z"
+  "savedAt": "2026-10-16T13:58:42.545Z"
 }
