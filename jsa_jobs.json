@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bbb7827CQjd",
-      "company": "Holland & Knight LLP",
-      "title": "Human Resources Systems Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479050536/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:45:04.167139+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbb7e1aq6PS",
       "company": "Blue Cross NC",
       "title": "Business Analyst",
@@ -6504,7 +6484,8 @@
     "https://www.linkedin.com/jobs/view/4476480960/",
     "https://www.linkedin.com/jobs/view/4478450686/",
     "https://www.linkedin.com/jobs/view/4478587796/",
-    "https://www.linkedin.com/jobs/view/4467634475/"
+    "https://www.linkedin.com/jobs/view/4467634475/",
+    "https://www.linkedin.com/jobs/view/4479050536/"
   ],
   "dismissedKeys": [
     {
@@ -9946,8 +9927,12 @@
     {
       "k": "tata consultancy services|business system analyst",
       "at": "2026-10-16T03:53:59.158Z"
+    },
+    {
+      "k": "holland knight|human resources systems business analyst",
+      "at": "2026-10-16T03:54:24.005Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:54:02.462Z"
+  "savedAt": "2026-10-16T03:54:24.005Z"
 }
