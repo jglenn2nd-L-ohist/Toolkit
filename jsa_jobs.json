@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bb93b8470mK",
-      "company": "Analog Devices",
-      "title": "Business Intelligence Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470203303/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:42:37.572783+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bb95b4aG9R8",
       "company": "United Software Group Inc",
       "title": "Techno-Functional Business Analyst – Reinsurance",
@@ -6599,7 +6579,8 @@
     "https://www.linkedin.com/jobs/view/4479547472/",
     "https://www.linkedin.com/jobs/view/4476484232/",
     "https://www.linkedin.com/jobs/view/4479576411/",
-    "https://www.linkedin.com/comm/jobs/view/4479081677/?trackingId=EuXZI1YtULnKmFSZ9%2ForSg%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4479081677/?trackingId=EuXZI1YtULnKmFSZ9%2ForSg%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
+    "https://www.linkedin.com/jobs/view/4470203303/"
   ],
   "dismissedKeys": [
     {
@@ -10021,8 +10002,12 @@
     {
       "k": "abertis mobility services|business analyst srta",
       "at": "2026-10-16T03:48:25.239Z"
+    },
+    {
+      "k": "analog devices|business intelligence analyst",
+      "at": "2026-10-16T03:49:37.361Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:48:28.457Z"
+  "savedAt": "2026-10-16T03:49:37.361Z"
 }
