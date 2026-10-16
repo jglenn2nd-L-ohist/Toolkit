@@ -1209,6 +1209,25 @@
       "found": 323,
       "opened": 5,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-16T19:50:43.139920+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 3,
+          "review": 0,
+          "reject": 5
+        }
+      },
+      "reasons": {
+        "title_unlisted": 3,
+        "title_excluded": 2
+      },
+      "messages": 29,
+      "found": 61,
+      "known": 53
     }
   ],
   "jobs": [
@@ -10254,6 +10273,6 @@
       "at": "2026-10-16T18:58:18.228Z"
     }
   ],
-  "lastRun": "2026-10-16T17:02:07.304123+00:00",
-  "savedAt": "2026-10-16T19:04:07.769316+00:00"
+  "lastRun": "2026-10-16T19:50:43.618822+00:00",
+  "savedAt": "2026-10-16T19:50:43.618822+00:00"
 }
