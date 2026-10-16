@@ -1247,26 +1247,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144ebd133IcKg",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Infrastructure Efficiency & Productivity",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4453014356/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:34:27.635537+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144ebe7fdPxMG",
       "company": "City of Atlanta",
       "title": "DWM Data Reporting Analyst II (DWM University)",
@@ -7012,7 +6992,8 @@
     "https://www.linkedin.com/jobs/view/4478459142/",
     "https://www.linkedin.com/jobs/view/4479513674/",
     "https://www.linkedin.com/jobs/view/4479107088/",
-    "https://www.linkedin.com/jobs/view/4471171401/"
+    "https://www.linkedin.com/jobs/view/4471171401/",
+    "https://www.linkedin.com/jobs/view/4453014356/"
   ],
   "dismissedKeys": [
     {
@@ -10546,8 +10527,12 @@
     {
       "k": "ntt data north america|it data analyst power bi tableau sql",
       "at": "2026-10-16T13:42:00.927Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 infrastructure efficiency productivity",
+      "at": "2026-10-16T13:42:41.037Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:42:09.461Z"
+  "savedAt": "2026-10-16T13:42:41.037Z"
 }
