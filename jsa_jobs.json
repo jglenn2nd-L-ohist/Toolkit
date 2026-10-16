@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af14efbH2u-",
-      "company": "NTT DATA North America",
-      "title": "IT Business Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470649938/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T15:04:15.355379+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af1593ejrdj",
       "company": "Infosys",
       "title": "Business Analyst - Guiding Care",
@@ -6352,7 +6332,8 @@
     "https://www.linkedin.com/jobs/view/4470461577/",
     "https://www.linkedin.com/jobs/view/4478713203/",
     "https://www.linkedin.com/jobs/view/4478146186/",
-    "https://www.linkedin.com/jobs/view/4477939989/"
+    "https://www.linkedin.com/jobs/view/4477939989/",
+    "https://www.linkedin.com/jobs/view/4470649938/"
   ],
   "dismissedKeys": [
     {
@@ -9826,8 +9807,12 @@
     {
       "k": "nucor|business analyst",
       "at": "2026-10-16T03:57:56.503Z"
+    },
+    {
+      "k": "ntt data north america|it business analyst",
+      "at": "2026-10-16T03:58:00.660Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:57:56.503Z"
+  "savedAt": "2026-10-16T03:58:00.660Z"
 }
