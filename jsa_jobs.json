@@ -1217,26 +1217,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bb93350KcEF",
-      "company": "Amazon",
-      "title": "Business Analyst II ReLo, BASIC",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479576411/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:42:35.472180+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bb93b8470mK",
       "company": "Analog Devices",
       "title": "Business Intelligence Analyst",
@@ -6636,7 +6616,8 @@
     "https://www.linkedin.com/jobs/view/4479558438/",
     "https://www.linkedin.com/jobs/view/4476667914/",
     "https://www.linkedin.com/jobs/view/4479547472/",
-    "https://www.linkedin.com/jobs/view/4476484232/"
+    "https://www.linkedin.com/jobs/view/4476484232/",
+    "https://www.linkedin.com/jobs/view/4479576411/"
   ],
   "dismissedKeys": [
     {
@@ -10050,8 +10031,12 @@
     {
       "k": "crossmark|insights analyst",
       "at": "2026-10-16T03:46:06.680Z"
+    },
+    {
+      "k": "amazon|business analyst ii relo basic",
+      "at": "2026-10-16T03:46:36.728Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:46:09.404Z"
+  "savedAt": "2026-10-16T03:46:36.728Z"
 }
