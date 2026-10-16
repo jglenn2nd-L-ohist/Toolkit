@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af1b0a6q0Rp",
-      "company": "Keurig Dr Pepper Inc.",
-      "title": "Inventory Operations Analyst",
-      "location": "Frisco, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479264221/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:04:40.358119+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af1b8afdEe1",
       "company": "First Command Financial Services, Inc.",
       "title": "Customer Insights Analyst",
@@ -6276,7 +6256,8 @@
     "https://www.linkedin.com/jobs/view/4470649938/",
     "https://www.linkedin.com/jobs/view/4476421312/",
     "https://www.linkedin.com/jobs/view/4461911847/",
-    "https://www.linkedin.com/jobs/view/4477593213/"
+    "https://www.linkedin.com/jobs/view/4477593213/",
+    "https://www.linkedin.com/jobs/view/4479264221/"
   ],
   "dismissedKeys": [
     {
@@ -9766,8 +9747,12 @@
     {
       "k": "g mass consulting|fund operations analyst paralegal legal entity",
       "at": "2026-10-16T03:59:19.906Z"
+    },
+    {
+      "k": "keurig dr pepper|inventory operations analyst",
+      "at": "2026-10-16T03:59:50.446Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:59:23.800Z"
+  "savedAt": "2026-10-16T03:59:50.446Z"
 }
