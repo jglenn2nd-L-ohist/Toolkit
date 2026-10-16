@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bbba149qTNG",
-      "company": "Arch Capital Group Ltd.",
-      "title": "Operations Analyst, Investments",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476491823/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:45:14.697970+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbc2556JAAf",
       "company": "Price Industries",
       "title": "Reporting Analyst",
@@ -6447,7 +6427,8 @@
     "https://www.linkedin.com/jobs/view/4467634475/",
     "https://www.linkedin.com/jobs/view/4479050536/",
     "https://www.linkedin.com/jobs/view/4477919571/",
-    "https://www.linkedin.com/jobs/view/4479259133/"
+    "https://www.linkedin.com/jobs/view/4479259133/",
+    "https://www.linkedin.com/jobs/view/4476491823/"
   ],
   "dismissedKeys": [
     {
@@ -9901,8 +9882,12 @@
     {
       "k": "university of miami|business process operations analyst lennar",
       "at": "2026-10-16T03:55:06.314Z"
+    },
+    {
+      "k": "arch capital group|operations analyst investments",
+      "at": "2026-10-16T03:55:27.980Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:55:09.013Z"
+  "savedAt": "2026-10-16T03:55:27.980Z"
 }
