@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13bbc8aeczWC8",
-      "company": "Grifols",
-      "title": "Logistics Business Analyst",
-      "location": "North Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478713203/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:46:14.508414+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af11f77Oddi",
       "company": "Stellantis Financial Services US",
       "title": "Remarketing Analyst",
@@ -6409,7 +6389,8 @@
     "https://www.linkedin.com/jobs/view/4477919571/",
     "https://www.linkedin.com/jobs/view/4479259133/",
     "https://www.linkedin.com/jobs/view/4476491823/",
-    "https://www.linkedin.com/jobs/view/4470461577/"
+    "https://www.linkedin.com/jobs/view/4470461577/",
+    "https://www.linkedin.com/jobs/view/4478713203/"
   ],
   "dismissedKeys": [
     {
@@ -9871,8 +9852,12 @@
     {
       "k": "price industries|reporting analyst",
       "at": "2026-10-16T03:56:41.271Z"
+    },
+    {
+      "k": "grifols|logistics business analyst",
+      "at": "2026-10-16T03:56:52.287Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:56:44.783Z"
+  "savedAt": "2026-10-16T03:56:52.287Z"
 }
