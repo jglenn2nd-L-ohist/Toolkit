@@ -1177,25 +1177,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13c1c8dddqKiQ",
-      "company": "Abertis Mobility Services",
-      "title": "Business Analyst - SRTA",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4479081677/?trackingId=EuXZI1YtULnKmFSZ9%2ForSg%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-14T20:31:06.717765+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a13c1c8dddz-uV",
       "company": "V Group Inc.",
       "title": "Business Analyst",
@@ -6617,7 +6598,8 @@
     "https://www.linkedin.com/jobs/view/4476667914/",
     "https://www.linkedin.com/jobs/view/4479547472/",
     "https://www.linkedin.com/jobs/view/4476484232/",
-    "https://www.linkedin.com/jobs/view/4479576411/"
+    "https://www.linkedin.com/jobs/view/4479576411/",
+    "https://www.linkedin.com/comm/jobs/view/4479081677/?trackingId=EuXZI1YtULnKmFSZ9%2ForSg%3D%3D&refId=tqGbQWlMmUcq%2FHp2KJGXRg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BuerMBZ7gQRy0wfQCEGT19w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2NRP0GFdSAKIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4479081677_sectionid_284004_fmid_q9jfse~mv8eawd9~ad-null-q9jfse~mv8eawd9~ad-null-null&eid=q9jfse-mv8eawd9-ad&otpToken=MDE2NDliMDU5NzE3Mzc2OGQ2MDcwZGIzNDAyODlhYjdlNzFlNDdjNGNmYWEwZjJkMzUwYjM1NmQwMTczNmIyYmI2ZDMzYjc0NDhiNjU1MmQyMTNhYjg0OTdiMjgwYzk0YjM3NDZlZTExZjNmMTc3YzRjZjk0OTE0MDMwMzJlYTJlZDYxMTM5Zjg4MjhiYTA4ZTUsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -10035,8 +10017,12 @@
     {
       "k": "amazon|business analyst ii relo basic",
       "at": "2026-10-16T03:46:36.728Z"
+    },
+    {
+      "k": "abertis mobility services|business analyst srta",
+      "at": "2026-10-16T03:48:25.239Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:46:36.728Z"
+  "savedAt": "2026-10-16T03:48:25.240Z"
 }
