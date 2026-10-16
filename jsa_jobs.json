@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bbb7e1aq6PS",
-      "company": "Blue Cross NC",
-      "title": "Business Analyst",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477919571/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T18:45:05.690386+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbb96faqHDL",
       "company": "University of Miami",
       "title": "Business Process & Operations Analyst (Lennar)",
@@ -6485,7 +6465,8 @@
     "https://www.linkedin.com/jobs/view/4478450686/",
     "https://www.linkedin.com/jobs/view/4478587796/",
     "https://www.linkedin.com/jobs/view/4467634475/",
-    "https://www.linkedin.com/jobs/view/4479050536/"
+    "https://www.linkedin.com/jobs/view/4479050536/",
+    "https://www.linkedin.com/jobs/view/4477919571/"
   ],
   "dismissedKeys": [
     {
@@ -9931,8 +9912,12 @@
     {
       "k": "holland knight|human resources systems business analyst",
       "at": "2026-10-16T03:54:24.005Z"
+    },
+    {
+      "k": "blue cross nc|business analyst",
+      "at": "2026-10-16T03:54:32.667Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:54:24.005Z"
+  "savedAt": "2026-10-16T03:54:32.667Z"
 }
