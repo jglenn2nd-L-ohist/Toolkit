@@ -1293,26 +1293,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e250dfdpIQ",
-      "company": "HUB International",
-      "title": "Cross-Sell Data Analyst, Dynamics 365",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477318637/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:24:04.959302+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e26233A5lS",
       "company": "Yulista Holding LLC",
       "title": "Business Analyst",
@@ -6708,7 +6688,8 @@
     "https://www.linkedin.com/jobs/view/4477364271/",
     "https://www.linkedin.com/jobs/view/4469330300/",
     "https://www.linkedin.com/jobs/view/4462094130/",
-    "https://www.linkedin.com/jobs/view/4480347442/"
+    "https://www.linkedin.com/jobs/view/4480347442/",
+    "https://www.linkedin.com/jobs/view/4477318637/"
   ],
   "dismissedKeys": [
     {
@@ -10306,8 +10287,12 @@
     {
       "k": "pasco police department|business systems analyst ii innovation",
       "at": "2026-10-16T14:09:17.607Z"
+    },
+    {
+      "k": "hub international|cross sell data analyst dynamics 365",
+      "at": "2026-10-16T14:10:01.131Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:09:21.992Z"
+  "savedAt": "2026-10-16T14:10:01.131Z"
 }
