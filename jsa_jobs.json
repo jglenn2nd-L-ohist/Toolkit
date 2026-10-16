@@ -1247,26 +1247,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e0d7b2ihIY",
-      "company": "Moffitt Cancer Center",
-      "title": "RSCH DATA ANALYST II BIOINFORMATICS",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479590317/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:22:28.402257+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e0e48cQzlT",
       "company": "Star Mountain Capital",
       "title": "Portfolio Reporting Analyst",
@@ -6917,7 +6897,8 @@
     "https://www.linkedin.com/jobs/view/4478811368/",
     "https://www.linkedin.com/jobs/view/4477362679/",
     "https://www.linkedin.com/jobs/view/4443041068/",
-    "https://www.linkedin.com/jobs/view/4479302254/"
+    "https://www.linkedin.com/jobs/view/4479302254/",
+    "https://www.linkedin.com/jobs/view/4479590317/"
   ],
   "dismissedKeys": [
     {
@@ -10471,8 +10452,12 @@
     {
       "k": "geico|business intelligence analyst data engineer",
       "at": "2026-10-16T13:44:36.490Z"
+    },
+    {
+      "k": "moffitt cancer center|rsch data analyst ii bioinformatics",
+      "at": "2026-10-16T13:49:01.533Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:48:13.233Z"
+  "savedAt": "2026-10-16T13:49:01.533Z"
 }
