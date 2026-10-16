@@ -1249,26 +1249,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e14f80o8ln",
-      "company": "Zenith American Solutions, Inc.",
-      "title": "Business Systems Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477364271/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:22:59.072715+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e157a1yvY3",
       "company": "Extend Information Systems Inc.",
       "title": "Business Analyst with KYC Exp.",
@@ -6784,7 +6764,8 @@
     "https://www.linkedin.com/jobs/view/4480331887/",
     "https://www.linkedin.com/jobs/view/4477351073/",
     "https://www.linkedin.com/jobs/view/4478804609/",
-    "https://www.linkedin.com/jobs/view/4480338852/"
+    "https://www.linkedin.com/jobs/view/4480338852/",
+    "https://www.linkedin.com/jobs/view/4477364271/"
   ],
   "dismissedKeys": [
     {
@@ -10366,8 +10347,12 @@
     {
       "k": "pasco police department|business analyst utilities customer information services",
       "at": "2026-10-16T13:57:56.030Z"
+    },
+    {
+      "k": "zenith american solutions|business systems analyst",
+      "at": "2026-10-16T13:58:31.781Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:57:56.030Z"
+  "savedAt": "2026-10-16T13:58:31.781Z"
 }
