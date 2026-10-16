@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af244c9xcXw",
-      "company": "EXL",
-      "title": "Database Marketing Operations Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477905920/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:05:18.281263+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af267068_vd",
       "company": "Granite Construction",
       "title": "Data Solutions Analyst",
@@ -6200,7 +6180,8 @@
     "https://www.linkedin.com/jobs/view/4479264221/",
     "https://www.linkedin.com/jobs/view/4479050650/",
     "https://www.linkedin.com/jobs/view/4470404153/",
-    "https://www.linkedin.com/jobs/view/4478448616/"
+    "https://www.linkedin.com/jobs/view/4478448616/",
+    "https://www.linkedin.com/jobs/view/4477905920/"
   ],
   "dismissedKeys": [
     {
@@ -9706,8 +9687,12 @@
     {
       "k": "smart it frame|database marketing operations analyst",
       "at": "2026-10-16T04:00:51.939Z"
+    },
+    {
+      "k": "exl|database marketing operations analyst",
+      "at": "2026-10-16T13:22:23.896Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T04:00:54.614Z"
+  "savedAt": "2026-10-16T13:22:23.896Z"
 }
