@@ -1269,26 +1269,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e135c7zPWv",
-      "company": "JPMorganChase",
-      "title": "Business Analyst - Real-Time Payments",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480331887/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:22:52.487476+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e13c72yok_",
       "company": "Ray Thomas",
       "title": "Human Resources Systems Business Analyst",
@@ -6860,7 +6840,8 @@
     "https://www.linkedin.com/jobs/view/4479302254/",
     "https://www.linkedin.com/jobs/view/4479590317/",
     "https://www.linkedin.com/jobs/view/4480333705/",
-    "https://www.linkedin.com/jobs/view/4476474715/"
+    "https://www.linkedin.com/jobs/view/4476474715/",
+    "https://www.linkedin.com/jobs/view/4480331887/"
   ],
   "dismissedKeys": [
     {
@@ -10426,8 +10407,12 @@
     {
       "k": "ray thomas|human resources data analyst",
       "at": "2026-10-16T13:52:05.860Z"
+    },
+    {
+      "k": "jpmorganchase|business analyst real time payments",
+      "at": "2026-10-16T13:53:02.852Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:52:08.395Z"
+  "savedAt": "2026-10-16T13:53:02.853Z"
 }
