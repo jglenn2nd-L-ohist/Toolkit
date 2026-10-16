@@ -1335,26 +1335,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a144e44725hL51",
-      "company": "Wild Fork",
-      "title": "Ecommerce Operations Analyst",
-      "location": "Doral, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470928595/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:26:13.541682+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e46ed9v05f",
       "company": "Motorola Solutions",
       "title": "Business Analyst II",
@@ -6613,7 +6593,8 @@
     "https://www.linkedin.com/jobs/view/4479891301/",
     "https://www.linkedin.com/jobs/view/4469029053/",
     "https://www.linkedin.com/jobs/view/4470040389/",
-    "https://www.linkedin.com/jobs/view/4469480283/"
+    "https://www.linkedin.com/jobs/view/4469480283/",
+    "https://www.linkedin.com/jobs/view/4470928595/"
   ],
   "dismissedKeys": [
     {
@@ -10231,8 +10212,12 @@
     {
       "k": "city national bank of florida|systems analyst and database administrator",
       "at": "2026-10-16T14:24:16.465Z"
+    },
+    {
+      "k": "wild fork|ecommerce operations analyst",
+      "at": "2026-10-16T14:36:59.413Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:24:18.668Z"
+  "savedAt": "2026-10-16T14:36:59.413Z"
 }
