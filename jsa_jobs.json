@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bbb96faqHDL",
-      "company": "University of Miami",
-      "title": "Business Process & Operations Analyst (Lennar)",
-      "location": "Coral Gables, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479259133/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:45:12.058028+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbba149qTNG",
       "company": "Arch Capital Group Ltd.",
       "title": "Operations Analyst, Investments",
@@ -6466,7 +6446,8 @@
     "https://www.linkedin.com/jobs/view/4478587796/",
     "https://www.linkedin.com/jobs/view/4467634475/",
     "https://www.linkedin.com/jobs/view/4479050536/",
-    "https://www.linkedin.com/jobs/view/4477919571/"
+    "https://www.linkedin.com/jobs/view/4477919571/",
+    "https://www.linkedin.com/jobs/view/4479259133/"
   ],
   "dismissedKeys": [
     {
@@ -9916,8 +9897,12 @@
     {
       "k": "blue cross nc|business analyst",
       "at": "2026-10-16T03:54:32.667Z"
+    },
+    {
+      "k": "university of miami|business process operations analyst lennar",
+      "at": "2026-10-16T03:55:06.314Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:54:34.970Z"
+  "savedAt": "2026-10-16T03:55:06.314Z"
 }
