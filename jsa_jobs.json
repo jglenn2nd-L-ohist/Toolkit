@@ -1293,26 +1293,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e1aaf2uYH7",
-      "company": "Pasco Police Department",
-      "title": "Business Systems Analyst II - Innovation",
-      "location": "New Port Richey, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480347442/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-16T13:23:22.482937+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e250dfdpIQ",
       "company": "HUB International",
       "title": "Cross-Sell Data Analyst, Dynamics 365",
@@ -6727,7 +6707,8 @@
     "https://www.linkedin.com/jobs/view/4480338852/",
     "https://www.linkedin.com/jobs/view/4477364271/",
     "https://www.linkedin.com/jobs/view/4469330300/",
-    "https://www.linkedin.com/jobs/view/4462094130/"
+    "https://www.linkedin.com/jobs/view/4462094130/",
+    "https://www.linkedin.com/jobs/view/4480347442/"
   ],
   "dismissedKeys": [
     {
@@ -10321,8 +10302,12 @@
     {
       "k": "oak view group|data analytics coordinator part time benchmark international arena",
       "at": "2026-10-16T13:59:05.338Z"
+    },
+    {
+      "k": "pasco police department|business systems analyst ii innovation",
+      "at": "2026-10-16T14:09:17.607Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:59:05.338Z"
+  "savedAt": "2026-10-16T14:09:17.607Z"
 }
