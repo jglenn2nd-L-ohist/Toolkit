@@ -1421,26 +1421,6 @@
       "status": "New"
     },
     {
-      "id": "1a144e5a104P1lf",
-      "company": "Zimmer Biomet",
-      "title": "Corporate Strategy Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478835212/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:27:42.084632+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e5b9denlGY",
       "company": "Netflix",
       "title": "Analytics Engineer 5 - Cloud Games Infrastructure Data Products",
@@ -6594,7 +6574,8 @@
     "https://www.linkedin.com/jobs/view/4469029053/",
     "https://www.linkedin.com/jobs/view/4470040389/",
     "https://www.linkedin.com/jobs/view/4469480283/",
-    "https://www.linkedin.com/jobs/view/4470928595/"
+    "https://www.linkedin.com/jobs/view/4470928595/",
+    "https://www.linkedin.com/jobs/view/4478835212/"
   ],
   "dismissedKeys": [
     {
@@ -10216,8 +10197,12 @@
     {
       "k": "wild fork|ecommerce operations analyst",
       "at": "2026-10-16T14:36:59.413Z"
+    },
+    {
+      "k": "zimmer biomet|corporate strategy analyst",
+      "at": "2026-10-16T14:37:40.552Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:37:02.312Z"
+  "savedAt": "2026-10-16T14:37:40.552Z"
 }
