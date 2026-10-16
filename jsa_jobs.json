@@ -1335,26 +1335,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a144e339a50M3s",
-      "company": "Software Guidance & Assistance, Inc. (SGA, Inc.)",
-      "title": "Remote Associate Data Engineer/Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4469029053/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:25:04.549371+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e43e64Jz9-",
       "company": "Perry Ellis International",
       "title": "Business Intelligence Analyst",
@@ -6670,7 +6650,8 @@
     "https://www.linkedin.com/jobs/view/4462094130/",
     "https://www.linkedin.com/jobs/view/4480347442/",
     "https://www.linkedin.com/jobs/view/4477318637/",
-    "https://www.linkedin.com/jobs/view/4479891301/"
+    "https://www.linkedin.com/jobs/view/4479891301/",
+    "https://www.linkedin.com/jobs/view/4469029053/"
   ],
   "dismissedKeys": [
     {
@@ -10276,8 +10257,12 @@
     {
       "k": "yulista holding|business analyst",
       "at": "2026-10-16T14:10:19.643Z"
+    },
+    {
+      "k": "software guidance assistance sga|remote associate data engineer analyst",
+      "at": "2026-10-16T14:19:51.233Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:18:23.092Z"
+  "savedAt": "2026-10-16T14:19:51.233Z"
 }
