@@ -1247,26 +1247,6 @@
       "status": "New"
     },
     {
-      "id": "1a144e0ea76aIcn",
-      "company": "Ray Thomas",
-      "title": "Human Resources Data Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476474715/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:22:33.206462+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e11a4agh6Z",
       "company": "ID Projetos Educacionais",
       "title": "Business Analyst - Workforce Development",
@@ -6879,7 +6859,8 @@
     "https://www.linkedin.com/jobs/view/4443041068/",
     "https://www.linkedin.com/jobs/view/4479302254/",
     "https://www.linkedin.com/jobs/view/4479590317/",
-    "https://www.linkedin.com/jobs/view/4480333705/"
+    "https://www.linkedin.com/jobs/view/4480333705/",
+    "https://www.linkedin.com/jobs/view/4476474715/"
   ],
   "dismissedKeys": [
     {
@@ -10441,8 +10422,12 @@
     {
       "k": "community legal services|business intelligence analyst",
       "at": "2026-10-16T13:51:38.791Z"
+    },
+    {
+      "k": "ray thomas|human resources data analyst",
+      "at": "2026-10-16T13:52:05.860Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:51:38.792Z"
+  "savedAt": "2026-10-16T13:52:05.861Z"
 }
