@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af1593ejrdj",
-      "company": "Infosys",
-      "title": "Business Analyst - Guiding Care",
-      "location": "Richardson, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476421312/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:04:17.982503+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af17dd6FQ-J",
       "company": "Omron Automation",
       "title": "Logistics Operations Analyst",
@@ -6333,7 +6313,8 @@
     "https://www.linkedin.com/jobs/view/4478713203/",
     "https://www.linkedin.com/jobs/view/4478146186/",
     "https://www.linkedin.com/jobs/view/4477939989/",
-    "https://www.linkedin.com/jobs/view/4470649938/"
+    "https://www.linkedin.com/jobs/view/4470649938/",
+    "https://www.linkedin.com/jobs/view/4476421312/"
   ],
   "dismissedKeys": [
     {
@@ -9811,8 +9792,12 @@
     {
       "k": "ntt data north america|it business analyst",
       "at": "2026-10-16T03:58:00.660Z"
+    },
+    {
+      "k": "infosys|business analyst guiding care",
+      "at": "2026-10-16T03:58:39.066Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:58:05.044Z"
+  "savedAt": "2026-10-16T03:58:39.066Z"
 }
