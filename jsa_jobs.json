@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af17dd6FQ-J",
-      "company": "Omron Automation",
-      "title": "Logistics Operations Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4461911847/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T15:04:27.350485+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af187e9hWUW",
       "company": "G MASS Consulting",
       "title": "Fund Operations Analyst (Paralegal / Legal Entity)",
@@ -6314,7 +6294,8 @@
     "https://www.linkedin.com/jobs/view/4478146186/",
     "https://www.linkedin.com/jobs/view/4477939989/",
     "https://www.linkedin.com/jobs/view/4470649938/",
-    "https://www.linkedin.com/jobs/view/4476421312/"
+    "https://www.linkedin.com/jobs/view/4476421312/",
+    "https://www.linkedin.com/jobs/view/4461911847/"
   ],
   "dismissedKeys": [
     {
@@ -9796,8 +9777,12 @@
     {
       "k": "infosys|business analyst guiding care",
       "at": "2026-10-16T03:58:39.066Z"
+    },
+    {
+      "k": "omron automation|logistics operations analyst",
+      "at": "2026-10-16T03:59:16.158Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:58:41.488Z"
+  "savedAt": "2026-10-16T03:59:16.158Z"
 }
