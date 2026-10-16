@@ -1242,26 +1242,6 @@
       "status": "Review"
     },
     {
-      "id": "1a13af1de47mKRf",
-      "company": "D.R. Horton",
-      "title": "Social Media Insights Strategist",
-      "location": "Arlington, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470404153/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T15:04:52.039685+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13af23b73SMHD",
       "company": "Smart IT Frame LLC",
       "title": "Database Marketing Operations Analyst",
@@ -6238,7 +6218,8 @@
     "https://www.linkedin.com/jobs/view/4461911847/",
     "https://www.linkedin.com/jobs/view/4477593213/",
     "https://www.linkedin.com/jobs/view/4479264221/",
-    "https://www.linkedin.com/jobs/view/4479050650/"
+    "https://www.linkedin.com/jobs/view/4479050650/",
+    "https://www.linkedin.com/jobs/view/4470404153/"
   ],
   "dismissedKeys": [
     {
@@ -9736,8 +9717,12 @@
     {
       "k": "first command financial services|customer insights analyst",
       "at": "2026-10-16T04:00:19.606Z"
+    },
+    {
+      "k": "d r horton|social media insights strategist",
+      "at": "2026-10-16T04:00:24.325Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T04:00:19.606Z"
+  "savedAt": "2026-10-16T04:00:24.325Z"
 }
