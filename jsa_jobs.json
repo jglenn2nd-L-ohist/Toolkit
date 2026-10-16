@@ -1421,26 +1421,6 @@
       "status": "New"
     },
     {
-      "id": "1a144e5b9denlGY",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Cloud Games Infrastructure Data Products",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4460431108/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-16T13:27:48.446686+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e5c390D44A",
       "company": "Greystar",
       "title": "Analytics Engineer",
@@ -6575,7 +6555,8 @@
     "https://www.linkedin.com/jobs/view/4470040389/",
     "https://www.linkedin.com/jobs/view/4469480283/",
     "https://www.linkedin.com/jobs/view/4470928595/",
-    "https://www.linkedin.com/jobs/view/4478835212/"
+    "https://www.linkedin.com/jobs/view/4478835212/",
+    "https://www.linkedin.com/jobs/view/4460431108/"
   ],
   "dismissedKeys": [
     {
@@ -10201,8 +10182,12 @@
     {
       "k": "zimmer biomet|corporate strategy analyst",
       "at": "2026-10-16T14:37:40.552Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 cloud games infrastructure data products",
+      "at": "2026-10-16T14:37:49.795Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:37:40.552Z"
+  "savedAt": "2026-10-16T14:37:49.795Z"
 }
