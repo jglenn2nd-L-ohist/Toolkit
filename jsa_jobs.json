@@ -1293,26 +1293,6 @@
       "status": "Review"
     },
     {
-      "id": "1a144e26233A5lS",
-      "company": "Yulista Holding LLC",
-      "title": "Business Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479891301/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:24:09.395653+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144e28297-sZS",
       "company": "GTECH LLC",
       "title": "Product Analyst || Buena Vista, FL ,Hybrid- locals",
@@ -6689,7 +6669,8 @@
     "https://www.linkedin.com/jobs/view/4469330300/",
     "https://www.linkedin.com/jobs/view/4462094130/",
     "https://www.linkedin.com/jobs/view/4480347442/",
-    "https://www.linkedin.com/jobs/view/4477318637/"
+    "https://www.linkedin.com/jobs/view/4477318637/",
+    "https://www.linkedin.com/jobs/view/4479891301/"
   ],
   "dismissedKeys": [
     {
@@ -10291,8 +10272,12 @@
     {
       "k": "hub international|cross sell data analyst dynamics 365",
       "at": "2026-10-16T14:10:01.131Z"
+    },
+    {
+      "k": "yulista holding|business analyst",
+      "at": "2026-10-16T14:10:19.643Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T14:10:03.837Z"
+  "savedAt": "2026-10-16T14:10:19.643Z"
 }
