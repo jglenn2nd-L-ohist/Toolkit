@@ -1183,25 +1183,6 @@
   ],
   "jobs": [
     {
-      "id": "1a145a9a6a2nADv",
-      "company": "TouchPoint Support Services",
-      "title": "BUSINESS INSIGHTS ANALYST",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4479733590/?trackingId=W96XrBjm3qFPOyBjD6DA4A%3D%3D&refId=GuqyaXmGoTiZZFE2BIIDOA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BeP1rESPERp%2BLfb477qnFsw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\n37ZoocJWNss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4479733590_ssid_15324419412_fmid_q9jfse~mvb5ejw3~au&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4479733590_ssid_15324419412_fmid_q9jfse~mvb5ejw3~au-null-q9jfse~mvb5ejw3~au-null-null&eid=q9jfse-mvb5ejw3-au&otpToken=YzVjODM3NmFiMzBhMjc4Y2M1NDk1ZmE3MzIyMjRlZjMxNWY2MTMwMGM5NmUxNDdiMDRjYTVlZmM4ZTdiMmVmMTNlZmFkYWZkMDM2ZTJhNjhhY2JhMzNhNDMyYjQwZjE0ODRmNjg3YzkyYjgwNzY2MDNkMzg4MjhhZTQ5YjFkYzgwOWQ4YzI2OGFkYzEzMzdmMmEsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-16T17:01:48.578778+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a145a9a6a2H6Ia",
       "company": "The Home Depot",
       "title": "Operations Business Analyst",
@@ -6675,7 +6656,8 @@
     "https://www.linkedin.com/jobs/view/4469480283/",
     "https://www.linkedin.com/jobs/view/4470928595/",
     "https://www.linkedin.com/jobs/view/4478835212/",
-    "https://www.linkedin.com/jobs/view/4460431108/"
+    "https://www.linkedin.com/jobs/view/4460431108/",
+    "https://www.linkedin.com/comm/jobs/view/4479733590/?trackingId=W96XrBjm3qFPOyBjD6DA4A%3D%3D&refId=GuqyaXmGoTiZZFE2BIIDOA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BeP1rESPERp%2BLfb477qnFsw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\n37ZoocJWNss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4479733590_ssid_15324419412_fmid_q9jfse~mvb5ejw3~au&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4479733590_ssid_15324419412_fmid_q9jfse~mvb5ejw3~au-null-q9jfse~mvb5ejw3~au-null-null&eid=q9jfse-mvb5ejw3-au&otpToken=YzVjODM3NmFiMzBhMjc4Y2M1NDk1ZmE3MzIyMjRlZjMxNWY2MTMwMGM5NmUxNDdiMDRjYTVlZmM4ZTdiMmVmMTNlZmFkYWZkMDM2ZTJhNjhhY2JhMzNhNDMyYjQwZjE0ODRmNjg3YzkyYjgwNzY2MDNkMzg4MjhhZTQ5YjFkYzgwOWQ4YzI2OGFkYzEzMzdmMmEsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -10305,8 +10287,12 @@
     {
       "k": "netflix|analytics engineer 5 cloud games infrastructure data products",
       "at": "2026-10-16T14:37:49.795Z"
+    },
+    {
+      "k": "touchpoint support services|business insights analyst",
+      "at": "2026-10-16T18:44:05.343Z"
     }
   ],
   "lastRun": "2026-10-16T17:02:07.304123+00:00",
-  "savedAt": "2026-10-16T18:31:11.040Z"
+  "savedAt": "2026-10-16T18:44:05.343Z"
 }
