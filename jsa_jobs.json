@@ -1198,26 +1198,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a13bba1c5ciBsH",
-      "company": "Tata Consultancy Services",
-      "title": "Business System Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4467634475/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T18:43:35.132364+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13bbb7827CQjd",
       "company": "Holland & Knight LLP",
       "title": "Human Resources Systems Business Analyst",
@@ -6523,7 +6503,8 @@
     "https://www.linkedin.com/jobs/view/4470203303/",
     "https://www.linkedin.com/jobs/view/4476480960/",
     "https://www.linkedin.com/jobs/view/4478450686/",
-    "https://www.linkedin.com/jobs/view/4478587796/"
+    "https://www.linkedin.com/jobs/view/4478587796/",
+    "https://www.linkedin.com/jobs/view/4467634475/"
   ],
   "dismissedKeys": [
     {
@@ -9961,8 +9942,12 @@
     {
       "k": "samsung sds america|logistics pricing analyst em7207",
       "at": "2026-10-16T03:50:37.025Z"
+    },
+    {
+      "k": "tata consultancy services|business system analyst",
+      "at": "2026-10-16T03:53:59.158Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T03:50:39.345Z"
+  "savedAt": "2026-10-16T03:53:59.158Z"
 }
