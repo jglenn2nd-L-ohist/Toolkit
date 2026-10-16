@@ -1181,26 +1181,6 @@
       "status": "New"
     },
     {
-      "id": "1a144e9ad35-Tv-",
-      "company": "The Walt Disney Company",
-      "title": "Business Analyst (Casual Temporary)",
-      "location": "Lake Buena Vista, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479107088/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:32:07.349808+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a144ea6f78GLzr",
       "company": "Motorola Solutions",
       "title": "Business Analyst",
@@ -7050,7 +7030,8 @@
     "https://www.linkedin.com/jobs/view/4478173162/",
     "https://www.linkedin.com/jobs/view/4478174436/",
     "https://www.linkedin.com/jobs/view/4478459142/",
-    "https://www.linkedin.com/jobs/view/4479513674/"
+    "https://www.linkedin.com/jobs/view/4479513674/",
+    "https://www.linkedin.com/jobs/view/4479107088/"
   ],
   "dismissedKeys": [
     {
@@ -10576,8 +10557,12 @@
     {
       "k": "taskverse|data analyst",
       "at": "2026-10-16T13:24:43.819Z"
+    },
+    {
+      "k": "walt disney|business analyst casual temporary",
+      "at": "2026-10-16T13:41:34.621Z"
     }
   ],
   "lastRun": "2026-10-15T20:12:29.843738+00:00",
-  "savedAt": "2026-10-16T13:41:10.760Z"
+  "savedAt": "2026-10-16T13:41:34.621Z"
 }
