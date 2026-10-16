@@ -1522,26 +1522,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a144e64e63upKB",
-      "company": "Arclin",
-      "title": "Supply Chain Business Analyst",
-      "location": "Alpharetta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479153353/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T13:28:26.467711+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1409a0e7c_wVS",
       "company": "Wiraa",
       "title": "Data Business Analyst I",
@@ -6582,7 +6562,8 @@
     "https://www.linkedin.com/comm/jobs/view/4478449202/?trackingId=ltoUuCmNwlVcinpQZDXilA%3D%3D&refId=mZy1V0VuMADSnNEVBPI4yQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B5n%2BEadJzR82cFVs%2FjOnZTA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2zlSxBuTnsMss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4478449202_ssid_8352402866_fmid_q9jfse~mva8bqzx~8d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4478449202_ssid_8352402866_fmid_q9jfse~mva8bqzx~8d-null-q9jfse~mva8bqzx~8d-null-null&eid=q9jfse-mva8bqzx-8d&otpToken=NThhMTU5ODA3ZmEwYWZmYTdhNDQyNTZjZGZiZWIwOTViZjAyNTEwZTliOWRjNTdjY2ZlMGU5NGRmNjA2YWFkOWYzOTJlYWZhMjVhMGRkMjNkMzhkOTk1MzUxYTdkNDY5MzFmODkzZWVkYzI1ZDRiNTU1YThhZWM5YjkyOWZlZTcwNTYwNjg0MWE0YTIwNGRjMDIsMiwx",
     "https://www.linkedin.com/jobs/view/4478822380/",
     "https://www.linkedin.com/jobs/view/4479829936/",
-    "https://www.linkedin.com/jobs/view/4479787044/"
+    "https://www.linkedin.com/jobs/view/4479787044/",
+    "https://www.linkedin.com/jobs/view/4479153353/"
   ],
   "dismissedKeys": [
     {
@@ -10232,8 +10213,12 @@
     {
       "k": "bd|logistics analyst",
       "at": "2026-10-16T18:57:27.812Z"
+    },
+    {
+      "k": "arclin|supply chain business analyst",
+      "at": "2026-10-16T18:57:55.235Z"
     }
   ],
   "lastRun": "2026-10-16T17:02:07.304123+00:00",
-  "savedAt": "2026-10-16T18:57:30.077Z"
+  "savedAt": "2026-10-16T18:57:55.235Z"
 }
