@@ -1232,26 +1232,6 @@
   ],
   "jobs": [
     {
-      "id": "1a14616dac4YwQ4",
-      "company": "Blue Origin",
-      "title": "Business Intelligence Developer II",
-      "location": "Merritt Island, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4454140787/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-16T19:01:05.348679+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a145a9a6a2H6Ia",
       "company": "The Home Depot",
       "title": "Operations Business Analyst",
@@ -6613,7 +6593,8 @@
     "https://www.linkedin.com/jobs/view/4479829936/",
     "https://www.linkedin.com/jobs/view/4479787044/",
     "https://www.linkedin.com/jobs/view/4479153353/",
-    "https://www.linkedin.com/jobs/view/4479070847/"
+    "https://www.linkedin.com/jobs/view/4479070847/",
+    "https://www.linkedin.com/jobs/view/4454140787/"
   ],
   "dismissedKeys": [
     {
@@ -10271,8 +10252,12 @@
     {
       "k": "turnitin|business intelligence analyst analytics engineer hybrid usa remote",
       "at": "2026-10-16T18:58:18.228Z"
+    },
+    {
+      "k": "blue origin|business intelligence developer ii",
+      "at": "2026-10-18T21:40:03.615Z"
     }
   ],
   "lastRun": "2026-10-16T19:50:43.618822+00:00",
-  "savedAt": "2026-10-18T21:39:13.690Z"
+  "savedAt": "2026-10-18T21:40:03.616Z"
 }
