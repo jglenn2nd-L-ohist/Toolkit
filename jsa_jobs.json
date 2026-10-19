@@ -1891,26 +1891,6 @@
       "status": "New"
     },
     {
-      "id": "1a154b32a18WDsr",
-      "company": "PMG",
-      "title": "Graduate Leadership Program - Data Analytics (January Start)",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4440178108/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T15:06:30.296534+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a154b33349PTfq",
       "company": "crewlia",
       "title": "Product Data Analyst",
@@ -7406,7 +7386,8 @@
     "https://www.linkedin.com/jobs/view/4471781690/",
     "https://www.linkedin.com/jobs/view/4477901876/",
     "https://www.linkedin.com/jobs/view/4476403227/",
-    "https://www.linkedin.com/jobs/view/4480235087/"
+    "https://www.linkedin.com/jobs/view/4480235087/",
+    "https://www.linkedin.com/jobs/view/4440178108/"
   ],
   "dismissedKeys": [
     {
@@ -11092,8 +11073,12 @@
     {
       "k": "crewlia|junior data analyst",
       "at": "2026-10-19T16:26:45.517Z"
+    },
+    {
+      "k": "pmg|graduate leadership program data analytics january start",
+      "at": "2026-10-19T16:27:03.802Z"
     }
   ],
   "lastRun": "2026-10-16T19:50:43.618822+00:00",
-  "savedAt": "2026-10-19T16:26:45.517Z"
+  "savedAt": "2026-10-19T16:27:03.802Z"
 }
