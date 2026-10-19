@@ -1757,26 +1757,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a13add951cy2Yt",
-      "company": "U.S. Bank",
-      "title": "Insights & Reporting Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479251238/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T14:42:42.588626+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13add9fccsjB4",
       "company": "Ampstek",
       "title": "Data analyst",
@@ -1986,26 +1966,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-14T14:43:54.218977+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a13adeb28f5OlI",
-      "company": "U.S. Bank",
-      "title": "Trust Reporting Analyst - Collateralized Loan Obligation",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478576752/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-14T14:43:55.663831+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -6594,7 +6554,9 @@
     "https://www.linkedin.com/jobs/view/4479787044/",
     "https://www.linkedin.com/jobs/view/4479153353/",
     "https://www.linkedin.com/jobs/view/4479070847/",
-    "https://www.linkedin.com/jobs/view/4454140787/"
+    "https://www.linkedin.com/jobs/view/4454140787/",
+    "https://www.linkedin.com/jobs/view/4479251238/",
+    "https://www.linkedin.com/jobs/view/4478576752/"
   ],
   "dismissedKeys": [
     {
@@ -10256,8 +10218,16 @@
     {
       "k": "blue origin|business intelligence developer ii",
       "at": "2026-10-18T21:40:03.615Z"
+    },
+    {
+      "k": "u s bank|insights reporting analyst",
+      "at": "2026-10-19T13:49:33.900Z"
+    },
+    {
+      "k": "u s bank|trust reporting analyst collateralized loan obligation",
+      "at": "2026-10-19T13:49:33.900Z"
     }
   ],
   "lastRun": "2026-10-16T19:50:43.618822+00:00",
-  "savedAt": "2026-10-19T13:49:01.226Z"
+  "savedAt": "2026-10-19T13:49:33.900Z"
 }
