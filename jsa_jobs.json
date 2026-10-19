@@ -1731,26 +1731,6 @@
       "status": "New"
     },
     {
-      "id": "1a154b28392vMmG",
-      "company": "crewlia",
-      "title": "Junior Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480235087/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T15:05:47.666113+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a154b28cf9ZvA9",
       "company": "Harris County",
       "title": "Data Analyst",
@@ -7425,7 +7405,8 @@
     "https://www.linkedin.com/jobs/view/4478576752/",
     "https://www.linkedin.com/jobs/view/4471781690/",
     "https://www.linkedin.com/jobs/view/4477901876/",
-    "https://www.linkedin.com/jobs/view/4476403227/"
+    "https://www.linkedin.com/jobs/view/4476403227/",
+    "https://www.linkedin.com/jobs/view/4480235087/"
   ],
   "dismissedKeys": [
     {
@@ -11107,8 +11088,12 @@
     {
       "k": "oncor electric delivery|exception specialist data analyst",
       "at": "2026-10-19T13:50:56.937Z"
+    },
+    {
+      "k": "crewlia|junior data analyst",
+      "at": "2026-10-19T16:26:45.517Z"
     }
   ],
   "lastRun": "2026-10-16T19:50:43.618822+00:00",
-  "savedAt": "2026-10-19T16:25:40.174Z"
+  "savedAt": "2026-10-19T16:26:45.517Z"
 }
