@@ -1757,26 +1757,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a13addaa3a15gD",
-      "company": "Oncor Electric Delivery",
-      "title": "Exception Specialist Data Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476403227/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-14T14:42:47.994811+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a13addb39dCYg4",
       "company": "Rohde & Schwarz",
       "title": "Transportation Logistics Analyst",
@@ -6517,7 +6497,8 @@
     "https://www.linkedin.com/jobs/view/4479251238/",
     "https://www.linkedin.com/jobs/view/4478576752/",
     "https://www.linkedin.com/jobs/view/4471781690/",
-    "https://www.linkedin.com/jobs/view/4477901876/"
+    "https://www.linkedin.com/jobs/view/4477901876/",
+    "https://www.linkedin.com/jobs/view/4476403227/"
   ],
   "dismissedKeys": [
     {
@@ -10195,8 +10176,12 @@
     {
       "k": "ampstek|data analyst",
       "at": "2026-10-19T13:50:46.300Z"
+    },
+    {
+      "k": "oncor electric delivery|exception specialist data analyst",
+      "at": "2026-10-19T13:50:56.937Z"
     }
   ],
   "lastRun": "2026-10-16T19:50:43.618822+00:00",
-  "savedAt": "2026-10-19T13:50:48.812Z"
+  "savedAt": "2026-10-19T13:50:56.938Z"
 }
