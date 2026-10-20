@@ -1431,9 +1431,119 @@
       "found": 841,
       "opened": 18,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-20T15:04:16.452970+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 4,
+          "review": 0,
+          "reject": 405
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 16
+        }
+      },
+      "reasons": {
+        "title_excluded": 240,
+        "out_of_area": 159,
+        "title_not_target": 103,
+        "healthcare": 39,
+        "title_unlisted": 30,
+        "staffing_outside_atlanta": 17,
+        "remote_unverified": 15,
+        "foreign": 7
+      },
+      "found": 425,
+      "opened": 5,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a159d4773bLbW_",
+      "company": "Fortress Information Security",
+      "title": "Fortress FastLane, Data Quality Analyst",
+      "location": "Greater Orlando",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480266647/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T15:00:58.811686+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a159d665b6Yks1",
+      "company": "OpenLoop",
+      "title": "Data Analyst II",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4470018313/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T15:03:05.398171+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a159d6d297iFJs",
+      "company": "Harrison Clarke",
+      "title": "Data Analytics Engineer",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481578831/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T15:03:33.271891+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a159d72bd0cBHJ",
+      "company": "Celestica",
+      "title": "07 - Logistics Analyst",
+      "location": "Richardson, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4473075523/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T15:03:56.112587+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
     {
       "id": "1a159a96875hj0C",
       "company": "Mad Mobile",
@@ -11821,5 +11931,5 @@
     }
   ],
   "lastRun": "2026-10-19T21:22:43.861245+00:00",
-  "savedAt": "2026-10-20T14:22:51.614799+00:00"
+  "savedAt": "2026-10-20T15:04:16.902303+00:00"
 }
