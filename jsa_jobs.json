@@ -1490,9 +1490,186 @@
       "messages": 36,
       "found": 99,
       "known": 75
+    },
+    {
+      "at": "2026-10-20T19:05:23.165776+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 5,
+          "review": 2,
+          "reject": 435
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 6
+        }
+      },
+      "reasons": {
+        "title_excluded": 256,
+        "out_of_area": 142,
+        "title_not_target": 95,
+        "healthcare": 32,
+        "title_unlisted": 30,
+        "staffing_outside_atlanta": 14,
+        "remote_unverified": 14,
+        "foreign": 5,
+        "clearance_required": 3,
+        "jd_term": 2,
+        "location_unknown": 2
+      },
+      "found": 448,
+      "opened": 10,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a15aaf5f78Kb5W",
+      "company": "Hirevantis LLC",
+      "title": "Business Analyst",
+      "location": "Tampa, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480485576/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:00:05.112296+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
+    {
+      "id": "1a15ab145d5PGrU",
+      "company": "Ameris Bank",
+      "title": "Business Intelligence Reporting Developer",
+      "location": "Jacksonville, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480496139/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:02:09.621960+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15ab314d3amCo",
+      "company": "Harris County Toll Road Authority",
+      "title": "IT Business Analyst, Customer Service & Training",
+      "location": "Houston, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481730615/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:04:08.147200+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15ab326957cuD",
+      "company": "Octapharma Plasma, Inc.",
+      "title": "Business Analyst",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481714008/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:04:12.693872+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15ab36be050tQ",
+      "company": "TaskVerse",
+      "title": "Marketing Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481749731/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:04:30.432726+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:onsite_or_hybrid"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
+    {
+      "id": "1a15ab3cae3SLzB",
+      "company": "Richemont",
+      "title": "Business Analyst, Logistics Execution",
+      "location": "Grand Prairie, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480494912/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:04:54.755809+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15ab3f1e9RyJQ",
+      "company": "Liberty Furniture",
+      "title": "Supply Chain Analyst",
+      "location": "Atlanta Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481598682/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T19:05:04.745199+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
     {
       "id": "1a15a6320d56AXL",
       "company": "Sempiterna",
@@ -12099,5 +12276,5 @@
     }
   ],
   "lastRun": "2026-10-20T17:37:21.207622+00:00",
-  "savedAt": "2026-10-20T17:37:21.207622+00:00"
+  "savedAt": "2026-10-20T19:05:23.633223+00:00"
 }
