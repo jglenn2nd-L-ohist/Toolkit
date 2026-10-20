@@ -1368,9 +1368,140 @@
       "found": 519,
       "opened": 22,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-20T03:04:15.450150+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 5,
+          "review": 0,
+          "reject": 270
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 3
+        }
+      },
+      "reasons": {
+        "title_excluded": 176,
+        "title_not_target": 70,
+        "out_of_area": 43,
+        "healthcare": 18,
+        "staffing_outside_atlanta": 12,
+        "title_unlisted": 10,
+        "foreign": 3,
+        "remote_unverified": 2,
+        "clearance_required": 1
+      },
+      "found": 278,
+      "opened": 9,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a15740b2e5qLJr",
+      "company": "Floor & Decor",
+      "title": "Pricing Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4478637297/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T03:00:20.325488+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15740bad1Sj3o",
+      "company": "Tethered Talent",
+      "title": "Salesforce Data Analyst- Atlanta",
+      "location": "Atlanta Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480264543/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T03:00:22.353128+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a157416d8a0qNR",
+      "company": "Compass Group USA",
+      "title": "DATA ANALYST (CHARLOTTE, NC - HYBRID)",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481514222/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T03:01:08.106307+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15743cb18hc-D",
+      "company": "BOK Financial",
+      "title": "Mortgage Servicing Operations Analyst",
+      "location": "Irving, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4478634738/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T03:03:43.128965+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a15743fad51a34",
+      "company": "Assurant",
+      "title": "Business Reporting Analyst II",
+      "location": "Lewisville, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480420141/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-20T03:03:55.349077+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
     {
       "id": "1a15664c20aFLa2",
       "company": "Truist",
@@ -11334,5 +11465,5 @@
     }
   ],
   "lastRun": "2026-10-19T21:22:43.861245+00:00",
-  "savedAt": "2026-10-19T23:06:27.395236+00:00"
+  "savedAt": "2026-10-20T03:04:15.914662+00:00"
 }
