@@ -1461,9 +1461,177 @@
       "found": 425,
       "opened": 5,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-20T17:37:20.736467+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 2,
+          "review": 0,
+          "reject": 11
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 6,
+          "reject": 5
+        }
+      },
+      "reasons": {
+        "location_unknown": 11,
+        "title_unlisted": 9,
+        "title_excluded": 5,
+        "jd_term": 2,
+        "clearance_required": 1,
+        "staffing_outside_atlanta": 1,
+        "healthcare": 1
+      },
+      "messages": 36,
+      "found": 99,
+      "known": 75
     }
   ],
   "jobs": [
+    {
+      "id": "1a15a6320d56AXL",
+      "company": "Sempiterna",
+      "title": "Platform Data Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4480890460/?trackingId=id0yJkxvmnQBzcxVTh1S5w%3D%3D&refId=IQnyx2H5X6RngXDsCt4H6A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfwlDguGbRJG%2FF2GixIzVvQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2iSLZUVkG2SYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i-null-q9jfse~mvgqvohj~3i-null-null&eid=q9jfse-mvgqvohj-3i&otpToken=MGNlMjZlOGE5NDIwNmM0OTlkNDk0NDVjY2NkZjk5ZmVhNjU3MWQ3M2NjN2QyNTQ1MTJmZjE0NTZlYzdlZGE1ZDk2YTE1NzE3YjhhNDYwMDA1Y2VkOTViM2MxZGFjYzVlYjUyY2UyYjY0NGRmOTMzZTEwZDZlZjQ4ZDk4ZDk0YzliYTk0YmQ4OTgyN2ZkOTY5NTUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:48.341127+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a633084hEFq",
+      "company": "See posting",
+      "title": "New Business Analyst II",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAEpGi5131z1WZL7i6mgZzFNS_NA4bnlRpxF0wnefo32vTeJ97Jc9pIpZLi_eyXQ4KVpZbh3dozE0Kv94hnfTzdewWun26Pafs2KezQDGEPYTQEyYNmWrC4E0JPdRd0BA2szFOyq6kF5R4XZSiFwz1dSzj-9EE074IiI5GWPlQ7MAtJaE-qfTpcA4wjZ7l0MqzrvCj9HQaTVZTeu0fXabGzFdSDpSccC3iAP11GaVjrIvsPqoK14ciwQ-xndCuX8hpzT-Sryt5cW5VbmkXqJ2KZQeqAJ3fZpZGkirO4K7X2vbG5FFs3VPdHMQKjSAk69wof2Cpbmlm6d6dEYRn7nkQtrxvxmFdk0Q3GxHtXNBVyNFRvfgQoeUrJouvjakCHxdoqaoRIx?tsid\u00111000153&auth_token=5_1792499075_ns6H9WXT3oXGao-CNTh18xedliPzuaMzFXENi0aNglY&contact_id\ufffdf05452&expires\u001792844675",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.356489+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a633084QdRI",
+      "company": "See posting",
+      "title": "Business Analyst 1",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAH1G0xJk42pbSuNns2hR9dXMyIU34sTuO5kHZ0qYUF13MVE_kj0IvOF6zJbP1Cp2vH0X4N8fQtV6aRUKJFqW0t6W9UOMnckRj4skh5Dyr9ioU4j4wg6exS-Gy8vyLyZk5pIHxulgJICzAKsCJFZ0WzfHgbvJDRAAF7ovmFHDssYUUNjz5wGAuntDX4QTS2-DKCZVTcQqrBDmWD_P9bEQe6N8Oce2fKBIcN6qWq06s0I1qHDS5pixS1IhBD_1XpPbwp_a-Stx-DwFN5RzkC_VtZ-PPID9_GCroLnWVuf9L8MdUZ1yesdcvNwsfIsBBa_7ilQeMeYsOX4AHhq45R2FASdwm_rQ3bhmpztTwbbS1olYKIOl6xeUfVyp1i7s7UarJGlvQMc?tsid\u00111000153&auth_token=5_1792499075_ns6H9WXT3oXGao-CNTh18xedliPzuaMzFXENi0aNglY&contact_id\ufffdf05452&expires\u001792844675",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.356575+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a633084rQGP",
+      "company": "See posting",
+      "title": "Calypso Business Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAG6iNOjiWxBD9Dg6ysMaUH_MNIb5H5ISPojZkGvQ-dMOH0ZarLEIg9NR-oR0iUqfdByLz3rbzKHE5poU2J7HIihA5QC3Xa9zwd87jck2Hs8tn-Bolr9WQ6rkj4KtiZU6MlFbhtYEFKkTCPHvA1qyAf3vRm2Wqh94IyBIL2tyB-3kA0RCA-cHAdWRRmfbk8St6ePHsBLNFqzBKVZWFTtto1UMZ8Os7k_mXIuu3GG-TCjPvImV09-t7oobo7jKKwBEsqXw_Bsiez46pFNz3_R9J5DtAABBNbM_ndYubT4hJ55riOsXSEsAua-4T6--ZHswq3uitVd3TusWhX_VzmAlsQ_hmo0FQMbqr1WHrcTMn7l6ZDHzwf57uibY_3icW-659mddyvf?tsid\u00111000153&auth_token=5_1792499075_ns6H9WXT3oXGao-CNTh18xedliPzuaMzFXENi0aNglY&contact_id\ufffdf05452&expires\u001792844675",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.356644+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a633084UJxx",
+      "company": "See posting",
+      "title": "Business Analyst; Pricing Strategy & Analytics [213646]",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAEq8eru0yIh5q2cBNjEBhrGPTWmqI5ni9WKWftQ5M1MHrPT477g2YlDjwUBWUlTdxRo65EhxhHc8dg9PyilBqIO0Hr9Zq7-Zbaoe-O1GqiXHScswRpPmRtvzbU372aTQPwlCBRSy-dZAxrO8x10BA-duCE_6Z0YlT-ev2yr4D3nvCDpPdictC9lQ3dieAR0ea0Ixar6QLuZYEFcgwCejK5TTkOKzEPcX8IQ5hW3pDrZI6BKFYBWv3Q2XWhMC4jyvnx4hCcptGnUUbY_BIHPBzC_U72oGNezz0VtarqDQVb8Z6-RgTE_DS9YYIkb9Li4jafs1eg2fZtPlv34nKRIOWkKg135_i8q9RlDfH22x9-ZMzJGO6iBR5JUaGZPvtbbzeeOsiSv9k97TBxTnNutC30?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.356849+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a6330855hZu",
+      "company": "See posting",
+      "title": "Data Analytics Engineer",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAGvObFQdXbusmMzanDg36uUSP2Bl4OjxNSkmCAtQfsZF48bHaGAnp2Mw4fFW4xvlV2gTSnveLgBzrM5w6SZpeqol59x7EqRGtNGM-ISfAvFWeD6jq0qQwVQNfBb3qMlJvZzZtFQCGuMO0SjjA6_GGwkFx8SiZ5KxSdTsS1Zn-ienOziIxakIdBrDjOaXg08DpxLSGMt-oTdSfvLq8z_M3St4w_6DcwUZLFcQg0NXPmEmfj92K3rTtBmQTBmfoOiAtcw71jCbWL1AW_dZmdBSE_X3yOXkQ_C2Yq8snyoTn-GwUHJV1qP6SuqLGzahL9yeCTBNRfGcWMbGfGUZ9Vmn2DKRxKVW7hMNXx5RkazPbbXZigyZNs2rY-nVWPjljb9AtdfSBp7RETxpY12TlQdKX4?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.357193+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a15a633085XpQF",
+      "company": "See posting",
+      "title": "Junior Business Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGJowRA_-8U_8W_8tL4WoA5QI6AN2NJ477p1BmQyq2xrlCFh5KKl7_z0fH12_Vs8iEbbfnR6-KvXZ6wGuV8AzFtDiqNZi7TB-Qwk3XKiLk-tKUXZU9j-gA9eP4JDbaj7tUnb3JV-LGkJwai7N6ehB3hkEGTTaQv5ykQnxEVrd7S_1Ra9lW4sho9u0TQb613G0JfoB9VnYd_Is31S3834-PdGHT9O9ck4ICl25_lLiKAK9K3AJ1K1xXOnSSd2ifi4KFi1shMlvr8kOGXBkvX85ZVhAvyyDijgpZ2KE3QZ65cTjE2SdLtB3u0tc7zUIv1GLxiqHQ-aPvg8CQ0hDakYjF372fydfHRv-nS5FMpOycJFjZtwzaco4kdhsVHN7XPP4iUh0Gh8hjtzWGQ_xMbUFQ?tsid\u00111000153&auth_token=5_1792499075_ns6H9WXT3oXGao-CNTh18xedliPzuaMzFXENi0aNglY&contact_id\ufffdf05452&expires\u001792844675",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-20T17:36:52.357209+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a159d4773bLbW_",
       "company": "Fortress Information Security",
@@ -11930,6 +12098,6 @@
       "at": "2026-10-19T17:00:53.419Z"
     }
   ],
-  "lastRun": "2026-10-19T21:22:43.861245+00:00",
-  "savedAt": "2026-10-20T15:04:16.902303+00:00"
+  "lastRun": "2026-10-20T17:37:21.207622+00:00",
+  "savedAt": "2026-10-20T17:37:21.207622+00:00"
 }
