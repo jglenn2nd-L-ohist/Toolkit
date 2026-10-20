@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "Client Analytics Manager",
+      "company": "Invesco",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4463395779/?trackingId=qO4Q72PXBCNWiQN0KtWRhg%3D%3D&refId=ui6cm16wFBglund1%2B%2BvkUA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BikTE9hZmRmyGhy%2BU1Z5xFw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2lPzwBZ5fGTcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4463395779_ssid_8758102954_fmid_q9jfse~mvh3qnd8~se&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4463395779_ssid_8758102954_fmid_q9jfse~mvh3qnd8~se-null-q9jfse~mvh3qnd8~se-null-null&eid=q9jfse-mvh3qnd8-se&otpToken=Mjg3NGRkODI3NGIyYzg2ZTBmOWVjZTUxZDhhNWZjOTcyYmVmYzhkOWI1YzA2ZmYwMmE3ZjRlNGE4MDU5NTU2MWYxOTI5NDI1YjY2NGUzNDlhM2UyYWY4Y2M0ODc5ODk0MWI5Zjk2NjA0YTlkNmJkNjdlYWMzMGQxYmFjZmI2ZjgxOWE1NDAyNTQ3ZWIyMzRlZjUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-20T20:20:03.931226+00:00"
+    },
+    {
       "title": "Data Analyst IV Enterprise Business Operations Services",
       "company": "Centene Corporation",
       "location": "Florida, United States",
@@ -18397,18 +18409,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-20T14:20:56.051409+00:00"
-    },
-    {
-      "title": "Senior Sourcing Specialist",
-      "company": "ADT",
-      "location": "Boca Raton, FL",
-      "url": "https://www.linkedin.com/jobs/view/4481258707/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-20T14:20:56.054776+00:00"
     }
   ]
 }
