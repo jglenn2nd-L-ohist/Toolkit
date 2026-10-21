@@ -1567,26 +1567,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ab314d3amCo",
-      "company": "Harris County Toll Road Authority",
-      "title": "IT Business Analyst, Customer Service & Training",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481730615/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T19:04:08.147200+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ab326957cuD",
       "company": "Octapharma Plasma, Inc.",
       "title": "Business Analyst",
@@ -2070,26 +2050,6 @@
       "status": "Review"
     },
     {
-      "id": "1a159b047behsd1",
-      "company": "State of South Carolina",
-      "title": "IT Business Analyst II",
-      "location": "Cayce, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478650161/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T14:21:27.358796+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159b09c4bPA_v",
       "company": "ValvTechnologies",
       "title": "Marketing Analytics & Operations Specialist",
@@ -2394,26 +2354,6 @@
       "status": "New"
     },
     {
-      "id": "1a15668091dRLX_",
-      "company": "CAI",
-      "title": "Security Operations Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480271998/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T23:03:41.085393+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a156696c27uMqA",
       "company": "Talan",
       "title": "Business Analyst - US Power Market",
@@ -2569,26 +2509,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-19T19:00:06.046987+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a155890d32l0tx",
-      "company": "Delta Community Credit Union",
-      "title": "Analytics Specialist - Enterprise Strategy",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480236772/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T19:00:07.602735+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -8311,7 +8231,11 @@
     "https://www.linkedin.com/jobs/view/4480496139/",
     "https://www.linkedin.com/jobs/view/4478299413/",
     "https://www.linkedin.com/jobs/view/4480545193/",
-    "https://www.linkedin.com/jobs/view/4480265883/"
+    "https://www.linkedin.com/jobs/view/4480265883/",
+    "https://www.linkedin.com/jobs/view/4481730615/",
+    "https://www.linkedin.com/jobs/view/4478650161/",
+    "https://www.linkedin.com/jobs/view/4480271998/",
+    "https://www.linkedin.com/jobs/view/4480236772/"
   ],
   "dismissedKeys": [
     {
@@ -12217,8 +12141,24 @@
     {
       "k": "jack henry|banking back office operations analyst ii traveling",
       "at": "2026-10-21T03:16:13.820Z"
+    },
+    {
+      "k": "harris county toll road authority|it business analyst customer service training",
+      "at": "2026-10-21T03:17:47.306Z"
+    },
+    {
+      "k": "state of south carolina|it business analyst ii",
+      "at": "2026-10-21T03:17:47.306Z"
+    },
+    {
+      "k": "cai|security operations analyst",
+      "at": "2026-10-21T03:17:47.306Z"
+    },
+    {
+      "k": "delta community credit union|analytics specialist enterprise strategy",
+      "at": "2026-10-21T03:17:47.306Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:16:13.820Z"
+  "savedAt": "2026-10-21T03:17:47.306Z"
 }
