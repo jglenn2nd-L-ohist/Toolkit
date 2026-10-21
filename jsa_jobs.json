@@ -1632,26 +1632,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ede3d78UF38",
-      "company": "True Media",
-      "title": "Media Insights Supervisor",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478287685/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T14:29:45.464412+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ede9f92HUzq",
       "company": "National Life Group",
       "title": "Actuarial Systems Analyst",
@@ -8172,7 +8152,8 @@
     "https://www.linkedin.com/jobs/view/4478256255/",
     "https://www.linkedin.com/jobs/view/4482069558/",
     "https://www.linkedin.com/jobs/view/4482090014/",
-    "https://www.linkedin.com/jobs/view/4478917217/"
+    "https://www.linkedin.com/jobs/view/4478917217/",
+    "https://www.linkedin.com/jobs/view/4478287685/"
   ],
   "dismissedKeys": [
     {
@@ -12310,8 +12291,12 @@
     {
       "k": "fisher investments|business analyst associate",
       "at": "2026-10-21T14:47:42.059Z"
+    },
+    {
+      "k": "true media|media insights supervisor",
+      "at": "2026-10-21T14:47:46.056Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:47:42.059Z"
+  "savedAt": "2026-10-21T14:47:46.056Z"
 }
