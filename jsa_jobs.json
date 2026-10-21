@@ -1708,86 +1708,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a15fd5bd11jx5P",
-      "company": "Littler",
-      "title": "Data Analyst I – Multiple Offices (Hybrid)",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482147180/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T19:00:05.521597+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15fd5f2262gk8",
-      "company": "The N2 Company",
-      "title": "Print Operations Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482122865/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T19:00:19.110861+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15fd622f0I81V",
-      "company": "Aditi Consulting",
-      "title": "Business Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482127712/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T19:00:31.600094+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15fd62d78X5pi",
-      "company": "Aditi Consulting",
-      "title": "Marketing Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482114643/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T19:00:34.296723+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15fd6880fqDV-",
       "company": "Dexian",
       "title": "Product Analyst - #1021897",
@@ -1873,26 +1793,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a15fd8a9f7XOTS",
-      "company": "IPDN-Professional Diversity Network",
-      "title": "Reporting Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482125675/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T19:03:17.239489+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a15f8fe501aBfi",
@@ -7925,7 +7825,12 @@
     "https://www.linkedin.com/jobs/view/4478625645/",
     "https://www.linkedin.com/jobs/view/4478911151/",
     "https://www.linkedin.com/jobs/view/4482068417/",
-    "https://www.linkedin.com/comm/jobs/view/4480467581/?trackingId=1IPhCtkSRrNCgocQYgSrpw%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4480467581/?trackingId=1IPhCtkSRrNCgocQYgSrpw%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx",
+    "https://www.linkedin.com/jobs/view/4482147180/",
+    "https://www.linkedin.com/jobs/view/4482122865/",
+    "https://www.linkedin.com/jobs/view/4482127712/",
+    "https://www.linkedin.com/jobs/view/4482114643/",
+    "https://www.linkedin.com/jobs/view/4482125675/"
   ],
   "dismissedKeys": [
     {
@@ -12231,8 +12136,28 @@
     {
       "k": "crewlia|analytics associate",
       "at": "2026-10-21T20:43:15.802Z"
+    },
+    {
+      "k": "littler|data analyst i multiple offices",
+      "at": "2026-10-21T20:56:13.894Z"
+    },
+    {
+      "k": "n2|print operations analyst",
+      "at": "2026-10-21T20:56:13.895Z"
+    },
+    {
+      "k": "aditi consulting|business analyst",
+      "at": "2026-10-21T20:56:13.895Z"
+    },
+    {
+      "k": "aditi consulting|marketing analyst",
+      "at": "2026-10-21T20:56:13.895Z"
+    },
+    {
+      "k": "ipdn professional diversity network|reporting analyst",
+      "at": "2026-10-21T20:56:13.895Z"
     }
   ],
   "lastRun": "2026-10-21T20:28:48.567608+00:00",
-  "savedAt": "2026-10-21T20:56:05.972Z"
+  "savedAt": "2026-10-21T20:56:13.895Z"
 }
