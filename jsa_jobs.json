@@ -1867,26 +1867,6 @@
       "status": "New"
     },
     {
-      "id": "1a15743cb18hc-D",
-      "company": "BOK Financial",
-      "title": "Mortgage Servicing Operations Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478634738/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T03:03:43.128965+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15664ccc0Ii78",
       "company": "Alogent",
       "title": "Partner Operations Analyst",
@@ -7882,7 +7862,8 @@
     "https://www.linkedin.com/jobs/view/4478627166/",
     "https://www.linkedin.com/jobs/view/4478676389/",
     "https://www.linkedin.com/jobs/view/4478637297/",
-    "https://www.linkedin.com/jobs/view/4480264543/"
+    "https://www.linkedin.com/jobs/view/4480264543/",
+    "https://www.linkedin.com/jobs/view/4478634738/"
   ],
   "dismissedKeys": [
     {
@@ -11924,8 +11905,12 @@
     {
       "k": "tethered talent|salesforce data analyst atlanta",
       "at": "2026-10-21T03:52:54.166Z"
+    },
+    {
+      "k": "bok financial|mortgage servicing operations analyst",
+      "at": "2026-10-21T03:55:37.263Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:52:57.163Z"
+  "savedAt": "2026-10-21T03:55:37.263Z"
 }
