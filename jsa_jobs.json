@@ -1610,26 +1610,6 @@
   ],
   "jobs": [
     {
-      "id": "1a15edd79d5cCgL",
-      "company": "DSV - Global Transport and Logistics",
-      "title": "Business Analyst, Commercial - LTL Express, Road Transport US",
-      "location": "Lancaster, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480719815/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:28:55.381425+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15eddb1d6aPHi",
       "company": "Fisher Investments",
       "title": "Business Analyst Associate",
@@ -1679,7 +1659,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4444274669/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-21T14:29:23.598435+00:00",
       "notes": "",
       "remote_search": false,
@@ -8286,7 +8266,8 @@
     "https://www.linkedin.com/jobs/view/4471902817/",
     "https://www.linkedin.com/jobs/view/4478649404/",
     "https://www.linkedin.com/jobs/view/4480294696/",
-    "https://www.linkedin.com/jobs/view/4450406014/"
+    "https://www.linkedin.com/jobs/view/4450406014/",
+    "https://www.linkedin.com/jobs/view/4480719815/"
   ],
   "dismissedKeys": [
     {
@@ -12400,8 +12381,12 @@
     {
       "k": "amatriot group|technical business analyst",
       "at": "2026-10-21T14:44:18.272Z"
+    },
+    {
+      "k": "dsv global transport and logistics|business analyst commercial ltl express road transport us",
+      "at": "2026-10-21T14:44:23.642Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:44:18.273Z"
+  "savedAt": "2026-10-21T14:44:28.728Z"
 }
