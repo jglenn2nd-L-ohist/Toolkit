@@ -1577,66 +1577,6 @@
   ],
   "jobs": [
     {
-      "id": "1a15c7507ecCvuR",
-      "company": "University of South Florida",
-      "title": "Data Management Analyst II",
-      "location": "Greater Tampa Bay Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478918836/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T03:15:36.044222+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15c775b42qDEn",
-      "company": "Wounded Warrior Project",
-      "title": "Quality Assurance Testing Systems Analyst II",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4466335629/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T03:18:08.450170+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15c777cd87m7l",
-      "company": "DirectViz Solutions, LLC",
-      "title": "Computer Systems Analyst - Jacksonville, FL",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480718931/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T03:18:17.048464+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15c78a3acETOw",
       "company": "A Full Renovation – Interiors & Design",
       "title": "Data Analyst",
@@ -1781,26 +1721,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ab326957cuD",
-      "company": "Octapharma Plasma, Inc.",
-      "title": "Business Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481714008/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T19:04:12.693872+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ab36be050tQ",
       "company": "TaskVerse",
       "title": "Marketing Analyst",
@@ -1821,26 +1741,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a15ab3cae3SLzB",
-      "company": "Richemont",
-      "title": "Business Analyst, Logistics Execution",
-      "location": "Grand Prairie, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480494912/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T19:04:54.755809+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a15ab3f1e9RyJQ",
@@ -8394,7 +8294,12 @@
     "https://www.linkedin.com/jobs/view/4480236772/",
     "https://www.linkedin.com/jobs/view/4480420141/",
     "https://www.linkedin.com/jobs/view/4481247652/",
-    "https://www.linkedin.com/comm/jobs/view/4479307238/?trackingId=mVpcvT2s7tvUi5DPnrogGQ%3D%3D&refId=r1TzolQ5QdVgVpTjPzOH8Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B6uciordYSxqX%2F1l1gGy%2B2A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2hi1GwaYZiPYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4479307238_ssid_8709018482_fmid_q9jfse~mvdnfc46~x&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4479307238_ssid_8709018482_fmid_q9jfse~mvdnfc46~x-null-q9jfse~mvdnfc46~x-null-null&eid=q9jfse-mvdnfc46-x&otpToken=MTI4NThlYWJkYjZkM2E2MDkwMTYxMTU0ZTQ2NWNlNTYyOGM5M2MxZmFlNGRmYWJlMjJhYzljZGMxMDNhMGNiNTdmMDhlZDIyMmRmNmRlNTk3ODBkZGVmODMwODc5NzYzY2M5ODg5ODg2ZTVlNThiNTFlMGJlNjI4NWNhYmI4MzM0Yzg2MGY2ZTE5MjdiOWJkYmUsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4479307238/?trackingId=mVpcvT2s7tvUi5DPnrogGQ%3D%3D&refId=r1TzolQ5QdVgVpTjPzOH8Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B6uciordYSxqX%2F1l1gGy%2B2A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2hi1GwaYZiPYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4479307238_ssid_8709018482_fmid_q9jfse~mvdnfc46~x&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4479307238_ssid_8709018482_fmid_q9jfse~mvdnfc46~x-null-q9jfse~mvdnfc46~x-null-null&eid=q9jfse-mvdnfc46-x&otpToken=MTI4NThlYWJkYjZkM2E2MDkwMTYxMTU0ZTQ2NWNlNTYyOGM5M2MxZmFlNGRmYWJlMjJhYzljZGMxMDNhMGNiNTdmMDhlZDIyMmRmNmRlNTk3ODBkZGVmODMwODc5NzYzY2M5ODg5ODg2ZTVlNThiNTFlMGJlNjI4NWNhYmI4MzM0Yzg2MGY2ZTE5MjdiOWJkYmUsMiwx",
+    "https://www.linkedin.com/jobs/view/4478918836/",
+    "https://www.linkedin.com/jobs/view/4466335629/",
+    "https://www.linkedin.com/jobs/view/4480718931/",
+    "https://www.linkedin.com/jobs/view/4481714008/",
+    "https://www.linkedin.com/jobs/view/4480494912/"
   ],
   "dismissedKeys": [
     {
@@ -12328,8 +12233,28 @@
     {
       "k": "see posting|feedstock planning reporting analyst",
       "at": "2026-10-21T03:18:43.168Z"
+    },
+    {
+      "k": "university of south florida|data management analyst ii",
+      "at": "2026-10-21T03:24:50.875Z"
+    },
+    {
+      "k": "wounded warrior project|quality assurance testing systems analyst ii",
+      "at": "2026-10-21T03:24:50.875Z"
+    },
+    {
+      "k": "directviz solutions|computer systems analyst jacksonville fl",
+      "at": "2026-10-21T03:24:50.875Z"
+    },
+    {
+      "k": "octapharma plasma|business analyst",
+      "at": "2026-10-21T03:24:50.875Z"
+    },
+    {
+      "k": "richemont|business analyst logistics execution",
+      "at": "2026-10-21T03:24:50.876Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:23:54.882Z"
+  "savedAt": "2026-10-21T03:24:50.876Z"
 }
