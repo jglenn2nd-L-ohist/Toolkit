@@ -4897,7 +4897,7 @@
       "salary": "$1 - $10K (Employer est.)",
       "url": "https://www.glassdoor.com/job-listing/marketing-business-analytics-consultant-marketing-lakeland-at-publix",
       "source": "Glassdoor",
-      "status": "Applied",
+      "status": "Rejected",
       "viewed": true,
       "dateAdded": "2026-08-22T14:30:00.000Z",
       "notes": ""
@@ -11997,5 +11997,5 @@
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T15:44:10.489Z"
+  "savedAt": "2026-10-21T15:44:16.375Z"
 }
