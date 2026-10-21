@@ -2257,26 +2257,6 @@
       "status": "New"
     },
     {
-      "id": "1a1558dc5cehP-u",
-      "company": "Hired",
-      "title": "Business Intelligence Developer & Data Analyst",
-      "location": "Greensboro, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480231180/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T19:05:17.006429+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1558de208p9iP",
       "company": "RemoteHunter",
       "title": "Digital Marketing Analyst",
@@ -2417,25 +2397,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a15582771aae8z",
-      "company": "Visionaire Partners",
-      "title": "GIS Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4477731055/?trackingId=tkfgxvh8NX0nMBYKHODljg%3D%3D&refId=%2FkN8mauSHDJDZZ3jhN0ibQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkC5Ljgj%2BQjqznTd8%2FyDhkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u001e70RfWl8iQYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477731055_ssid_15324419412_fmid_q9jfse~mvelpwu3~uo&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477731055_ssid_15324419412_fmid_q9jfse~mvelpwu3~uo-null-q9jfse~mvelpwu3~uo-null-null&eid=q9jfse-mvelpwu3-uo&otpToken=YzRlYWMwMDUzOWI3ODFhNGFlMjNkNzc5NTNmN2IyNWNmZGY3OGQxMTdiMWIxNzc5ZWUyYTBiNDkzZTQzNWUxZDI5MzE4MjY3MGY5YzcxYmYxMjk4MGI1ZTFkMmRlZmFkZWY1MDEzNDkwM2RmNDhmN2Y5OGM2MzVhMmJhODVjNTNlNjdhZDZkMWUyNjAxOWVlZTksMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-10-19T18:52:55.962377+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a155827866Mc_o",
       "company": "Smart IT Frame LLC",
       "title": "Data Analyst - SQL & Tableau",
@@ -2554,25 +2515,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a155828ce1zMrr",
-      "company": "HRCap, Inc.",
-      "title": "Junior Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4477399395/?trackingId=geOFx7SpzNui7wiauZWN4w%3D%3D&refId�QnfEfsyIevapRX3igmPw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BVURtfGwqT9GiPPXH5IxzlQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\nvseipoyiOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su-null-q9jfse~mvcp4r80~su-null-null&eid=q9jfse-mvcp4r80-su&otpToken=NjMyYjc5Y2Q2MWFmYWFjMjZmYTk4Njc4YTNkYjdhNjlkODU1YmY0NTBiYTQwMWYzNjJmNmI3NmJlOWU2YzJkMjk1OTlhOGIwMjQ0YTNmNjU0MWZlZTFiNGNhYzNjMzVhNzVlNzRlYWE4Y2IzNzhjN2RhN2MwNjExODFkNTM0Zjk5MWVlMzNmYzg4OGYzZjNmMTQsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
-      "dateAdded": "2026-10-19T18:53:01.537166+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a155828ce1olRT",
       "company": "See posting",
       "title": "Data Analyst - Entry Level (Remote)",
@@ -2590,25 +2532,6 @@
         "location_unknown"
       ],
       "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a155828df6GKaO",
-      "company": "Vestis Corporation",
-      "title": "HR Data Analyst",
-      "location": "Roswell, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4480371192/?trackingId9Sqz%2B7BSiPWDRvQt67hQA%3D%3D&refId=HotFQZ9WhFf6cgOnpgNQ6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BWtgRAOdBSNy%2B8pIDjW7LiQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mudBQiFkqOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb-null-q9jfse~mvckug5y~qb-null-null&eid=q9jfse-mvckug5y-qb&otpToken=ZDQwNzEyMWRjODYwZmM5NWRlYjE0OWJlMjk0ODMwMzljMmI2YjdlNWM2YzZlMTA3MTViY2ZkNDA5N2M5YTBkYzM0YjRhZjNmMDI0ZWM1MTg5ZmQ2ZjUxNzAyNDBjODIxZjVjMzRlOTNiZTlkYzc3YzgwNjE5OGM4MDU4OTY0ZjE4OTE1NWY2MjlmNzE2MGYxMmIsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-19T18:53:01.814777+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
       "filter_version": "2026-10-09.1"
     },
     {
@@ -7863,7 +7786,11 @@
     "https://www.linkedin.com/jobs/view/4478676389/",
     "https://www.linkedin.com/jobs/view/4478637297/",
     "https://www.linkedin.com/jobs/view/4480264543/",
-    "https://www.linkedin.com/jobs/view/4478634738/"
+    "https://www.linkedin.com/jobs/view/4478634738/",
+    "https://www.linkedin.com/jobs/view/4480231180/",
+    "https://www.linkedin.com/comm/jobs/view/4477731055/?trackingId=tkfgxvh8NX0nMBYKHODljg%3D%3D&refId=%2FkN8mauSHDJDZZ3jhN0ibQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BkC5Ljgj%2BQjqznTd8%2FyDhkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u001e70RfWl8iQYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477731055_ssid_15324419412_fmid_q9jfse~mvelpwu3~uo&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477731055_ssid_15324419412_fmid_q9jfse~mvelpwu3~uo-null-q9jfse~mvelpwu3~uo-null-null&eid=q9jfse-mvelpwu3-uo&otpToken=YzRlYWMwMDUzOWI3ODFhNGFlMjNkNzc5NTNmN2IyNWNmZGY3OGQxMTdiMWIxNzc5ZWUyYTBiNDkzZTQzNWUxZDI5MzE4MjY3MGY5YzcxYmYxMjk4MGI1ZTFkMmRlZmFkZWY1MDEzNDkwM2RmNDhmN2Y5OGM2MzVhMmJhODVjNTNlNjdhZDZkMWUyNjAxOWVlZTksMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4477399395/?trackingId=geOFx7SpzNui7wiauZWN4w%3D%3D&refId�QnfEfsyIevapRX3igmPw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BVURtfGwqT9GiPPXH5IxzlQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\nvseipoyiOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su-null-q9jfse~mvcp4r80~su-null-null&eid=q9jfse-mvcp4r80-su&otpToken=NjMyYjc5Y2Q2MWFmYWFjMjZmYTk4Njc4YTNkYjdhNjlkODU1YmY0NTBiYTQwMWYzNjJmNmI3NmJlOWU2YzJkMjk1OTlhOGIwMjQ0YTNmNjU0MWZlZTFiNGNhYzNjMzVhNzVlNzRlYWE4Y2IzNzhjN2RhN2MwNjExODFkNTM0Zjk5MWVlMzNmYzg4OGYzZjNmMTQsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4480371192/?trackingId9Sqz%2B7BSiPWDRvQt67hQA%3D%3D&refId=HotFQZ9WhFf6cgOnpgNQ6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BWtgRAOdBSNy%2B8pIDjW7LiQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mudBQiFkqOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb-null-q9jfse~mvckug5y~qb-null-null&eid=q9jfse-mvckug5y-qb&otpToken=ZDQwNzEyMWRjODYwZmM5NWRlYjE0OWJlMjk0ODMwMzljMmI2YjdlNWM2YzZlMTA3MTViY2ZkNDA5N2M5YTBkYzM0YjRhZjNmMDI0ZWM1MTg5ZmQ2ZjUxNzAyNDBjODIxZjVjMzRlOTNiZTlkYzc3YzgwNjE5OGM4MDU4OTY0ZjE4OTE1NWY2MjlmNzE2MGYxMmIsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -11909,8 +11836,24 @@
     {
       "k": "bok financial|mortgage servicing operations analyst",
       "at": "2026-10-21T03:55:37.263Z"
+    },
+    {
+      "k": "hired|business intelligence developer data analyst",
+      "at": "2026-10-21T03:57:06.724Z"
+    },
+    {
+      "k": "visionaire partners|gis data analyst",
+      "at": "2026-10-21T03:57:06.724Z"
+    },
+    {
+      "k": "hrcap|junior data analyst",
+      "at": "2026-10-21T03:57:06.724Z"
+    },
+    {
+      "k": "vestis|hr data analyst",
+      "at": "2026-10-21T03:57:06.724Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:55:37.263Z"
+  "savedAt": "2026-10-21T03:57:06.725Z"
 }
