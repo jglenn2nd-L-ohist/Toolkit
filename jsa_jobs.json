@@ -1,34 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-02T15:12:14.950612+00:00",
-      "runner": "proactive",
-      "rules": "2026-09-24.4",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 44,
-          "review": 103,
-          "reject": 1067
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 12
-        }
-      },
-      "reasons": {
-        "title_excluded": 561,
-        "title_not_target": 349,
-        "out_of_area": 243,
-        "title_unlisted": 148,
-        "clearance_required": 17,
-        "remote_unverified": 16,
-        "jd_term": 11,
-        "foreign": 4,
-        "location_unknown": 1
-      }
-    },
-    {
       "at": "2026-10-02T18:06:47.046382+00:00",
       "runner": "email",
       "rules": "2026-09-24.4",
@@ -1643,9 +1615,136 @@
       "found": 267,
       "opened": 11,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-21T20:28:48.053746+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 3,
+          "review": 1,
+          "reject": 2
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 2,
+          "reject": 7
+        }
+      },
+      "reasons": {
+        "location_unknown": 9,
+        "title_unlisted": 4,
+        "title_excluded": 3,
+        "jd_term": 1,
+        "staffing_outside_atlanta": 1,
+        "healthcare": 1
+      },
+      "messages": 22,
+      "found": 61,
+      "known": 46
     }
   ],
   "jobs": [
+    {
+      "id": "1a16026c4d8_dv3",
+      "company": "Scan.com",
+      "title": "Operations System Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481550717/?trackingId=evX3KnsVUT0YXjLE2Ggzjg%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4481550717_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4481550717_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-21T20:28:35.928947+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:onsite_or_hybrid"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a16026c4d8zG-5",
+      "company": "Indra Energy",
+      "title": "Billing Operations Analyst - Remote",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4480272385/?trackingId=pl%2F%2FJiQ5onoIADD9F0e6ew%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4480272385_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4480272385_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-21T20:28:35.928982+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a16026c4d9f1GI",
+      "company": "crewlia",
+      "title": "Analytics Associate",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4480467581/?trackingId=1IPhCtkSRrNCgocQYgSrpw%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-21T20:28:35.929004+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a16026c61f6v96",
+      "company": "See posting",
+      "title": "Technical Business Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAEDROGOUXx1tuDBlgmGZ1Qn8kJc75nKjbmSn2C5uJScmb995zDNxjOFB64VNLjzLDSXNasha13uvGzmr37pEJ7Ozlj5TQxuhEVPXdwccx31Vz3bm7WGsjXqbVUB4dwtkKwcAAVCZscGs2ileHU8WVPQFpm0BsJmcSy7KqWa2y_Yg4IwnUOBEmSvP-SvCQDR22HwDvD7OznUg9ZHa8Fgb6tNCRrdQbDvmz-kiMpcm3EQ6h7yghvCSUgIfcver9l_7KQ13ofUOdjIyK4fpZGScipFT_3etFUTcp9CgIEE8OPyUI5D8ANCAmQChj55Ndju0KLr__uXsgc_LhMIqxp3sMsVEcjk4VJ9_hrs04qppu2OIQ4NQeI1HOiE7uFQIsjs31S54wllhh_ZIzYF_QNVg3Vn?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-21T20:28:36.255501+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a16026c61f1zMY",
+      "company": "See posting",
+      "title": "Business Analyst, Business Systems",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGkznL3Bfw5pWn-vIbZktf98EdTTu7FaLmw26qTtttwYJzvib8hWzK3QIs1tO-4QOyrIA8YDRNXZzwtZcQy4KI4JcsvdHap3Eq6-WdAr7CLRKM1NueOJKEkDawS43sFqXjnkQ41fVEFcH90FEGMfQX70yeCPphHcryrKyR8U0PHIyCDqt0Uhs71dSxdCjS4nj4jYqjt_gh0ifVvQuTJP85cd0m37C27XjkJQocVlNVc9aMdRuvwXd6swCLyUqP5I_xkJje3SiqH051KhEkZL8Bfs45bRXRJvlhLXwsgRomWoYHHyZzebGAbc3s204YaldycYJiJynLIyHyygylLeICkqW3x0kjh7pAdZ1NwS-P7zS2douFmmW_cN0-9xaJVcoyJ5a-tRw?tsid\u00111000153&auth_token=5_1792607997_vwuNoGSyeksmnDc543vLYmcVdr2mi2wkHGa-l_ivFQQ&contact_id\ufffdf05452&expires\u001792953597",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-21T20:28:36.255828+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a15fd5bd11jx5P",
       "company": "Littler",
@@ -12266,6 +12365,6 @@
       "at": "2026-10-21T15:46:51.017Z"
     }
   ],
-  "lastRun": "2026-10-21T17:44:17.251642+00:00",
-  "savedAt": "2026-10-21T19:03:56.360801+00:00"
+  "lastRun": "2026-10-21T20:28:48.567608+00:00",
+  "savedAt": "2026-10-21T20:28:48.567608+00:00"
 }
