@@ -1827,7 +1827,7 @@
       "filter_reasons": [],
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a15fd7053enFEe",
@@ -12234,5 +12234,5 @@
     }
   ],
   "lastRun": "2026-10-21T20:28:48.567608+00:00",
-  "savedAt": "2026-10-21T20:46:21.869Z"
+  "savedAt": "2026-10-21T20:56:05.972Z"
 }
