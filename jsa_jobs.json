@@ -1577,86 +1577,6 @@
   ],
   "jobs": [
     {
-      "id": "1a15c78a3acETOw",
-      "company": "A Full Renovation – Interiors & Design",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478959053/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T03:19:32.524971+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15c78ad3d_l_l",
-      "company": "EnableComp",
-      "title": "Data Analyst (Databricks) REMOTE",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477415398/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T03:19:34.973112+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15c78b40c1F2K",
-      "company": "A Full Renovation – Residential Remodeling",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478940669/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T03:19:36.716386+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15c78d2d11Ab6",
-      "company": "City of Dallas",
-      "title": "IT Business Analyst II - Court & Detention Services (Civil Service)",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482023211/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T03:19:44.593595+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15c78e62dEnrU",
       "company": "Compass Group USA",
       "title": "BUSINESS ANALYST-(REMOTE)",
@@ -1677,26 +1597,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a15c793205KU_Y",
-      "company": "IBM",
-      "title": "Global Mobility Data & Reporting Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478919634/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T03:20:08.965704+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a15aaf5f78Kb5W",
@@ -8299,7 +8199,12 @@
     "https://www.linkedin.com/jobs/view/4466335629/",
     "https://www.linkedin.com/jobs/view/4480718931/",
     "https://www.linkedin.com/jobs/view/4481714008/",
-    "https://www.linkedin.com/jobs/view/4480494912/"
+    "https://www.linkedin.com/jobs/view/4480494912/",
+    "https://www.linkedin.com/jobs/view/4478959053/",
+    "https://www.linkedin.com/jobs/view/4477415398/",
+    "https://www.linkedin.com/jobs/view/4478940669/",
+    "https://www.linkedin.com/jobs/view/4482023211/",
+    "https://www.linkedin.com/jobs/view/4478919634/"
   ],
   "dismissedKeys": [
     {
@@ -12253,8 +12158,28 @@
     {
       "k": "richemont|business analyst logistics execution",
       "at": "2026-10-21T03:24:50.876Z"
+    },
+    {
+      "k": "a full renovation interiors design|data analyst",
+      "at": "2026-10-21T03:30:57.446Z"
+    },
+    {
+      "k": "enablecomp|data analyst databricks remote",
+      "at": "2026-10-21T03:30:57.446Z"
+    },
+    {
+      "k": "a full renovation residential remodeling|data analyst",
+      "at": "2026-10-21T03:30:57.446Z"
+    },
+    {
+      "k": "city of dallas|it business analyst ii court detention services civil service",
+      "at": "2026-10-21T03:30:57.446Z"
+    },
+    {
+      "k": "ibm|global mobility data reporting analyst",
+      "at": "2026-10-21T03:30:57.446Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:30:20.695Z"
+  "savedAt": "2026-10-21T03:30:57.446Z"
 }
