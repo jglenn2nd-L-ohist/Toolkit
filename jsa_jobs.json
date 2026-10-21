@@ -1889,26 +1889,6 @@
       "status": "Review"
     },
     {
-      "id": "1a156650d4b8q_G",
-      "company": "PowerPlan, Inc.",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480288313/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T23:00:25.547952+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15665324bAp6K",
       "company": "Fiserv",
       "title": "Sales Operations II",
@@ -7752,7 +7732,8 @@
     "https://www.linkedin.com/comm/jobs/view/4477399395/?trackingId=geOFx7SpzNui7wiauZWN4w%3D%3D&refId�QnfEfsyIevapRX3igmPw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BVURtfGwqT9GiPPXH5IxzlQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\nvseipoyiOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4477399395_ssid_5216629873_fmid_q9jfse~mvcp4r80~su-null-q9jfse~mvcp4r80~su-null-null&eid=q9jfse-mvcp4r80-su&otpToken=NjMyYjc5Y2Q2MWFmYWFjMjZmYTk4Njc4YTNkYjdhNjlkODU1YmY0NTBiYTQwMWYzNjJmNmI3NmJlOWU2YzJkMjk1OTlhOGIwMjQ0YTNmNjU0MWZlZTFiNGNhYzNjMzVhNzVlNzRlYWE4Y2IzNzhjN2RhN2MwNjExODFkNTM0Zjk5MWVlMzNmYzg4OGYzZjNmMTQsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4480371192/?trackingId9Sqz%2B7BSiPWDRvQt67hQA%3D%3D&refId=HotFQZ9WhFf6cgOnpgNQ6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BWtgRAOdBSNy%2B8pIDjW7LiQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mudBQiFkqOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb-null-q9jfse~mvckug5y~qb-null-null&eid=q9jfse-mvckug5y-qb&otpToken=ZDQwNzEyMWRjODYwZmM5NWRlYjE0OWJlMjk0ODMwMzljMmI2YjdlNWM2YzZlMTA3MTViY2ZkNDA5N2M5YTBkYzM0YjRhZjNmMDI0ZWM1MTg5ZmQ2ZjUxNzAyNDBjODIxZjVjMzRlOTNiZTlkYzc3YzgwNjE5OGM4MDU4OTY0ZjE4OTE1NWY2MjlmNzE2MGYxMmIsMiwx",
     "https://www.linkedin.com/jobs/view/4481282142/",
-    "https://www.linkedin.com/jobs/view/4481264666/"
+    "https://www.linkedin.com/jobs/view/4481264666/",
+    "https://www.linkedin.com/jobs/view/4480288313/"
   ],
   "dismissedKeys": [
     {
@@ -11822,8 +11803,12 @@
     {
       "k": "rangam|rci tccc 56169 power bi developer analytics engineer atlanta ga",
       "at": "2026-10-21T03:57:47.590Z"
+    },
+    {
+      "k": "powerplan|business analyst",
+      "at": "2026-10-21T04:06:35.714Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T04:06:32.249Z"
+  "savedAt": "2026-10-21T04:06:35.714Z"
 }
