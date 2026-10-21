@@ -1803,26 +1803,6 @@
       "status": "New"
     },
     {
-      "id": "1a159d665b6Yks1",
-      "company": "OpenLoop",
-      "title": "Data Analyst II",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4470018313/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T15:03:05.398171+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159d6d297iFJs",
       "company": "Harrison Clarke",
       "title": "Data Analytics Engineer",
@@ -8186,7 +8166,8 @@
     "https://www.linkedin.com/jobs/view/4478940669/",
     "https://www.linkedin.com/jobs/view/4482023211/",
     "https://www.linkedin.com/jobs/view/4478919634/",
-    "https://www.linkedin.com/comm/jobs/view/4480890460/?trackingId=id0yJkxvmnQBzcxVTh1S5w%3D%3D&refId=IQnyx2H5X6RngXDsCt4H6A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfwlDguGbRJG%2FF2GixIzVvQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2iSLZUVkG2SYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i-null-q9jfse~mvgqvohj~3i-null-null&eid=q9jfse-mvgqvohj-3i&otpToken=MGNlMjZlOGE5NDIwNmM0OTlkNDk0NDVjY2NkZjk5ZmVhNjU3MWQ3M2NjN2QyNTQ1MTJmZjE0NTZlYzdlZGE1ZDk2YTE1NzE3YjhhNDYwMDA1Y2VkOTViM2MxZGFjYzVlYjUyY2UyYjY0NGRmOTMzZTEwZDZlZjQ4ZDk4ZDk0YzliYTk0YmQ4OTgyN2ZkOTY5NTUsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4480890460/?trackingId=id0yJkxvmnQBzcxVTh1S5w%3D%3D&refId=IQnyx2H5X6RngXDsCt4H6A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfwlDguGbRJG%2FF2GixIzVvQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2iSLZUVkG2SYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i-null-q9jfse~mvgqvohj~3i-null-null&eid=q9jfse-mvgqvohj-3i&otpToken=MGNlMjZlOGE5NDIwNmM0OTlkNDk0NDVjY2NkZjk5ZmVhNjU3MWQ3M2NjN2QyNTQ1MTJmZjE0NTZlYzdlZGE1ZDk2YTE1NzE3YjhhNDYwMDA1Y2VkOTViM2MxZGFjYzVlYjUyY2UyYjY0NGRmOTMzZTEwZDZlZjQ4ZDk4ZDk0YzliYTk0YmQ4OTgyN2ZkOTY5NTUsMiwx",
+    "https://www.linkedin.com/jobs/view/4470018313/"
   ],
   "dismissedKeys": [
     {
@@ -12164,8 +12145,12 @@
     {
       "k": "sempiterna|platform data analyst",
       "at": "2026-10-21T03:31:12.420Z"
+    },
+    {
+      "k": "openloop|data analyst ii",
+      "at": "2026-10-21T03:34:18.201Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:34:09.122Z"
+  "savedAt": "2026-10-21T03:34:18.201Z"
 }
