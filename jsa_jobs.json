@@ -1973,26 +1973,6 @@
       "status": "New"
     },
     {
-      "id": "1a15669cfb5-NZF",
-      "company": "Torentify",
-      "title": "Data Analyst (Optimize Campaigns & Insights) Remote",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481246845/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T23:05:37.461817+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1566a28e0TNaL",
       "company": "University of Central Florida",
       "title": "Digital Learning Systems Analyst",
@@ -7695,7 +7675,8 @@
     "https://www.linkedin.com/jobs/view/4481264666/",
     "https://www.linkedin.com/jobs/view/4480288313/",
     "https://www.linkedin.com/jobs/view/4480272898/",
-    "https://www.linkedin.com/jobs/view/4481275433/"
+    "https://www.linkedin.com/jobs/view/4481275433/",
+    "https://www.linkedin.com/jobs/view/4481246845/"
   ],
   "dismissedKeys": [
     {
@@ -11777,8 +11758,12 @@
     {
       "k": "textron specialized vehicles|marketing data analyst",
       "at": "2026-10-21T14:32:48.567Z"
+    },
+    {
+      "k": "torentify|data analyst optimize campaigns insights remote",
+      "at": "2026-10-21T14:33:09.147Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:32:55.433Z"
+  "savedAt": "2026-10-21T14:33:09.147Z"
 }
