@@ -1663,25 +1663,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a15a6320d56AXL",
-      "company": "Sempiterna",
-      "title": "Platform Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4480890460/?trackingId=id0yJkxvmnQBzcxVTh1S5w%3D%3D&refId=IQnyx2H5X6RngXDsCt4H6A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfwlDguGbRJG%2FF2GixIzVvQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2iSLZUVkG2SYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i-null-q9jfse~mvgqvohj~3i-null-null&eid=q9jfse-mvgqvohj-3i&otpToken=MGNlMjZlOGE5NDIwNmM0OTlkNDk0NDVjY2NkZjk5ZmVhNjU3MWQ3M2NjN2QyNTQ1MTJmZjE0NTZlYzdlZGE1ZDk2YTE1NzE3YjhhNDYwMDA1Y2VkOTViM2MxZGFjYzVlYjUyY2UyYjY0NGRmOTMzZTEwZDZlZjQ4ZDk4ZDk0YzliYTk0YmQ4OTgyN2ZkOTY5NTUsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-20T17:36:48.341127+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a15a633084hEFq",
       "company": "See posting",
       "title": "New Business Analyst II",
@@ -8204,7 +8185,8 @@
     "https://www.linkedin.com/jobs/view/4477415398/",
     "https://www.linkedin.com/jobs/view/4478940669/",
     "https://www.linkedin.com/jobs/view/4482023211/",
-    "https://www.linkedin.com/jobs/view/4478919634/"
+    "https://www.linkedin.com/jobs/view/4478919634/",
+    "https://www.linkedin.com/comm/jobs/view/4480890460/?trackingId=id0yJkxvmnQBzcxVTh1S5w%3D%3D&refId=IQnyx2H5X6RngXDsCt4H6A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfwlDguGbRJG%2FF2GixIzVvQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2iSLZUVkG2SYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4480890460_ssid_5216629873_fmid_q9jfse~mvgqvohj~3i-null-q9jfse~mvgqvohj~3i-null-null&eid=q9jfse-mvgqvohj-3i&otpToken=MGNlMjZlOGE5NDIwNmM0OTlkNDk0NDVjY2NkZjk5ZmVhNjU3MWQ3M2NjN2QyNTQ1MTJmZjE0NTZlYzdlZGE1ZDk2YTE1NzE3YjhhNDYwMDA1Y2VkOTViM2MxZGFjYzVlYjUyY2UyYjY0NGRmOTMzZTEwZDZlZjQ4ZDk4ZDk0YzliYTk0YmQ4OTgyN2ZkOTY5NTUsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -12178,8 +12160,12 @@
     {
       "k": "ibm|global mobility data reporting analyst",
       "at": "2026-10-21T03:30:57.446Z"
+    },
+    {
+      "k": "sempiterna|platform data analyst",
+      "at": "2026-10-21T03:31:12.420Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:31:04.473Z"
+  "savedAt": "2026-10-21T03:31:12.456Z"
 }
