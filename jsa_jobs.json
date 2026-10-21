@@ -1803,26 +1803,6 @@
       "status": "New"
     },
     {
-      "id": "1a159ac85c4cVoh",
-      "company": "Botrista, Inc.",
-      "title": "Revenue Operations Analyst",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478618978/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T14:17:21.092856+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159ae9f1cYI6g",
       "company": "CSX",
       "title": "Marketing Analyst",
@@ -8072,7 +8052,8 @@
     "https://www.linkedin.com/jobs/view/4473075523/",
     "https://www.linkedin.com/jobs/view/4481286287/",
     "https://www.linkedin.com/jobs/view/4480987669/",
-    "https://www.linkedin.com/jobs/view/4388560179/"
+    "https://www.linkedin.com/jobs/view/4388560179/",
+    "https://www.linkedin.com/jobs/view/4478618978/"
   ],
   "dismissedKeys": [
     {
@@ -12074,8 +12055,12 @@
     {
       "k": "leadingresponse|sales operations analyst",
       "at": "2026-10-21T03:36:22.024Z"
+    },
+    {
+      "k": "botrista|revenue operations analyst",
+      "at": "2026-10-21T03:37:00.712Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:36:25.238Z"
+  "savedAt": "2026-10-21T03:37:00.712Z"
 }
