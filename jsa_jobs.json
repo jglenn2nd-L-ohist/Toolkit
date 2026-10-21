@@ -1632,86 +1632,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15edf13855RVg",
-      "company": "NRG Energy",
-      "title": "Data Science Analyst - Agentic AI Developer",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478633546/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:30:40.261713+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf1c28xcf9",
-      "company": "Williams",
-      "title": "Business Analyst II",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478957377/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:30:42.472074+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf267evy5k",
-      "company": "Attractivate Consulting Solutions",
-      "title": "Business Intelligence Developer",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480233888/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:30:45.118468+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf2d97bU5n",
-      "company": "Indorama Ventures: Indovinya",
-      "title": "Product Analyst",
-      "location": "The Woodlands, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479942449/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:30:46.935092+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15edf473bGPmD",
       "company": "Texas Gas Transmission",
       "title": "Business Systems Analyst",
@@ -1756,86 +1676,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15edf51569h1p",
-      "company": "Primary Services",
-      "title": "Coupa Business Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480293196/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:30:56.086442+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf6e8eAvZ0",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Bus Operations Analyst II",
-      "location": "Spring, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482037725/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:31:03.566891+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf76c1XBdE",
-      "company": "Competitive Power Ventures",
-      "title": "Operations Analyst – CPV Retail",
-      "location": "Sugar Land, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477429803/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:31:05.665133+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edf8d80x22Q",
-      "company": "Murphy Oil Corporation",
-      "title": "Supply Chain Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481255091/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:31:11.488440+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ee07c146Ql1",
       "company": "Kaizen Global",
       "title": "Jr. Business Analyst – Enterprise Data",
@@ -1858,26 +1698,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ee0d06aC8nt",
-      "company": "EquipmentShare",
-      "title": "Strategy Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4446181648/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:32:34.155001+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ee0f49dxgZv",
       "company": "Aboon",
       "title": "Founding Analytics Engineer",
@@ -1898,46 +1718,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a15ee0fb4e3jk_",
-      "company": "Drake Software",
-      "title": "Analytics Engineer II",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481769669/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:32:45.134221+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15ee10427Ao55",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Ads Identity & Signals",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478939854/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T14:32:47.399109+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a15c78e62dEnrU",
@@ -2274,26 +2054,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1566972e7jKi0",
-      "company": "PCL Construction",
-      "title": "Business Systems Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481261772/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T23:05:13.703603+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a156697880XLZu",
       "company": "NeerInfo Solutions",
       "title": "Business Analyst Automotive",
@@ -2314,26 +2074,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a15669c21fxyFx",
-      "company": "Textron",
-      "title": "Marketing Data Analyst",
-      "location": "Augusta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480298135/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T23:05:33.983492+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1566a28e0TNaL",
@@ -2358,106 +2098,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15589071eJXFT",
-      "company": "Pratt Industries",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480882630/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:00:06.046987+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a155891319xvgD",
-      "company": "The Home Depot",
-      "title": "Logistics Analyst, Carrier Analytics",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480268034/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T19:00:09.113189+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15589495e9Scz",
-      "company": "IMR Soft LLC",
-      "title": "Data Analytics Engineer",
-      "location": "Alpharetta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480268292/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:00:23.006307+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1558ade55J060",
-      "company": "Evlo AI",
-      "title": "Business Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480244945/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:02:06.677740+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1558d748fk0ja",
-      "company": "UnitedHealthcare",
-      "title": "OnBase Business Analyst",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480567418/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:04:56.207470+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1558d7c0fSJO8",
       "company": "Yochana",
       "title": "GCS Business Analyst",
@@ -2478,66 +2118,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1558dbbc8vzes",
-      "company": "CBRE",
-      "title": "Business Intelligence Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480837147/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:05:14.440729+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1558de208p9iP",
-      "company": "RemoteHunter",
-      "title": "Digital Marketing Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480251512/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:05:24.232448+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1558dfe70hEb9",
-      "company": "Michael Baker International",
-      "title": "Strategy Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480240797/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T19:05:31.504194+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1558e4a5bUt_i",
@@ -2582,44 +2162,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a155826cb5U0pZ",
-      "company": "Datavant",
-      "title": "Customer Insights Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4477134588/?trackingId=1%2F17lR7tIcKYyzmCPbnPow%3D%3D&refId=2zCOrgxJPijy8gjVVBwbiw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3Bqaop1hQgTRaiuHyKWr1%2FDw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0rqj9Jtpn4RIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477134588_sectionid_272001_fmid_q9jfse~mvfji71w~oy&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477134588_sectionid_272001_fmid_q9jfse~mvfji71w~oy-null-q9jfse~mvfji71w~oy-null-null&eid=q9jfse-mvfji71w-oy&otpToken=MjE3MzM4MDU3NjljMTI1ZjNmOGYyYWE0NDViYTljNzA3NDE4ZmUyOTQxYmEyNWRkMDE4YjIzNDg2YzYwZjE1MzVhOWRkM2IwODMyODEzYTg3MzlhMjM0ZDJjZTMyNTk5YzIyOTQyMTJhZTI2NmVkMDZhMTIzMWQzNDliYTg1MjkwNzZhNzUzNjM4M2JmYWU1MmIsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-19T18:52:53.301976+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a155827340z8eL",
-      "company": "Softheon",
-      "title": "Business Operations Analyst I",
-      "location": "Georgia, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4480508214/?trackingId=Yg8EbbwAqm%2FG1y%2Bf1SldBQ%3D%3D&refId=8XHSWCvMm54yz2zPZNgX2A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwQnti5LDSJaiu9rxEL41og%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3U2Tyvn7LyRss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480508214_ssid_8367968258_fmid_q9jfse~mvfbftav~lz&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480508214_ssid_8367968258_fmid_q9jfse~mvfbftav~lz-null-q9jfse~mvfbftav~lz-null-null&eid=q9jfse-mvfbftav-lz&otpToken=MTkzYTBjODBiZDQ0YTZhYjc0NTI5MzFjM2ExOTEwYTNjZjg0ODkwNDM5ZGYyOWU2ODQ2OTk5MTM4NGRhN2I3MDBmOGIzMjEyYjI1NWJmNmM4ZTdjYThkOTE3Yjc1NjI2MWRlOThmODU3ZGZlYTcxYWYxNjZiZjc2MTRmMjVlODBkZTJiZTVmMzVhYTc0ZGJhMTYsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-19T18:52:54.976121+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a155827489e7--",
       "company": "See posting",
       "title": "Operations Data Analyst",
@@ -2637,44 +2179,6 @@
         "location_unknown"
       ],
       "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a155827866Mc_o",
-      "company": "Smart IT Frame LLC",
-      "title": "Data Analyst - SQL & Tableau",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4479365450/?trackingId=xLxp%2Bz2EIocIyPBL0NT7SA%3D%3D&refId=4NXdOiw9LJUxbfqBjnULhw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1TtiLPZuQHqn5Fc6IDgWqA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0vrIow0Y2qQIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4479365450_ssid_8758102954_fmid_q9jfse~mvehfl8z~69&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4479365450_ssid_8758102954_fmid_q9jfse~mvehfl8z~69-null-q9jfse~mvehfl8z~69-null-null&eid=q9jfse-mvehfl8z-69&otpToken=ODJiMWJhN2I3ZGRjZTg1OTVjZTAzYjIxMmRlNWQ3MDVmZmQyM2M3MmJlNjA4Yjk5N2U0NDAwZTRlMjBiYjRhODQxOTE2MjM3ZTA1YTdjZjA4OTQ4NzA5YmRhMGUwMzQ5MDAwYjViYjFkOTI3ZGRjNzJmNTFkMDM0YWI1Mjk5ZDU1NGZlMDVmNDM3MWI4MDQ3ZmUsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-19T18:52:56.294370+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a1558281bfcTVM",
-      "company": "Wayne",
-      "title": "Associate Sales Operations Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4480145595/?trackingId=kDYykP8YYASZ%2BGhH1GzT1g%3D%3D&refId=llJAkKVO9wvAR36MuTfooA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2BZUEACEFSm2%2Ft7hsIBjfog%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0P-qsQc-N2Qcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480145595_ssid_8461940610_fmid_q9jfse~mvdvzz5v~hw&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480145595_ssid_8461940610_fmid_q9jfse~mvdvzz5v~hw-null-q9jfse~mvdvzz5v~hw-null-null&eid=q9jfse-mvdvzz5v-hw&otpToken=ZTg2ZmUxOWViNGM2NzA5MDFlZWVlN2VlODQ3ZjFkY2ViMTBhM2E5N2UzZGNhYThlYmMyY2Y3ZGI1OTc3MTc0ZTQ4NDJmNTU3N2FmN2U4NzY0NjQ1MWFkNDdkMzVhOGE5YzExOTA4NGE5ZjEwMDI5ZmU1NzRiZjU2MTEwMWJhYWQxZDUxMzk5NWEyYmJiZmNjZTAsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-19T18:52:58.687090+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
       "filter_version": "2026-10-09.1"
     },
     {
@@ -8058,7 +7562,32 @@
     "https://www.linkedin.com/jobs/view/4480239088/",
     "https://www.linkedin.com/jobs/view/4453236453/",
     "https://www.linkedin.com/jobs/view/4478611667/",
-    "https://www.linkedin.com/jobs/view/4478295639/"
+    "https://www.linkedin.com/jobs/view/4478295639/",
+    "https://www.linkedin.com/jobs/view/4478633546/",
+    "https://www.linkedin.com/jobs/view/4478957377/",
+    "https://www.linkedin.com/jobs/view/4480233888/",
+    "https://www.linkedin.com/jobs/view/4479942449/",
+    "https://www.linkedin.com/jobs/view/4480293196/",
+    "https://www.linkedin.com/jobs/view/4482037725/",
+    "https://www.linkedin.com/jobs/view/4477429803/",
+    "https://www.linkedin.com/jobs/view/4481255091/",
+    "https://www.linkedin.com/jobs/view/4446181648/",
+    "https://www.linkedin.com/jobs/view/4481769669/",
+    "https://www.linkedin.com/jobs/view/4478939854/",
+    "https://www.linkedin.com/jobs/view/4481261772/",
+    "https://www.linkedin.com/jobs/view/4480298135/",
+    "https://www.linkedin.com/jobs/view/4480882630/",
+    "https://www.linkedin.com/jobs/view/4480268034/",
+    "https://www.linkedin.com/jobs/view/4480268292/",
+    "https://www.linkedin.com/jobs/view/4480244945/",
+    "https://www.linkedin.com/jobs/view/4480567418/",
+    "https://www.linkedin.com/jobs/view/4480837147/",
+    "https://www.linkedin.com/jobs/view/4480251512/",
+    "https://www.linkedin.com/jobs/view/4480240797/",
+    "https://www.linkedin.com/comm/jobs/view/4477134588/?trackingId=1%2F17lR7tIcKYyzmCPbnPow%3D%3D&refId=2zCOrgxJPijy8gjVVBwbiw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3Bqaop1hQgTRaiuHyKWr1%2FDw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0rqj9Jtpn4RIs1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477134588_sectionid_272001_fmid_q9jfse~mvfji71w~oy&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477134588_sectionid_272001_fmid_q9jfse~mvfji71w~oy-null-q9jfse~mvfji71w~oy-null-null&eid=q9jfse-mvfji71w-oy&otpToken=MjE3MzM4MDU3NjljMTI1ZjNmOGYyYWE0NDViYTljNzA3NDE4ZmUyOTQxYmEyNWRkMDE4YjIzNDg2YzYwZjE1MzVhOWRkM2IwODMyODEzYTg3MzlhMjM0ZDJjZTMyNTk5YzIyOTQyMTJhZTI2NmVkMDZhMTIzMWQzNDliYTg1MjkwNzZhNzUzNjM4M2JmYWU1MmIsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4480508214/?trackingId=Yg8EbbwAqm%2FG1y%2Bf1SldBQ%3D%3D&refId=8XHSWCvMm54yz2zPZNgX2A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwQnti5LDSJaiu9rxEL41og%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3U2Tyvn7LyRss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480508214_ssid_8367968258_fmid_q9jfse~mvfbftav~lz&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480508214_ssid_8367968258_fmid_q9jfse~mvfbftav~lz-null-q9jfse~mvfbftav~lz-null-null&eid=q9jfse-mvfbftav-lz&otpToken=MTkzYTBjODBiZDQ0YTZhYjc0NTI5MzFjM2ExOTEwYTNjZjg0ODkwNDM5ZGYyOWU2ODQ2OTk5MTM4NGRhN2I3MDBmOGIzMjEyYjI1NWJmNmM4ZTdjYThkOTE3Yjc1NjI2MWRlOThmODU3ZGZlYTcxYWYxNjZiZjc2MTRmMjVlODBkZTJiZTVmMzVhYTc0ZGJhMTYsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4479365450/?trackingId=xLxp%2Bz2EIocIyPBL0NT7SA%3D%3D&refId=4NXdOiw9LJUxbfqBjnULhw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1TtiLPZuQHqn5Fc6IDgWqA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0vrIow0Y2qQIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4479365450_ssid_8758102954_fmid_q9jfse~mvehfl8z~69&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4479365450_ssid_8758102954_fmid_q9jfse~mvehfl8z~69-null-q9jfse~mvehfl8z~69-null-null&eid=q9jfse-mvehfl8z-69&otpToken=ODJiMWJhN2I3ZGRjZTg1OTVjZTAzYjIxMmRlNWQ3MDVmZmQyM2M3MmJlNjA4Yjk5N2U0NDAwZTRlMjBiYjRhODQxOTE2MjM3ZTA1YTdjZjA4OTQ4NzA5YmRhMGUwMzQ5MDAwYjViYjFkOTI3ZGRjNzJmNTFkMDM0YWI1Mjk5ZDU1NGZlMDVmNDM3MWI4MDQ3ZmUsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4480145595/?trackingId=kDYykP8YYASZ%2BGhH1GzT1g%3D%3D&refId=llJAkKVO9wvAR36MuTfooA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2BZUEACEFSm2%2Ft7hsIBjfog%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0P-qsQc-N2Qcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480145595_ssid_8461940610_fmid_q9jfse~mvdvzz5v~hw&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4480145595_ssid_8461940610_fmid_q9jfse~mvdvzz5v~hw-null-q9jfse~mvdvzz5v~hw-null-null&eid=q9jfse-mvdvzz5v-hw&otpToken=ZTg2ZmUxOWViNGM2NzA5MDFlZWVlN2VlODQ3ZjFkY2ViMTBhM2E5N2UzZGNhYThlYmMyY2Y3ZGI1OTc3MTc0ZTQ4NDJmNTU3N2FmN2U4NzY0NjQ1MWFkNDdkMzVhOGE5YzExOTA4NGE5ZjEwMDI5ZmU1NzRiZjU2MTEwMWJhYWQxZDUxMzk5NWEyYmJiZmNjZTAsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -12220,8 +11749,108 @@
     {
       "k": "pridenow|supply chain analyst",
       "at": "2026-10-21T14:50:41.021Z"
+    },
+    {
+      "k": "nrg energy|data science analyst agentic ai developer",
+      "at": "2026-10-21T15:02:21.543Z"
+    },
+    {
+      "k": "williams|business analyst ii",
+      "at": "2026-10-21T15:02:21.543Z"
+    },
+    {
+      "k": "attractivate consulting solutions|business intelligence developer",
+      "at": "2026-10-21T15:02:21.543Z"
+    },
+    {
+      "k": "indorama ventures indovinya|product analyst",
+      "at": "2026-10-21T15:02:21.543Z"
+    },
+    {
+      "k": "primary services|coupa business analyst",
+      "at": "2026-10-21T15:02:21.543Z"
+    },
+    {
+      "k": "hewlett packard enterprise|bus operations analyst ii",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "competitive power ventures|operations analyst cpv retail",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "murphy oil|supply chain analyst",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "equipmentshare|strategy analyst",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "drake software|analytics engineer ii",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 ads identity signals",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "pcl construction|business systems analyst",
+      "at": "2026-10-21T15:02:21.544Z"
+    },
+    {
+      "k": "textron|marketing data analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "pratt industries|business analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "home depot|logistics analyst carrier analytics",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "imr soft|data analytics engineer",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "evlo ai|business analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "unitedhealthcare|onbase business analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "cbre|business intelligence analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "remotehunter|digital marketing analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "michael baker international|strategy analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "datavant|customer insights analyst",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "softheon|business operations analyst i",
+      "at": "2026-10-21T15:02:21.545Z"
+    },
+    {
+      "k": "smart it frame|data analyst sql tableau",
+      "at": "2026-10-21T15:02:21.546Z"
+    },
+    {
+      "k": "wayne|associate sales operations analyst",
+      "at": "2026-10-21T15:02:21.546Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T15:02:10.547Z"
+  "savedAt": "2026-10-21T15:02:21.546Z"
 }
