@@ -1847,26 +1847,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15740b2e5qLJr",
-      "company": "Floor & Decor",
-      "title": "Pricing Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478637297/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T03:00:20.325488+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15740bad1Sj3o",
       "company": "Tethered Talent",
       "title": "Salesforce Data Analyst- Atlanta",
@@ -7920,7 +7900,8 @@
     "https://www.linkedin.com/jobs/view/4480463488/",
     "https://www.linkedin.com/jobs/view/4480405636/",
     "https://www.linkedin.com/jobs/view/4478627166/",
-    "https://www.linkedin.com/jobs/view/4478676389/"
+    "https://www.linkedin.com/jobs/view/4478676389/",
+    "https://www.linkedin.com/jobs/view/4478637297/"
   ],
   "dismissedKeys": [
     {
@@ -11954,8 +11935,12 @@
     {
       "k": "signify technology|business data analyst experimentation",
       "at": "2026-10-21T03:52:05.171Z"
+    },
+    {
+      "k": "floor decor|pricing analyst",
+      "at": "2026-10-21T03:52:43.245Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:52:07.795Z"
+  "savedAt": "2026-10-21T03:52:43.245Z"
 }
