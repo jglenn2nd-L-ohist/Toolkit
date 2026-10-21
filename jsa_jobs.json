@@ -1567,26 +1567,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ab145d5PGrU",
-      "company": "Ameris Bank",
-      "title": "Business Intelligence Reporting Developer",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480496139/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T19:02:09.621960+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ab314d3amCo",
       "company": "Harris County Toll Road Authority",
       "title": "IT Business Analyst, Customer Service & Training",
@@ -1977,46 +1957,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-20T14:17:21.092856+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a159ac8cd3CDoI",
-      "company": "Visionary Innovative Technology Solutions LLC",
-      "title": "Fulltime -- Product Owner with Business Analyst with Banking & AI",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478299413/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T14:17:22.899463+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a159acc086ADQ8",
-      "company": "MUFG",
-      "title": "Corporate Banking Operations Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480545193/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-20T14:17:36.152791+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -2443,26 +2383,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-19T23:00:35.019987+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a156662e28nsZ5",
-      "company": "Jack Henry",
-      "title": "Banking Back Office Operations Analyst II(Traveling)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480265883/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-19T23:01:39.496383+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -8387,7 +8307,11 @@
     "https://www.linkedin.com/jobs/view/4479088109/",
     "https://www.linkedin.com/jobs/view/4478461133/",
     "https://www.linkedin.com/jobs/view/4469411899/",
-    "https://www.linkedin.com/comm/jobs/view/4478479507/?trackingId=JnuEKYkTtW0WBB0d7zheew%3D%3D&refId=EXhWjQJLWbXed%2B94NSG%2BKw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bhhvmte0xSt2fuFohGubM%2FQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0003B0U0axNqNYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478479507_ssid_8461940610_fmid_q9jfse~mvbmjvrp~5w&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478479507_ssid_8461940610_fmid_q9jfse~mvbmjvrp~5w-null-q9jfse~mvbmjvrp~5w-null-null&eid=q9jfse-mvbmjvrp-5w&otpToken=YjZlZWY5OWY4OTdmZjY0ZDMzOGM2NDNmZDE3MGI4MDc5NjZiZjQzZDc3OTJmNThiYjlkMjQ0MGY1NGY5OTVmYzMzYjdiOTgxMWU4MjFjZmRiN2JjNGNiM2UzYzgyNzgxM2NhNjM1NGY5ZGU5N2FjODBmYmUzZDlmZjA4NzBhNzExOGNjZjhhMzA5NjViMjcxYWMsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4478479507/?trackingId=JnuEKYkTtW0WBB0d7zheew%3D%3D&refId=EXhWjQJLWbXed%2B94NSG%2BKw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bhhvmte0xSt2fuFohGubM%2FQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u0003B0U0axNqNYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478479507_ssid_8461940610_fmid_q9jfse~mvbmjvrp~5w&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4478479507_ssid_8461940610_fmid_q9jfse~mvbmjvrp~5w-null-q9jfse~mvbmjvrp~5w-null-null&eid=q9jfse-mvbmjvrp-5w&otpToken=YjZlZWY5OWY4OTdmZjY0ZDMzOGM2NDNmZDE3MGI4MDc5NjZiZjQzZDc3OTJmNThiYjlkMjQ0MGY1NGY5OTVmYzMzYjdiOTgxMWU4MjFjZmRiN2JjNGNiM2UzYzgyNzgxM2NhNjM1NGY5ZGU5N2FjODBmYmUzZDlmZjA4NzBhNzExOGNjZjhhMzA5NjViMjcxYWMsMiwx",
+    "https://www.linkedin.com/jobs/view/4480496139/",
+    "https://www.linkedin.com/jobs/view/4478299413/",
+    "https://www.linkedin.com/jobs/view/4480545193/",
+    "https://www.linkedin.com/jobs/view/4480265883/"
   ],
   "dismissedKeys": [
     {
@@ -12277,8 +12201,24 @@
     {
       "k": "cotiviti|data and insight analyst",
       "at": "2026-10-21T03:15:48.109Z"
+    },
+    {
+      "k": "ameris bank|business intelligence reporting developer",
+      "at": "2026-10-21T03:16:13.820Z"
+    },
+    {
+      "k": "visionary innovative technology solutions|fulltime product owner with business analyst with banking ai",
+      "at": "2026-10-21T03:16:13.820Z"
+    },
+    {
+      "k": "mufg|corporate banking operations analyst",
+      "at": "2026-10-21T03:16:13.820Z"
+    },
+    {
+      "k": "jack henry|banking back office operations analyst ii traveling",
+      "at": "2026-10-21T03:16:13.820Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:15:48.109Z"
+  "savedAt": "2026-10-21T03:16:13.820Z"
 }
