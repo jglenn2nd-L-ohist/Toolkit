@@ -1652,26 +1652,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15eddf0ecE3n6",
-      "company": "Mitchell Martin Inc.",
-      "title": "Business Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478256255/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:29:25.868853+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ede0f04zl6B",
       "company": "GSA",
       "title": "Data Analyst - Federal Acquisition Service",
@@ -8248,7 +8228,8 @@
     "https://www.linkedin.com/jobs/view/4480294696/",
     "https://www.linkedin.com/jobs/view/4450406014/",
     "https://www.linkedin.com/jobs/view/4480719815/",
-    "https://www.linkedin.com/jobs/view/4444274669/"
+    "https://www.linkedin.com/jobs/view/4444274669/",
+    "https://www.linkedin.com/jobs/view/4478256255/"
   ],
   "dismissedKeys": [
     {
@@ -12370,8 +12351,12 @@
     {
       "k": "happy global|field operations analyst",
       "at": "2026-10-21T14:44:40.797Z"
+    },
+    {
+      "k": "mitchell martin|business analyst",
+      "at": "2026-10-21T14:45:05.162Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:44:44.569Z"
+  "savedAt": "2026-10-21T14:45:05.162Z"
 }
