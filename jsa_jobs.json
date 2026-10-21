@@ -1652,26 +1652,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15ede0f04zl6B",
-      "company": "GSA",
-      "title": "Data Analyst - Federal Acquisition Service",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482069558/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-21T14:29:33.572919+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15ede14f3gU0b",
       "company": "Alcon",
       "title": "AI Data Readiness Analyst (Onsite)",
@@ -8229,7 +8209,8 @@
     "https://www.linkedin.com/jobs/view/4450406014/",
     "https://www.linkedin.com/jobs/view/4480719815/",
     "https://www.linkedin.com/jobs/view/4444274669/",
-    "https://www.linkedin.com/jobs/view/4478256255/"
+    "https://www.linkedin.com/jobs/view/4478256255/",
+    "https://www.linkedin.com/jobs/view/4482069558/"
   ],
   "dismissedKeys": [
     {
@@ -12355,8 +12336,12 @@
     {
       "k": "mitchell martin|business analyst",
       "at": "2026-10-21T14:45:05.162Z"
+    },
+    {
+      "k": "gsa|data analyst federal acquisition service",
+      "at": "2026-10-21T14:45:46.237Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:45:08.031Z"
+  "savedAt": "2026-10-21T14:45:46.237Z"
 }
