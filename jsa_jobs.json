@@ -1650,26 +1650,6 @@
       "status": "New"
     },
     {
-      "id": "1a15edd8129UGKy",
-      "company": "7-Eleven",
-      "title": "Fuel Pricing Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482090611/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T14:28:57.257600+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15edd89f2GSnv",
       "company": "TD",
       "title": "Business Insights Specialist (US)",
@@ -1932,26 +1912,6 @@
       "status": "New"
     },
     {
-      "id": "1a15edeea8fwjr-",
-      "company": "EchoLink",
-      "title": "Korean Speaking Logistics Pricing Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480720428/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T14:30:29.775654+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a15edf0377wPRA",
       "company": "Vallourec - North America",
       "title": "Master Data Analyst",
@@ -2185,26 +2145,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-21T14:31:11.488440+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a15edfbab2chU9",
-      "company": "Primary Services",
-      "title": "Pricing Data Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480284270/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-21T14:31:23.058192+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -8419,7 +8359,10 @@
     "https://www.linkedin.com/jobs/view/4480288313/",
     "https://www.linkedin.com/jobs/view/4480272898/",
     "https://www.linkedin.com/jobs/view/4481275433/",
-    "https://www.linkedin.com/jobs/view/4481246845/"
+    "https://www.linkedin.com/jobs/view/4481246845/",
+    "https://www.linkedin.com/jobs/view/4482090611/",
+    "https://www.linkedin.com/jobs/view/4480720428/",
+    "https://www.linkedin.com/jobs/view/4480284270/"
   ],
   "dismissedKeys": [
     {
@@ -12505,8 +12448,20 @@
     {
       "k": "torentify|data analyst optimize campaigns insights remote",
       "at": "2026-10-21T14:33:09.147Z"
+    },
+    {
+      "k": "7 eleven|fuel pricing analyst",
+      "at": "2026-10-21T14:37:26.992Z"
+    },
+    {
+      "k": "echolink|korean speaking logistics pricing analyst",
+      "at": "2026-10-21T14:37:26.992Z"
+    },
+    {
+      "k": "primary services|pricing data analyst",
+      "at": "2026-10-21T14:37:26.992Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T14:34:09.597Z"
+  "savedAt": "2026-10-21T14:37:26.992Z"
 }
