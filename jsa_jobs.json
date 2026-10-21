@@ -1803,26 +1803,6 @@
       "status": "New"
     },
     {
-      "id": "1a159a96f6fFYn7",
-      "company": "Pinellas County Schools",
-      "title": "Data Analyst",
-      "location": "Largo, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480987669/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T14:13:58.768000+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159a97941XeIn",
       "company": "LeadingResponse",
       "title": "Sales Operations Analyst",
@@ -8110,7 +8090,8 @@
     "https://www.linkedin.com/jobs/view/4470018313/",
     "https://www.linkedin.com/jobs/view/4481578831/",
     "https://www.linkedin.com/jobs/view/4473075523/",
-    "https://www.linkedin.com/jobs/view/4481286287/"
+    "https://www.linkedin.com/jobs/view/4481286287/",
+    "https://www.linkedin.com/jobs/view/4480987669/"
   ],
   "dismissedKeys": [
     {
@@ -12104,8 +12085,12 @@
     {
       "k": "mad mobile|revenue operations data analyst ii",
       "at": "2026-10-21T03:35:39.763Z"
+    },
+    {
+      "k": "pinellas county schools|data analyst",
+      "at": "2026-10-21T03:35:51.843Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:35:42.631Z"
+  "savedAt": "2026-10-21T03:35:51.844Z"
 }
