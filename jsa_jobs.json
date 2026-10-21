@@ -1847,26 +1847,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15740bad1Sj3o",
-      "company": "Tethered Talent",
-      "title": "Salesforce Data Analyst- Atlanta",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480264543/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T03:00:22.353128+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a157416d8a0qNR",
       "company": "Compass Group USA",
       "title": "DATA ANALYST (CHARLOTTE, NC - HYBRID)",
@@ -7901,7 +7881,8 @@
     "https://www.linkedin.com/jobs/view/4480405636/",
     "https://www.linkedin.com/jobs/view/4478627166/",
     "https://www.linkedin.com/jobs/view/4478676389/",
-    "https://www.linkedin.com/jobs/view/4478637297/"
+    "https://www.linkedin.com/jobs/view/4478637297/",
+    "https://www.linkedin.com/jobs/view/4480264543/"
   ],
   "dismissedKeys": [
     {
@@ -11939,8 +11920,12 @@
     {
       "k": "floor decor|pricing analyst",
       "at": "2026-10-21T03:52:43.245Z"
+    },
+    {
+      "k": "tethered talent|salesforce data analyst atlanta",
+      "at": "2026-10-21T03:52:54.166Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:52:45.654Z"
+  "savedAt": "2026-10-21T03:52:54.166Z"
 }
