@@ -1825,26 +1825,6 @@
       "status": "Review"
     },
     {
-      "id": "1a159b0fea7Wa9h",
-      "company": "Signify Technology",
-      "title": "Business Data Analyst (Experimentation)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478676389/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T14:22:14.183638+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159b13649Bie3",
       "company": "Club Car",
       "title": "Sales Inventory and Operations Analyst (SIOP)",
@@ -7939,7 +7919,8 @@
     "https://www.linkedin.com/jobs/view/4478644035/",
     "https://www.linkedin.com/jobs/view/4480463488/",
     "https://www.linkedin.com/jobs/view/4480405636/",
-    "https://www.linkedin.com/jobs/view/4478627166/"
+    "https://www.linkedin.com/jobs/view/4478627166/",
+    "https://www.linkedin.com/jobs/view/4478676389/"
   ],
   "dismissedKeys": [
     {
@@ -11969,8 +11950,12 @@
     {
       "k": "ontrac|analytics engineer",
       "at": "2026-10-21T03:51:40.802Z"
+    },
+    {
+      "k": "signify technology|business data analyst experimentation",
+      "at": "2026-10-21T03:52:05.171Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:51:42.986Z"
+  "savedAt": "2026-10-21T03:52:05.171Z"
 }
