@@ -1889,26 +1889,6 @@
       "status": "Review"
     },
     {
-      "id": "1a15665324bAp6K",
-      "company": "Fiserv",
-      "title": "Sales Operations II",
-      "location": "Marietta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480272898/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-19T23:00:35.019987+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a156696c27uMqA",
       "company": "Talan",
       "title": "Business Analyst - US Power Market",
@@ -7733,7 +7713,8 @@
     "https://www.linkedin.com/comm/jobs/view/4480371192/?trackingId9Sqz%2B7BSiPWDRvQt67hQA%3D%3D&refId=HotFQZ9WhFf6cgOnpgNQ6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BWtgRAOdBSNy%2B8pIDjW7LiQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mudBQiFkqOYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480371192_ssid_15324419412_fmid_q9jfse~mvckug5y~qb-null-q9jfse~mvckug5y~qb-null-null&eid=q9jfse-mvckug5y-qb&otpToken=ZDQwNzEyMWRjODYwZmM5NWRlYjE0OWJlMjk0ODMwMzljMmI2YjdlNWM2YzZlMTA3MTViY2ZkNDA5N2M5YTBkYzM0YjRhZjNmMDI0ZWM1MTg5ZmQ2ZjUxNzAyNDBjODIxZjVjMzRlOTNiZTlkYzc3YzgwNjE5OGM4MDU4OTY0ZjE4OTE1NWY2MjlmNzE2MGYxMmIsMiwx",
     "https://www.linkedin.com/jobs/view/4481282142/",
     "https://www.linkedin.com/jobs/view/4481264666/",
-    "https://www.linkedin.com/jobs/view/4480288313/"
+    "https://www.linkedin.com/jobs/view/4480288313/",
+    "https://www.linkedin.com/jobs/view/4480272898/"
   ],
   "dismissedKeys": [
     {
@@ -11807,8 +11788,12 @@
     {
       "k": "powerplan|business analyst",
       "at": "2026-10-21T04:06:35.714Z"
+    },
+    {
+      "k": "fiserv|sales operations ii",
+      "at": "2026-10-21T14:29:55.783Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T04:06:38.214Z"
+  "savedAt": "2026-10-21T14:29:55.783Z"
 }
