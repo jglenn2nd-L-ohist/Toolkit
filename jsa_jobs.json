@@ -1803,26 +1803,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a159af57a76fBE",
-      "company": "Miami Dolphins and Hard Rock Stadium",
-      "title": "Predictive Insights Analyst Job",
-      "location": "Miami Gardens, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478649539/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-20T14:20:25.895236+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a159af5e5aZ61d",
       "company": "Knovo",
       "title": "Data Visualization Specialist",
@@ -8034,7 +8014,8 @@
     "https://www.linkedin.com/jobs/view/4480987669/",
     "https://www.linkedin.com/jobs/view/4388560179/",
     "https://www.linkedin.com/jobs/view/4478618978/",
-    "https://www.linkedin.com/jobs/view/4481255648/"
+    "https://www.linkedin.com/jobs/view/4481255648/",
+    "https://www.linkedin.com/jobs/view/4478649539/"
   ],
   "dismissedKeys": [
     {
@@ -12044,8 +12025,12 @@
     {
       "k": "csx|marketing analyst",
       "at": "2026-10-21T03:45:52.564Z"
+    },
+    {
+      "k": "miami dolphins and hard rock stadium|predictive insights analyst job",
+      "at": "2026-10-21T03:47:28.429Z"
     }
   ],
   "lastRun": "2026-10-20T20:20:14.653957+00:00",
-  "savedAt": "2026-10-21T03:45:56.898Z"
+  "savedAt": "2026-10-21T03:47:28.429Z"
 }
