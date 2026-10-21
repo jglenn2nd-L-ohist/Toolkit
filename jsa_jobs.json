@@ -1668,25 +1668,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a16026c4d9f1GI",
-      "company": "crewlia",
-      "title": "Analytics Associate",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4480467581/?trackingId=1IPhCtkSRrNCgocQYgSrpw%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-21T20:28:35.929004+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a16026c61f6v96",
       "company": "See posting",
       "title": "Technical Business Analyst",
@@ -7943,7 +7924,8 @@
     "https://www.linkedin.com/jobs/view/4482111927/",
     "https://www.linkedin.com/jobs/view/4478625645/",
     "https://www.linkedin.com/jobs/view/4478911151/",
-    "https://www.linkedin.com/jobs/view/4482068417/"
+    "https://www.linkedin.com/jobs/view/4482068417/",
+    "https://www.linkedin.com/comm/jobs/view/4480467581/?trackingId=1IPhCtkSRrNCgocQYgSrpw%3D%3D&refId=nuIJ%2BC1V%2B0BV8OLuVG%2BMVA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BsvT8tQIXQYOFtXP%2BSAv9nA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2skyfOOg-aUIs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480467581_ssid_8461940610_fmid_q9jfse~mvij6hh2~ud-null-q9jfse~mvij6hh2~ud-null-null&eid=q9jfse-mvij6hh2-ud&otpToken=NDgwNDZlODQ1N2MzZTI3ZTkwMjg5N2NiYzMwYTVlZWIyZTFlMmNmMzRlNThhYmE5NzVmYTllYjYxNWFmNzRlMTA3OTZlZmJjZjlhNWNjYzY0NzZjYzgzN2IwYTM5YjBmYmJmZWQ0YjZiNjRiYWZjNmE3MjE4ZDc2YzA0YTBjZTcwNmU3MTIyNjYwMWI5MmViMzksMiwx"
   ],
   "dismissedKeys": [
     {
@@ -12245,8 +12227,12 @@
     {
       "k": "wiraa|marketing analyst i",
       "at": "2026-10-21T20:38:23.246Z"
+    },
+    {
+      "k": "crewlia|analytics associate",
+      "at": "2026-10-21T20:43:15.802Z"
     }
   ],
   "lastRun": "2026-10-21T20:28:48.567608+00:00",
-  "savedAt": "2026-10-21T20:38:33.750Z"
+  "savedAt": "2026-10-21T20:43:15.802Z"
 }
