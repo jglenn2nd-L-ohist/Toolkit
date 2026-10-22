@@ -1,6 +1,43 @@
 {
   "rejects": [
     {
+      "title": "Vendor Compliance Analyst, Delivery",
+      "company": "The Home Depot",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4480249817/?trackingId=k5lMgtx%2FB63heTJ6k%2FomFg%3D%3D&refId=%2FVxqt8Kxjp8bmWLDp6uA3g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BG1RGhiEvROGWXZIqxzH%2Btg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2G8EOp6nOOVYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480249817_ssid_8694211818_fmid_q9jfse~mvjuc0nh~v5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4480249817_ssid_8694211818_fmid_q9jfse~mvjuc0nh~v5-null-q9jfse~mvjuc0nh~v5-null-null&eid=q9jfse-mvjuc0nh-v5&otpToken=ZWZjOGE3MTRjNzgzNjBhYzdhMDQ5YjA4MzU4ODRmODFjMzQyZmQ4NDZlM2ZiMTg1MTlkMmFjN2E5MDJhZDkwZjJiYzhjNmQwOWM5MjBjNjVhZTllOTc4MWVmZDcyYWZkM2Q2ZWY2M2M3NzQxMzlkN2UzYzFjOTM4NDZkMmEzN2U0OGIxOTY3NzI4NWUwNTA0NDAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:compliance"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-22T20:26:46.255482+00:00"
+    },
+    {
+      "title": "Analytics Intern (Summer 2027) - Marietta, GA",
+      "company": "Federal Express Corporation",
+      "location": "Kennesaw, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481758161/?trackingId=qqQLOx9pULmaRuWYh4ryag%3D%3D&refId=%2FVxqt8Kxjp8bmWLDp6uA3g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BG1RGhiEvROGWXZIqxzH%2Btg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2G8EOp6nOOVYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481758161_ssid_8694211818_fmid_q9jfse~mvjuc0nh~v5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481758161_ssid_8694211818_fmid_q9jfse~mvjuc0nh~v5-null-q9jfse~mvjuc0nh~v5-null-null&eid=q9jfse-mvjuc0nh-v5&otpToken=ZWZjOGE3MTRjNzgzNjBhYzdhMDQ5YjA4MzU4ODRmODFjMzQyZmQ4NDZlM2ZiMTg1MTlkMmFjN2E5MDJhZDkwZjJiYzhjNmQwOWM5MjBjNjVhZTllOTc4MWVmZDcyYWZkM2Q2ZWY2M2M3NzQxMzlkN2UzYzFjOTM4NDZkMmEzN2U0OGIxOTY3NzI4NWUwNTA0NDAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-22T20:26:46.255593+00:00"
+    },
+    {
+      "title": "Distributor Experience Analyst",
+      "company": "Avanos Medical",
+      "location": "Atlanta Metropolitan Area",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478911804/?trackingId=HZPiYlROI3v0ozwBnePztA%3D%3D&refId=k5UQyVXgrgq%2FNKKGkFSE3Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjHbJpMJWSfmVWc0BU4GjBw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1nOMzaqPAWVYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478911804_ssid_8758102954_fmid_q9jfse~mvjq1p4b~j9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478911804_ssid_8758102954_fmid_q9jfse~mvjq1p4b~j9-null-q9jfse~mvjq1p4b~j9-null-null&eid=q9jfse-mvjq1p4b-j9&otpToken=YTQ0Yzc1ZGMwOTNjOTk5Njg5ZjgzYzBkOTUwOWFkNzI3YTdkYmZjMDExYTNjMDZkM2QxNGIzMmI4Y2QxZWFlNmY1ZTYwMWM1NmU1ZTU5YjNjNjg3NGIxNGRiNGNmYzliZDRjMGEyYTkwYTYyZGE2OTFkNGUxYWM1MmU0NzE4YmUxMmE2NGQxYTIxNTE5ZTEyYzQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-22T20:26:46.629465+00:00"
+    },
+    {
       "title": "Sr Analyst, Reporting & Insights",
       "company": "The Home Depot",
       "location": "Atlanta, GA",
@@ -18471,42 +18508,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-22T04:52:32.138966+00:00"
-    },
-    {
-      "title": "Payroll Systems Solutions & Process Excellence Lead",
-      "company": "Morgan Stanley",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4469998269/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-22T04:52:34.712294+00:00"
-    },
-    {
-      "title": "Capgemini Invent- Contact Center AI Consultant",
-      "company": "Capgemini",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4482416170/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-22T04:52:34.713102+00:00"
-    },
-    {
-      "title": "Peoplesoft Functional Analyst",
-      "company": "Sigil Partners",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4480997882/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-22T04:52:34.714087+00:00"
     }
   ]
 }
