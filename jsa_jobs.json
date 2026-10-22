@@ -1,24 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-02T21:13:43.827344+00:00",
-      "runner": "email",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 2,
-          "review": 0,
-          "reject": 1
-        }
-      },
-      "reasons": {
-        "title_unlisted": 1
-      },
-      "messages": 22,
-      "found": 54,
-      "known": 51
-    },
-    {
       "at": "2026-10-04T15:37:33.717271+00:00",
       "runner": "proactive",
       "rules": "2026-10-02.1",
@@ -1649,9 +1631,206 @@
       "found": 1200,
       "opened": 44,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-22T13:32:34.088959+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 6,
+          "review": 2,
+          "reject": 527
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 14
+        }
+      },
+      "reasons": {
+        "title_excluded": 307,
+        "out_of_area": 232,
+        "title_not_target": 87,
+        "title_unlisted": 48,
+        "healthcare": 45,
+        "remote_unverified": 19,
+        "foreign": 11,
+        "staffing_outside_atlanta": 10,
+        "clearance_required": 3,
+        "jd_term": 3,
+        "location_unknown": 1
+      },
+      "found": 549,
+      "opened": 11,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a163c9c04ecGzx",
+      "company": "Simplus",
+      "title": "Technical Business Analyst",
+      "location": "Alpharetta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481198620/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:25:28.782092+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
+    {
+      "id": "1a163c9dce95F1X",
+      "company": "Visionaire Partners",
+      "title": "Jr-Mid Business Analyst",
+      "location": "Atlanta Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481364149/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:25:36.105807+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a163ca64f6vFuX",
+      "company": "Aquent",
+      "title": "Business Analyst; Pricing Strategy &amp; Analytics [AQ-23409]",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480044094/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:26:10.934329+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a163cac6f5Prrf",
+      "company": "A.P. Moller - Maersk",
+      "title": "Technical Business Analyst Coordinator",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4469189591/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:26:36.021161+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
+    {
+      "id": "1a163ced03cBwym",
+      "company": "Emonics LLC",
+      "title": "Data Analyst Entry-Level",
+      "location": "Houston, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481312104/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:31:00.540095+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a163cf4490Cq_O",
+      "company": "Publix Super Markets",
+      "title": "Marketing Business Analytics Data Analyst, Marketing - Lakeland",
+      "location": "Lakeland, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4482445932/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:31:30.320917+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a163cf7d9avlGz",
+      "company": "Netflix",
+      "title": "Analytics Engineer 5 - Media Science DSE",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4464977797/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:31:44.922215+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a163cfa07b85T3",
+      "company": "CAI",
+      "title": "Reporting Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481322259/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T13:31:53.851831+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
     {
       "id": "1a161f3adb4b2l6",
       "company": "Tier4 Group",
@@ -13007,5 +13186,5 @@
     }
   ],
   "lastRun": "2026-10-21T20:28:48.567608+00:00",
-  "savedAt": "2026-10-22T05:00:08.357405+00:00"
+  "savedAt": "2026-10-22T13:32:34.692931+00:00"
 }
