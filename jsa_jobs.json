@@ -1,36 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-04T15:37:33.717271+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 13,
-          "review": 6,
-          "reject": 363
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 9
-        }
-      },
-      "reasons": {
-        "out_of_area": 300,
-        "title_excluded": 189,
-        "title_unlisted": 42,
-        "remote_unverified": 19,
-        "title_not_target": 14,
-        "jd_term": 6,
-        "foreign": 6,
-        "location_unknown": 1
-      },
-      "found": 391,
-      "opened": 19,
-      "region": "remote"
-    },
-    {
       "at": "2026-10-05T13:58:44.096716+00:00",
       "runner": "proactive",
       "rules": "2026-10-02.1",
@@ -1664,9 +1634,64 @@
       "found": 549,
       "opened": 11,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-22T15:07:10.353590+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 0,
+          "review": 1,
+          "reject": 395
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 6
+        }
+      },
+      "reasons": {
+        "title_excluded": 229,
+        "out_of_area": 199,
+        "title_not_target": 70,
+        "healthcare": 38,
+        "title_unlisted": 28,
+        "staffing_outside_atlanta": 10,
+        "remote_unverified": 9,
+        "foreign": 4,
+        "location_unknown": 2,
+        "jd_term": 1,
+        "clearance_required": 1
+      },
+      "found": 402,
+      "opened": 2,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a16420644bda5F",
+      "company": "IMR Soft LLC",
+      "title": "Data Analyst",
+      "location": "Alpharetta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4481366246/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T15:00:06.859087+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
     {
       "id": "1a163c9c04ecGzx",
       "company": "Simplus",
@@ -13186,5 +13211,5 @@
     }
   ],
   "lastRun": "2026-10-21T20:28:48.567608+00:00",
-  "savedAt": "2026-10-22T13:32:34.692931+00:00"
+  "savedAt": "2026-10-22T15:07:10.920723+00:00"
 }
