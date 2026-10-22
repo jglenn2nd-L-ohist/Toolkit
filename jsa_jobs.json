@@ -1,37 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-05T17:53:16.617311+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 15,
-          "review": 2,
-          "reject": 458
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 5
-        }
-      },
-      "reasons": {
-        "title_excluded": 284,
-        "out_of_area": 154,
-        "title_not_target": 93,
-        "title_unlisted": 41,
-        "remote_unverified": 17,
-        "foreign": 3,
-        "jd_term": 2,
-        "clearance_required": 1,
-        "location_unknown": 1
-      },
-      "found": 480,
-      "opened": 18,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-05T19:07:05.412436+00:00",
       "runner": "email",
       "rules": "2026-10-02.1",
@@ -1664,6 +1633,26 @@
       "found": 496,
       "opened": 1,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-22T20:26:55.550228+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 1,
+          "review": 0,
+          "reject": 3
+        }
+      },
+      "reasons": {
+        "title_excluded": 2,
+        "title_unlisted": 1,
+        "healthcare": 1
+      },
+      "messages": 21,
+      "found": 48,
+      "known": 44
     }
   ],
   "jobs": [
@@ -13289,6 +13278,6 @@
       "at": "2026-10-21T20:56:13.895Z"
     }
   ],
-  "lastRun": "2026-10-22T17:43:33.134172+00:00",
-  "savedAt": "2026-10-22T19:06:51.800834+00:00"
+  "lastRun": "2026-10-22T20:26:56.289531+00:00",
+  "savedAt": "2026-10-22T20:26:56.289531+00:00"
 }
