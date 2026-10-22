@@ -1,36 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-05T14:30:07.491847+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 6,
-          "review": 0,
-          "reject": 167
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 16
-        }
-      },
-      "reasons": {
-        "title_excluded": 115,
-        "out_of_area": 56,
-        "title_not_target": 26,
-        "title_unlisted": 21,
-        "remote_unverified": 10,
-        "foreign": 7,
-        "clearance_required": 2,
-        "location_unknown": 1
-      },
-      "found": 189,
-      "opened": 8,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-05T17:53:16.617311+00:00",
       "runner": "proactive",
       "rules": "2026-10-02.1",
@@ -1663,9 +1633,62 @@
       "messages": 24,
       "found": 58,
       "known": 42
+    },
+    {
+      "at": "2026-10-22T19:06:51.335498+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 0,
+          "review": 1,
+          "reject": 491
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 4
+        }
+      },
+      "reasons": {
+        "title_excluded": 297,
+        "title_not_target": 160,
+        "healthcare": 42,
+        "out_of_area": 40,
+        "staffing_outside_atlanta": 22,
+        "title_unlisted": 19,
+        "remote_unverified": 3,
+        "jd_term": 1,
+        "foreign": 1
+      },
+      "found": 496,
+      "opened": 1,
+      "region": "rotation"
     }
   ],
   "jobs": [
+    {
+      "id": "1a164fc2837oG_F",
+      "company": "Ascot Group",
+      "title": "Business Systems Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4480052644/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-10-22T19:00:09.399522+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "Review"
+    },
     {
       "id": "1a164b5c74duO4d",
       "company": "See posting",
@@ -13267,5 +13290,5 @@
     }
   ],
   "lastRun": "2026-10-22T17:43:33.134172+00:00",
-  "savedAt": "2026-10-22T17:43:33.134172+00:00"
+  "savedAt": "2026-10-22T19:06:51.800834+00:00"
 }
