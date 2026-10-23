@@ -1893,46 +1893,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a161f3b62cknm8",
-      "company": "Oldcastle Infrastructure",
-      "title": "Master Data Analyst - Remote",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479440589/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:04.268049+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f3bbf9Whm5",
-      "company": "Truist",
-      "title": "Deposit Pricing Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482155359/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:52:05.755641+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f3c1afVojY",
       "company": "Insight Global",
       "title": "Business Intelligence Analyst",
@@ -1951,26 +1911,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a161f3f16d676l",
-      "company": "Origami Risk",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481732542/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:19.437293+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a161f3fa45Mi3C",
@@ -8915,7 +8855,10 @@
     "https://www.linkedin.com/jobs/view/4481312104/",
     "https://www.linkedin.com/jobs/view/4464977797/",
     "https://www.linkedin.com/jobs/view/4481322259/",
-    "https://www.linkedin.com/jobs/view/4478691465/"
+    "https://www.linkedin.com/jobs/view/4478691465/",
+    "https://www.linkedin.com/jobs/view/4479440589/",
+    "https://www.linkedin.com/jobs/view/4482155359/",
+    "https://www.linkedin.com/jobs/view/4481732542/"
   ],
   "dismissedKeys": [
     {
@@ -13309,8 +13252,20 @@
     {
       "k": "tier4 group|data analyst 5592",
       "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "oldcastle infrastructure|master data analyst",
+      "at": "2026-10-23T04:02:24.903Z"
+    },
+    {
+      "k": "truist|deposit pricing analyst",
+      "at": "2026-10-23T04:02:24.903Z"
+    },
+    {
+      "k": "origami risk|business analyst",
+      "at": "2026-10-23T04:02:24.903Z"
     }
   ],
   "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T04:02:20.154Z"
+  "savedAt": "2026-10-23T04:02:24.903Z"
 }
