@@ -1703,86 +1703,6 @@
       "status": "Review"
     },
     {
-      "id": "1a166c5c014eKFP",
-      "company": "TK Elevator",
-      "title": "Commercial Sales Operations Specialist II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478191226/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:19:58.229038+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166c5f2096vZK",
-      "company": "20North Inc.",
-      "title": "Digital Marketing Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482705235/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:20:11.017196+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166c68f11ADOl",
-      "company": "Brooks Safety Solutions",
-      "title": "Pricing Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482708143/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:20:51.217457+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166c6cf1dXYFf",
-      "company": "U.S. Bank",
-      "title": "Funding & Securities Operations Analyst | Multiple Positions",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4477865101/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-23T03:21:07.613456+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a166c761bf8V-S",
       "company": "Bayside Solutions",
       "title": "Business Analyst",
@@ -1803,146 +1723,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a166c7cea5lduV",
-      "company": "Blue Cross NC",
-      "title": "Business Systems Analyst",
-      "location": "Raleigh-Durham-Chapel Hill Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481614057/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-23T03:22:13.029583+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166c8b979RDpG",
-      "company": "US Tech Solutions",
-      "title": "Junior Business Analyst # 26-26855",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481605271/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:23:13.145450+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166cac9e3C9k4",
-      "company": "Jabil",
-      "title": "Business Analyst II",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481645092/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:25:28.419719+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166cacf9aaWiL",
-      "company": "The University of Texas at Arlington",
-      "title": "Business Systems Analyst (App Development)",
-      "location": "Arlington, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482481769/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-23T03:25:29.882137+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166caedbeP5Tz",
-      "company": "Fortegra",
-      "title": "Claims Operations Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480605034/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-23T03:25:37.598846+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166cbaed4WZZN",
-      "company": "Mohawk Industries",
-      "title": "SUPPLY CHAIN ANALYST",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481609096/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:26:27.028966+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a166cbb77frq1J",
-      "company": "Intuitive Machines",
-      "title": "Supply Chain Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481624514/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-23T03:26:29.247288+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a164fc2837oG_F",
@@ -2071,46 +1851,6 @@
       "status": "Review"
     },
     {
-      "id": "1a163c9dce95F1X",
-      "company": "Visionaire Partners",
-      "title": "Jr-Mid Business Analyst",
-      "location": "Atlanta Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481364149/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T13:25:36.105807+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a163ca64f6vFuX",
-      "company": "Aquent",
-      "title": "Business Analyst; Pricing Strategy &amp; Analytics [AQ-23409]",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480044094/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T13:26:10.934329+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a163cac6f5Prrf",
       "company": "A.P. Moller - Maersk",
       "title": "Technical Business Analyst Coordinator",
@@ -2133,26 +1873,6 @@
       "status": "Review"
     },
     {
-      "id": "1a163ced03cBwym",
-      "company": "Emonics LLC",
-      "title": "Data Analyst Entry-Level",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481312104/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T13:31:00.540095+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a163cf4490Cq_O",
       "company": "Publix Super Markets",
       "title": "Marketing Business Analytics Data Analyst, Marketing - Lakeland",
@@ -2171,66 +1891,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a163cf7d9avlGz",
-      "company": "Netflix",
-      "title": "Analytics Engineer 5 - Media Science DSE",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4464977797/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T13:31:44.922215+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a163cfa07b85T3",
-      "company": "CAI",
-      "title": "Reporting Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481322259/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T13:31:53.851831+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f3adb4b2l6",
-      "company": "Tier4 Group",
-      "title": "Data Analyst 5592",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478691465/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:02.100495+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a161f3b62cknm8",
@@ -9238,7 +8898,24 @@
     "https://www.linkedin.com/jobs/view/4482122865/",
     "https://www.linkedin.com/jobs/view/4482127712/",
     "https://www.linkedin.com/jobs/view/4482114643/",
-    "https://www.linkedin.com/jobs/view/4482125675/"
+    "https://www.linkedin.com/jobs/view/4482125675/",
+    "https://www.linkedin.com/jobs/view/4478191226/",
+    "https://www.linkedin.com/jobs/view/4482705235/",
+    "https://www.linkedin.com/jobs/view/4482708143/",
+    "https://www.linkedin.com/jobs/view/4477865101/",
+    "https://www.linkedin.com/jobs/view/4481614057/",
+    "https://www.linkedin.com/jobs/view/4481605271/",
+    "https://www.linkedin.com/jobs/view/4481645092/",
+    "https://www.linkedin.com/jobs/view/4482481769/",
+    "https://www.linkedin.com/jobs/view/4480605034/",
+    "https://www.linkedin.com/jobs/view/4481609096/",
+    "https://www.linkedin.com/jobs/view/4481624514/",
+    "https://www.linkedin.com/jobs/view/4481364149/",
+    "https://www.linkedin.com/jobs/view/4480044094/",
+    "https://www.linkedin.com/jobs/view/4481312104/",
+    "https://www.linkedin.com/jobs/view/4464977797/",
+    "https://www.linkedin.com/jobs/view/4481322259/",
+    "https://www.linkedin.com/jobs/view/4478691465/"
   ],
   "dismissedKeys": [
     {
@@ -13564,8 +13241,76 @@
     {
       "k": "ipdn professional diversity network|reporting analyst",
       "at": "2026-10-21T20:56:13.895Z"
+    },
+    {
+      "k": "tk elevator|commercial sales operations specialist ii",
+      "at": "2026-10-23T03:58:17.007Z"
+    },
+    {
+      "k": "20north|digital marketing analyst",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "brooks safety solutions|pricing analyst",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "u s bank|funding securities operations analyst multiple positions",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "blue cross nc|business systems analyst",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "us tech solutions|junior business analyst 26 26855",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "jabil|business analyst ii",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "university of texas at arlington|business systems analyst app development",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "fortegra|claims operations analyst",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "mohawk industries|supply chain analyst",
+      "at": "2026-10-23T03:58:17.008Z"
+    },
+    {
+      "k": "intuitive machines|supply chain analyst",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "visionaire partners|jr mid business analyst",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "aquent|business analyst pricing strategy amp analytics aq 23409",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "emonics|data analyst entry level",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "netflix|analytics engineer 5 media science dse",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "cai|reporting analyst",
+      "at": "2026-10-23T03:58:17.009Z"
+    },
+    {
+      "k": "tier4 group|data analyst 5592",
+      "at": "2026-10-23T03:58:17.009Z"
     }
   ],
   "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T03:57:05.652Z"
+  "savedAt": "2026-10-23T03:58:17.010Z"
 }
