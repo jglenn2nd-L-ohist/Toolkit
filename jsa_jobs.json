@@ -1,32 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-06T18:41:42.077677+00:00",
-      "runner": "email",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "Builtin": {
-          "pass": 0,
-          "review": 0,
-          "reject": 3
-        },
-        "LinkedIn": {
-          "pass": 0,
-          "review": 0,
-          "reject": 23
-        }
-      },
-      "reasons": {
-        "title_unlisted": 14,
-        "title_excluded": 11,
-        "location_unknown": 6,
-        "clearance_required": 3
-      },
-      "messages": 52,
-      "found": 134,
-      "known": 108
-    },
-    {
       "at": "2026-10-06T21:28:50.650078+00:00",
       "runner": "email",
       "rules": "2026-10-02.1",
@@ -1670,9 +1644,72 @@
       "messages": 27,
       "found": 55,
       "known": 43
+    },
+    {
+      "at": "2026-10-23T20:15:22.381988+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 3,
+          "review": 1,
+          "reject": 3
+        }
+      },
+      "reasons": {
+        "title_excluded": 2,
+        "healthcare": 1,
+        "out_of_area": 1,
+        "jd_term": 1,
+        "title_unlisted": 1,
+        "location_unknown": 1
+      },
+      "messages": 25,
+      "found": 55,
+      "known": 48
     }
   ],
   "jobs": [
+    {
+      "id": "1a16a671e22aTax",
+      "company": "Campus4Tech",
+      "title": "Business Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481576928/?trackingId=1sArBULTJKiMzNM2Vv%2BhVQ%3D%3D&refId=XAYNElW%2FEPC69emrA0%2BfeA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3Bbb8ihBpsQ%2B%2BaKPUdg6eXng%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000fDODil_p4Xss1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4481576928_sectionid_272001_fmid_q9jfse~mvl99lbr~n6&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4481576928_sectionid_272001_fmid_q9jfse~mvl99lbr~n6-null-q9jfse~mvl99lbr~n6-null-null&eid=q9jfse-mvl99lbr-n6&otpToken=YmQ3M2VjMDVmOWMxMWRjNjcxYWEyYTlmNWI1MzVhMWRiNGQzN2Y0ODJhOGZkMDAzMmNmYzIwODZjODlhYWYyZjVhYWIzZTViNTY0ZTZmOTAyMzkwODdmZDA0NmE1ZjliZjAyNTlmMWRiMDhiMzRkYTE1ZGFlYzg5MjFhMGQzNTZmZmMyNjRmYmI4Zjg5OTQ4N2IsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-23T20:15:05.250941+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a16a671e23DI4c",
+      "company": "Acuity",
+      "title": "Business Operations Analyst",
+      "location": "Conyers, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4476856311/?trackingId=iGTv19gkqOS3Z0thlUWsOw%3D%3D&refId=sHkpYWeFZf66E8SM6GalPQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3Bbb8ihBpsQ%2B%2BaKPUdg6eXng%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000fDODil_p4Xss1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4476856311_sectionid_293007_fmid_q9jfse~mvl99lbr~n6&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_2-0-job_card_1_jobid_4476856311_sectionid_293007_fmid_q9jfse~mvl99lbr~n6-null-q9jfse~mvl99lbr~n6-null-null&eid=q9jfse-mvl99lbr-n6&otpToken=YmQ3M2VjMDVmOWMxMWRjNjcxYWEyYTlmNWI1MzVhMWRiNGQzN2Y0ODJhOGZkMDAzMmNmYzIwODZjODlhYWYyZjVhYWIzZTViNTY0ZTZmOTAyMzkwODdmZDA0NmE1ZjliZjAyNTlmMWRiMDhiMzRkYTE1ZGFlYzg5MjFhMGQzNTZmZmMyNjRmYmI4Zjg5OTQ4N2IsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-23T20:15:05.251011+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a169d358cd4Ze4",
       "company": "See posting",
@@ -13744,6 +13781,6 @@
       "at": "2026-10-23T05:11:33.209Z"
     }
   ],
-  "lastRun": "2026-10-23T17:33:58.845518+00:00",
-  "savedAt": "2026-10-23T17:33:58.845518+00:00"
+  "lastRun": "2026-10-23T20:15:23.146782+00:00",
+  "savedAt": "2026-10-23T20:15:23.146782+00:00"
 }
