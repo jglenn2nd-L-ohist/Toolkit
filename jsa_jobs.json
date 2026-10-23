@@ -2220,7 +2220,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4478691465/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-10-22T04:52:02.100495+00:00",
       "notes": "",
       "remote_search": false,
@@ -13567,5 +13567,5 @@
     }
   ],
   "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T03:56:54.366Z"
+  "savedAt": "2026-10-23T03:57:05.652Z"
 }
