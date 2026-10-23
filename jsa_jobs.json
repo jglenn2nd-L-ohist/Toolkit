@@ -1913,46 +1913,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a161f3fa45Mi3C",
-      "company": "BlueSky Resource Solutions",
-      "title": "Junior Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480703145/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:21.701984+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f4023eWG-i",
-      "company": "NLB Services",
-      "title": "Business Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481152197/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:23.742700+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f40b35usgI",
       "company": "CapTech",
       "title": "Technical Business Systems Analyst",
@@ -1997,26 +1957,6 @@
       "status": "Review"
     },
     {
-      "id": "1a161f41a76g466",
-      "company": "Truist",
-      "title": "Deposit Product Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482154400/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:29.943003+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f4230bRugC",
       "company": "Cognizant",
       "title": "Technical Business Analyst – CI/CD, Kafka & Cloud Platforms",
@@ -2039,26 +1979,6 @@
       "status": "Review"
     },
     {
-      "id": "1a161f42d1aHD4_",
-      "company": "Activ8 Recruitment & Solutions",
-      "title": "Korean / English Bilingual Entry-level Business Analyst (36576)",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482176138/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:52:34.714923+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f4333aoL-z",
       "company": "Visionaire Partners",
       "title": "Business Operations Analyst",
@@ -2077,66 +1997,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a161f456ecCNSY",
-      "company": "CRH",
-      "title": "Master Data Analyst - Vendor Master, Shared Services",
-      "location": "Alpharetta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481132856/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:45.420805+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f477c3f6iC",
-      "company": "Pi Square Technologies",
-      "title": "Business Intelligence Developer",
-      "location": "Alpharetta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4479411526/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:52:53.827334+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f52453jYm6",
-      "company": "King's Hawaiian",
-      "title": "Logistics Analyst",
-      "location": "Oakwood, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4478640436/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:53:38.003893+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a161f53a88_DJQ",
@@ -2179,46 +2039,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a161f54b1cLrXU",
-      "company": "Envision Technology Solutions",
-      "title": "Tech-Business and Data Analyst-Capital Markets",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481157527/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:53:47.932789+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f5526b1yx6",
-      "company": "Centraprise",
-      "title": "Tech-Business and Data Analyst-Capital Markets",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480736093/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:53:49.803521+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a161f55c8aDz1E",
@@ -2369,26 +2189,6 @@
       "status": "Review"
     },
     {
-      "id": "1a161f5b332Wh7F",
-      "company": "Vanguard",
-      "title": "Business Unit Strategy Analyst Specialist, Rate Strategy Execution",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482426119/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:54:14.578717+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f5bc52bAZF",
       "company": "Matlen Silver",
       "title": "Data Analyst - Big Data",
@@ -2440,26 +2240,6 @@
       "source": "LinkedIn",
       "viewed": false,
       "dateAdded": "2026-10-22T04:54:37.606762+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f6b97fxjJ9",
-      "company": "Matrix Adhesives Group",
-      "title": "Commercial & Pricing Analyst",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482031951/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-22T04:55:21.727457+00:00",
       "notes": "",
       "remote_search": false,
       "via": "proactive",
@@ -2584,66 +2364,6 @@
       "source": "LinkedIn",
       "viewed": true,
       "dateAdded": "2026-10-22T04:59:00.027091+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161fa30eetzII",
-      "company": "Netrolynx AI",
-      "title": "Marketing Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482170786/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:59:08.910782+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161fa7c19QTBt",
-      "company": "Fay Financial",
-      "title": "BI Analyst",
-      "location": "Farmers Branch, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482148575/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:59:28.153169+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161fad077ppso",
-      "company": "Samson Marketing",
-      "title": "Supply Chain Analyst",
-      "location": "High Point, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481155602/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:59:49.751508+00:00",
       "notes": "",
       "remote_search": true,
       "via": "proactive",
@@ -8858,7 +8578,21 @@
     "https://www.linkedin.com/jobs/view/4478691465/",
     "https://www.linkedin.com/jobs/view/4479440589/",
     "https://www.linkedin.com/jobs/view/4482155359/",
-    "https://www.linkedin.com/jobs/view/4481732542/"
+    "https://www.linkedin.com/jobs/view/4481732542/",
+    "https://www.linkedin.com/jobs/view/4480703145/",
+    "https://www.linkedin.com/jobs/view/4481152197/",
+    "https://www.linkedin.com/jobs/view/4482154400/",
+    "https://www.linkedin.com/jobs/view/4482176138/",
+    "https://www.linkedin.com/jobs/view/4481132856/",
+    "https://www.linkedin.com/jobs/view/4479411526/",
+    "https://www.linkedin.com/jobs/view/4478640436/",
+    "https://www.linkedin.com/jobs/view/4481157527/",
+    "https://www.linkedin.com/jobs/view/4480736093/",
+    "https://www.linkedin.com/jobs/view/4482426119/",
+    "https://www.linkedin.com/jobs/view/4482031951/",
+    "https://www.linkedin.com/jobs/view/4482170786/",
+    "https://www.linkedin.com/jobs/view/4482148575/",
+    "https://www.linkedin.com/jobs/view/4481155602/"
   ],
   "dismissedKeys": [
     {
@@ -13264,8 +12998,64 @@
     {
       "k": "origami risk|business analyst",
       "at": "2026-10-23T04:02:24.903Z"
+    },
+    {
+      "k": "bluesky resource solutions|junior business analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "nlb services|business analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "truist|deposit product analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "activ8 recruitment solutions|korean english bilingual entry level business analyst 36576",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "crh|master data analyst vendor master shared services",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "pi square technologies|business intelligence developer",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "king s hawaiian|logistics analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "envision technology solutions|tech business and data analyst capital markets",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "centraprise|tech business and data analyst capital markets",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "vanguard|business unit strategy analyst specialist rate strategy execution",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "matrix adhesives group|commercial pricing analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "netrolynx ai|marketing analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "fay financial|bi analyst",
+      "at": "2026-10-23T05:05:59.226Z"
+    },
+    {
+      "k": "samson marketing|supply chain analyst",
+      "at": "2026-10-23T05:05:59.226Z"
     }
   ],
   "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T05:00:34.454Z"
+  "savedAt": "2026-10-23T05:05:59.227Z"
 }
