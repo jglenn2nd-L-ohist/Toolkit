@@ -2131,66 +2131,6 @@
       "status": "Review"
     },
     {
-      "id": "1a161f5dd6a_QwV",
-      "company": "Pinarello",
-      "title": "Operations Data Associate",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4480492611/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:54:25.386346+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f60d26-pSk",
-      "company": "Acro Service Corp",
-      "title": "Marketing Operations Analyst",
-      "location": "Fort Mill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481132839/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:54:37.606762+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a161f6c4f4K7Tu",
-      "company": "Amphenol Communications Solutions",
-      "title": "Reliability Engineer- Data Analytics",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481792279/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:55:24.660465+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f6e7aebzce",
       "company": "GSK",
       "title": "Business System Analyst",
@@ -2213,26 +2153,6 @@
       "status": "Review"
     },
     {
-      "id": "1a161f9b1067yau",
-      "company": "A Full Renovation – Project Services",
-      "title": "Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482419638/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:58:36.166075+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a161f9cc05QgpI",
       "company": "VSE Aviation",
       "title": "Business Analyst (USI5)",
@@ -2253,26 +2173,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a161f9ec01_y6i",
-      "company": "DN",
-      "title": "Supply Chain Analyst",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482173197/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-22T04:58:51.265330+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a161fa0e3abkWW",
@@ -8516,7 +8416,12 @@
     "https://www.linkedin.com/jobs/view/4482150133/",
     "https://www.linkedin.com/jobs/view/4481162265/",
     "https://www.linkedin.com/jobs/view/4480468306/",
-    "https://www.linkedin.com/jobs/view/4479421865/"
+    "https://www.linkedin.com/jobs/view/4479421865/",
+    "https://www.linkedin.com/jobs/view/4480492611/",
+    "https://www.linkedin.com/jobs/view/4481132839/",
+    "https://www.linkedin.com/jobs/view/4481792279/",
+    "https://www.linkedin.com/jobs/view/4482419638/",
+    "https://www.linkedin.com/jobs/view/4482173197/"
   ],
   "dismissedKeys": [
     {
@@ -12994,8 +12899,28 @@
     {
       "k": "crg|sales operations analyst",
       "at": "2026-10-23T05:09:06.299Z"
+    },
+    {
+      "k": "pinarello|operations data associate",
+      "at": "2026-10-23T05:11:33.208Z"
+    },
+    {
+      "k": "acro service|marketing operations analyst",
+      "at": "2026-10-23T05:11:33.208Z"
+    },
+    {
+      "k": "amphenol communications solutions|reliability engineer data analytics",
+      "at": "2026-10-23T05:11:33.208Z"
+    },
+    {
+      "k": "a full renovation project services|data analyst",
+      "at": "2026-10-23T05:11:33.209Z"
+    },
+    {
+      "k": "dn|supply chain analyst",
+      "at": "2026-10-23T05:11:33.209Z"
     }
   ],
   "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T05:10:35.261Z"
+  "savedAt": "2026-10-23T05:11:33.209Z"
 }
