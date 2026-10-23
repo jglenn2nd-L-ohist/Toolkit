@@ -1,36 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-06T17:45:38.854262+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 8,
-          "review": 2,
-          "reject": 330
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 16
-        }
-      },
-      "reasons": {
-        "title_excluded": 209,
-        "out_of_area": 130,
-        "title_not_target": 60,
-        "title_unlisted": 29,
-        "remote_unverified": 15,
-        "foreign": 9,
-        "jd_term": 2,
-        "clearance_required": 1
-      },
-      "found": 356,
-      "opened": 11,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-06T18:41:42.077677+00:00",
       "runner": "email",
       "rules": "2026-10-02.1",
@@ -1679,9 +1649,130 @@
       "found": 474,
       "opened": 7,
       "region": "rotation"
+    },
+    {
+      "at": "2026-10-23T17:33:58.402467+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 2,
+          "review": 4,
+          "reject": 6
+        }
+      },
+      "reasons": {
+        "title_excluded": 4,
+        "location_unknown": 3,
+        "title_unlisted": 2,
+        "jd_term": 1
+      },
+      "messages": 27,
+      "found": 55,
+      "known": 43
     }
   ],
   "jobs": [
+    {
+      "id": "1a169d358cd4Ze4",
+      "company": "See posting",
+      "title": "Business Insights Analyst, Remote US",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481772779/?trackingId=8H7fduaGPMkHXHZ3wufTJw%3D%3D&refId=JhGQd%2BdNDlCXtyVdgR04AQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BPJUCxXJpQx618NmP6OYYIA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig:FkT6DLRyXcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4481772779_ssid_8461940610_fmid_q9jfse~mvl178dd~jl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4481772779_ssid_8461940610_fmid_q9jfse~mvl178dd~jl-null-q9jfse~mvl178dd~jl-null-null&eid=q9jfse-mvl178dd-jl&otpToken=Mzg1YTMxY2I3ZDcwNDNhNzQxNDhmMzU5NGQ5NThkMjcxODM5MDVlODM0OGQyZWYzZmI3NzU4MzY4MzZkOGM1NjMxNjhjM2I2MjI0ZWY2Njc0MDFhYmM2OTBlMjMwOWUyNTljZDRhYjcxYmU1YWViNzNmN2NkMmZmY2M2M2M3NTlhNjE1YTZkMWM0ZGQwODMzZGYsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-23T17:33:40.941411+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a169d358cdNcbx",
+      "company": "Raw Nutrition",
+      "title": "Planning Data Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4480732292/?trackingId=8Wj01%2Bcgo26eh1tWvtLeiQ%3D%3D&refId=JhGQd%2BdNDlCXtyVdgR04AQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BPJUCxXJpQx618NmP6OYYIA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig:FkT6DLRyXcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480732292_ssid_8461940610_fmid_q9jfse~mvl178dd~jl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4480732292_ssid_8461940610_fmid_q9jfse~mvl178dd~jl-null-q9jfse~mvl178dd~jl-null-null&eid=q9jfse-mvl178dd-jl&otpToken=Mzg1YTMxY2I3ZDcwNDNhNzQxNDhmMzU5NGQ5NThkMjcxODM5MDVlODM0OGQyZWYzZmI3NzU4MzY4MzZkOGM1NjMxNjhjM2I2MjI0ZWY2Njc0MDFhYmM2OTBlMjMwOWUyNTljZDRhYjcxYmU1YWViNzNmN2NkMmZmY2M2M2M3NTlhNjE1YTZkMWM0ZGQwODMzZGYsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-23T17:33:40.941451+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:onsite_or_hybrid"
+      ],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a169d358cdg5bR",
+      "company": "Aura",
+      "title": "Revenue Operations Analyst, Partnerships",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481750902/?trackingId=ynF4%2FcAWY7CqbC0ggrkxYA%3D%3D&refId=JhGQd%2BdNDlCXtyVdgR04AQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BPJUCxXJpQx618NmP6OYYIA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig:FkT6DLRyXcs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481750902_ssid_8461940610_fmid_q9jfse~mvl178dd~jl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481750902_ssid_8461940610_fmid_q9jfse~mvl178dd~jl-null-q9jfse~mvl178dd~jl-null-null&eid=q9jfse-mvl178dd-jl&otpToken=Mzg1YTMxY2I3ZDcwNDNhNzQxNDhmMzU5NGQ5NThkMjcxODM5MDVlODM0OGQyZWYzZmI3NzU4MzY4MzZkOGM1NjMxNjhjM2I2MjI0ZWY2Njc0MDFhYmM2OTBlMjMwOWUyNTljZDRhYjcxYmU1YWViNzNmN2NkMmZmY2M2M2M3NTlhNjE1YTZkMWM0ZGQwODMzZGYsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-23T17:33:40.941491+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a169d35a2dVJ9H",
+      "company": "See posting",
+      "title": "Data Analyst - Federal Acquisition Service",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482073308/?trackingId=pX4arpR1eTYX9G1oK%2B0Ayw%3D%3D&refId=n2IekjW%2BhVWKjKiXWrx7hQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bo1H3ODpRRSSou29GJCNq2A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0Hk9ba_7HGWYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4482073308_ssid_8709018482_fmid_q9jfse~mvkwwwfk~2a&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4482073308_ssid_8709018482_fmid_q9jfse~mvkwwwfk~2a-null-q9jfse~mvkwwwfk~2a-null-null&eid=q9jfse-mvkwwwfk-2a&otpToken=ZmNmYzRmNWIxZjBhNjg5MmI0N2Q4NDczNDFiOWFiNGVkYzgzODQ1YTY1M2VlODBjYmE1OTFmMWMzNDYyY2ViOGExNzI2ODQ5MzI2YTkwODMyMmU3MmRhOTg4ZTU2YTZmMjY3NDRjNjhjNGRkNTBlYjAwZTBkMTg1NGM3YjJkNzZhN2E5NmQyNDNlZWE4MDk3NjUsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-23T17:33:41.293839+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a169d35f28PMMh",
+      "company": "See posting",
+      "title": "Data Analyst - Digital Media Sales, NBCU Local",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4478976984/?trackingId=i%2FPMModB19lOlB9oDI2b6g%3D%3D&refId=Cj0fJKs5zgmDPHh%2BSHJWkw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B5jhvG7UXR%2F%2BOGU%2BK%2BDFayA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0mDlksguSiWss1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478976984_ssid_8367968258_fmid_q9jfse~mvkbhbrd~9q&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4478976984_ssid_8367968258_fmid_q9jfse~mvkbhbrd~9q-null-q9jfse~mvkbhbrd~9q-null-null&eid=q9jfse-mvkbhbrd-9q&otpToken=NDU2YzY2MDY1NTU1Y2Q2ZjdjNTBlNGQwNWM3NzMzYTczYmQ4NGIyZGFhMmQ5MWQ5NWM2YzRlNzI4OTNlYzNiNjhjYzhlMTU0M2ZlMWIyZTUyZWQ3MDZmOTVmOWQzN2NiMzFlYTIyMWI1YTcwYzQ1YzBlNTFmYTdiNzg3NDE1MDU1YmZhZjUzZGUzYzZhZDYzOTksMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-10-23T17:33:42.568492+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a16946debe-ubY",
       "company": "Brillfy Technology Inc",
@@ -13653,6 +13744,6 @@
       "at": "2026-10-23T05:11:33.209Z"
     }
   ],
-  "lastRun": "2026-10-22T20:26:56.289531+00:00",
-  "savedAt": "2026-10-23T15:06:09.393625+00:00"
+  "lastRun": "2026-10-23T17:33:58.845518+00:00",
+  "savedAt": "2026-10-23T17:33:58.845518+00:00"
 }
