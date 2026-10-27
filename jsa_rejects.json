@@ -1,6 +1,46 @@
 {
   "rejects": [
     {
+      "title": "Safety Monitoring Compliance Analyst, NAST Compliance",
+      "company": "Amazon",
+      "location": "Nashville, TN",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483564160/?trackingId=UoeLOeI5%2FObtkkmytDRXjQ%3D%3D&refId=Td1iFCSiPlJa12caHnHH%2Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfbMH34n4R4CfdUxY5oWnpA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1qBs2SHS9a1cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4483564160_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4483564160_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps-null-q9jfse~mvr3tm72~ps-null-null&eid=q9jfse-mvr3tm72-ps&otpToken=MTg5MWZmMDNhOWQyZjFiYWRlOTE2OTY3NzQ4MjlmMDJmNWM1ZDY0NTg1MzBiOGFjYTM3M2FkZGQwZjVlOTQyMWFjZTk4Y2NjZjEyNGNkOTJiNjEwMjRlNTE1NWNkMjE5YmU3ODE0ZWY0YTQ1MmQyYWE1ZThmOWFmYzFiMmQ2ZGNmNzUzNDY5YWVhNWIyZjczZDgsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:compliance",
+        "out_of_area:TN"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-27T21:09:10.770623+00:00"
+    },
+    {
+      "title": "Senior Analyst, Application Developer",
+      "company": "CVS Health",
+      "location": "Harrisburg, PA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483167862/?trackingId=1WdTtWnrljT9JVtEawbp6Q%3D%3D&refId=Td1iFCSiPlJa12caHnHH%2Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfbMH34n4R4CfdUxY5oWnpA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1qBs2SHS9a1cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4483167862_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4483167862_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps-null-q9jfse~mvr3tm72~ps-null-null&eid=q9jfse-mvr3tm72-ps&otpToken=MTg5MWZmMDNhOWQyZjFiYWRlOTE2OTY3NzQ4MjlmMDJmNWM1ZDY0NTg1MzBiOGFjYTM3M2FkZGQwZjVlOTQyMWFjZTk4Y2NjZjEyNGNkOTJiNjEwMjRlNTE1NWNkMjE5YmU3ODE0ZWY0YTQ1MmQyYWE1ZThmOWFmYzFiMmQ2ZGNmNzUzNDY5YWVhNWIyZjczZDgsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "healthcare:company",
+        "out_of_area:PA"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-27T21:09:10.770778+00:00"
+    },
+    {
+      "title": "Workforce Analyst",
+      "company": "Computacenter",
+      "location": "Saline, MI",
+      "url": "https://www.linkedin.com/comm/jobs/view/4468683585/?trackingId\ufffdduLT4Pt9ciZCW%2B2GTkdQ%3D%3D&refId=Td1iFCSiPlJa12caHnHH%2Fw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BfbMH34n4R4CfdUxY5oWnpA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1qBs2SHS9a1cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468683585_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4468683585_ssid_9107021378_fmid_q9jfse~mvr3tm72~ps-null-q9jfse~mvr3tm72~ps-null-null&eid=q9jfse-mvr3tm72-ps&otpToken=MTg5MWZmMDNhOWQyZjFiYWRlOTE2OTY3NzQ4MjlmMDJmNWM1ZDY0NTg1MzBiOGFjYTM3M2FkZGQwZjVlOTQyMWFjZTk4Y2NjZjEyNGNkOTJiNjEwMjRlNTE1NWNkMjE5YmU3ODE0ZWY0YTQ1MmQyYWE1ZThmOWFmYzFiMmQ2ZGNmNzUzNDY5YWVhNWIyZjczZDgsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:MI"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-27T21:09:10.770826+00:00"
+    },
+    {
       "title": "Business Analyst Intern - Atlanta, GA",
       "company": "CarMax",
       "location": "Kennesaw, GA",
@@ -18417,43 +18457,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-27T02:52:37.074642+00:00"
-    },
-    {
-      "title": "Annuity Product Analyst (Hybrid)",
-      "company": "TruStage",
-      "location": "Madison, WI",
-      "url": "https://www.linkedin.com/jobs/view/4481026293/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:WI"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:52:37.074806+00:00"
-    },
-    {
-      "title": "Product Analyst",
-      "company": "Metropolitan State University of Denver",
-      "location": "Denver, CO",
-      "url": "https://www.linkedin.com/jobs/view/4477865973/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:CO"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:52:37.075005+00:00"
-    },
-    {
-      "title": "Lead Analyst \u2013 Originations Analytics",
-      "company": "OneMain Financial",
-      "location": "Wilmington, DE",
-      "url": "https://www.linkedin.com/jobs/view/4483335497/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:DE"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:52:37.075260+00:00"
     }
   ]
 }
