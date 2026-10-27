@@ -1658,86 +1658,6 @@
   ],
   "jobs": [
     {
-      "id": "1a17b427380ak1-",
-      "company": "Courser",
-      "title": "AI Business Analyst",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4473158363/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:48:34.944460+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b435ddaMJjW",
-      "company": "Vibrant Ingredients",
-      "title": "Pricing Analyst",
-      "location": "Lake Mary, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483262259/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:49:34.938376+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b4363e8j0td",
-      "company": "CoinPicks",
-      "title": "Revenue Operations & CRM Specialist",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483584043/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:49:36.488893+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b436aaaZkQb",
-      "company": "Margaritaville at Sea",
-      "title": "Data Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483775679/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:49:38.218528+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a17b44f1508jpd",
       "company": "CITY HOME",
       "title": "BUSINESS ANALYST-PRODUCT OWNER - DATA ANALYTICS (ON-SITE, TAMARAC)",
@@ -1804,46 +1724,6 @@
       "status": "Review"
     },
     {
-      "id": "1a17b4566e5jxrk",
-      "company": "V-Soft Consulting Group, Inc.",
-      "title": "NCDIT - Data Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483212249/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:51:48.325484+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b456d9ah_G-",
-      "company": "Morph Enterprise",
-      "title": "Data Analyst :: Raleigh, NC",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483201204/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:51:50.042234+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a17b4572c1uTni",
       "company": "Wiraa",
       "title": "Data Analyst, Network Analytics",
@@ -1864,126 +1744,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a17b457f61R47W",
-      "company": "accel bi corporation",
-      "title": "Data Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483719191/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:51:54.593330+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b459c53Vao3",
-      "company": "CorVel Corporation",
-      "title": "Business Analyst I",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483784119/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:52:02.003732+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b45b7a1BkQr",
-      "company": "Wahoo Fitness",
-      "title": "Distribution Operations Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483570697/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:52:08.993200+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b45bd63Ng-3",
-      "company": "KULR Technology Group, Inc (NYSE: KULR)",
-      "title": "Operations & Supply Chain Analyst",
-      "location": "Webster, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483259129/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T02:52:10.467423+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b45eacbdDO1",
-      "company": "Deepgram",
-      "title": "Marketing & GTM Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482370648/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T02:52:22.091062+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17b462556nMyP",
-      "company": "TruTechnologies",
-      "title": "Product Analyst",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483760767/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T02:52:37.078432+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a179912cf8ojpF",
@@ -9178,7 +8938,19 @@
     "https://www.linkedin.com/comm/jobs/view/4482712466/?trackingId=stbb1B3hfpZzBs2h74DiRA%3D%3D&refId=F%2Bf6evQ13devl9SOG1Vkkg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BK1hBk2bfTU%2Bu%2FFhHi7%2BLFw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2x9uOshKeyZYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4482712466_ssid_15324419412_fmid_q9jfse~mvnw2xg0~62&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4482712466_ssid_15324419412_fmid_q9jfse~mvnw2xg0~62-null-q9jfse~mvnw2xg0~62-null-null&eid=q9jfse-mvnw2xg0-62&otpToken=YzM4Njc3ZTNkYTFjNTExYjRmOGExMWQyODVhODgwYWI2MTQzNDkyNjJiMDBlOWM5ODU1NDJhZWQ5YmQxZjY0NjFkYWExMjQ4YjIyZDI3YzUxYmViODExNGFjYmNiNjg0OWFiMDAwMDk0YmViZTAwYTdhMGU5ODY3ZmU3NDAwZDgxMzMyMmJhZDhiYTZiYTMwNGEsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4482817486/?trackingId=eGYNxWEu7TLe%2FZ8rIJYvOQ%3D%3D&refId=F%2Bf6evQ13devl9SOG1Vkkg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BK1hBk2bfTU%2Bu%2FFhHi7%2BLFw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2x9uOshKeyZYs1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4482817486_ssid_15324419412_fmid_q9jfse~mvnw2xg0~62&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4482817486_ssid_15324419412_fmid_q9jfse~mvnw2xg0~62-null-q9jfse~mvnw2xg0~62-null-null&eid=q9jfse-mvnw2xg0-62&otpToken=YzM4Njc3ZTNkYTFjNTExYjRmOGExMWQyODVhODgwYWI2MTQzNDkyNjJiMDBlOWM5ODU1NDJhZWQ5YmQxZjY0NjFkYWExMjQ4YjIyZDI3YzUxYmViODExNGFjYmNiNjg0OWFiMDAwMDk0YmViZTAwYTdhMGU5ODY3ZmU3NDAwZDgxMzMyMmJhZDhiYTZiYTMwNGEsMiwx",
     "https://www.linkedin.com/jobs/view/4481816703/",
-    "https://www.linkedin.com/jobs/view/4483757502/"
+    "https://www.linkedin.com/jobs/view/4483757502/",
+    "https://www.linkedin.com/jobs/view/4473158363/",
+    "https://www.linkedin.com/jobs/view/4483262259/",
+    "https://www.linkedin.com/jobs/view/4483584043/",
+    "https://www.linkedin.com/jobs/view/4483775679/",
+    "https://www.linkedin.com/jobs/view/4483212249/",
+    "https://www.linkedin.com/jobs/view/4483201204/",
+    "https://www.linkedin.com/jobs/view/4483719191/",
+    "https://www.linkedin.com/jobs/view/4483784119/",
+    "https://www.linkedin.com/jobs/view/4483570697/",
+    "https://www.linkedin.com/jobs/view/4483259129/",
+    "https://www.linkedin.com/jobs/view/4482370648/",
+    "https://www.linkedin.com/jobs/view/4483760767/"
   ],
   "dismissedKeys": [
     {
@@ -13840,8 +13612,56 @@
     {
       "k": "first citizens bank|business systems analyst ii cab",
       "at": "2026-10-27T03:23:13.232Z"
+    },
+    {
+      "k": "courser|ai business analyst",
+      "at": "2026-10-27T03:32:23.017Z"
+    },
+    {
+      "k": "vibrant ingredients|pricing analyst",
+      "at": "2026-10-27T03:32:23.017Z"
+    },
+    {
+      "k": "coinpicks|revenue operations crm specialist",
+      "at": "2026-10-27T03:32:23.017Z"
+    },
+    {
+      "k": "margaritaville at sea|data analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "v soft consulting group|ncdit data analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "morph enterprise|data analyst raleigh nc",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "accel bi|data analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "corvel|business analyst i",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "wahoo fitness|distribution operations analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "kulr technology group nyse kulr|operations supply chain analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "deepgram|marketing gtm data analyst",
+      "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "trutechnologies|product analyst",
+      "at": "2026-10-27T03:32:23.018Z"
     }
   ],
   "lastRun": "2026-10-26T21:29:31.635543+00:00",
-  "savedAt": "2026-10-27T03:29:46.597Z"
+  "savedAt": "2026-10-27T03:32:23.018Z"
 }
