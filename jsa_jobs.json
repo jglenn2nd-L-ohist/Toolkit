@@ -1684,126 +1684,6 @@
       "status": "Review"
     },
     {
-      "id": "1a17dcf8b74Jnte",
-      "company": "Publix Super Markets",
-      "title": "Marketing Analytics Data Scientist",
-      "location": "Lakeland, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484030747/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T14:41:56.084052+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dcfcadfE7yM",
-      "company": "ClearBridge Technology Group",
-      "title": "Data Quality Analytics Engineer",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481052107/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:42:12.319315+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd03798lRTX",
-      "company": "Siemens Energy",
-      "title": "Logistics Center, Data Analytics Specialist",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483278330/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:42:40.152394+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd1ea36wysm",
-      "company": "Evlo AI",
-      "title": "Data Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482901168/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:44:31.414219+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd1f155Swhg",
-      "company": "Florida International University",
-      "title": "Associate Applications Business Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483299087/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:44:33.237967+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd2b4afQ4v8",
-      "company": "Alignerr",
-      "title": "Business Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484001569/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:45:23.247013+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a17dd2ff06eNGU",
       "company": "Nolan Transportation Group (NTG)",
       "title": "Analyst, Business Intelligence & Data Insight",
@@ -1822,126 +1702,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Applied"
-    },
-    {
-      "id": "1a17dd33a2c7pNt",
-      "company": "Bank of America",
-      "title": "Operations Analyst - Sanctions Screening Center of Excellence",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483712253/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T14:45:57.420777+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd35c12NSzL",
-      "company": "Fayetteville State University",
-      "title": "Business Intelligence, Specialist",
-      "location": "Fayetteville, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484024087/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:46:06.098095+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd37b69LkER",
-      "company": "Risepoint",
-      "title": "Marketing & Ops Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481459979/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T14:46:14.121200+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd384239a_j",
-      "company": "Jersey Mike's Subs",
-      "title": "Customer Insights Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483729783/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:46:16.355606+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd3b959ruzT",
-      "company": "First American",
-      "title": "Data Reconciliation Analyst (Remote)",
-      "location": "Fort Mill, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483779322/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-27T14:46:29.977134+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a17dd3eeb9s8Rb",
-      "company": "EECU",
-      "title": "IT Systems Analyst - Lending",
-      "location": "Fort Worth, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4481047705/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-27T14:46:43.641902+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a17b44f1508jpd",
@@ -9236,7 +8996,19 @@
     "https://www.linkedin.com/jobs/view/4483570697/",
     "https://www.linkedin.com/jobs/view/4483259129/",
     "https://www.linkedin.com/jobs/view/4482370648/",
-    "https://www.linkedin.com/jobs/view/4483760767/"
+    "https://www.linkedin.com/jobs/view/4483760767/",
+    "https://www.linkedin.com/jobs/view/4484030747/",
+    "https://www.linkedin.com/jobs/view/4481052107/",
+    "https://www.linkedin.com/jobs/view/4483278330/",
+    "https://www.linkedin.com/jobs/view/4482901168/",
+    "https://www.linkedin.com/jobs/view/4483299087/",
+    "https://www.linkedin.com/jobs/view/4484001569/",
+    "https://www.linkedin.com/jobs/view/4483712253/",
+    "https://www.linkedin.com/jobs/view/4484024087/",
+    "https://www.linkedin.com/jobs/view/4481459979/",
+    "https://www.linkedin.com/jobs/view/4483729783/",
+    "https://www.linkedin.com/jobs/view/4483779322/",
+    "https://www.linkedin.com/jobs/view/4481047705/"
   ],
   "dismissedKeys": [
     {
@@ -13946,8 +13718,56 @@
     {
       "k": "trutechnologies|product analyst",
       "at": "2026-10-27T03:32:23.018Z"
+    },
+    {
+      "k": "publix super markets|marketing analytics data scientist",
+      "at": "2026-10-27T17:41:46.717Z"
+    },
+    {
+      "k": "clearbridge technology group|data quality analytics engineer",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "siemens energy|logistics center data analytics specialist",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "evlo ai|data analyst",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "florida international university|associate applications business analyst",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "alignerr|business analyst",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "bank of america|operations analyst sanctions screening center of excellence",
+      "at": "2026-10-27T17:41:46.719Z"
+    },
+    {
+      "k": "fayetteville state university|business intelligence specialist",
+      "at": "2026-10-27T17:41:46.720Z"
+    },
+    {
+      "k": "risepoint|marketing ops data analyst",
+      "at": "2026-10-27T17:41:46.720Z"
+    },
+    {
+      "k": "jersey mike s subs|customer insights analyst",
+      "at": "2026-10-27T17:41:46.720Z"
+    },
+    {
+      "k": "first american|data reconciliation analyst",
+      "at": "2026-10-27T17:41:46.720Z"
+    },
+    {
+      "k": "eecu|it systems analyst lending",
+      "at": "2026-10-27T17:41:46.720Z"
     }
   ],
   "lastRun": "2026-10-26T21:29:31.635543+00:00",
-  "savedAt": "2026-10-27T17:41:11.093Z"
+  "savedAt": "2026-10-27T17:41:46.721Z"
 }
