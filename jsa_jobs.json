@@ -1,33 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-07T19:08:14.358386+00:00",
-      "runner": "email",
-      "rules": "2026-10-02.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 5,
-          "review": 2,
-          "reject": 29
-        },
-        "ZipRecruiter": {
-          "pass": 0,
-          "review": 0,
-          "reject": 1
-        }
-      },
-      "reasons": {
-        "title_unlisted": 17,
-        "title_excluded": 13,
-        "jd_term": 4,
-        "clearance_required": 2,
-        "location_unknown": 1
-      },
-      "messages": 53,
-      "found": 136,
-      "known": 99
-    },
-    {
       "at": "2026-10-07T21:49:03.129985+00:00",
       "runner": "email",
       "rules": "2026-10-02.1",
@@ -1651,6 +1624,27 @@
       "messages": 24,
       "found": 52,
       "known": 38
+    },
+    {
+      "at": "2026-10-27T21:09:19.616762+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 0,
+          "review": 0,
+          "reject": 3
+        }
+      },
+      "reasons": {
+        "out_of_area": 3,
+        "title_excluded": 2,
+        "healthcare": 1,
+        "title_unlisted": 1
+      },
+      "messages": 30,
+      "found": 55,
+      "known": 52
     }
   ],
   "jobs": [
@@ -13858,6 +13852,6 @@
       "at": "2026-10-27T17:41:46.720Z"
     }
   ],
-  "lastRun": "2026-10-27T18:28:03.700354+00:00",
-  "savedAt": "2026-10-27T18:28:03.700354+00:00"
+  "lastRun": "2026-10-27T21:09:20.020621+00:00",
+  "savedAt": "2026-10-27T21:09:20.020621+00:00"
 }
