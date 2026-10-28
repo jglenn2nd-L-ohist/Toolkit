@@ -1,6 +1,79 @@
 {
   "rejects": [
     {
+      "title": "Telecom Revenue Assurance Analyst",
+      "company": "TEOCO",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482938712/?trackingId=SB7sctayyH55%2BS%2BPJHOuQw%3D%3D&refId=ygFbVge354R%2FnxT1FkO1cQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQrcG%2BWxiT127nY6F01R42w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rEILNymsa2cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4482938712_ssid_8367968258_fmid_q9jfse~mvs24664~4d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4482938712_ssid_8367968258_fmid_q9jfse~mvs24664~4d-null-q9jfse~mvs24664~4d-null-null&eid=q9jfse-mvs24664-4d&otpToken=ZDgzMDJjNTQ5NDY4NDllNzc4MTJhZWZiM2NkYmNjMDZlYzQ5ZTEzN2U1ZWVjNGM5MTFjYWI5YzM4NjZhOTEwMWU0MjE4MWNlN2JlMTUzZmRkY2MxZTA3NGJmMmM1YTRkY2RkNmY1YWY5MDVkODVmMTQyOTcyODEwNDdhODA5OWM5NmY3ZTZmMzZmMzI1NTJlMTMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:25.507430+00:00"
+    },
+    {
+      "title": "Associate Business Intelligence Analyst",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4481441367/?trackingId=P%2FJ78xgqUkpZ3OthaSfDOQ%3D%3D&refId=ygFbVge354R%2FnxT1FkO1cQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQrcG%2BWxiT127nY6F01R42w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rEILNymsa2cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481441367_ssid_8367968258_fmid_q9jfse~mvs24664~4d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4481441367_ssid_8367968258_fmid_q9jfse~mvs24664~4d-null-q9jfse~mvs24664~4d-null-null&eid=q9jfse-mvs24664-4d&otpToken=ZDgzMDJjNTQ5NDY4NDllNzc4MTJhZWZiM2NkYmNjMDZlYzQ5ZTEzN2U1ZWVjNGM5MTFjYWI5YzM4NjZhOTEwMWU0MjE4MWNlN2JlMTUzZmRkY2MxZTA3NGJmMmM1YTRkY2RkNmY1YWY5MDVkODVmMTQyOTcyODEwNDdhODA5OWM5NmY3ZTZmMzZmMzI1NTJlMTMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:25.507473+00:00"
+    },
+    {
+      "title": "SAP MM-PP Business Analyst",
+      "company": "Dematic",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4464218449/?trackingId=2UMzWww52EXwsIYjaVxKKg%3D%3D&refId=aOEhqBBo7w%2F4FG28rQXnaA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BTs3cCh7XS2KXCud0L90ZZQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2_3UKqTdei1Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4464218449_ssid_8709018482_fmid_q9jfse~mvrxtuno~s0&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4464218449_ssid_8709018482_fmid_q9jfse~mvrxtuno~s0-null-q9jfse~mvrxtuno~s0-null-null&eid=q9jfse-mvrxtuno-s0&otpToken=NmViOTczOGIwYWJmMDg4NjRkOGI5YzE4MjA5NGQwZjAzYTYwZjAwYzBhOTAxOWVhN2Y5YmRjZWI2ZmU4Y2YzZDI1NDY3NzRlMDM4MjQ3MjFjZDBjMzFiMTFhZjVkM2Q0YmFiNjgzN2NhNzY2MjJlZjExYjZjMzBkZWM5MGE4ODYwOWFiMmYwZGJjZDJhNGM4NWEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:sap"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:25.797035+00:00"
+    },
+    {
+      "title": "Senior Business Analyst \u2013 Retail Data Products",
+      "company": "Brown & Brown",
+      "location": "Sandy Springs, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4446703507/?trackingId=NDlmYLaIcas%2BvFooPxwdDw%3D%3D&refId=aOEhqBBo7w%2F4FG28rQXnaA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BTs3cCh7XS2KXCud0L90ZZQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2_3UKqTdei1Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4446703507_ssid_8709018482_fmid_q9jfse~mvrxtuno~s0&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4446703507_ssid_8709018482_fmid_q9jfse~mvrxtuno~s0-null-q9jfse~mvrxtuno~s0-null-null&eid=q9jfse-mvrxtuno-s0&otpToken=NmViOTczOGIwYWJmMDg4NjRkOGI5YzE4MjA5NGQwZjAzYTYwZjAwYzBhOTAxOWVhN2Y5YmRjZWI2ZmU4Y2YzZDI1NDY3NzRlMDM4MjQ3MjFjZDBjMzFiMTFhZjVkM2Q0YmFiNjgzN2NhNzY2MjJlZjExYjZjMzBkZWM5MGE4ODYwOWFiMmYwZGJjZDJhNGM4NWEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:25.797077+00:00"
+    },
+    {
+      "title": "Analyst",
+      "company": "SitusAMC",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4400123643?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_saved_job_reminder_01%3B9p3XoNGgQdu2jjazNerP4Q%3D%3D&midToken=AQEh9l5-mxCz-A&midSig/CaA0Kx9e2sw1&trk=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting&trkEmail=eml-email_jobs_saved_job_reminder_01-saved~jobs-0-job_posting-null-q9jfse~mvsdohfa~f2-null-null&eid=q9jfse-mvsdohfa-f2&otpToken=YWJjYTg1YzRmYjY3YzMyODEyMGQwMjhlN2NmZTFiMDRkNzEzZjgwZjA0ZDNhMGI5MjRkZjg3MTJkYmI4ODdkZWU4MjE0OGFhZmI3YjEzNDNlYTZmZmM2NjI1YTM1OTk2Nzc3MzYxMWU2MjUyNTllZTBhOGM0NmU5ZTM0ZGFmZmVlODZiNjQ2OWZiNDMxNGFkZGUsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:26.317477+00:00"
+    },
+    {
+      "title": "2027 Summer Internship Program - OAS Business Analyst",
+      "company": "Federal Reserve Bank of Atlanta",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483727364/?trackingId=bMP899DFoJjnUm8vzaU7kA%3D%3D&refId=ysgcYIrr5vIideT4jA1QXQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BVOJORxgDSiW%2BeFsyWcyg8Q%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\fP35ZvPtO2sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4483727364_ssid_8694211818_fmid_q9jfse~mvsez4pv~2g&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4483727364_ssid_8694211818_fmid_q9jfse~mvsez4pv~2g-null-q9jfse~mvsez4pv~2g-null-null&eid=q9jfse-mvsez4pv-2g&otpToken=YWYyMjYxZTNjZTUzYWRkZDBlN2U0MzY3NWM4MTcxN2ZlZGUzYjA5ZjBiOTM0ZDhkNmIzMzg1ZGEyMjI4YjcyYjFkZjVkOWEyNGE0Y2UwMzBiNjIzODlhNzkyM2M1MGU1NmM3NGEzZGI2MWE2ZTY3Njk1YWZlYTZmODM0N2QzZTE5NmY4NDY4MzZiNjU4MTIxNTgsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:internship"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-28T18:33:27.177309+00:00"
+    },
+    {
       "title": "Junior Healthcare Data Analyst",
       "company": "Kareer Basycs",
       "location": "Dallas, TX",
@@ -18434,78 +18507,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-27T02:48:43.906046+00:00"
-    },
-    {
-      "title": "SAP - Production Planning - PP - Manager - Consulting - Location OPEN",
-      "company": "EY",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4435901756/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.906199+00:00"
-    },
-    {
-      "title": "Senior Manager, Oracle HCM Cloud Functional Lead",
-      "company": "PwC",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4456336938/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.906343+00:00"
-    },
-    {
-      "title": "Manager, Low Code - Appian",
-      "company": "KPMG US",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4483269290/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.906469+00:00"
-    },
-    {
-      "title": "Data Management Associate Director",
-      "company": "The Depository Trust & Clearing Corporation (DTCC)",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4402955748/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:director"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.906615+00:00"
-    },
-    {
-      "title": "SAP - Production Planning - Digital Manufacturing Cloud - DMC - Manager - Consulting - Location OPEN",
-      "company": "EY",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4435922580/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:manager"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.906848+00:00"
-    },
-    {
-      "title": "Mass Account Transfers Operations Consultant",
-      "company": "Raymond James",
-      "location": "St. Petersburg, FL",
-      "url": "https://www.linkedin.com/jobs/view/4473421092/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-27T02:48:43.907008+00:00"
     }
   ]
 }
