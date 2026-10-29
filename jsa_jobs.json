@@ -1688,26 +1688,6 @@
       "status": "Applied"
     },
     {
-      "id": "1a1885b31bc3wBQ",
-      "company": "U.S. Bank",
-      "title": "Data Analytics 5",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484753037/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-29T15:50:40.316261+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1885b3f39q1VY",
       "company": "DSV - Global Transport and Logistics",
       "title": "Business Analyst, Inventory - PRL",
@@ -10027,7 +10007,8 @@
     "https://www.linkedin.com/jobs/view/4484427117/",
     "https://www.linkedin.com/jobs/view/4483651591/",
     "https://www.linkedin.com/jobs/view/4483843220/",
-    "https://www.linkedin.com/comm/jobs/view/4483648409/?trackingId=K9B%2BsJrBB%2Fv6eKRbSBnaLA%3D%3D&refId=yhcdV3jlyfYdpu1%2B9CJ%2ByA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FEQDFzQOQuWNm7Cfvh6wdQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=n0Mco87G2sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or-null-q9jfse~mvsj9gdy~or-null-null&eid=q9jfse-mvsj9gdy-or&otpToken=MTVmYTJhOWE0M2I3YmNmYzFhN2Q0Y2FiZGJlYzg4ZjJjODlmODFkY2JlNjNkZjFhZDJiNDU3OWYxNmY5OWVkY2U0ZTRmNTg1ZDJkYWMzOTdmOTgxMWNjMjMzZDZlNjlkYmQ1ZDUxODZlZDAwYWY4OTIxMWM3ZTMzNTMzMmJhNGUzODU1MjJiMzFjZTZhMTA2ZGIsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4483648409/?trackingId=K9B%2BsJrBB%2Fv6eKRbSBnaLA%3D%3D&refId=yhcdV3jlyfYdpu1%2B9CJ%2ByA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FEQDFzQOQuWNm7Cfvh6wdQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=n0Mco87G2sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or-null-q9jfse~mvsj9gdy~or-null-null&eid=q9jfse-mvsj9gdy-or&otpToken=MTVmYTJhOWE0M2I3YmNmYzFhN2Q0Y2FiZGJlYzg4ZjJjODlmODFkY2JlNjNkZjFhZDJiNDU3OWYxNmY5OWVkY2U0ZTRmNTg1ZDJkYWMzOTdmOTgxMWNjMjMzZDZlNjlkYmQ1ZDUxODZlZDAwYWY4OTIxMWM3ZTMzNTMzMmJhNGUzODU1MjJiMzFjZTZhMTA2ZGIsMiwx",
+    "https://www.linkedin.com/jobs/view/4484753037/"
   ],
   "dismissedKeys": [
     {
@@ -14909,8 +14890,12 @@
     {
       "k": "med metrix|data management analyst",
       "at": "2026-10-29T15:50:15.442Z"
+    },
+    {
+      "k": "u s bank|data analytics 5",
+      "at": "2026-10-29T18:08:37.994Z"
     }
   ],
   "lastRun": "2026-10-28T21:33:16.166110+00:00",
-  "savedAt": "2026-10-29T17:46:11.745Z"
+  "savedAt": "2026-10-29T18:08:37.994Z"
 }
