@@ -1640,25 +1640,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1846e6737bgFh",
-      "company": "Med-Metrix",
-      "title": "Data Management Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4483648409/?trackingId=K9B%2BsJrBB%2Fv6eKRbSBnaLA%3D%3D&refId=yhcdV3jlyfYdpu1%2B9CJ%2ByA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FEQDFzQOQuWNm7Cfvh6wdQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=n0Mco87G2sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or-null-q9jfse~mvsj9gdy~or-null-null&eid=q9jfse-mvsj9gdy-or&otpToken=MTVmYTJhOWE0M2I3YmNmYzFhN2Q0Y2FiZGJlYzg4ZjJjODlmODFkY2JlNjNkZjFhZDJiNDU3OWYxNmY5OWVkY2U0ZTRmNTg1ZDJkYWMzOTdmOTgxMWNjMjMzZDZlNjlkYmQ1ZDUxODZlZDAwYWY4OTIxMWM3ZTMzNTMzMmJhNGUzODU1MjJiMzFjZTZhMTA2ZGIsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-28T21:33:10.327481+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a183c9d824ENFX",
       "company": "Zen & Art",
       "title": "Technical Business Analyst - data lineage/mapping, JIRA, SQL, Fintech 12 Mths Cont Alpharetta, GA",
@@ -9209,7 +9190,8 @@
     "https://www.linkedin.com/jobs/view/4484455366/",
     "https://www.linkedin.com/jobs/view/4484427117/",
     "https://www.linkedin.com/jobs/view/4483651591/",
-    "https://www.linkedin.com/jobs/view/4483843220/"
+    "https://www.linkedin.com/jobs/view/4483843220/",
+    "https://www.linkedin.com/comm/jobs/view/4483648409/?trackingId=K9B%2BsJrBB%2Fv6eKRbSBnaLA%3D%3D&refId=yhcdV3jlyfYdpu1%2B9CJ%2ByA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2FEQDFzQOQuWNm7Cfvh6wdQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=n0Mco87G2sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4483648409_ssid_8461940610_fmid_q9jfse~mvsj9gdy~or-null-q9jfse~mvsj9gdy~or-null-null&eid=q9jfse-mvsj9gdy-or&otpToken=MTVmYTJhOWE0M2I3YmNmYzFhN2Q0Y2FiZGJlYzg4ZjJjODlmODFkY2JlNjNkZjFhZDJiNDU3OWYxNmY5OWVkY2U0ZTRmNTg1ZDJkYWMzOTdmOTgxMWNjMjMzZDZlNjlkYmQ1ZDUxODZlZDAwYWY4OTIxMWM3ZTMzNTMzMmJhNGUzODU1MjJiMzFjZTZhMTA2ZGIsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -14087,8 +14069,12 @@
     {
       "k": "innospec|supply chain analyst",
       "at": "2026-10-28T17:50:49.002Z"
+    },
+    {
+      "k": "med metrix|data management analyst",
+      "at": "2026-10-29T15:50:15.442Z"
     }
   ],
   "lastRun": "2026-10-28T21:33:16.166110+00:00",
-  "savedAt": "2026-10-29T15:50:02.293Z"
+  "savedAt": "2026-10-29T15:50:15.443Z"
 }
