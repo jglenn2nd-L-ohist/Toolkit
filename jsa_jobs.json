@@ -1655,6 +1655,19 @@
   ],
   "jobs": [
     {
+      "id": "mvtu44z2kyqs",
+      "company": "Fitzco",
+      "title": "Associate, Analytics",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4484787043/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=sAU9H0SxCCleV3zVekmfhA%3D%3D&trackingId=cyeTef2VoWm7qu6Z%2B4H2tw%3D%3Dhttps://www.linkedin.com/jobs/view/4484787043/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=sAU9H0SxCCleV3zVekmfhA%3D%3D&trackingId=cyeTef2VoWm7qu6Z%2B4H2tw%3D%3D",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-10-29T17:46:03.182Z",
+      "notes": ""
+    },
+    {
       "id": "1a1885b1e38DGfU",
       "company": "CharterUP",
       "title": "Data Analyst",
@@ -14899,5 +14912,5 @@
     }
   ],
   "lastRun": "2026-10-28T21:33:16.166110+00:00",
-  "savedAt": "2026-10-29T16:10:39.461Z"
+  "savedAt": "2026-10-29T17:46:03.182Z"
 }
