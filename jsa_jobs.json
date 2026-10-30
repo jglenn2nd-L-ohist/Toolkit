@@ -1715,25 +1715,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a18e095816YCUQ",
-      "company": "Torentify",
-      "title": "Client Reporting Analyst - Remote Position",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4484418887/?trackingId=5MIKYjLiCUw6cUjYSQjh3A%3D%3D&refId�Ocel7MMoRwmo%2Bmc1QlWw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1sw7xeH6Ti26gVA0yPOA4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0zo6OXEjVw4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot-null-q9jfse~mvu6ciac~ot-null-null&eid=q9jfse-mvu6ciac-ot&otpToken=MjZmMzU5NTFkZmQwYWExNzMwNTc3OGQ3MDEyZDhhMWIyMDIxYmQwZDk0ZTNlNmU2YjM0N2M5MjU5YjA3ZGVjMTIwZWM4N2U4NWI0MWU4NTczN2JmNWUxYjkyODQyMDM5MDhlNmY5NzEzYmM2MzRmOWVkMDA5YTA1NDY4NDAxMmFhZWNhMGExMjBiNGMwNjk2NjcsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-30T18:18:59.478550+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a18d9b6b46mwj2",
       "company": "SouthState Bank",
       "title": "Enterprise Terafina Business Analyst",
@@ -10071,7 +10052,8 @@
     "https://www.linkedin.com/jobs/view/4483869809/",
     "https://www.linkedin.com/jobs/view/4483662696/",
     "https://www.linkedin.com/jobs/view/4484712518/",
-    "https://www.linkedin.com/jobs/view/4484769578/"
+    "https://www.linkedin.com/jobs/view/4484769578/",
+    "https://www.linkedin.com/comm/jobs/view/4484418887/?trackingId=5MIKYjLiCUw6cUjYSQjh3A%3D%3D&refId�Ocel7MMoRwmo%2Bmc1QlWw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1sw7xeH6Ti26gVA0yPOA4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0zo6OXEjVw4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot-null-q9jfse~mvu6ciac~ot-null-null&eid=q9jfse-mvu6ciac-ot&otpToken=MjZmMzU5NTFkZmQwYWExNzMwNTc3OGQ3MDEyZDhhMWIyMDIxYmQwZDk0ZTNlNmU2YjM0N2M5MjU5YjA3ZGVjMTIwZWM4N2U4NWI0MWU4NTczN2JmNWUxYjkyODQyMDM5MDhlNmY5NzEzYmM2MzRmOWVkMDA5YTA1NDY4NDAxMmFhZWNhMGExMjBiNGMwNjk2NjcsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -15101,8 +15083,12 @@
     {
       "k": "princeton10|marketing analyst social intelligence specialization",
       "at": "2026-10-29T19:36:09.287Z"
+    },
+    {
+      "k": "torentify|client reporting analyst",
+      "at": "2026-10-30T18:35:56.808Z"
     }
   ],
   "lastRun": "2026-10-30T18:19:18.371715+00:00",
-  "savedAt": "2026-10-30T18:35:48.627Z"
+  "savedAt": "2026-10-30T18:35:56.808Z"
 }
