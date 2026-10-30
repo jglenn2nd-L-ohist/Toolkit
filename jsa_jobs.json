@@ -2123,46 +2123,6 @@
       "status": "New"
     },
     {
-      "id": "1a18da0770eSVut",
-      "company": "Siemens",
-      "title": "Data and Analytics Engineer - Global Manufacturing",
-      "location": "Wendell, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484101666/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-30T16:24:26.126204+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18da07cfaHjfq",
-      "company": "TrendAI",
-      "title": "Business Intelligence Engineer",
-      "location": "Irving, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4485247634/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-30T16:24:27.642558+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1899aac15ee3H",
       "company": "See posting",
       "title": "Mid-Level Data Analyst",
@@ -10053,7 +10013,9 @@
     "https://www.linkedin.com/jobs/view/4483662696/",
     "https://www.linkedin.com/jobs/view/4484712518/",
     "https://www.linkedin.com/jobs/view/4484769578/",
-    "https://www.linkedin.com/comm/jobs/view/4484418887/?trackingId=5MIKYjLiCUw6cUjYSQjh3A%3D%3D&refId�Ocel7MMoRwmo%2Bmc1QlWw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1sw7xeH6Ti26gVA0yPOA4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0zo6OXEjVw4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot-null-q9jfse~mvu6ciac~ot-null-null&eid=q9jfse-mvu6ciac-ot&otpToken=MjZmMzU5NTFkZmQwYWExNzMwNTc3OGQ3MDEyZDhhMWIyMDIxYmQwZDk0ZTNlNmU2YjM0N2M5MjU5YjA3ZGVjMTIwZWM4N2U4NWI0MWU4NTczN2JmNWUxYjkyODQyMDM5MDhlNmY5NzEzYmM2MzRmOWVkMDA5YTA1NDY4NDAxMmFhZWNhMGExMjBiNGMwNjk2NjcsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4484418887/?trackingId=5MIKYjLiCUw6cUjYSQjh3A%3D%3D&refId�Ocel7MMoRwmo%2Bmc1QlWw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1sw7xeH6Ti26gVA0yPOA4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0zo6OXEjVw4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot-null-q9jfse~mvu6ciac~ot-null-null&eid=q9jfse-mvu6ciac-ot&otpToken=MjZmMzU5NTFkZmQwYWExNzMwNTc3OGQ3MDEyZDhhMWIyMDIxYmQwZDk0ZTNlNmU2YjM0N2M5MjU5YjA3ZGVjMTIwZWM4N2U4NWI0MWU4NTczN2JmNWUxYjkyODQyMDM5MDhlNmY5NzEzYmM2MzRmOWVkMDA5YTA1NDY4NDAxMmFhZWNhMGExMjBiNGMwNjk2NjcsMiwx",
+    "https://www.linkedin.com/jobs/view/4484101666/",
+    "https://www.linkedin.com/jobs/view/4485247634/"
   ],
   "dismissedKeys": [
     {
@@ -15087,8 +15049,16 @@
     {
       "k": "torentify|client reporting analyst",
       "at": "2026-10-30T18:35:56.808Z"
+    },
+    {
+      "k": "siemens|data and analytics engineer global manufacturing",
+      "at": "2026-10-30T18:36:43.483Z"
+    },
+    {
+      "k": "trendai|business intelligence engineer",
+      "at": "2026-10-30T18:36:43.483Z"
     }
   ],
   "lastRun": "2026-10-30T18:19:18.371715+00:00",
-  "savedAt": "2026-10-30T18:35:56.808Z"
+  "savedAt": "2026-10-30T18:36:43.483Z"
 }
