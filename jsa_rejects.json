@@ -1,6 +1,103 @@
 {
   "rejects": [
     {
+      "title": "Specialist, Business Intelligence",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482290938/?trackingIdNwI8%2F3PQs5IjQBDRuKIRg%3D%3D&refId=kRqd3hSCER9Ra%2FYhmLE99A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BTm%2BTsSxZT0OqXAd2xwNROg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3XTxHiDEX24Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482290938_ssid_8367968258_fmid_q9jfse~mvv1a7ca~bs&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482290938_ssid_8367968258_fmid_q9jfse~mvv1a7ca~bs-null-q9jfse~mvv1a7ca~bs-null-null&eid=q9jfse-mvv1a7ca-bs&otpToken=OGZjZWE5OTE2YTIwOGM0OWVkMjQyNjM1MTVlZDVkOTAxZmNmZDE3Yzc2ZmQ1MjkyOTg2ZTlkZWE3ZjAxMzY2ZjZiYmIyMmE4ZDY4YTE2YmNhYjcyYWJlZjhlNDM5NjdiNTNjYjY2MWI1OTczODMxMzlmMmZkYjI0N2E0YmU3YTk4ZDI2NDdiNjQ1NjY2NTQ2ZmMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:52.815135+00:00"
+    },
+    {
+      "title": "Financial Systems Analyst, OTCF",
+      "company": "Inspire",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482294823/?trackingId=zmoS3Winz6bgda%2F5erRVog%3D%3D&refId=%2F260NXyIkm%2BLDJUS4YTszg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BAu%2BgkfD5SB2S2xkfRE6wGw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1Z1VXEF8pa4Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482294823_ssid_8694211818_fmid_q9jfse~mvuwzvnc~pl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482294823_ssid_8694211818_fmid_q9jfse~mvuwzvnc~pl-null-q9jfse~mvuwzvnc~pl-null-null&eid=q9jfse-mvuwzvnc-pl&otpToken=NTQyMTI2ODk3M2FkMjEwNTM2ZmM3ZTkyNTA5NWYxZDUyNzU2ZTg2NDQxZGMzYTkzZmFiYWUzOWYwODlkN2ViZGUzOTNiNzI2YmI3NGMyMTk4ODFlYTcwM2JhMTM5YmQ4OTk3ZTJlNTUxMjNlYjI0NDQzYTAwZTMzYTcyYTZiOWRhODlkMDhmNGUyMmViODgxYzYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:financial"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:53.258613+00:00"
+    },
+    {
+      "title": "MHR Summer 2027 Intern - Data Analytics (HR Systems)",
+      "company": "UPS",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483808188/?trackingId=XKwqYAMMW%2BkBPfp9ivz%2FCA%3D%3D&refId=%2F260NXyIkm%2BLDJUS4YTszg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BAu%2BgkfD5SB2S2xkfRE6wGw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1Z1VXEF8pa4Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4483808188_ssid_8694211818_fmid_q9jfse~mvuwzvnc~pl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4483808188_ssid_8694211818_fmid_q9jfse~mvuwzvnc~pl-null-q9jfse~mvuwzvnc~pl-null-null&eid=q9jfse-mvuwzvnc-pl&otpToken=NTQyMTI2ODk3M2FkMjEwNTM2ZmM3ZTkyNTA5NWYxZDUyNzU2ZTg2NDQxZGMzYTkzZmFiYWUzOWYwODlkN2ViZGUzOTNiNzI2YmI3NGMyMTk4ODFlYTcwM2JhMTM5YmQ4OTk3ZTJlNTUxMjNlYjI0NDQzYTAwZTMzYTcyYTZiOWRhODlkMDhmNGUyMmViODgxYzYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:53.258696+00:00"
+    },
+    {
+      "title": "BI Data Analyst",
+      "company": "Motion",
+      "location": "Birmingham, AL",
+      "url": "https://www.linkedin.com/comm/jobs/view/4466400980?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3B0rzzMir4Rra69j2mQosnIg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1WxT2aAzgU5cw1&trk=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job&trkEmail=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job-null-q9jfse~mvv5hzsk~at-null-null&eid=q9jfse-mvv5hzsk-at&otpToken=MmVmOGZiYmI4NjgxZGU0Y2YwMzFmNDY2NmFhZjZmNDMyMmZkOTg3NzdlMDNkZTcwMjY3Yjk4YzY5MWE3ZjgwZjIyZWNmYTUwNmU4NDgzOTFkMDJjMzM4MmQwNGU5NmJjZmYzMDQzZDI4NmIyMGJhYjRmYWU5MzZhZjE4MjUyMDY0ZDMwYWE3YjE0ODIxOWUzMmMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:AL"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:54.081667+00:00"
+    },
+    {
+      "title": "Data Analyst \u2013 Power Platform",
+      "company": "LMI",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4484076803/?trackingId=zoHqoPxy%2BPAXOZO%2Ff9C8%2Fg%3D%3D&refId=wqENezZ%2FOEjrCQzhWj2KNA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BlIh%2F2SD2Sb6QXr91N0xV0g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3XTxHiDEX24Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484076803_ssid_8461940610_fmid_q9jfse~mvv1a7ca~jl&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484076803_ssid_8461940610_fmid_q9jfse~mvv1a7ca~jl-null-q9jfse~mvv1a7ca~jl-null-null&eid=q9jfse-mvv1a7ca-jl&otpToken=Mzk0NGI5YTFmN2ZmNDI3OWRhZjg0MjQwZDRlZWYyNjc2MTQ5MmIyOTI1MWM4M2RmZjVmMDI2NzBlOWZkNmUzZjA5MjMwYzhiNzU4ZTQ2YzhiY2FiMzFjZjQ3NjA5NDgwNjQ4M2I1OWFjYTQ4OTYxOTBjZTg1ZWRmMDA0MjZhY2QxNTUyNzVmYzA2N2RmMmIwNGEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "clearance_required"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:55.268142+00:00"
+    },
+    {
+      "title": "Data Analyst \u2013 Requirements & Data Quality Support",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482286730/?trackingId=ZVfRD3CWthgVdakhIHtUnA%3D%3D&refId=nmGXh0cxPPC6f8%2BkSs%2FkOQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZBrOmalkRD69Erbks2IVIA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u001ddWKEp3JW4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4482286730_ssid_5216629873_fmid_q9jfse~mvu79y4e~8k&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4482286730_ssid_5216629873_fmid_q9jfse~mvu79y4e~8k-null-q9jfse~mvu79y4e~8k-null-null&eid=q9jfse-mvu79y4e-8k&otpToken=MjNjMGVlM2I5ZDk3NGY5MWMzYWRiN2Y1ZWNhMTI5ZGFkZDBhMDU3ZGE3ZmIwNGZmNmM1Njk3YmFjNjA2ODMyY2Y3Nzk5ZDAyZDQ3ZTVhNWQwYzU1NmVjZTdlOWI4Y2U5MDU3NTMzNzZmZjZhZTI3ZjAzZTA0ODdkMzU0YWRjZDM0M2M0MGVlNGU4NGMzNDUwMDEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:57.016693+00:00"
+    },
+    {
+      "title": "Analyst, Reporting (ROPS)",
+      "company": "DaVita Kidney Care",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4484284436/?trackingId=RxCQWF7tjCmyfCiysTqXlA%3D%3D&refId=RmZfSRalOh94r48oPD7p6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjY9QAJsYRpWTl%2B8fESjf3w%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3XTxHiDEX24Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4484284436_ssid_15324419412_fmid_q9jfse~mvv1a7ca~vo&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4484284436_ssid_15324419412_fmid_q9jfse~mvv1a7ca~vo-null-q9jfse~mvv1a7ca~vo-null-null&eid=q9jfse-mvv1a7ca-vo&otpToken=YjU4ZjdkNmMzMDljOTBlNzJjMWVmMGRjYTU2YmJmZmIwODAzNzU3YTI4ZDE0YTlkYmE4NTVmNTNmYzJiN2MxMjY3N2Y5NzBhNjdhNmNlZDBmMDUwODA3YjhiYjUxMTMyODc0YmQ5MWNhOTg2NzQyZDlmNDIwM2QxNWI3NjZmMDNlYTdlMzdmMmVkYTdkNGE5MDQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:57.404501+00:00"
+    },
+    {
+      "title": "OTC Analyst",
+      "company": "Mauser Packaging Solutions",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4477198922/?trackingId=gKBHRbWX%2BaMVt7tpDKq1Hw%3D%3D&refId=CSoCYfgkKPb8T91HTLdk4Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B4N7PtDThRwu%2BROM8set3KQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3XTxHiDEX24Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4477198922_ssid_8758102954_fmid_q9jfse~mvv1a7ca~zx&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4477198922_ssid_8758102954_fmid_q9jfse~mvv1a7ca~zx-null-q9jfse~mvv1a7ca~zx-null-null&eid=q9jfse-mvv1a7ca-zx&otpToken=MGVhMjAxMzUzMzZkY2Q1ZGQwZWM1YTE2MjBlYWU1MjdhM2UzMGY2M2JiZDE2YzdmMjA4NjhmYmY3YmExOTNkNTZhYzhlMjI1OGE1NGExMWQ2YmE0MWYxYzYxODIwNWQ1ZGNmMGM5NzFmNmJhMWRjMmM5OWU2MTMxZTI4N2JmZWVhZWM5Y2MxYWFlOGU4MjkzOGYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-10-30T18:18:57.837003+00:00"
+    },
+    {
       "title": "Data Analyst",
       "company": "Archer",
       "location": "Tampa, FL",
@@ -18291,102 +18388,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-29T15:51:46.936037+00:00"
-    },
-    {
-      "title": "Sr. Financial Analyst",
-      "company": "Rheem Manufacturing Company",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4448681135/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr."
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:46.936321+00:00"
-    },
-    {
-      "title": "HR Specialist (Systems)",
-      "company": "Habasit",
-      "location": "Suwanee, GA",
-      "url": "https://www.linkedin.com/jobs/view/4481469716/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:46.936653+00:00"
-    },
-    {
-      "title": "Compliance Analyst",
-      "company": "MSIG USA",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484261084/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:compliance"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:46.936972+00:00"
-    },
-    {
-      "title": "Financial Planning Analyst III",
-      "company": "Heatcraft Refrigeration Products",
-      "location": "Stone Mountain, GA",
-      "url": "https://www.linkedin.com/jobs/view/4475827422/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:financial"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:46.937278+00:00"
-    },
-    {
-      "title": "Technology Leadership Development Program (TLDP)",
-      "company": "Smurfit Westrock",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484765674/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:54.864750+00:00"
-    },
-    {
-      "title": "Consulting & Analytics Intern - Summer 2027",
-      "company": "Visa",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484003983/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:intern"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:54.865275+00:00"
-    },
-    {
-      "title": "Wealth Digital Strategist",
-      "company": "Truist",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4483745470/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:54.865550+00:00"
-    },
-    {
-      "title": "Data Science and Business Analytics Intern",
-      "company": "Mativ",
-      "location": "Alpharetta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484720194/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:intern"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-29T15:51:54.865858+00:00"
     }
   ]
 }
