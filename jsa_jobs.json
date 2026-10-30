@@ -1806,46 +1806,6 @@
       "status": "New"
     },
     {
-      "id": "1a18da01fc5Fc1N",
-      "company": "Stellantis Financial Services US",
-      "title": "Business Intelligence Analyst II",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484865354/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:24:03.781649+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18da03c14AZ9v",
-      "company": "Mosaic North America",
-      "title": "Client Data Analyst II",
-      "location": "Dallas, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483414344/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:24:11.028865+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1899aac15ee3H",
       "company": "See posting",
       "title": "Mid-Level Data Analyst",
@@ -9752,7 +9712,9 @@
     "https://www.linkedin.com/jobs/view/4484576274/",
     "https://www.linkedin.com/jobs/view/4485355607/",
     "https://www.linkedin.com/jobs/view/4484960138/",
-    "https://www.linkedin.com/jobs/view/4484553651/"
+    "https://www.linkedin.com/jobs/view/4484553651/",
+    "https://www.linkedin.com/jobs/view/4484865354/",
+    "https://www.linkedin.com/jobs/view/4483414344/"
   ],
   "dismissedKeys": [
     {
@@ -14850,8 +14812,16 @@
     {
       "k": "home depot|logistics analyst dfc implementation",
       "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "stellantis financial services us|business intelligence analyst ii",
+      "at": "2026-10-30T22:27:56.524Z"
+    },
+    {
+      "k": "mosaic north america|client data analyst ii",
+      "at": "2026-10-30T22:27:56.524Z"
     }
   ],
   "lastRun": "2026-10-30T21:24:13.511042+00:00",
-  "savedAt": "2026-10-30T22:27:37.442Z"
+  "savedAt": "2026-10-30T22:27:56.524Z"
 }
