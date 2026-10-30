@@ -1658,25 +1658,6 @@
   ],
   "jobs": [
     {
-      "id": "1a18eb2e517dC7l",
-      "company": "Torentify",
-      "title": "Data Analyst I - Work From Home",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4484959800/?trackingId=r3QroiNwXATU5nrqk4V9ug%3D%3D&refId=1h5z%2BWbF97HEoVRlEnSdvw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bfd22qdrWReib2%2BMcVgtHCw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u001dmQRPpLMG5sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4484959800_ssid_5216629873_fmid_q9jfse~mvve5676~68&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4484959800_ssid_5216629873_fmid_q9jfse~mvve5676~68-null-q9jfse~mvve5676~68-null-null&eid=q9jfse-mvve5676-68&otpToken=MGE0NTc4N2EwOWQ1NTU3YzYyYWUwYzk5OGViMjcxMjczNWJmYzY4OGUxNDA2OTE0MzY1ZGUxMWRiNTNjZTBmZjI5ZDZjNjMyNjVmZDc2YjkwYThjZjA4MzBmMTYyYTFjMTlmOWIxNjE5ODk4MTk4MTNkOTc5MTdmNjkxNjkyMGYwZGFlZjdiNzg3MjA4ZGFiMGYsMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-10-30T21:24:11.159430+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a18e0947a4vstf",
       "company": "Skimmer",
       "title": "Data Analyst- Revenue Operations",
@@ -1783,186 +1764,6 @@
       "status": "Review"
     },
     {
-      "id": "1a18d9b8577wUoh",
-      "company": "Carrier",
-      "title": "Associate Business Systems Analyst",
-      "location": "Florida, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483897824/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:19:02.135086+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9bb4faJc4C",
-      "company": "Paychex",
-      "title": "Pricing Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482568466/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:19:14.298397+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9c8a83Upl6",
-      "company": "UES",
-      "title": "Data Analyst II",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484992268/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:20:08.963429+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9c9323EJ6r",
-      "company": "UES",
-      "title": "Business Analyst II",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484995115/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-30T16:20:11.171293+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9c9c85xgeh",
-      "company": "gategroup",
-      "title": "Supply Chain Analyst",
-      "location": "Orlando, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4483043873/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-10-30T16:20:13.573548+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9db2d8w53z",
-      "company": "Midwestern IT Inc",
-      "title": "Hiring for Business Intelligence Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484867206/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:21:24.824841+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9ec16ag2th",
-      "company": "HNTB",
-      "title": "Data Analyst I",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484258250/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:22:34.090385+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9ec63553Q7",
-      "company": "Gravity IT Resources",
-      "title": "Data Science Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484472926/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:22:35.317188+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9ee022EJmy",
-      "company": "MAFÉ Resources",
-      "title": "Business Analyst",
-      "location": "Miami-Fort Lauderdale Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4485353994/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:22:41.954296+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a18d9ee55cBOsN",
       "company": "McDermott Will & Schulte",
       "title": "Business Analyst",
@@ -1983,86 +1784,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a18d9eeadd6d2V",
-      "company": "Reveille Technologies,Inc",
-      "title": "Business Analyst - Loyalty Program",
-      "location": "Miramar, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484576274/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:22:44.701490+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9f0ea5ZhoR",
-      "company": "Commodity Supplies AG",
-      "title": "Logistics Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4485355607/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:22:53.861227+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9fc4ddcQQM",
-      "company": "Delmar International Inc.",
-      "title": "Pricing Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484960138/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:23:40.509991+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a18d9ff683aRhX",
-      "company": "The Home Depot",
-      "title": "Logistics Analyst, DFC Implementation",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4484553651/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-10-30T16:23:53.219774+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a18d9ffc72wYjT",
@@ -10017,7 +9738,21 @@
     "https://www.linkedin.com/jobs/view/4484769578/",
     "https://www.linkedin.com/comm/jobs/view/4484418887/?trackingId=5MIKYjLiCUw6cUjYSQjh3A%3D%3D&refId�Ocel7MMoRwmo%2Bmc1QlWw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B1sw7xeH6Ti26gVA0yPOA4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0zo6OXEjVw4cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4484418887_ssid_8797982178_fmid_q9jfse~mvu6ciac~ot-null-q9jfse~mvu6ciac~ot-null-null&eid=q9jfse-mvu6ciac-ot&otpToken=MjZmMzU5NTFkZmQwYWExNzMwNTc3OGQ3MDEyZDhhMWIyMDIxYmQwZDk0ZTNlNmU2YjM0N2M5MjU5YjA3ZGVjMTIwZWM4N2U4NWI0MWU4NTczN2JmNWUxYjkyODQyMDM5MDhlNmY5NzEzYmM2MzRmOWVkMDA5YTA1NDY4NDAxMmFhZWNhMGExMjBiNGMwNjk2NjcsMiwx",
     "https://www.linkedin.com/jobs/view/4484101666/",
-    "https://www.linkedin.com/jobs/view/4485247634/"
+    "https://www.linkedin.com/jobs/view/4485247634/",
+    "https://www.linkedin.com/comm/jobs/view/4484959800/?trackingId=r3QroiNwXATU5nrqk4V9ug%3D%3D&refId=1h5z%2BWbF97HEoVRlEnSdvw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bfd22qdrWReib2%2BMcVgtHCw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u001dmQRPpLMG5sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4484959800_ssid_5216629873_fmid_q9jfse~mvve5676~68&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4484959800_ssid_5216629873_fmid_q9jfse~mvve5676~68-null-q9jfse~mvve5676~68-null-null&eid=q9jfse-mvve5676-68&otpToken=MGE0NTc4N2EwOWQ1NTU3YzYyYWUwYzk5OGViMjcxMjczNWJmYzY4OGUxNDA2OTE0MzY1ZGUxMWRiNTNjZTBmZjI5ZDZjNjMyNjVmZDc2YjkwYThjZjA4MzBmMTYyYTFjMTlmOWIxNjE5ODk4MTk4MTNkOTc5MTdmNjkxNjkyMGYwZGFlZjdiNzg3MjA4ZGFiMGYsMiwx",
+    "https://www.linkedin.com/jobs/view/4483897824/",
+    "https://www.linkedin.com/jobs/view/4482568466/",
+    "https://www.linkedin.com/jobs/view/4484992268/",
+    "https://www.linkedin.com/jobs/view/4484995115/",
+    "https://www.linkedin.com/jobs/view/4483043873/",
+    "https://www.linkedin.com/jobs/view/4484867206/",
+    "https://www.linkedin.com/jobs/view/4484258250/",
+    "https://www.linkedin.com/jobs/view/4484472926/",
+    "https://www.linkedin.com/jobs/view/4485353994/",
+    "https://www.linkedin.com/jobs/view/4484576274/",
+    "https://www.linkedin.com/jobs/view/4485355607/",
+    "https://www.linkedin.com/jobs/view/4484960138/",
+    "https://www.linkedin.com/jobs/view/4484553651/"
   ],
   "dismissedKeys": [
     {
@@ -15059,8 +14794,64 @@
     {
       "k": "trendai|business intelligence engineer",
       "at": "2026-10-30T18:36:43.483Z"
+    },
+    {
+      "k": "torentify|data analyst i work from home",
+      "at": "2026-10-30T22:26:59.674Z"
+    },
+    {
+      "k": "carrier|associate business systems analyst",
+      "at": "2026-10-30T22:26:59.674Z"
+    },
+    {
+      "k": "paychex|pricing analyst",
+      "at": "2026-10-30T22:26:59.674Z"
+    },
+    {
+      "k": "ues|data analyst ii",
+      "at": "2026-10-30T22:26:59.674Z"
+    },
+    {
+      "k": "ues|business analyst ii",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "gategroup|supply chain analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "midwestern it|hiring for business intelligence analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "hntb|data analyst i",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "gravity it resources|data science analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "maf resources|business analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "reveille technologies|business analyst loyalty program",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "commodity supplies ag|logistics analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "delmar international|pricing analyst",
+      "at": "2026-10-30T22:26:59.675Z"
+    },
+    {
+      "k": "home depot|logistics analyst dfc implementation",
+      "at": "2026-10-30T22:26:59.675Z"
     }
   ],
   "lastRun": "2026-10-30T21:24:13.511042+00:00",
-  "savedAt": "2026-10-30T22:26:52.959Z"
+  "savedAt": "2026-10-30T22:26:59.675Z"
 }
