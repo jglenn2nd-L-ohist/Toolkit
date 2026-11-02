@@ -1,26 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-12T23:32:55.283364+00:00",
-      "runner": "email",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 0,
-          "review": 0,
-          "reject": 3
-        }
-      },
-      "reasons": {
-        "title_unlisted": 2,
-        "title_excluded": 1,
-        "location_unknown": 1
-      },
-      "messages": 25,
-      "found": 60,
-      "known": 57
-    },
-    {
       "at": "2026-10-13T19:36:20.825238+00:00",
       "runner": "email",
       "rules": "2026-10-09.1",
@@ -1653,9 +1633,370 @@
       "found": 1287,
       "opened": 46,
       "region": "rotation"
+    },
+    {
+      "at": "2026-11-02T22:00:45.172780+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 12,
+          "review": 1,
+          "reject": 26
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 6,
+          "reject": 5
+        }
+      },
+      "reasons": {
+        "title_unlisted": 14,
+        "location_unknown": 11,
+        "title_excluded": 8,
+        "clearance_required": 4,
+        "jd_term": 2,
+        "healthcare": 2,
+        "out_of_area": 2,
+        "staffing_outside_atlanta": 1
+      },
+      "messages": 87,
+      "found": 197,
+      "known": 147
     }
   ],
   "jobs": [
+    {
+      "id": "1a19e4651a9HTRt",
+      "company": "Torentify",
+      "title": "Client Reporting Analyst - USA | Remote",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485952745/?trackingId=Z%2BLJOL6hiUpI7RNR7X8Tvg%3D%3D&refId=K4f7eaa%2Bb7fRmusTEHR52A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQzcwagS5Qq%2BV2Hhet2kN%2FQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig!oPkZR_Qa9Iw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4485952745_ssid_8797982178_fmid_q9jfse~mvzogpzo~lf&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4485952745_ssid_8797982178_fmid_q9jfse~mvzogpzo~lf-null-q9jfse~mvzogpzo~lf-null-null&eid=q9jfse-mvzogpzo-lf&otpToken=N2ZhY2VkNDlhOGMyNTA1ZWI2ZmU0NzY4NjM2MzNjYWE3MzFhZDJmZTA5YTlkZDczZTYwZWZiNDI5NDQxM2U5ZTAwNmZjYWQ4NzRjZGMyNGZhMTJhZDk1ZGY1Yjc0YzgwZDQzZWM5ODA2MWZiZjRkOTExY2ViOGI5N2MxZjNlNTNiZjgxMzBlOWE4NGJkM2FlNzIsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:30.985274+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4651a9rqty",
+      "company": "Torentify",
+      "title": "Business Analyst - Process & Improvement - Remote",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485954658/?trackingId=PFjqLCobiUUa3Sb7ebriFA%3D%3D&refId=K4f7eaa%2Bb7fRmusTEHR52A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQzcwagS5Qq%2BV2Hhet2kN%2FQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig!oPkZR_Qa9Iw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4485954658_ssid_8797982178_fmid_q9jfse~mvzogpzo~lf&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4485954658_ssid_8797982178_fmid_q9jfse~mvzogpzo~lf-null-q9jfse~mvzogpzo~lf-null-null&eid=q9jfse-mvzogpzo-lf&otpToken=N2ZhY2VkNDlhOGMyNTA1ZWI2ZmU0NzY4NjM2MzNjYWE3MzFhZDJmZTA5YTlkZDczZTYwZWZiNDI5NDQxM2U5ZTAwNmZjYWQ4NzRjZGMyNGZhMTJhZDk1ZGY1Yjc0YzgwZDQzZWM5ODA2MWZiZjRkOTExY2ViOGI5N2MxZjNlNTNiZjgxMzBlOWE4NGJkM2FlNzIsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:30.985294+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5U098",
+      "company": "See posting",
+      "title": "Entry Level Business/Data Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAHSWMiP_oOMh23Bpc0V8UHe4nJSOmMlTt5JJItg34qfqUoJUqDfxTNR8KVhsSsDPwJeI2Q1EVd8li3jHciF8AUszKGscIRuPhXUAuKyJiPLts4yyZTZg5aZ6cQOYUKhH47bqRnkPBu8QxNKvGIDaSW9oF-NPDuu_hMJWuSOmqxwZulV0ihqHJQztEWu32npin75UH-MWnnsbC8evPzALJAshokSyUtLCkB7w46Y5N_nIxXzJ36MTY-75hy-fB9Er6Au3SV33HwTmSZR1Td1ScV_rrd-Fbz5t-K1ezciEFKUCraFw6lLqQLHzZtQxh3M3cP9HHiIFH9XPXyaHAcbUSWko1P5UhbZv-exSgaQyugPBBTnsoVpEYwHEfiwzw2hX-WeS5Nz-FPA_vFqUU8cNLrF?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853299+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5yD8I",
+      "company": "See posting",
+      "title": "Business Analyst - US",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGzWkOHagrP5yRJc-IwttH9n_aoiS9drkkQhwrX67_xyKLo3S1Gk13mDFCKPLbl-S0Ctv0VqnKi3FtqM_T2qvsx-bg1eWSPQVEwPyENuA_9Ff_tyWBRI_bCBITUNOK3wCZSOZA-wc2OqlJOkbcW14_m5gOj_-AVEOwKeAtBUDvwMqV7iiepp9sJfD11tDfFgtk6mHX8vA5mXUm1wYlbMe5Ykk8-FSxYbeeUvdeEGmx81aEn1y5lrJc8Erm-xhcr_xeWE40tDPnrva0WM7i8-nW8bHWVGLBkTgeUaDqqbtT4W4YvZFYRMu1_uapSqIbVN3jPOV7JKfS1ME1Yii2cg2iz_JTrs9oD5YMzBX22fzybt6XAfzlT0qx00GGpWsjxj2KbbxZiYfaXSEQdS2aqiT9X?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853488+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5bukn",
+      "company": "See posting",
+      "title": "IT Business Analyst - Data Migration",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAFgvQTwvJMQ_w2P_DxAwRO7pJr4_HnWqvNg24TdrDLHf9p6HDzZQ5tovFx13TCSJWQpiRdjny66yxKd_d1DUN4xqskJwaEsHXjQ2yvrp6FOwwmO4BL3SeMPLg8wJuQ7v12IocOw34vYEuKxXwxkBfg1z9OS0MNO6APmX9QnNSIhCxLVwZHSNMABK1PR5rPnccpl8FB1x_RCe00PAUgoUuV_Cif5FXCbH3GEGg9dGvDMPj4d7v_j8-C7QZcFOgh0Ag6LUJr21G-0AVrSx0tQfd75R3BwexdZTa-FVqij3kO7okngkErpw9xBqsQG-n_883pJ9pkooUyqLOMUs9MRLD0IxF0zQEKsHWpTVb4fKPp3AW3niz50x2vs_nrgzKkZVcHwoXxi_Lrj9V_MIBpxNZjG?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853534+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5unlM",
+      "company": "See posting",
+      "title": "Business Analyst, Travel Research and Analysis",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGtakrLGCEDpaQmfrxiLRzH8H81TZ3sx0fOEI-UAChs8KguWYlANyk-8-Q3sewdJww4T3ZIBgsOT_T0JXO_cHRHQuEADQT49ynOtVF8JULWv90zpb3fQmOWS7XlBgLFVd2pbQ5defXRbYxwMvIKWl0rq1EvlTRA_0kYaQFFFg3pdMEXLdTPWNh54n8_bmHt-nd1LH1ZKJLaKalIbmZQyTX9JYXc9cicg1SzYzvc4y1y-lttoUgfP7Dglc0xrdcHFRs6cUaSc10y6Yydxanv7pdsTmVpN-XJ5iPgM0jCDoG2kn6jJbpdmYHS1Muj8JTBp4Fg1L3Hhy9DmmwCEonMIRIN5mBKgNPYqsBo76qYpT91CR44H-yrkyQrq5qzRC1fGjQzCk8-GfzDQxV7CQCHAJ1s?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853743+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5ca7P",
+      "company": "See posting",
+      "title": "Junior Data Analyst (Long Term Contract)",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAGWF00BVMi9U1RJkpSf-SwTqlHDBbJA0TDo6iaggWEBxz42F-HQfmaQstGD5L_UNPPEQf0T5bv8uTk3p4YyoIEsLxcOn7xiQy-ZZJizbgv05H_dpS8-jICSXw8N3FHR3_dFPGgv3PsGhutMhP-9dgXOsWrx8AKYap09c_WaONMYKXCmS29bL1ltF3YcACoKWcLYfZbSjWhWXoxwA20n1-O_k6A1R_dQcDwj7PjxDrAWPYiY5dMjSdtFcNzoHsadzobiSHAPxgv9rpgnS4vnLYt_Z_buIM7dKs5uYtWaT1VYUV6b5KLW7KiVeB16MeRXMO5w3x1aYAfriro__vs9tODlhhYTkH2xJtxeaBQD2-QJRU1m93xEyBEC4ueSwJ68bqqJ3gRll1AHlhyQ-dQzWNJF?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853769+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4658f5SPWD",
+      "company": "See posting",
+      "title": "Data Analyst - Meterology",
+      "location": "",
+      "salary": "",
+      "url": "https://www.ziprecruiter.com/km/AAHShDbUMQxGlq5MKKUeII-ycjIeKv-LCCSoN3ji70FRM8KFSfDFoj5haHbozmY1Fli56eFX3ktYpYPjPQm-9i7WyXmAY-nicnzxvCFvM62VHrtsd7G9xKgRrSHhjy4OZVV9YY6AsquCrbfEaNjvtuzzTQqRWWUHPDllNSpTtx-mvkaddjTIomfvtpIVLwhN4iRmrqCVwzrTxbXTPWI5nzpoO8CKNyep6o4GIwEjHTG4dIxYJEnqHHRau-RDlGVY9x1fEcxoRxwX62O08Vkln6mT8ynuj0wB19U0CdMbVQgMNt5ZP0HBAKLKmqnBSNfc1BVWwo5127wH-wzUTNiMPG3gswUT6_u2q6Z_toZwL_Dg9g6L2nRKceGRJbRC7JO8xpmzWqcComIMtS0C_VrYAYeS?tsid\u00111000153&auth_token=5_1793473224_3LMp5SRnhN4Qkh11jcNxZLvT6wM9UD5YQGipFZn-F6M&contact_id\ufffdf05452&expires\u001793818824",
+      "source": "ZipRecruiter",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:32.853795+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e46693ad6VL",
+      "company": "Torentify",
+      "title": "Data Analyst / Data Scientist (Remote)",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485917092/?trackingId=WuuN8vRjHWvotpRaxqVqRg%3D%3D&refId=hNtyS8c8WX6dd4hiK9PUuw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B9A5yC%2BaKQ262NaTW1k8QJA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig!JGDJE-Oy9cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4485917092_ssid_5216629873_fmid_q9jfse~mvzblrah~5v&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4485917092_ssid_5216629873_fmid_q9jfse~mvzblrah~5v-null-q9jfse~mvzblrah~5v-null-null&eid=q9jfse-mvzblrah-5v&otpToken=M2Y3YTY3YmI1MzhkNmM3OWUwMGYwYTJkY2U5ZTE5ODFkZmVjNTdlYzIyZjkzZmYzYmRjZTE2ZGI4ZTcyYjIxYjk2ZTViYThjZjE2YmJiNjg2YTMxN2IyN2NjYmEwOTFhMDAwODc0YjdmNGQwMDJjMGFlYmNiOWU3MjUwMmJlZmI0MDZhNjk5ZmY3ZWI5NjUxZGYsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:37.018645+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e466efbWYyH",
+      "company": "Torentify",
+      "title": "BI Business Analyst - Remote",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485698761/?trackingId=w1jbioD1B7BSoK5uDKJZQg%3D%3D&refIdZcHgDriC4x1MrlhA5zmcw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZbwwVmQFTh24FURvKkq3XA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3JdRCB59Di8sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4485698761_ssid_8461940610_fmid_q9jfse~mvylvuai~2d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4485698761_ssid_8461940610_fmid_q9jfse~mvylvuai~2d-null-q9jfse~mvylvuai~2d-null-null&eid=q9jfse-mvylvuai-2d&otpToken=ZTBmMmE2ZDE3YWRkYzBkMjhiNDgyZmRmZWU2YjA1ODJmOTU3NTIwYTQ2YmJhYjA4NDIxYzBmMzkyZTE1MjVkM2ZhY2E2ZjgxOTc0NDc3NjQ1NzhmYzgwODlhZjBmY2I1OTc1NGQ3ZjVkZTRjNWFlNTg4NzRhZDM4NTBiMjExMTM0ODE2MmEwMGQxZjRlYjIzY2EsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:38.491828+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e466efbVFso",
+      "company": "Oracle",
+      "title": "GBF GTM Operations Analyst \u2013 Territory & Compensation Planning",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483906733/?trackingId=6hYizvmJZftUkHIrRxVD7w%3D%3D&refIdZcHgDriC4x1MrlhA5zmcw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZbwwVmQFTh24FURvKkq3XA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3JdRCB59Di8sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4483906733_ssid_8461940610_fmid_q9jfse~mvylvuai~2d&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4483906733_ssid_8461940610_fmid_q9jfse~mvylvuai~2d-null-q9jfse~mvylvuai~2d-null-null&eid=q9jfse-mvylvuai-2d&otpToken=ZTBmMmE2ZDE3YWRkYzBkMjhiNDgyZmRmZWU2YjA1ODJmOTU3NTIwYTQ2YmJhYjA4NDIxYzBmMzkyZTE1MjVkM2ZhY2E2ZjgxOTc0NDc3NjQ1NzhmYzgwODlhZjBmY2I1OTc1NGQ3ZjVkZTRjNWFlNTg4NzRhZDM4NTBiMjExMTM0ODE2MmEwMGQxZjRlYjIzY2EsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:38.491901+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e467578SkCh",
+      "company": "City of Atlanta",
+      "title": "Product Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483473657/?trackingId=qlNjIumg%2BZ5%2BbKBBaEPfyg%3D%3D&refId=v7CwYF%2BlSYmmU2603whUlg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BZNtB8b13SVKlaNJGHd5MNg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1NEwwGwid08sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4483473657_ssid_8758102954_fmid_q9jfse~mvygo2cx~80&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4483473657_ssid_8758102954_fmid_q9jfse~mvygo2cx~80-null-q9jfse~mvygo2cx~80-null-null&eid=q9jfse-mvygo2cx-80&otpToken=MmU3NjE4OWNkNWRmZWI5ZWFiOGI1MzY2ZWFiYThhNWZiNjY1YjcwMmE1M2E3NTljYTUyODI3YWJiOTQ1MjUyMGNjNjYwYTMxM2Q4ZjVkYmM1Yjc2NDdlOTk3MmE5NjdkYmIzNDcxZWQxN2MyYjNhOTZkZDYwOTNiOWEwNGIxYjE3MDFjMzlmZWRmMjRmYzEwM2IsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:40.152401+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e46778c37FM",
+      "company": "Wiraa",
+      "title": "Business Analyst, Automotive",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485154383/?trackingId=axGVnm85ERA6FDkGWGlwkw%3D%3D&refId=%2B5oGqu3uM2jVFxApTFte8Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3ByDIbz1aXSHGQ7BoIfGs2Ig%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1LlNhnqOHy8cw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4485154383_ssid_15402374820_fmid_q9jfse~mvydb71j~l9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4485154383_ssid_15402374820_fmid_q9jfse~mvydb71j~l9-null-q9jfse~mvydb71j~l9-null-null&eid=q9jfse-mvydb71j-l9&otpToken=MzdkYWM4ZGRjNWJjMzUwNDhiYjE2ZjczYmE0MDBmYzcyMzc1MDkzYmVjODlhNmU4MTNlZDg4NGZhYzQ1ZjY1NDBhNTg0MGRkOWZlM2JjMjlkNTkzZDZlMDEwNTgxZWI5MmE4YmUwY2E0NDM4NmFkODI3NDk3ZGMxOTdhYzlkM2EzMWZlNzk1NDlkMTU4ODA0MWQsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:40.684972+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e467d3b8b40",
+      "company": "BCD Travel",
+      "title": "Technical Business Analyst Remote",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485238482/?trackingId]ids0ygqaXqidcpGe%2FiTQ%3D%3D&refId=byk6%2FRLipexoM5ffHKy0vw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Btmc40ROCR4GGjepoUYhZew%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1SRElTlFw27Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4485238482_ssid_15324419412_fmid_q9jfse~mvxw5wll~dq&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4485238482_ssid_15324419412_fmid_q9jfse~mvxw5wll~dq-null-q9jfse~mvxw5wll~dq-null-null&eid=q9jfse-mvxw5wll-dq&otpToken=MTI3YzEyMzVhNzRlNGUzOTlkMWUxZWI5OTQ0MjI4ZThjYTZmYTYzYzYzNmM5YzVkMzlhNjJkMjA5NDdiYjUyNGIzYjFkODdjYWJiYTIyOTZkYTAxNWYwZmQyOTA2M2FkNmJmNjQ1NjFhZGY5Y2Q0MWQ2ZmYyOTkzM2Q4ZDE3Njg3MGY4ZjhlNDgxYzcwNTgwZmEsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:42.139662+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e4687a713Bn",
+      "company": "Torentify",
+      "title": "Data Science Analyst: Turn Data into Action - USA | Remote",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485342605/?trackingId=HjdK%2Fzyua4H3WRWNcoxc9A%3D%3D&refId=suETmwjOd9zE5jKuUaFhBA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bok9%2FXJkfQ0u69AhQSq4OcQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig+H-5YNf926Yw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4485342605_ssid_8797982178_fmid_q9jfse~mvwxvc8x~f3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4485342605_ssid_8797982178_fmid_q9jfse~mvwxvc8x~f3-null-q9jfse~mvwxvc8x~f3-null-null&eid=q9jfse-mvwxvc8x-f3&otpToken=M2NjODhlY2U0ZmI5YTU1ZWFjNDJlM2FkN2U1MzRhNjAzMmVhZmM4OTVkYmFhYTI1NDA2MmNkYjhjNDZhOGI5NDE3NTY1MWJmYjI5M2ZiNjUxMmM5YjRmYmUyMGMxMjVlY2VkZDY3MDg3MmJjMjU2MDIyZDY4YjQxOTViOTYzYTg1ZTg5ZDVmN2RiYzVmYjMwOTQsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:44.807554+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e468911uAIj",
+      "company": "Bank of America",
+      "title": "Business Analyst",
+      "location": "Atlanta, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485243992/?trackingId=7%2BulDBJIUk6RHS86dW2Wgw%3D%3D&refId=shvU46ZB6F2%2FrQuGhcq8jg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bq5Gd6wFkTj2lNCzBYvfvaw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8eDvj-7Xa6Iw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4485243992_ssid_8352402866_fmid_q9jfse~mvwtl0i3~zj&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4485243992_ssid_8352402866_fmid_q9jfse~mvwtl0i3~zj-null-q9jfse~mvwtl0i3~zj-null-null&eid=q9jfse-mvwtl0i3-zj&otpToken=YmFmMWU4NWZjOWVlYzJhMTU5YWNhZjFhOGVhMWE1ZjU5OTlkNDkzMDI5YjFhZThkYjdjMTYzZmViYmRlOTFhOGEzMmUxNDgxMzRkMjVmYmMzYjE3YTcyOTZmYzRlZDY2ZDA3MWY3YTMwNmRmYjIzYTEwODdiMjU0ZWZiMjU0NWRhNDI0MTRjMGU5OGU4Mzk1YTYsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:45.169925+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "jd_term:sdlc/wireframes/user_stories"
+      ],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a19e468d65L4DA",
+      "company": "Irby Utilities",
+      "title": "Strategic Insights Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4482563740/?trackingId=2xPyKLCjwHFI%2BU3QSKUJAQ%3D%3D&refId=AjQzREBM1tjgW4SfhkF4nw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BRNPJlEOTSgOCGog3q4KfWQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3hEgNibZJy6sw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482563740_ssid_8797982178_fmid_q9jfse~mvwgq2ax~yi&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482563740_ssid_8797982178_fmid_q9jfse~mvwgq2ax~yi-null-q9jfse~mvwgq2ax~yi-null-null&eid=q9jfse-mvwgq2ax-yi&otpToken=NjIxMTFhYTBiYmUxYzM3MTYzYTlmYTljMmY4NGJlYWIwZTU4M2E5ZjBmMjAxMzUwNTI0MTVhNWI5Mzc2ZTE1NWFhMjRmM2EwYzhkYmRhMGJmMTdlN2IwMWUyZjBjOTE5MzE2NTk3NDgzYmE0YmIyYzJmZWQzYjRkM2I2MmFkZWYwMTUwMTcxMmM0NjYxYmE1NTksMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-02T21:59:46.277286+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a19d682713SobH",
       "company": "Delta Air Lines",
@@ -15622,6 +15963,6 @@
       "at": "2026-10-30T22:27:56.524Z"
     }
   ],
-  "lastRun": "2026-10-30T21:24:13.511042+00:00",
-  "savedAt": "2026-11-02T18:04:17.916462+00:00"
+  "lastRun": "2026-11-02T22:00:45.844702+00:00",
+  "savedAt": "2026-11-02T22:00:45.844702+00:00"
 }
