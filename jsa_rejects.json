@@ -1,6 +1,30 @@
 {
   "rejects": [
     {
+      "title": "AI Insights & Governance Analyst",
+      "company": "Vertiv",
+      "location": "Westerville, OH",
+      "url": "https://www.linkedin.com/comm/jobs/view/4440851283/?trackingIdTJ1%2BSARkjxbGue1pIAjcQ%3D%3D&refId=sVFELwPVdv%2BQqdB3eyi1zw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BdH8Y2F4%2BSbmdxlEQS%2FnK7A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2v8xza1Cbw9Iw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4440851283_ssid_9107021378_fmid_q9jfse~mvzw3x0e~wm&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4440851283_ssid_9107021378_fmid_q9jfse~mvzw3x0e~wm-null-q9jfse~mvzw3x0e~wm-null-null&eid=q9jfse-mvzw3x0e-wm&otpToken=MGY3NzUyNWMxN2I1NmJhNGU3MTg5OGM2ZDQwN2YwMTUzOGYxODk4NzNkZjYyMTI5ZjU2NzRjNjcxODkwOTdhMzBmZGQ3YWIzOTkwN2U3MGNmZWQwOGY4NjU4NmM3OGI4ZTdlM2U2MDBjODI4ZTdlZDQwMzdiODk0ZWU5M2QwMTEzY2IzMjYzYTM5YjJiYjVjOGMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:OH"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-02T23:48:36.037156+00:00"
+    },
+    {
+      "title": "Business Analyst II, Vendor Performance, OTS-GSP-TOPS",
+      "company": "Amazon",
+      "location": "Nashville, TN",
+      "url": "https://www.linkedin.com/comm/jobs/view/4468692383/?trackingId=1W2uJoxkZiBY%2FH%2FRXSwgcQ%3D%3D&refId=sVFELwPVdv%2BQqdB3eyi1zw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BdH8Y2F4%2BSbmdxlEQS%2FnK7A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2v8xza1Cbw9Iw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4468692383_ssid_9107021378_fmid_q9jfse~mvzw3x0e~wm&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4468692383_ssid_9107021378_fmid_q9jfse~mvzw3x0e~wm-null-q9jfse~mvzw3x0e~wm-null-null&eid=q9jfse-mvzw3x0e-wm&otpToken=MGY3NzUyNWMxN2I1NmJhNGU3MTg5OGM2ZDQwN2YwMTUzOGYxODk4NzNkZjYyMTI5ZjU2NzRjNjcxODkwOTdhMzBmZGQ3YWIzOTkwN2U3MGNmZWQwOGY4NjU4NmM3OGI4ZTdlM2U2MDBjODI4ZTdlZDQwMzdiODk0ZWU5M2QwMTEzY2IzMjYzYTM5YjJiYjVjOGMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:TN"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-02T23:48:36.037190+00:00"
+    },
+    {
       "title": "Strategic Pricing Analyst (Experienced or Senior)",
       "company": "Boeing",
       "location": "Hialeah, FL",
@@ -18344,30 +18368,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-10-30T16:19:48.284830+00:00"
-    },
-    {
-      "title": "Senior Financial Reporting Accountant - Lakeland",
-      "company": "Publix Super Markets",
-      "location": "Lakeland, FL",
-      "url": "https://www.linkedin.com/jobs/view/4447288240/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-30T16:19:48.284985+00:00"
-    },
-    {
-      "title": "Accountant II",
-      "company": "General Dynamics Ordnance and Tactical Systems",
-      "location": "St. Petersburg, FL",
-      "url": "https://www.linkedin.com/jobs/view/4475113758/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-10-30T16:19:48.285201+00:00"
     }
   ]
 }
