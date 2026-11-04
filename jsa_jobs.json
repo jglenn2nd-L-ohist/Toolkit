@@ -1687,178 +1687,6 @@
       "filter_version": "2026-10-09.1"
     },
     {
-      "id": "1a1a2f8b38ecNeB",
-      "company": "See posting",
-      "title": "Data Analyst (Visualization)",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAE4MPAMq_6e2dz1EDVRBMl6WxdmXd9cb7EJWgYeDY-z7KlpRzCUpgkfR4ZCRBr5MPrO2A1bYydEInEvPxCw46RayciGUaMZW8ShvbvqqBLR8k88c8MU9yUSzMnyYOTH7d88gN2KzkWDr0wwhJZEJ-qEsfPy_ztk-NGhIrJs8exzIyqd_lQU7Mou4M_vENu4KD41kvogyfcnvfAjD-GqLkDbS71Ws5465qO6MgmDqvXGKjT1czUKG5ppiMhId2iSnyJbKx0gXPJUsgXpCu3NOBOfo2lGblWJ3RM6s82_aMBihw0e6GogbtiAPOpylliaOA0ymhDZJ1thDpCk9q0IxWVrrQpWr5WN0OEqBn_mqBzQIKrNTtqnKrO2fbwkwils9_xNp6HFCrYoLhLQNXrzgIW1?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-03T19:52:50.318266+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a1a2f8b38e2kqU",
-      "company": "See posting",
-      "title": "Jr. Commissions Data Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAFF-DLOeGWEv5LMNcRbhVOB0YnABVtzt0bvSFFkzJr3wSIrf2rgtjr70gC17m-zA1k_PvGqipZDgwAnwn2C6o1VVmjDjbUmehF3z5ZoUyEPZyEXTxvOPq4gzbayKn-alkhKXRnx4WuWc7YVkzXrH5ZSu6Fg0li78skhgFaokHysK4t5X2-0sQaNWKID9pF-wAg07hGJKwtwSedvog1g3KQ9Na5b_T5JzfuSfJakP6qtdPVqGoumcHNqwiWziEifLvjN6s_WLVsSTDYs1zaFnPDw45KeG-iTn1k_Yp9_wA5dpUgMQpAS_N-h7AnmebpY-6TM6ASMiN16dlskohoRSqL0vYSRbS44cNO_3gBEXKihRYUwV6NiXmE_57m74ipwwveUidY5gn6rhXwszhPdFQIF?tsid\u00111000153&auth_token=5_1793734920_6wq4c21ZMFpdFwjQQeEAGfPO0FEOCvymkW5dOxGUsA4&contact_id�f05452&expires\u001794080520",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-03T19:52:50.318277+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a1a2487d77oMuP",
-      "company": "Infosys",
-      "title": "Data Analyst",
-      "location": "Temple Terrace, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4476414546/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:40:22.135530+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1a2489b92KI7C",
-      "company": "Wipro",
-      "title": "BUSINESS ANALYST",
-      "location": "Tampa, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4485730171/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:40:29.842373+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1a24aab40gNQG",
-      "company": "Florida Blue",
-      "title": "Business Systems Analyst",
-      "location": "Jacksonville, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4485631741/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:42:44.928189+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1a24d17430itQ",
-      "company": "Cognizant",
-      "title": "Salesforce FSC Business Analyst",
-      "location": "Plano, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4486005822/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:45:23.651188+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1a24d2233VEZ7",
-      "company": "The Jupiter Group, Inc",
-      "title": "Business Analyst - Data Analytics",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4486419629/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:45:26.451558+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1a24df3c3NRYn",
-      "company": "BCD Travel",
-      "title": "Product Analyst, Agent Source, Travel Experience & Commerce",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4486496735/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-03T16:46:20.099703+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a19d683b68XlqD",
       "company": "Authority Brands",
       "title": "Loyalty Membership Marketing Analyst",
@@ -7366,7 +7194,15 @@
     "https://www.linkedin.com/jobs/view/4485787382/",
     "https://www.linkedin.com/jobs/view/4486454934/",
     "https://www.linkedin.com/comm/jobs/view/4477916917/?trackingId}JXt8EBiADqABCiJU%2F9mQ%3D%3D&refId=VJn5hHhElqg%2FriG3N8eXDQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BdOI%2B5Wm6RNaDSX6x%2B%2Fqn4A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0VVwH2MVI0csw1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477916917_sectionid_272001_fmid_q9jfse~mw2goyvy~5f&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_0_jobid_4477916917_sectionid_272001_fmid_q9jfse~mw2goyvy~5f-null-q9jfse~mw2goyvy~5f-null-null&eid=q9jfse-mw2goyvy-5f&otpToken=MDRhOGY3NWI5NzdlMDIxYmFkM2Q4NDAyM2JmN2Y4NjFkZTFlYTNhM2QxODRmMmYwM2NhNmIzODQ1Mjg0Mzk4ZTQwY2QxYzZhMTQ5ZDc1ZWVhZDMxNTdmMjA4NDM1NjYxZDNiNGNmZTZlZTcyZDEzYjVkYjdjNmFiMmUzOTU4NjcxODAwNTM5MzAwM2U0MzE0M2IsMiwx",
-    "https://www.linkedin.com/comm/jobs/view/4478688551/?trackingId=os98vip4DdGFKPwk8zhfBw%3D%3D&refId=VJn5hHhElqg%2FriG3N8eXDQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BdOI%2B5Wm6RNaDSX6x%2B%2Fqn4A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0VVwH2MVI0csw1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4478688551_sectionid_272001_fmid_q9jfse~mw2goyvy~5f&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4478688551_sectionid_272001_fmid_q9jfse~mw2goyvy~5f-null-q9jfse~mw2goyvy~5f-null-null&eid=q9jfse-mw2goyvy-5f&otpToken=MDRhOGY3NWI5NzdlMDIxYmFkM2Q4NDAyM2JmN2Y4NjFkZTFlYTNhM2QxODRmMmYwM2NhNmIzODQ1Mjg0Mzk4ZTQwY2QxYzZhMTQ5ZDc1ZWVhZDMxNTdmMjA4NDM1NjYxZDNiNGNmZTZlZTcyZDEzYjVkYjdjNmFiMmUzOTU4NjcxODAwNTM5MzAwM2U0MzE0M2IsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4478688551/?trackingId=os98vip4DdGFKPwk8zhfBw%3D%3D&refId=VJn5hHhElqg%2FriG3N8eXDQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_facet_suggestions%3BdOI%2B5Wm6RNaDSX6x%2B%2Fqn4A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0VVwH2MVI0csw1&trk=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4478688551_sectionid_272001_fmid_q9jfse~mw2goyvy~5f&trkEmail=eml-email_jobs_facet_suggestions-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4478688551_sectionid_272001_fmid_q9jfse~mw2goyvy~5f-null-q9jfse~mw2goyvy~5f-null-null&eid=q9jfse-mw2goyvy-5f&otpToken=MDRhOGY3NWI5NzdlMDIxYmFkM2Q4NDAyM2JmN2Y4NjFkZTFlYTNhM2QxODRmMmYwM2NhNmIzODQ1Mjg0Mzk4ZTQwY2QxYzZhMTQ5ZDc1ZWVhZDMxNTdmMjA4NDM1NjYxZDNiNGNmZTZlZTcyZDEzYjVkYjdjNmFiMmUzOTU4NjcxODAwNTM5MzAwM2U0MzE0M2IsMiwx",
+    "https://www.ziprecruiter.com/ekm/AAE4MPAMq_6e2dz1EDVRBMl6WxdmXd9cb7EJWgYeDY-z7KlpRzCUpgkfR4ZCRBr5MPrO2A1bYydEInEvPxCw46RayciGUaMZW8ShvbvqqBLR8k88c8MU9yUSzMnyYOTH7d88gN2KzkWDr0wwhJZEJ-qEsfPy_ztk-NGhIrJs8exzIyqd_lQU7Mou4M_vENu4KD41kvogyfcnvfAjD-GqLkDbS71Ws5465qO6MgmDqvXGKjT1czUKG5ppiMhId2iSnyJbKx0gXPJUsgXpCu3NOBOfo2lGblWJ3RM6s82_aMBihw0e6GogbtiAPOpylliaOA0ymhDZJ1thDpCk9q0IxWVrrQpWr5WN0OEqBn_mqBzQIKrNTtqnKrO2fbwkwils9_xNp6HFCrYoLhLQNXrzgIW1?tsid\u00111000153",
+    "https://www.ziprecruiter.com/km/AAFF-DLOeGWEv5LMNcRbhVOB0YnABVtzt0bvSFFkzJr3wSIrf2rgtjr70gC17m-zA1k_PvGqipZDgwAnwn2C6o1VVmjDjbUmehF3z5ZoUyEPZyEXTxvOPq4gzbayKn-alkhKXRnx4WuWc7YVkzXrH5ZSu6Fg0li78skhgFaokHysK4t5X2-0sQaNWKID9pF-wAg07hGJKwtwSedvog1g3KQ9Na5b_T5JzfuSfJakP6qtdPVqGoumcHNqwiWziEifLvjN6s_WLVsSTDYs1zaFnPDw45KeG-iTn1k_Yp9_wA5dpUgMQpAS_N-h7AnmebpY-6TM6ASMiN16dlskohoRSqL0vYSRbS44cNO_3gBEXKihRYUwV6NiXmE_57m74ipwwveUidY5gn6rhXwszhPdFQIF?tsid\u00111000153&auth_token=5_1793734920_6wq4c21ZMFpdFwjQQeEAGfPO0FEOCvymkW5dOxGUsA4&contact_id�f05452&expires\u001794080520",
+    "https://www.linkedin.com/jobs/view/4476414546/",
+    "https://www.linkedin.com/jobs/view/4485730171/",
+    "https://www.linkedin.com/jobs/view/4485631741/",
+    "https://www.linkedin.com/jobs/view/4486005822/",
+    "https://www.linkedin.com/jobs/view/4486419629/",
+    "https://www.linkedin.com/jobs/view/4486496735/"
   ],
   "dismissedKeys": [
     {
@@ -13360,8 +13196,40 @@
     {
       "k": "wheel world|data analyst",
       "at": "2026-11-04T20:21:19.743Z"
+    },
+    {
+      "k": "see posting|data analyst visualization",
+      "at": "2026-11-04T21:44:42.924Z"
+    },
+    {
+      "k": "see posting|jr commissions data analyst",
+      "at": "2026-11-04T21:44:42.924Z"
+    },
+    {
+      "k": "infosys|data analyst",
+      "at": "2026-11-04T21:44:42.924Z"
+    },
+    {
+      "k": "wipro|business analyst",
+      "at": "2026-11-04T21:44:42.924Z"
+    },
+    {
+      "k": "florida blue|business systems analyst",
+      "at": "2026-11-04T21:44:42.924Z"
+    },
+    {
+      "k": "cognizant|salesforce fsc business analyst",
+      "at": "2026-11-04T21:44:42.926Z"
+    },
+    {
+      "k": "jupiter group|business analyst data analytics",
+      "at": "2026-11-04T21:44:42.926Z"
+    },
+    {
+      "k": "bcd travel|product analyst agent source travel experience commerce",
+      "at": "2026-11-04T21:44:42.926Z"
     }
   ],
   "lastRun": "2026-11-04T20:07:37.431148+00:00",
-  "savedAt": "2026-11-04T21:44:13.865Z"
+  "savedAt": "2026-11-04T21:44:42.926Z"
 }
