@@ -1879,7 +1879,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4486784733/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-11-05T19:37:11.211704+00:00",
       "notes": "",
       "remote_search": false,
@@ -1899,7 +1899,7 @@
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/4487794443/",
       "source": "LinkedIn",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-11-05T19:37:12.600791+00:00",
       "notes": "",
       "remote_search": false,
@@ -1909,7 +1909,7 @@
       "filter_reasons": [],
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a1ad372424uxt6",
@@ -14706,5 +14706,5 @@
     }
   ],
   "lastRun": "2026-11-05T22:36:39.461414+00:00",
-  "savedAt": "2026-11-05T23:20:14.104Z"
+  "savedAt": "2026-11-05T23:37:32.767Z"
 }
