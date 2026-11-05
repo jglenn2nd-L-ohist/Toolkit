@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "Associate, GMS Tax Technology Business Analyst",
+      "company": "KPMG US",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4486073458/?trackingId=JFGh%2FOHJOYSjoLHPr7yAaw%3D%3D&refId\ufffdCLFGg49I5S7bhnrqYMow%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BCX57%2FEKRRfma6%2Bowz0YQdg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000bfZ2-9oVydYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4486073458_ssid_8352402866_fmid_q9jfse~mw432kvv~k2_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4486073458_ssid_8352402866_fmid_q9jfse~mw432kvv~k2_crv_4-null-q9jfse~mw432kvv~k2-null-null&eid=q9jfse-mw432kvv-k2&otpToken=ZjU5ZmY0ZGFkMGIyMzIwNWFkZTY4NjY5NDBhYmVmMzY5ZTEyNzE4M2UzMmY4OGM0YjE3M2Y4YzBmNjkyYTI3NWY1NThhMzU3ZGZjODg2NmE5YmEyODk3NzIyMTU4Nzg0MWQyMDRmNzE5MWM3MWUyMmQ5OGUxMDRjNWE0ZjU4MjQ2MDk3MDcyZTIyYzYyYjEwOTYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:tax"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-05T22:36:33.974228+00:00"
+    },
+    {
       "title": "Risk Analyst II",
       "company": "Yamaha Motor Corporation, USA",
       "location": "Kennesaw, GA",
@@ -18355,19 +18367,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-05T19:45:27.662861+00:00"
-    },
-    {
-      "title": "Information Technology Programmer Analyst 12 - MDOT Business & IT Support Services",
-      "company": "State of Michigan",
-      "location": "Lansing, MI",
-      "url": "https://www.linkedin.com/jobs/view/4485079563/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:MI"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:45:27.663077+00:00"
     }
   ]
 }
