@@ -1,28 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-15T17:26:54.946041+00:00",
-      "runner": "email",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 0,
-          "review": 3,
-          "reject": 6
-        }
-      },
-      "reasons": {
-        "title_unlisted": 3,
-        "location_unknown": 3,
-        "jd_term": 2,
-        "title_excluded": 2,
-        "staffing_outside_atlanta": 1
-      },
-      "messages": 39,
-      "found": 68,
-      "known": 59
-    },
-    {
       "at": "2026-10-15T20:12:29.152971+00:00",
       "runner": "email",
       "rules": "2026-10-09.1",
@@ -1635,6 +1613,24 @@
       "messages": 28,
       "found": 73,
       "known": 44
+    },
+    {
+      "at": "2026-11-05T22:36:39.282152+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 1,
+          "review": 0,
+          "reject": 1
+        }
+      },
+      "reasons": {
+        "title_excluded": 1
+      },
+      "messages": 28,
+      "found": 80,
+      "known": 78
     }
   ],
   "jobs": [
@@ -14709,6 +14705,6 @@
       "at": "2026-11-04T21:44:42.926Z"
     }
   ],
-  "lastRun": "2026-11-05T20:22:52.494003+00:00",
-  "savedAt": "2026-11-05T20:22:52.494003+00:00"
+  "lastRun": "2026-11-05T22:36:39.461414+00:00",
+  "savedAt": "2026-11-05T22:36:39.461414+00:00"
 }
