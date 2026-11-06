@@ -1,6 +1,18 @@
 {
   "rejects": [
     {
+      "title": "BI Data Analyst",
+      "company": "Motion",
+      "location": "Birmingham, AL",
+      "url": "https://www.linkedin.com/comm/jobs/view/4455347371?trackingId=&refId=&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_application_rejected_01%3BwT29q9sRSwyhVN1gZKSznQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig5qsSgmOK_fcw1&trk=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job&trkEmail=eml-email_jobs_application_rejected_01-similar_jobs-0-similar_job-null-q9jfse~mw5g4m05~dv-null-null&eid=q9jfse-mw5g4m05-dv&otpToken=OTA1NjllMzk5ZWVhNTFhMDJmMDY0ZjgyOGQ3NzZmMDI3ZDFjNTYwMTQ5NWZhYWUzYjI0ZTVjZTdkNGI2YmFjZmZiNGNkNDcxNWM1YWYxNzU0YzEyMDcxZDQxOTE3MmFlMTY5OTFjYjEyZTUyYjM0MjAxMjU0NTgzZGRkMDQ2MTkzN2RhNTQyYTBlOTQ0NTJkNDYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "out_of_area:AL"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-06T21:58:27.385444+00:00"
+    },
+    {
       "title": "Accounting Analyst / Accounts Payable - Signia by Hilton Atlanta",
       "company": "Hilton",
       "location": "",
@@ -18355,19 +18367,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-05T19:45:27.656107+00:00"
-    },
-    {
-      "title": "Clinical Systems Analyst",
-      "company": "Seattle Children's",
-      "location": "Seattle, WA",
-      "url": "https://www.linkedin.com/jobs/view/4486888578/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "healthcare:title",
-        "out_of_area:WA"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:45:27.656435+00:00"
     }
   ]
 }
