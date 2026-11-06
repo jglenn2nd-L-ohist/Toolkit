@@ -1,39 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-16T13:28:43.717752+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 26,
-          "review": 7,
-          "reject": 1027
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 2
-        }
-      },
-      "reasons": {
-        "title_excluded": 617,
-        "title_not_target": 233,
-        "out_of_area": 191,
-        "title_unlisted": 96,
-        "healthcare": 76,
-        "staffing_outside_atlanta": 54,
-        "remote_unverified": 14,
-        "jd_term": 8,
-        "foreign": 4,
-        "clearance_required": 3,
-        "location_unknown": 1
-      },
-      "found": 1062,
-      "opened": 42,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-16T13:35:17.978589+00:00",
       "runner": "proactive",
       "rules": "2026-10-09.1",
@@ -1647,6 +1614,24 @@
       "messages": 33,
       "found": 91,
       "known": 57
+    },
+    {
+      "at": "2026-11-06T21:58:35.181510+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 2,
+          "review": 0,
+          "reject": 1
+        }
+      },
+      "reasons": {
+        "out_of_area": 1
+      },
+      "messages": 32,
+      "found": 96,
+      "known": 93
     }
   ],
   "jobs": [
@@ -13916,6 +13901,6 @@
       "at": "2026-11-06T05:51:34.640Z"
     }
   ],
-  "lastRun": "2026-11-06T19:45:18.697248+00:00",
-  "savedAt": "2026-11-06T19:45:18.697248+00:00"
+  "lastRun": "2026-11-06T21:58:35.413375+00:00",
+  "savedAt": "2026-11-06T21:58:35.413375+00:00"
 }
