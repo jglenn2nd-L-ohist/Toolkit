@@ -2426,7 +2426,7 @@
       "filter_reasons": [],
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
-      "status": "New"
+      "status": "Applied"
     },
     {
       "id": "1a1ad3e8712s7Cz",
@@ -14274,5 +14274,5 @@
     }
   ],
   "lastRun": "2026-11-05T22:36:39.461414+00:00",
-  "savedAt": "2026-11-06T05:11:54.929Z"
+  "savedAt": "2026-11-06T05:15:32.786Z"
 }
