@@ -1,6 +1,232 @@
 {
   "rejects": [
     {
+      "title": "Risk Reporting and Analytics Manager",
+      "company": "Finastra",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4443486127/?trackingId=LeuIDb8h3rEhVN%2FwIqv2Sg%3D%3D&refId=fvroRtxV9svadaMSwbtfvQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BRXbCOqxyQF29qKDb5UHg4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rZSmKirq2kYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4443486127_ssid_8352402866_fmid_q9jfse~mwb89vv5~zx_crv_8&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4443486127_ssid_8352402866_fmid_q9jfse~mwb89vv5~zx_crv_8-null-q9jfse~mwb89vv5~zx-null-null&eid=q9jfse-mwb89vv5-zx&otpToken=OGYzZTk1Y2FjYjFhY2Y2ZDUzOGI2NGQ5ZDlmOTc4MThkM2E2OGUwMTkwYmRiYmNhMDFlYThkNzQ5YTE3NDExMzJjZTg1MzdlMDIxYjBkZTczZjFjYTFlYjAxNmJjYTZkOTdiMjcxNzZjNzkxOWY2MDI5N2RlZTBiZDA0ZDVhNGYyYjc0YzgzYTQxZGIzNjg3MTMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.390391+00:00"
+    },
+    {
+      "title": "Senior Analyst, Assortment Planning",
+      "company": "NAPA Auto Parts",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4463671485/?trackingId=J9AfDi%2F8xUuQzqXURka2dA%3D%3D&refId=fvroRtxV9svadaMSwbtfvQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BRXbCOqxyQF29qKDb5UHg4g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1rZSmKirq2kYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4463671485_ssid_8352402866_fmid_q9jfse~mwb89vv5~zx_crv_8&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4463671485_ssid_8352402866_fmid_q9jfse~mwb89vv5~zx_crv_8-null-q9jfse~mwb89vv5~zx-null-null&eid=q9jfse-mwb89vv5-zx&otpToken=OGYzZTk1Y2FjYjFhY2Y2ZDUzOGI2NGQ5ZDlmOTc4MThkM2E2OGUwMTkwYmRiYmNhMDFlYThkNzQ5YTE3NDExMzJjZTg1MzdlMDIxYjBkZTczZjFjYTFlYjAxNmJjYTZkOTdiMjcxNzZjNzkxOWY2MDI5N2RlZTBiZDA0ZDVhNGYyYjc0YzgzYTQxZGIzNjg3MTMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.390418+00:00"
+    },
+    {
+      "title": "Quantitative Analyst - AI Trainer (Remote)",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAGSY4W8JLK_YF1a5wmGFq86_L-2eds3SFm5ZDW1YEnCFau0vg5Gakl1QImEvf5Gzj91P6j_t1L55WVSdXsXjLRvB5tLwLxqfF3k3QeBOf4cVHKw1QyGMU4jH12MccEH5htNVfatPDstIAl_2cn1nop-sJZ4EbCVCujAe18Arlh5aYAx0tvpeLCG7zdDJ7-z5uXtFq4K_ZUtB4XLzWnTY2SMTutZ0MhrM3QOAQG7eKGRdKk-1kcZk61090yn84Xtplt0c1YBzCCKch5d8P7_775h6Kw_IKtIbASDlzCl-quEMt-m_7WfWfzCYaijFJOVVbkHXacnELdRPSwjUIXF2yrRgnXnUYdwo6qOVSNMabm1PuB8EFCRm4qg2dsYmnlS30yaM8HHRJiXSFSvJcIU_KE?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.759530+00:00"
+    },
+    {
+      "title": "Real Estate Market Research Analyst (Field Analyst)",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAH8HjlJ9fDlK65Q8EVBkPiTMfrcskSiP4PR0AFWBCHQU3Y-fkrP6ybGKFuz412p3-XFg7DChNecwX9kyqPFVJZVOcgUGnaCZGArgkX1r4T6jXT2O4h92OhXjLTJf1GsP1TSsMBorWhYqDwY9PGuJd9lhfjk9BkijFhflHSmtHYMKT8KWBXqZtMF4Kby8x6T_EYZiXc67rKj811QhwWMKzvaINl9uBURnIF6AA2arZCmAhkuqtrutgVYoewYuegJTUuC15eQxSgHf0MoxgJnC8pFK7TMGyCPXbjvI4l1UXryvvCv8TNnd5RVUznCsKq8b7qX5Wx-NWKRyDbF0ubig5ke9Vvd3osjAxXAage2ODMIPBY5stPVJ3r_0OkUJGRtQdL4nfdL01RET-LgCt1SYm4?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:real estate",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.759678+00:00"
+    },
+    {
+      "title": "Revenue Cycle Data Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAFue5EQ--sVvbDl1TAlwGdgvsGhWvbzJQKi4N3I2MsQvukhjTFDGtUUSKsu5Wq9WQuBQZyRlrvMuuJYwLfRqirg72k_kgS1JmnZ79AKpU0TTHECYBQqPFQ9HsTUmiG9DLFe9Ts25625EKvSrJo7jWxeYQjx6lxa0uREt9mjn_A7OaYETmb56eFLCdqNZF400IvpJwwCtn45EstMC150eTskztD-489UFzGXHtk8tHZLyZ17mWyhHBV_XPhQ8mwri4ZfboynyLCzhsRKuXXRWXQlnNqXWNG0AGCbo_gWvhr2dqe66GtykObJwVzqj2vOEM1o4SgaUszKsIL84ygoS1-QCWJs_ietlH1rbJObT4h3fyesysnryEvFb2eohd5iKez8-RWPu3nP7UxwKWQ?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "healthcare:title",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.759713+00:00"
+    },
+    {
+      "title": "Data Scientist - Anti-Money Laundering Analytics & Modeling",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAEBDBfC55mTNNtb92zAUvcfWO5dspyLf2a075R7kCecZDSPj6uVJqig7nKSXGmJuoQXldoToawHSr3QddJLDojlfw1YgCMKiKJ_BldgfW8q8MyWYs7I5WYxXvXUuOQzT69d4CwlHs1XuX8tobwDzSEzpKDKPylzu-yGLfHKdPN86yMU9fNqz94xFt9kxjLNFl53dB5bXyKH7xo2l8FvqdL0wE0esWK9F4iVFr5P00xY3VqYA6LArm48gK261m1pv6HiY4CXWm-7KU3sQ6XVmhJxImEFhbGsRVP3eIvIYOh1ypiY0y3-twfQuVSNZivoYPU0ssN8oHUaUATqD89EsrMmh1ZAtmvzdnZB2ygEu9yDsN3G22AkDR9NbwjPDc8DFzcQW-ZSmTg0OvbORn-2UE4?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.759825+00:00"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAGrqT6ELVszs-5WautSes2uvG7oGsywX5CmWxgKfNKdEjGlAS9zOx9Bzg6T9TbdSTFbO3d7jR11uFjmPczJsEEXHFz2WNGoxaU9-vpqmE3MhMPIF9BWZp52zAGD2DB-Gb4yPX5Ix4AxRkeGzqaC27NdZVJ0XUaFSS7X-9Z42zlr7ylhSLTOszWvtIvitaUujlD6VPLn491avwkSr2TpZgURVNnvHGeHVan6llwBi6Z6_Wwj4HQhiM6gtytFqLQbMMOOMg3aqO3_kWxxRDkkwXnNmZQh3l_u0DNML5aJT2IA8wZbhmbuwsrdapSqvXE5DeirLxQl4hAXi7Q0fiKFEkdaSQfGOYCHHZNZwH88z8pJOqvUxBjDkQGEJhW0CF60TolAHEFr7Uo1dA-HQ0w?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:senior",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.759904+00:00"
+    },
+    {
+      "title": "Intern for Development Operations & Data Analytics",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAEwPnf3SdIfAQZsUqfqLPs2lCd353NmlfJgtXVWdd23vN5pDvDqxtk_VMysFeZVn1bpt56majtwIYGD4vuMF4S0SOVK9WwUXKRf1zPFIDZ0e9D29rGPBxPX0t6da0UwGxbccjY-R9OaXL_VjnCBLMl9z3MGx8cPS6RZA6XHSRZ9oCHtc7-106rMkQb20sVSo9pZvEFNiaz6Gl9juvKI-pL5BYaP5CJWTBJyQ-cgr6p7CaUzM8isu_Ud1IkPPJVUsahfpfevFsiFaR8-car5a7_JBa3yI9LJpzSJ6rBs_bkeTxAXJnFCbTnBJUnMjeG_MsW4tUDT0U64KsxN2P_lZboD2GQVNI481N8PTWDOoz4eLrrKxxT7jGp8JPpy3r1a2n04U0K2Bh3nGGVGz48?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_excluded:intern",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.760056+00:00"
+    },
+    {
+      "title": "All-Source Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/ekm/AAGMtase6UdcoeQZV-JDO8IeXBBGnPpuHLkTm_Kq_4XMduQLWKj2tkSBUclbeQ6bRal4LJTo7SxcTHXMFKqJv-Jk4lYLeJCdfMbMMnGSTu4QXQN9Jon6ncw1vygIC5PpZGvm2nlUy16e0Am2zYrTyFDGtcMRTNrX42yD9Wvg1S7EBXkXUG5JA0bVpubXTnohd4AT_sTVHZTq1uT3uAX65hU72brczbmetyeqnJIfkEukA6in_-4Fp4aTUqJxw2ccuEdyQ5UtkXShvDFInKHg6_1hf--QsLNYgfxC5UipzZThKuAYSVQ07ydc-FeFY3NlFAay8QMW-2B4D57SHTTpddd3iuFA07EgcooIc26AO_SYqDd0Qc8H2BrxNyH5UGgxpmhkJd8n-l1PaNDlHcLkzz8?tsid\u00111000153",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.760202+00:00"
+    },
+    {
+      "title": "Level One Intelligence Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAFSzwv4fegM9ECPzvO3jNPw3P10RY2b3ezeLLCUhaBv4nryavV_OL18xqr2gQWohLzq4pVUVlWXdmOg_0_V5KshwNj_7vP7pnoPEdQhAHPeOqpNWkd_G-bFSdcK3EtQ0UQ4LqW4LJDoYDjzA8mLnZBC1aAdDr-9GrhI4SuDTgdb0_rapKo9ZMyeE634BCEvxJQGlnTPs26xgTpaj9TPNbirNVtcMds5Wh2gbLH6J0u-ML7KKVOGdmteluJCx3KxLnUUwYmowW19HpxEMLIdzTmdEuCC7fgUP-H7hSvkY2nzNo4t2ZRsyAOoLOodx8NVVCOIdwiNgpFLE2suBN-t5R1HzOZeGwqNv2IBoQSp1PRMr62apHMk_cTr84nJV5JUgV_X8v94ig7003hz6y8?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.760264+00:00"
+    },
+    {
+      "title": "Jr. Intelligence Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.ziprecruiter.com/km/AAEn9ewJpXt5oH24QJ8u0SXHl2y56RLqOAAMWSPkQMGthGD8WrrhKMRNdCi4hAiINL2Exr9GRwd-IO7PUeu41ZQJ1zeWXHa2TmWs15t1SiM9q4xdPoxcPXxPVbam95VkSftpRccqFuiJ9brgZ29h6106l1v2WPKYmBeXw_xBQ1qjyAP4BBFVYayxnEQUm3OyOiupIWzOU_vX3xQzXTAH6nCxw7bcK4_-dogkOZCPqOKkmDV6y4SPY94-R7Nip-nPCZ6n6v95EdERcba5-0lalnJoeP2e3jW9YMWaBWUzRZwTvtIryuog8t2xaKAFZhSeib0pHQAjrQVPiyoJYztazFCXUs3azOpl6-BACizp_5ityBVO1VYGuBH-E-gEej4AZv9aPoFT0QNxEFt8rb6pwHM?tsid\u00111000153&auth_token=5_1794344437_W-0YZyylOm8gbgwfqDWdF1ENcfs05uSejQEKdKEJP6w&contact_id\ufffdf05452&expires\u001794690037",
+      "source": "ZipRecruiter",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:20.760310+00:00"
+    },
+    {
+      "title": "UPS Global Finance Summer 2027 Analytics Internship",
+      "company": "UPS",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4460949326/?trackingId=9XjJNc2zFRNWSNDoXTkTew%3D%3D&refId=T9wHxzkzzU85cUZQms53jQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BniWVlJHTSXOgXlektUVmvA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig)D8yTsRCikIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4460949326_ssid_8694209842_fmid_q9jfse~mwazp7s1~co_crv_7&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4460949326_ssid_8694209842_fmid_q9jfse~mwazp7s1~co_crv_7-null-q9jfse~mwazp7s1~co-null-null&eid=q9jfse-mwazp7s1-co&otpToken=Yzg3ODVjOWQ4YzZlNmM3OTRlMjg4NjkxNzdkNzU5ZmZlYmY0YWJiMjMzN2M1MThkYzIzZjIyYWRlMmRkNTQ3OTRkZDU3NTE4YWQyZDFmOGRlMmI1YzJiMWUwM2JmZDhkZjIyZDk2MjA3NWI2YThkMDYwZTIyZGNmZjQxOTRiZjE4MjRlZjNkYjk1NzQxMzRmMGYsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:internship"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:21.585939+00:00"
+    },
+    {
+      "title": "Analyst, Real Estate",
+      "company": "HR&A Advisors",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4461922653/?trackingId=qY%2BUoe2lFjXKNNj0Elh4pA%3D%3D&refId=9RH7IlvRss3YRgDv3VV8TA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BOBwO6jVfSaW4YMf1cfT%2FCw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1MlCw20zoqkIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4461922653_ssid_15324419412_fmid_q9jfse~mwavew7a~h3_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4461922653_ssid_15324419412_fmid_q9jfse~mwavew7a~h3_crv_4-null-q9jfse~mwavew7a~h3-null-null&eid=q9jfse-mwavew7a-h3&otpToken=NGUxYjhhYzQ0YjE4ZDY4NWU2M2Q0NjRiNTk0NTUxNjJkYjUxNGNjODkwZGM2NTcwZTBkNmVkMTIyMDZiOGQwYTA5MTc4YTlkNWNiYTI1MTZlNTRhMGY5Y2Y0MmU3YjdiMzhkNzlmMzU5ZDAzMzEwYzJjOTFiNTRlNTU5ZTBiYWJiMzMzZThjZWQ4NTE1NDcwZDAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:real estate"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:22.064978+00:00"
+    },
+    {
+      "title": "Manager, Marketing Analytics & Performance Optimization",
+      "company": "Velosio",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4461987187/?trackingIdPqspUII7i0khj00wZDWGw%3D%3D&refId=Lvv6v56d766IpDC3tqhwKA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BDcsyZ0C7QQajRaGv9%2BBdhg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig4K-vgcnGOkcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4461987187_ssid_15324419412_fmid_q9jfse~mwaijxiz~fj_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4461987187_ssid_15324419412_fmid_q9jfse~mwaijxiz~fj_crv_4-null-q9jfse~mwaijxiz~fj-null-null&eid=q9jfse-mwaijxiz-fj&otpToken=MzRlOWI0ZjEyYTljOTI5ZGY1OGE4OGUwYThkNmZiM2U1ZjY5NjcxMjk5YmQwYTBmNTE4MzY4NjU5YjM5MDNiNzQyNGEzNjQ5YTU3MWIxODYwNGUxODYzMTc1YzczZTJiZjQ5MmYxZDFiMDJkZjY5NzBhZWNmOTE2NGE5M2NkMGFhYTEyYWExYzMxOTZjZmJmMjAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:manager"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:23.570589+00:00"
+    },
+    {
+      "title": "Senior Operations Business Analyst \u2013 Capital Fire Protection",
+      "company": "The Home Depot",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4487605835/?trackingId=em1NPYHKowpDwRwJxbnxTA%3D%3D&refId=Lvv6v56d766IpDC3tqhwKA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BDcsyZ0C7QQajRaGv9%2BBdhg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig4K-vgcnGOkcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4487605835_ssid_15324419412_fmid_q9jfse~mwaijxiz~fj_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4487605835_ssid_15324419412_fmid_q9jfse~mwaijxiz~fj_crv_4-null-q9jfse~mwaijxiz~fj-null-null&eid=q9jfse-mwaijxiz-fj&otpToken=MzRlOWI0ZjEyYTljOTI5ZGY1OGE4OGUwYThkNmZiM2U1ZjY5NjcxMjk5YmQwYTBmNTE4MzY4NjU5YjM5MDNiNzQyNGEzNjQ5YTU3MWIxODYwNGUxODYzMTc1YzczZTJiZjQ5MmYxZDFiMDJkZjY5NzBhZWNmOTE2NGE5M2NkMGFhYTEyYWExYzMxOTZjZmJmMjAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:senior"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:23.570618+00:00"
+    },
+    {
+      "title": "Process Optimization Analyst",
+      "company": "W. R. Berkley Corporation",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4426373321/?trackingId=H9v0qWSG1qpcdPyBGOsz8w%3D%3D&refId/ETUOexJMBObKL4bL88%2Bg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B71prWcCQTXyScA95YQ%2BMeg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1RhuPzXIcWkcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4426373321_ssid_8352402866_fmid_q9jfse~mwae9lay~2i_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4426373321_ssid_8352402866_fmid_q9jfse~mwae9lay~2i_crv_2-null-q9jfse~mwae9lay~2i-null-null&eid=q9jfse-mwae9lay-2i&otpToken=MDhjMGU4ZTYzMTJmMTdmZmIwM2MzM2YyMzJkYTA4ZjM2N2FjODUyMTIwMzZiNmVlOGZlMjA1NGZlMDE3ZTVlOGUwOTcyODE2OTNiZjU5MTY0MTUzM2ZkMTUyNTJlYTU1NjY3Yzk2YzI0OTM1NTgxNWJlOWM5MWE0N2FkNDliZmVlZGU3YmU5OTk3ZmU5ZDkxMmMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:24.036020+00:00"
+    },
+    {
+      "title": "OneStream Analyst",
+      "company": "Koch",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4470505440/?trackingId=p3Y32AoAXwVUlSS2BQnaWg%3D%3D&refId/ETUOexJMBObKL4bL88%2Bg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B71prWcCQTXyScA95YQ%2BMeg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1RhuPzXIcWkcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4470505440_ssid_8352402866_fmid_q9jfse~mwae9lay~2i_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4470505440_ssid_8352402866_fmid_q9jfse~mwae9lay~2i_crv_2-null-q9jfse~mwae9lay~2i-null-null&eid=q9jfse-mwae9lay-2i&otpToken=MDhjMGU4ZTYzMTJmMTdmZmIwM2MzM2YyMzJkYTA4ZjM2N2FjODUyMTIwMzZiNmVlOGZlMjA1NGZlMDE3ZTVlOGUwOTcyODE2OTNiZjU5MTY0MTUzM2ZkMTUyNTJlYTU1NjY3Yzk2YzI0OTM1NTgxNWJlOWM5MWE0N2FkNDliZmVlZGU3YmU5OTk3ZmU5ZDkxMmMsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:24.036063+00:00"
+    },
+    {
+      "title": "Payments Analyst",
+      "company": "SRS Acquiom",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4472211313/?trackingId=u3r8JP0YSGhchEPUwu%2F%2FRQ%3D%3D&refId=JeaYVcKYSQAMYd%2BN8hR43w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2Fo23ny%2B4T76zOIboj6Nu8A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000bV_GK1_PijIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4472211313_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4472211313_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4-null-q9jfse~mwa1en3v~3-null-null&eid=q9jfse-mwa1en3v-3&otpToken=ZjY4MmNhMmEyMTMxNWVkZDdiYjMxMTM0ZGE2MjU4NGUyMGFiYTJiZmUyMzAyNmQyMDM0NWE0ZjJhZjgwNzlhNTVkNDE5MTYzNjRiZjI1MDUxMjY0NjM1OWEyYmRkNjNkYmVlZTg3NmYzMTA2NGE2OTE3N2ZmNmQ4M2Y0MmFkZWZjMjk3ZDQxMDkxYzE3MDkzZTksMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "jd_term:onsite_or_hybrid"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T22:03:25.772575+00:00"
+    },
+    {
       "title": "Senior Strategic Data Analyst",
       "company": "University of South Florida",
       "location": "Greater Tampa Bay Area",
@@ -18253,222 +18479,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-05T19:38:14.984782+00:00"
-    },
-    {
-      "title": "Consultant, Banking & Capital Markets Transformation",
-      "company": "Deloitte",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4478725431/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.985031+00:00"
-    },
-    {
-      "title": "Pharma & MedTech End-to-End Supply Chain, Sr. Associate",
-      "company": "PwC",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4469939583/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr."
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.985364+00:00"
-    },
-    {
-      "title": "Senior Associate, Telecom & Digital Infrastructure Practice",
-      "company": "Alvarez & Marsal",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486815601/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.985584+00:00"
-    },
-    {
-      "title": "Commercial Finance Analyst - HDGT, Americas",
-      "company": "GE Vernova",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487076855/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:finance"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.985861+00:00"
-    },
-    {
-      "title": "AI Value Management Specialist",
-      "company": "Hitachi Energy",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4479050428/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.986170+00:00"
-    },
-    {
-      "title": "Performance Improvement Supply Chain Optimization Senior Consultant",
-      "company": "Crowe",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486468863/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.986508+00:00"
-    },
-    {
-      "title": "Sr. Financial Analyst",
-      "company": "NCR Voyix",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4484691790/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr."
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.986736+00:00"
-    },
-    {
-      "title": "Principal Analyst",
-      "company": "ECG",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487208501/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:principal"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.986970+00:00"
-    },
-    {
-      "title": "Senior Analyst, Investment Client Consulting",
-      "company": "WTW",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487561567/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.987197+00:00"
-    },
-    {
-      "title": "Senior Cost Specialist with Security Clearance",
-      "company": "Quantech Services Inc.",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486776053/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:14.987407+00:00"
-    },
-    {
-      "title": "Senior Analytics Engineer, Tableau",
-      "company": "Resmed",
-      "location": "Peachtree Corners, GA",
-      "url": "https://www.linkedin.com/jobs/view/4480522392/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.457731+00:00"
-    },
-    {
-      "title": "Engineer III, Global Technology - Data Solutions",
-      "company": "Expeditors",
-      "location": "Ellenwood, GA",
-      "url": "https://www.linkedin.com/jobs/view/4485517018/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:iii"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.458053+00:00"
-    },
-    {
-      "title": "Senior Data Engineer - Finance",
-      "company": "Circle",
-      "location": "Atlanta Metropolitan Area",
-      "url": "https://www.linkedin.com/jobs/view/4484637176/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.458366+00:00"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Evlo AI",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486792462/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.458618+00:00"
-    },
-    {
-      "title": "Data Engineer (Data Architecture & BI)",
-      "company": "Jaipur Living",
-      "location": "Acworth, GA",
-      "url": "https://www.linkedin.com/jobs/view/4485516564/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.458913+00:00"
-    },
-    {
-      "title": "Sr. Cloud Engineer",
-      "company": "Mohawk Industries",
-      "location": "Kennesaw, GA",
-      "url": "https://www.linkedin.com/jobs/view/4478145798/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:sr."
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.459252+00:00"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Unum",
-      "location": "Dunwoody, GA",
-      "url": "https://www.linkedin.com/jobs/view/4487014011/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.459512+00:00"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Capgemini",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/jobs/view/4486303015/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:38:22.459737+00:00"
     }
   ]
 }
