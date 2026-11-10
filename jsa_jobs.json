@@ -1644,25 +1644,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1c77cc6ccvu0H",
-      "company": "RemoteHunter",
-      "title": "Revenue Operations Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4487612566/?trackingId�oorqMHN%2FCj20TLcMlr2A%3D%3D&refId=JeaYVcKYSQAMYd%2BN8hR43w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2Fo23ny%2B4T76zOIboj6Nu8A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000bV_GK1_PijIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4487612566_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4487612566_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4-null-q9jfse~mwa1en3v~3-null-null&eid=q9jfse-mwa1en3v-3&otpToken=ZjY4MmNhMmEyMTMxNWVkZDdiYjMxMTM0ZGE2MjU4NGUyMGFiYTJiZmUyMzAyNmQyMDM0NWE0ZjJhZjgwNzlhNTVkNDE5MTYzNjRiZjI1MDUxMjY0NjM1OWEyYmRkNjNkYmVlZTg3NmYzMTA2NGE2OTE3N2ZmNmQ4M2Y0MmFkZWZjMjk3ZDQxMDkxYzE3MDkzZTksMiwx",
-      "source": "LinkedIn",
-      "status": "New",
-      "viewed": true,
-      "dateAdded": "2026-11-10T22:03:25.772637+00:00",
-      "notes": "",
-      "enriched": true,
-      "via": "email",
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a1c66bf309_RqK",
       "company": "Distalmotion",
       "title": "Commercial Systems Analyst (Central Or Eastern time zone)",
@@ -7941,7 +7922,8 @@
     "https://www.linkedin.com/jobs/view/4489135563/",
     "https://www.linkedin.com/jobs/view/4489103191/",
     "https://www.linkedin.com/jobs/view/4488829329/",
-    "https://www.linkedin.com/jobs/view/4489171269/"
+    "https://www.linkedin.com/jobs/view/4489171269/",
+    "https://www.linkedin.com/comm/jobs/view/4487612566/?trackingId�oorqMHN%2FCj20TLcMlr2A%3D%3D&refId=JeaYVcKYSQAMYd%2BN8hR43w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2Fo23ny%2B4T76zOIboj6Nu8A%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000bV_GK1_PijIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4487612566_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4487612566_ssid_8461940610_fmid_q9jfse~mwa1en3v~3_crv_4-null-q9jfse~mwa1en3v~3-null-null&eid=q9jfse-mwa1en3v-3&otpToken=ZjY4MmNhMmEyMTMxNWVkZDdiYjMxMTM0ZGE2MjU4NGUyMGFiYTJiZmUyMzAyNmQyMDM0NWE0ZjJhZjgwNzlhNTVkNDE5MTYzNjRiZjI1MDUxMjY0NjM1OWEyYmRkNjNkYmVlZTg3NmYzMTA2NGE2OTE3N2ZmNmQ4M2Y0MmFkZWZjMjk3ZDQxMDkxYzE3MDkzZTksMiwx"
   ],
   "dismissedKeys": [
     {
@@ -14359,8 +14341,12 @@
     {
       "k": "grifols|plasma logistics business analyst",
       "at": "2026-11-10T21:47:40.064Z"
+    },
+    {
+      "k": "remotehunter|revenue operations analyst",
+      "at": "2026-11-10T22:51:57.792Z"
     }
   ],
   "lastRun": "2026-11-10T22:03:45.174798+00:00",
-  "savedAt": "2026-11-10T22:51:49.012Z"
+  "savedAt": "2026-11-10T22:51:57.792Z"
 }
