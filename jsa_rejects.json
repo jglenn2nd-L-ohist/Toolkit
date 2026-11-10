@@ -1,6 +1,44 @@
 {
   "rejects": [
     {
+      "title": "Marketing Lifecycle Analyst",
+      "company": "State Farm",
+      "location": "Tempe, AZ",
+      "url": "https://www.linkedin.com/comm/jobs/view/4486994923/?trackingId=0jtPd1LD%2FnuhUrDxj6jvtA%3D%3D&refId=x4e%2Ft68ib7L61qqrKy7C%2BQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2jcqstK%2FSSujVFvpYY1QcA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig)1uLSimc2jcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4486994923_ssid_9107021378_fmid_q9jfse~mw9bopp5~da_crv_8&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4486994923_ssid_9107021378_fmid_q9jfse~mw9bopp5~da_crv_8-null-q9jfse~mw9bopp5~da-null-null&eid=q9jfse-mw9bopp5-da&otpToken=ODEzNDYyOGM4ZTlmNjc4ZGI2NDMxZTVjYzlkYjQ3MWM3NTQzODZiODVlYmVlNzJjNWYxNmY0OTcxOTMxYjYyMWI0N2JhYjQ0OGNjMzllNGRhNDBlNjQxMTU2NTVkNTNmYzJmNDUzYzNkNWJhYTA4YjUwYTk4YTcxZmQ3MGU2M2U3Y2JiODNiZTJkZGRhZTQ2YTIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "out_of_area:AZ"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T00:35:32.555737+00:00"
+    },
+    {
+      "title": "Intern - Health Automation & Analytics, Provider Advisory - Campus 2027",
+      "company": "Guidehouse",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4488401359/?trackingId=ZAFhrBvVub%2FcFGY2qXUWqA%3D%3D&refId=CN%2BJ2e4L6qIxsV1zh%2BUgbw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BpWdpVLdrRpS%2FTLIeW%2BXFYQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig)1uLSimc2jcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4488401359_ssid_8694209842_fmid_q9jfse~mw9bopp4~of_crv_8&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4488401359_ssid_8694209842_fmid_q9jfse~mw9bopp4~of_crv_8-null-q9jfse~mw9bopp4~of-null-null&eid=q9jfse-mw9bopp4-of&otpToken=YjYzODE5ODY0MTI0OWUxMmIwZDAyYTNhNzAwYTE4MTgxMWZlYmIwNWU0NTNkZDJlZTBlNTA5NTMwNDdiYTVlMTIyYmRkNjBiNDZhMzFkMmM4Yjg3NjEyYjE0NDU1NDBhOGJkNzc4YzU4MGQ4ZDcyODc2ZjY4NDc4N2UwNGNjMzY3Y2EzNGZkOTU4NmI3ZDI2ZWQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern",
+        "clearance_required"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T00:35:34.922761+00:00"
+    },
+    {
+      "title": "Risk Analyst",
+      "company": "Invesco",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4463132485/?trackingId=dSguHznkiWmdGWRrBthu9Q%3D%3D&refId=Pp%2BJD9%2BoUD3I7c5aeo48mg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BcOhm%2FW5fS3qWj9yo1XboYg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1_G7j0J2MOisw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4463132485_ssid_8694211818_fmid_q9jfse~mw8lysw2~wr_crv_6&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4463132485_ssid_8694211818_fmid_q9jfse~mw8lysw2~wr_crv_6-null-q9jfse~mw8lysw2~wr-null-null&eid=q9jfse-mw8lysw2-wr&otpToken=MTg3MDMwM2M5MDA5Yjc2YzQ2NmQwNTY5YjE4MjAxMzEyZWI0NzM4YzgyMGI2MjViYzgyMzQwMGY0OWNhNTEyOTg3NDFjNDJkOTQ3MTEwY2IxYmUwNzdlMTY4MjllN2FiMTlmOWY5NmM1YWI5MGQ5ZjRjMTBjZDQzOGExYTk3YmY1NTBjNTAzNWE1YzRlODM1MjAsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:risk"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-10T00:35:35.556449+00:00"
+    },
+    {
       "title": "Advanced Analytics Analyst",
       "company": "RaceTrac",
       "location": "Atlanta Metropolitan Area",
@@ -18320,43 +18358,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-05T19:45:12.515326+00:00"
-    },
-    {
-      "title": "Reporting & Data Analyst",
-      "company": "Paul Logistics",
-      "location": "Tulsa, OK",
-      "url": "https://www.linkedin.com/jobs/view/4487047392/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:OK"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:45:12.515569+00:00"
-    },
-    {
-      "title": "Lead Product Analyst, Content Supply & Understanding",
-      "company": "Scribd, Inc.",
-      "location": "Dallas, TX",
-      "url": "https://www.linkedin.com/jobs/view/4478189682/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:45:18.607778+00:00"
-    },
-    {
-      "title": "Lead Product Analyst, CDS Adoption & Engagement",
-      "company": "Wolters Kluwer",
-      "location": "Massachusetts, United States",
-      "url": "https://www.linkedin.com/jobs/view/4452777517/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:lead",
-        "out_of_area:MA"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-05T19:45:18.608107+00:00"
     }
   ]
 }
