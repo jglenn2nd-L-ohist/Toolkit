@@ -96,6 +96,28 @@ def alt_key(j):
     return norm_company(j.get('company')) + '|' + norm_title(j.get('title'))
 
 
+def _company_root(c):
+    """'A Full Renovation – Residential Remodeling' -> 'a full renovation'.
+    Employers often post one job under several LinkedIn company pages that share a root name."""
+    return norm_company(re.split(r'\s[–—|-]\s|,|\(', c or '')[0])
+
+
+def _title_core(t):
+    """Title with level markers removed: 'Business Analyst II' -> 'business analyst'."""
+    t = re.sub(r'\b(i{1,3}|iv|[1-4]|level \w+|entry level|junior|jr)\b', ' ', norm_title(t))
+    return re.sub(r'\s+', ' ', t).strip()
+
+
+def near_key(j):
+    """Looser identity than alt_key: company root + title core + location. None when the
+    company is unknown ('See posting'), because unrelated employers would collide."""
+    root = _company_root(j.get('company'))
+    if not root or root == 'see posting':
+        return None
+    loc = re.sub(r'[^a-z]+', ' ', (j.get('location') or '').lower()).strip()
+    return root + '|' + _title_core(j.get('title')) + '|' + loc
+
+
 def dismissed_keys(data):
     """company|title keys you removed in the app within DISMISS_DAYS."""
     cutoff = datetime.now(timezone.utc).timestamp() - DISMISS_DAYS * 86400
@@ -125,11 +147,21 @@ def merge_jobs(token, new_jobs, rejects, run_stat, message, retries=4, replace_i
         dismissed = {d.lower().rstrip('/') for d in data.get('dismissed', [])}
         seen_u = {url_key(j) for j in jobs if j.get('url')} | {url_key({'url': d}) for d in dismissed}
         seen_a = {alt_key(j) for j in jobs} | dismissed_keys(data)
-        added = []
+        seen_n = {near_key(j) for j in jobs} - {None}
+        added, near_dupes = [], 0
         for j in new_jobs:
             if url_key(j) in seen_u or alt_key(j) in seen_a:
                 continue
+            nk = near_key(j)
+            if nk and nk in seen_n:
+                near_dupes += 1                 # same job under another company page / level label
+                continue
             seen_u.add(url_key(j)); seen_a.add(alt_key(j)); added.append(j)
+            if nk:
+                seen_n.add(nk)
+        if near_dupes:
+            print(f'  {near_dupes} near-duplicate(s) dropped (same company root + title + location)')
+            run_stat['nearDupes'] = near_dupes
 
         now = datetime.now(timezone.utc).isoformat()
         data['jobs'] = added + jobs

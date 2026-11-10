@@ -320,6 +320,14 @@ def main():
     rejects_data, _ = jsa_store.read(github_token, jsa_store.REJECTS_FILE, {'rejects': []})
     existing_jobs = current_data.get('jobs', [])
     last_run = current_data.get('lastRun')
+
+    # The scheduled run is a BACKUP: the laptop's daily task starts this harvest on demand.
+    # If a harvest already ran in the last 10 hours, the backup has nothing to do.
+    if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and last_run:
+        ago = (datetime.now(timezone.utc) - datetime.fromisoformat(last_run.replace('Z', '+00:00'))).total_seconds() / 3600
+        if ago < 10:
+            print(f"Backup schedule: last harvest was {ago:.1f}h ago — nothing to do.")
+            return
     print(f"Current: {len(existing_jobs)} jobs, lastRun: {last_run}")
 
     seen_u = {jsa_store.url_key(j) for j in existing_jobs + rejects_data['rejects'] if j.get('url')}
