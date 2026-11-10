@@ -2,10 +2,12 @@ name: JSA Daily Harvest
 
 on:
   schedule:
-    - cron: '0 13 * * 1-5'   # 9am EDT Mon-Fri (primary)
-    - cron: '0 17 * * 1-5'   # 1pm EDT Mon-Fri (backup if primary skipped)
-  workflow_dispatch:           # Manual trigger
-  # Last refreshed: 2026-09-23
+    # BACKUP ONLY. The laptop's daily task starts this harvest on demand (it begins within a
+    # minute). This scheduled run skips itself if a harvest already ran in the last 10 hours.
+    # GitHub runs schedules late under load, especially on the hour, so this uses minute 23.
+    # Times are UTC: 18:23 UTC = 1:23 PM Eastern in winter, 2:23 PM in summer.
+    - cron: '23 18 * * 1-5'
+  workflow_dispatch:           # laptop task + app Run button
 
 jobs:
   harvest:
