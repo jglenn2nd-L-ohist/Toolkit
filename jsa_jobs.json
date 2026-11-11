@@ -1644,6 +1644,19 @@
   ],
   "jobs": [
     {
+      "id": "mwc5qnon4mo6",
+      "company": "PracHub",
+      "title": "Data Analyst",
+      "location": "Remote",
+      "salary": "$70-95000",
+      "url": "https://wellfound.com/jobs?job_listing_slug=4971472-junior-software-engineer-clone",
+      "source": "Other",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-11T13:31:20.807Z",
+      "notes": ""
+    },
+    {
       "id": "mwc5gizwy4fz",
       "company": "iSPOT",
       "title": "Associate Data Analyst",
@@ -14361,5 +14374,5 @@
     }
   ],
   "lastRun": "2026-11-10T22:03:45.174798+00:00",
-  "savedAt": "2026-11-11T13:23:35.582Z"
+  "savedAt": "2026-11-11T13:31:20.807Z"
 }
