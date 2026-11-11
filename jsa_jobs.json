@@ -1651,8 +1651,8 @@
       "salary": "$76,787 - $92,916",
       "url": "https://job-boards.greenhouse.io/ispottv/jobs/4742654005?gh_src=1e1873425us&jr_id=6ad257ffc4290cef1412a59d",
       "source": "LinkedIn",
-      "status": "New",
-      "viewed": false,
+      "status": "Applied",
+      "viewed": true,
       "dateAdded": "2026-11-11T13:23:28.172Z",
       "notes": ""
     },
@@ -14361,5 +14361,5 @@
     }
   ],
   "lastRun": "2026-11-10T22:03:45.174798+00:00",
-  "savedAt": "2026-11-11T13:23:28.172Z"
+  "savedAt": "2026-11-11T13:23:35.582Z"
 }
