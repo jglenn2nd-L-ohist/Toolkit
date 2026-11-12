@@ -1659,66 +1659,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1d10a57a77k8-",
-      "company": "STV",
-      "title": "Business Intelligence Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488232884/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:34:38.375177+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10a5eb56fZH",
-      "company": "Siemens",
-      "title": "Data Management Analyst",
-      "location": "Peachtree Corners, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489027199/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:34:40.181614+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10a665aDCxI",
-      "company": "Colliers Engineering & Design",
-      "title": "SUE (Subsurface Utility Engineering) Data Analyst/GIS Specialist",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489051583/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:34:42.138262+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d10aaa66ouqi",
       "company": "LexisNexis Risk Solutions",
       "title": "Technical Business Analyst II",
@@ -1807,46 +1747,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1d10b0cc098mF",
-      "company": "BoF Careers",
-      "title": "Tory Burch Logistics Analyst",
-      "location": "McDonough, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489063863/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:35:24.736347+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10b11b0eVf8",
-      "company": "Kennesaw State University",
-      "title": "Operations Analyst, Housing",
-      "location": "Kennesaw, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488276089/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:35:26.000448+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d10ca894_R9h",
       "company": "Zion Cloud Solutions",
       "title": "Technical Business Analyst – Customer Implementation",
@@ -1867,66 +1767,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1d10d57317TK9",
-      "company": "Ferguson",
-      "title": "DC Data Analyst",
-      "location": "Concord, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490072916/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:37:54.865224+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10d60bcW4RM",
-      "company": "U.S. Bank",
-      "title": "Reporting Analyst - AML",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488634150/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-12T18:37:57.308439+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10d65f3ulnn",
-      "company": "Vallen USA",
-      "title": "Sales Operations Associate",
-      "location": "Belmont, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490393679/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:37:58.643490+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1d10d9a01aAJF",
@@ -1951,86 +1791,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1d10dd079EZIL",
-      "company": "RCS Logistics Inc.",
-      "title": "Global Air Operations Analyst",
-      "location": "Charlotte Metro",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489151519/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:38:25.913073+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10dd863ppXm",
-      "company": "CCR Commercial Refrigeration",
-      "title": "Sales Operations Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490344782/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:38:27.939226+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10e03d4XbjK",
-      "company": "Raas Infotek",
-      "title": "Data Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488365860/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:38:39.060203+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d10ee8a1Gk-i",
-      "company": "Paymentus",
-      "title": "HR Data Analyst",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490013287/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-12T18:39:37.633533+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d10f4414DBgU",
       "company": "Gravity IT Resources",
       "title": "Business Analyst with SQL",
@@ -2051,46 +1811,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1d10f921bl7zI",
-      "company": "Ahold Delhaize USA",
-      "title": "IT Systems Analyst - WMS & Transportation Systems",
-      "location": "Salisbury, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4482066951/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-12T18:40:21.019509+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d11011fdTG94",
-      "company": "Strategic Resources International Inc",
-      "title": "Data Analyst",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488521045/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:40:53.757043+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1d11070aaUf8D",
@@ -2115,46 +1835,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1d1109fcfvDJq",
-      "company": "BioSpace",
-      "title": "IT Operations Analyst",
-      "location": "Clayton, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489914118/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-12T18:41:30.063980+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d110a81byV1V",
-      "company": "Novo Nordisk",
-      "title": "IT Operations Analyst",
-      "location": "Clayton, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4487420276/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-12T18:41:32.187217+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d1125509AF8E",
       "company": "Highbrow Technology Inc",
       "title": "Business Analyst / Solution Designer - Sharepoint",
@@ -2175,46 +1855,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1d112b0e7eg3l",
-      "company": "Syntax",
-      "title": "System Analyst, Managed Services",
-      "location": "Morrisville, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490507083/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:43:45.511860+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d1133625O3q_",
-      "company": "Software Technology Inc.",
-      "title": "Systems Analyst - Consultant",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489993929/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:44:19.621036+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1d1133ef7b4KT",
@@ -2415,86 +2055,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1d11720cedjlI",
-      "company": "Raymond James",
-      "title": "Alternative Investments Operations Analyst",
-      "location": "St. Petersburg, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488260528/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:48:36.302192+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d117460feKGr",
-      "company": "Core-Mark International",
-      "title": "Business Analyst",
-      "location": "Westlake, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489073039/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:48:45.839062+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d117519axtGX",
-      "company": "Torentify",
-      "title": "Data Analyst - Operations (Remote)",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490355734/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:48:48.794474+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
-      "id": "1a1d1176dbdhFgv",
-      "company": "Ladders",
-      "title": "Go-To-Market Data Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488511618/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:48:55.997830+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d11772ef1kbR",
       "company": "Superworq",
       "title": "Marketing Analyst",
@@ -2517,26 +2077,6 @@
       "status": "Review"
     },
     {
-      "id": "1a1d1177a47OqGD",
-      "company": "RemoteHunter",
-      "title": "Data and Insights Analyst",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489277985/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:48:59.207991+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a1d117810dThg6",
       "company": "John Soules Foods",
       "title": "Consumer and Retail Data Analyst",
@@ -2557,26 +2097,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "Review"
-    },
-    {
-      "id": "1a1d1180064xgWz",
-      "company": "UTHealth Houston",
-      "title": "Research and Sponsored Projects Administration Business Systems Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490361620/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-12T18:49:33.540494+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
     },
     {
       "id": "1a1d07d9378Y6t7",
@@ -9331,7 +8851,31 @@
     "https://www.linkedin.com/jobs/view/4489638974/",
     "https://www.linkedin.com/jobs/view/4487851476/",
     "https://www.linkedin.com/jobs/view/4489930320/",
-    "https://www.linkedin.com/jobs/view/4488224777/"
+    "https://www.linkedin.com/jobs/view/4488224777/",
+    "https://www.linkedin.com/jobs/view/4488232884/",
+    "https://www.linkedin.com/jobs/view/4489027199/",
+    "https://www.linkedin.com/jobs/view/4489051583/",
+    "https://www.linkedin.com/jobs/view/4489063863/",
+    "https://www.linkedin.com/jobs/view/4488276089/",
+    "https://www.linkedin.com/jobs/view/4490072916/",
+    "https://www.linkedin.com/jobs/view/4488634150/",
+    "https://www.linkedin.com/jobs/view/4490393679/",
+    "https://www.linkedin.com/jobs/view/4489151519/",
+    "https://www.linkedin.com/jobs/view/4490344782/",
+    "https://www.linkedin.com/jobs/view/4488365860/",
+    "https://www.linkedin.com/jobs/view/4490013287/",
+    "https://www.linkedin.com/jobs/view/4482066951/",
+    "https://www.linkedin.com/jobs/view/4488521045/",
+    "https://www.linkedin.com/jobs/view/4489914118/",
+    "https://www.linkedin.com/jobs/view/4487420276/",
+    "https://www.linkedin.com/jobs/view/4490507083/",
+    "https://www.linkedin.com/jobs/view/4489993929/",
+    "https://www.linkedin.com/jobs/view/4488260528/",
+    "https://www.linkedin.com/jobs/view/4489073039/",
+    "https://www.linkedin.com/jobs/view/4490355734/",
+    "https://www.linkedin.com/jobs/view/4488511618/",
+    "https://www.linkedin.com/jobs/view/4489277985/",
+    "https://www.linkedin.com/jobs/view/4490361620/"
   ],
   "dismissedKeys": [
     {
@@ -15989,8 +15533,104 @@
     {
       "k": "crump group|supply chain analyst",
       "at": "2026-11-12T18:34:05.850Z"
+    },
+    {
+      "k": "stv|business intelligence analyst",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "siemens|data management analyst",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "colliers engineering design|sue subsurface utility engineering data analyst gis specialist",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "bof careers|tory burch logistics analyst",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "kennesaw state university|operations analyst housing",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "ferguson|dc data analyst",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "u s bank|reporting analyst aml",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "vallen usa|sales operations associate",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "rcs logistics|global air operations analyst",
+      "at": "2026-11-12T21:22:30.444Z"
+    },
+    {
+      "k": "ccr commercial refrigeration|sales operations analyst",
+      "at": "2026-11-12T21:22:30.445Z"
+    },
+    {
+      "k": "raas infotek|data analyst",
+      "at": "2026-11-12T21:22:30.445Z"
+    },
+    {
+      "k": "paymentus|hr data analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "ahold delhaize usa|it systems analyst wms transportation systems",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "strategic resources international|data analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "biospace|it operations analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "novo nordisk|it operations analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "syntax|system analyst managed services",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "software technology|systems analyst consultant",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "raymond james|alternative investments operations analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "core mark international|business analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "torentify|data analyst operations",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "ladders|go to market data analyst",
+      "at": "2026-11-12T21:22:30.447Z"
+    },
+    {
+      "k": "remotehunter|data and insights analyst",
+      "at": "2026-11-12T21:22:30.448Z"
+    },
+    {
+      "k": "uthealth houston|research and sponsored projects administration business systems analyst",
+      "at": "2026-11-12T21:22:30.448Z"
     }
   ],
   "lastRun": "2026-11-12T16:01:38.099300+00:00",
-  "savedAt": "2026-11-12T21:21:25.228Z"
+  "savedAt": "2026-11-12T21:22:30.448Z"
 }
