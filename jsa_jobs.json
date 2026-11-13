@@ -1,37 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-20T03:04:15.450150+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 5,
-          "review": 0,
-          "reject": 270
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 3
-        }
-      },
-      "reasons": {
-        "title_excluded": 176,
-        "title_not_target": 70,
-        "out_of_area": 43,
-        "healthcare": 18,
-        "staffing_outside_atlanta": 12,
-        "title_unlisted": 10,
-        "foreign": 3,
-        "remote_unverified": 2,
-        "clearance_required": 1
-      },
-      "found": 278,
-      "opened": 9,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-20T14:22:51.185967+00:00",
       "runner": "proactive",
       "rules": "2026-10-09.1",
@@ -1658,9 +1627,70 @@
       "cards": 4926,
       "searches": 66,
       "complete": 40
+    },
+    {
+      "at": "2026-11-13T23:44:03.797406+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 6,
+          "review": 0,
+          "reject": 21
+        }
+      },
+      "reasons": {
+        "title_unlisted": 7,
+        "title_excluded": 7,
+        "staffing_outside_atlanta": 4,
+        "out_of_area": 4,
+        "healthcare": 2,
+        "clearance_required": 1
+      },
+      "messages": 58,
+      "found": 148,
+      "known": 121
     }
   ],
   "jobs": [
+    {
+      "id": "1a1d74b3ce7LGpL",
+      "company": "Visionaire Partners",
+      "title": "Entry Level Data Analyst",
+      "location": "Georgia, United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4489040173/?trackingId=p%2BsiUM9YLe4guGnXi14DXA%3D%3D&refId=USk9e13c2TjtiY9LQRsu6g%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B5dMi4G%2FZQ1SKv7%2FesEK9bQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000f7XvNTn1ypcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4489040173_ssid_5216629873_fmid_q9jfse~mwfile8r~9m_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4489040173_ssid_5216629873_fmid_q9jfse~mwfile8r~9m_crv_5-null-q9jfse~mwfile8r~9m-null-null&eid=q9jfse-mwfile8r-9m&otpToken=N2U3YjNmZjg1NTFmMWUxOGFiMDliMTdiY2E4Yjg5M2FiN2NjMmFhNzQzYWZhYzAwYzdiODJjZjI1ZDMyODVmZjAxMmJiMDRiNjJhNjQ3MTdmNTA0ODJiZTRkNGRjMGJmNDQyOWZkMjg4MzMxM2ZkOTYzY2UyODI0MWYzZTJmZjg2YWI4YmYyOWIxYmEwYjgyODYsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-13T23:43:14.663450+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a1d74b421fJC-e",
+      "company": "Southern New Hampshire University",
+      "title": "Market Research and Insights Analyst",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4488618850/?trackingId=WJ0PK7q7TGC5aXrXRqIGvg%3D%3D&refId=4SRPX0PNx4u9CSA7UA1H9Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bo2bbwJk8QnmpcPyGgEi%2BYA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3HsS0hIuT2nIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4488618850_ssid_9107021378_fmid_q9jfse~mwe35kgx~k1_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4488618850_ssid_9107021378_fmid_q9jfse~mwe35kgx~k1_crv_5-null-q9jfse~mwe35kgx~k1-null-null&eid=q9jfse-mwe35kgx-k1&otpToken=Y2U4NTM5NWM1YzM2ZjVhZDQ4MjU4ZGIxNTY1MWE3MjEwOTczMGMyNTZkMzYwNGZlMDhlNjFiNDg3M2UxNWQwZDc2YjU0NTlhNDYwZWViYTdmOWNhNWRmYjMxM2FhODQwNTczN2E0NjM4MmQ5Y2JmZDM3NGI0NDQxZTRjN2M4ZDk1NzYwOTNmNzk2NWQ2MTE3OTcsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-13T23:43:15.999516+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "us_remote",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a1d60cc67en8Zd",
       "company": "City of Atlanta",
@@ -15307,6 +15337,6 @@
       "at": "2026-11-12T21:30:41.803Z"
     }
   ],
-  "lastRun": "2026-11-12T16:01:38.099300+00:00",
-  "savedAt": "2026-11-13T18:12:51.736429+00:00"
+  "lastRun": "2026-11-13T23:44:04.078713+00:00",
+  "savedAt": "2026-11-13T23:44:04.078713+00:00"
 }
