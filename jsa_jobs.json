@@ -1872,7 +1872,7 @@
       "filter_reasons": [],
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
-      "status": "Applied"
+      "status": "Rejected"
     },
     {
       "id": "1a1ad3e6a2bIFQE",
@@ -14908,5 +14908,5 @@
     }
   ],
   "lastRun": "2026-11-16T16:01:47.941727+00:00",
-  "savedAt": "2026-11-16T16:20:21.031Z"
+  "savedAt": "2026-11-16T16:22:52.395Z"
 }
