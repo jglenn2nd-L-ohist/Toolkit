@@ -1,35 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-20T17:37:20.736467+00:00",
-      "runner": "email",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 2,
-          "review": 0,
-          "reject": 11
-        },
-        "ZipRecruiter": {
-          "pass": 0,
-          "review": 6,
-          "reject": 5
-        }
-      },
-      "reasons": {
-        "location_unknown": 11,
-        "title_unlisted": 9,
-        "title_excluded": 5,
-        "jd_term": 2,
-        "clearance_required": 1,
-        "staffing_outside_atlanta": 1,
-        "healthcare": 1
-      },
-      "messages": 36,
-      "found": 99,
-      "known": 75
-    },
-    {
       "at": "2026-10-20T19:05:23.165776+00:00",
       "runner": "proactive",
       "rules": "2026-10-09.1",
@@ -1652,9 +1623,125 @@
       "cards": 4678,
       "searches": 66,
       "complete": 47
+    },
+    {
+      "at": "2026-11-16T16:38:46.873660+00:00",
+      "runner": "proactive",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 24,
+          "review": 6,
+          "reject": 1497
+        },
+        "Greenhouse": {
+          "pass": 0,
+          "review": 0,
+          "reject": 5
+        }
+      },
+      "reasons": {
+        "title_excluded": 894,
+        "out_of_area": 377,
+        "title_not_target": 329,
+        "healthcare": 144,
+        "title_unlisted": 112,
+        "staffing_outside_atlanta": 62,
+        "remote_unverified": 25,
+        "jd_term": 7,
+        "foreign": 3,
+        "clearance_required": 2,
+        "location_unknown": 1
+      },
+      "found": 1532,
+      "opened": 36,
+      "region": "rotation",
+      "cards": 3670,
+      "searches": 66,
+      "complete": 10
     }
   ],
   "jobs": [
+    {
+      "id": "1a1e52e2597Ujxc",
+      "company": "Elevate",
+      "title": "Revenue & Insights Analyst, Property Sales",
+      "location": "Charlotte, NC",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4491003699/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-11-16T16:26:09.175648+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a1e5313de8hI_H",
+      "company": "Dexian",
+      "title": "Data Analyst (level 3)",
+      "location": "Durham, NC",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4488964371/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-11-16T16:29:32.008526+00:00",
+      "notes": "",
+      "remote_search": false,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a1e53759b8IiEB",
+      "company": "Ledgent Technology",
+      "title": "Data Analyst",
+      "location": "The Woodlands, TX",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4489783089/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-11-16T16:36:12.344035+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
+    {
+      "id": "1a1e538ed4e_f67",
+      "company": "Amazon",
+      "title": "ICQA Data Analyst",
+      "location": "Jefferson, GA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/4490771369/",
+      "source": "LinkedIn",
+      "viewed": false,
+      "dateAdded": "2026-11-16T16:37:55.662240+00:00",
+      "notes": "",
+      "remote_search": true,
+      "via": "proactive",
+      "enriched": true,
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1",
+      "status": "New"
+    },
     {
       "id": "1a1e5166f0faOFE",
       "company": "Evans Transportation",
@@ -15546,5 +15633,5 @@
     }
   ],
   "lastRun": "2026-11-16T16:01:47.941727+00:00",
-  "savedAt": "2026-11-16T16:34:24.926760+00:00"
+  "savedAt": "2026-11-16T16:38:47.325066+00:00"
 }
