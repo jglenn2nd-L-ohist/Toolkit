@@ -1738,7 +1738,7 @@
       "url": "https://www.ziprecruiter.com/ekm/AAF8aRP9kSdWAVkjwfciFEKTG4WuRQDpIKVXm6yORD6YRvkh8xe9IkCQJwEFN5EXqyTPu-_sMl_KihAY4grjMnY11zSDBPI_yQ_tKm-YZvp46Bi7laHqwglxvntjBzkmDghucipqxLBt7fuv_0ykbjmXI8P-7gETPd-nr1XmM6gikBOePffCQN3rS28pAnuacTGQauYlDakGJQNDtotVrCTljA_2YIc0sseJAV836Sgk1VOaYrY8TotE_J483MqKDszUGL0LG_qC2SuFjjMhsJBmBzPnLlsFi02Fs9L6sbhqvIoVtGdD1Udt_UbdaL-8W_eGwOviUStEkTCzboCgeo50pHxCg5JYnDGdL0mFSkDno4JkXEjqv6l7e1pIT0PXx1tNwayTQnqwiKTzWF2lLWUe?tsid\u00111000153",
       "source": "ZipRecruiter",
       "status": "Review",
-      "viewed": false,
+      "viewed": true,
       "dateAdded": "2026-11-16T16:00:49.571226+00:00",
       "notes": "",
       "via": "email",
@@ -15058,5 +15058,5 @@
     }
   ],
   "lastRun": "2026-11-16T16:01:47.941727+00:00",
-  "savedAt": "2026-11-16T16:15:22.329Z"
+  "savedAt": "2026-11-16T16:15:29.697Z"
 }
