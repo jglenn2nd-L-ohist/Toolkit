@@ -1803,28 +1803,6 @@
       "status": "New"
     },
     {
-      "id": "1a1e519a2068vta",
-      "company": "IHG Hotels & Resorts",
-      "title": "Business Intelligence - Data Product Owner",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489714713/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:03:44.774318+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1e51ba646BQP-",
       "company": "Ingersoll Rand",
       "title": "Business Insights & Solutions Analyst",
@@ -1905,28 +1883,6 @@
       "status": "New"
     },
     {
-      "id": "1a1e51bfa29LH0W",
-      "company": "Synechron",
-      "title": "SWIFT Business Analyst (SWIFT BA)",
-      "location": "Charlotte, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489302427/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:06:18.409481+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1e51c0425J7qa",
       "company": "Vision Square INC",
       "title": "Business Analyst - GenAI",
@@ -1987,28 +1943,6 @@
       "status": "New"
     },
     {
-      "id": "1a1e5218789iPig",
-      "company": "Cisco",
-      "title": "Business Systems Analyst",
-      "location": "Durham, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490296586/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:12:22.281620+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
       "id": "1a1e521b504lb0n",
       "company": "Thermo Fisher Scientific",
       "title": "Sales Operations Order Management Specialist II",
@@ -2067,50 +2001,6 @@
       "loc_class": "allowed",
       "filter_version": "2026-10-09.1",
       "status": "New"
-    },
-    {
-      "id": "1a1e52694f1f4lb",
-      "company": "CCI- Computer Consultants International, Inc.",
-      "title": "System Analyst",
-      "location": "South Carolina, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4489791078/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:17:53.393625+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1e5269f3crl6C",
-      "company": "Technix LLC",
-      "title": "Medicaid COBOL Systems Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4488935229/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:17:56.028040+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
     },
     {
       "id": "1a1e526a6d7YC7N",
@@ -2351,28 +2241,6 @@
       "loc_class": "us_remote",
       "filter_version": "2026-10-09.1",
       "status": "New"
-    },
-    {
-      "id": "1a1e5355cfaOGvg",
-      "company": "Galderma",
-      "title": "Supply Chain Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4491004757/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-16T16:34:02.106128+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:erp_implementation"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
     },
     {
       "id": "1a1d07dc041PjS7",
@@ -8472,7 +8340,13 @@
     "https://www.ziprecruiter.com/ekm/AAGnmsRNQPtScBmenbWaTkznjyy1JNtzpmiMSi6qLK7FWpZH6JAIdq4HojRYVNtwg-I8IZuxMSbtgpCkczF3eOEIyBkyVSv_zYCzQbGOYgpu19qQwC9w8JtclUy3diUYAzMpJ0a8XbT3KSYO9sNTLth-llUweVXXcm002QgLoqD_-9mKNAdUHJ_9v1jzCEb7ghiaA0lLxe67AYRf5RvEC96tB9V3BuyODFYL1TGF5U0pEZzEhX7_hn6fj3rbhggTZbyE1duYf1gYcRRp_yPpDCGWWv8U3wwTD3W8vhyrvDUgj-41fPUKc9kmUJ3OvTPQUEDgMPuFsWsTR_WqXY8PJSQ-dAL0cB609M3Abl8hY8v_K4o07IGgJ30VAMNTd_CSMNSNU7KwOx5St4G0Pg-S034_?tsid\u00111000153",
     "https://www.ziprecruiter.com/km/AAG0kRfPFC9TkOx6YBfqpCQVD3tPxq3qTMmWqN2ML_T_5OeQwXqylJmNP_gAiV4M2quyiej0XoJ89C79tzfv5VRcB29Ai0PYkktPp4OnakP5EZ_8E1WlLO1Zh0bgR7iqvIIyjtUyvgJJlW71tGPLgkWjOep-vspOcIg3rOomhSvxXsRPiP68A6PTgrbMZDWvVD-HZ7p9wSwQlQwEF6AdGI-NsDakSJBVsqnVZD66LIjcXkVxpqqpiqp2NsjA0o7l-cCuiXFCcvNtekOZ3hxI28TDCJ5z6r81UDa24wO8j_3bE62KZeA0Qc5uJxrFiTUcLuzE5jRGaqi7LdOlFtHQhgxuYY4AfHyICD8nM9K732rzPc8DBzyc51WJm6F7tav8tkMp31Z_F6ghcd_itLJeu9Lj?tsid\u00111000153&auth_token=5_1794757737_mGEDAsg34mXpyVMSrwf6h0VuKSjV4bA1KAztg44gLys&contact_id�f05452&expires\u001795103337",
     "https://www.ziprecruiter.com/km/AAEddxTFrleKvDiojXxc22WNf5NGY3QqqzIp-VvTlZiyf7fsFjU5IQZUrcRk2UpKmnmZqSIZ1g1ohzPentvgeVVJhl_fRHOWyAchzN63WoFevf5aFc7rDTizdx3aGOfBCaKYIcqCtZ_F93_HrDWK2QAUaIHXJS9QUImyHcgbBFBT__Nlu66WDrTuiy8dkgp-6NgcRCdWGk5cU74qKvA36y1hpk-ndUMewwMlum1Uc3NcvBVTK_0GW2fS0uiinI-MCeMetXxNZ5jQIzr0bp6av_r_WtHBZPunbJY8DQLh57QmrGA4qi7sdrJZr0ZzbC47U1eaK1gz2z-2-slTS7neyuaXZoJlCYVYS_4NTeMstbyuRGVUzQ9MyE7GimH8_kCZN4Evnur7f_GLUn_8Sxxx?tsid\u00111000153&auth_token=5_1794757737_mGEDAsg34mXpyVMSrwf6h0VuKSjV4bA1KAztg44gLys&contact_id�f05452&expires\u001795103337",
-    "https://www.ziprecruiter.com/km/AAELoGMTrcOko1cWxiQCmUntSi3ZxN1JeUeF-q_yiiT2NZ_J2ZK_9YdX4-bkepGS7oO4KuEHbXoUhC7WZWcSXY-8JCgtHD-CaoGlr5eKkdituxKGJ2kKGRleQTfQwgufrYy-fOWqNeG53nPkZ1qHbsPlMlGi0A_ABbo76741rnM5aKmHypmm9yBEwkG4qzQdmowJmhRGmD2jfBvPSALqc22G8N9CBgsz2V2Lro2zCpbiaPQ5IapX_K_UtUYNc2bXI-2kAcBCU21i5oldfumnXPC4pJrGCaIj1Mcjr-85Cc0ejDE3MFgHPF3KjUS7VyUnbUy_O2E5wVYkJ4K_XlAKCK3J1IIxVIOGgYDnvuSsDeQauQ6WTgWIcEXlwIhBkUh_qw8JVgocwPVKuIP4ERXkhuo?tsid\u00111000153&auth_token=5_1794836010_TolCNho-jct2-RnQfdCjfaF9xD99pmQddorfYKxxiEI&contact_id�f05452&expires\u001795181610"
+    "https://www.ziprecruiter.com/km/AAELoGMTrcOko1cWxiQCmUntSi3ZxN1JeUeF-q_yiiT2NZ_J2ZK_9YdX4-bkepGS7oO4KuEHbXoUhC7WZWcSXY-8JCgtHD-CaoGlr5eKkdituxKGJ2kKGRleQTfQwgufrYy-fOWqNeG53nPkZ1qHbsPlMlGi0A_ABbo76741rnM5aKmHypmm9yBEwkG4qzQdmowJmhRGmD2jfBvPSALqc22G8N9CBgsz2V2Lro2zCpbiaPQ5IapX_K_UtUYNc2bXI-2kAcBCU21i5oldfumnXPC4pJrGCaIj1Mcjr-85Cc0ejDE3MFgHPF3KjUS7VyUnbUy_O2E5wVYkJ4K_XlAKCK3J1IIxVIOGgYDnvuSsDeQauQ6WTgWIcEXlwIhBkUh_qw8JVgocwPVKuIP4ERXkhuo?tsid\u00111000153&auth_token=5_1794836010_TolCNho-jct2-RnQfdCjfaF9xD99pmQddorfYKxxiEI&contact_id�f05452&expires\u001795181610",
+    "https://www.linkedin.com/jobs/view/4489714713/",
+    "https://www.linkedin.com/jobs/view/4489302427/",
+    "https://www.linkedin.com/jobs/view/4490296586/",
+    "https://www.linkedin.com/jobs/view/4489791078/",
+    "https://www.linkedin.com/jobs/view/4488935229/",
+    "https://www.linkedin.com/jobs/view/4491004757/"
   ],
   "dismissedKeys": [
     {
@@ -15630,8 +15504,32 @@
     {
       "k": "see posting|sales operations analyst",
       "at": "2026-11-16T16:20:21.031Z"
+    },
+    {
+      "k": "ihg hotels resorts|business intelligence data product owner",
+      "at": "2026-11-16T18:20:00.308Z"
+    },
+    {
+      "k": "synechron|swift business analyst swift ba",
+      "at": "2026-11-16T18:20:00.308Z"
+    },
+    {
+      "k": "cisco|business systems analyst",
+      "at": "2026-11-16T18:20:00.309Z"
+    },
+    {
+      "k": "cci computer consultants international|system analyst",
+      "at": "2026-11-16T18:20:00.309Z"
+    },
+    {
+      "k": "technix|medicaid cobol systems analyst",
+      "at": "2026-11-16T18:20:00.309Z"
+    },
+    {
+      "k": "galderma|supply chain analyst",
+      "at": "2026-11-16T18:20:00.309Z"
     }
   ],
   "lastRun": "2026-11-16T16:01:47.941727+00:00",
-  "savedAt": "2026-11-16T18:19:37.008Z"
+  "savedAt": "2026-11-16T18:20:00.309Z"
 }
