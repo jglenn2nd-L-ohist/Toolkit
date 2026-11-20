@@ -1668,112 +1668,6 @@
   ],
   "jobs": [
     {
-      "id": "1a1f9c10bd0rFHz",
-      "company": "Fulcrum Digital Inc",
-      "title": "Business Analyst",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4490891258/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-20T16:19:00.688194+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1f9c224faJV7B",
-      "company": "National Real Estate Insurance Group",
-      "title": "Data Analyst",
-      "location": "Oklahoma City Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492934406/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-20T16:20:12.666145+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1f9c4befcS_iN",
-      "company": "Superworq",
-      "title": "Data Analytics Engineer",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492568782/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-20T16:23:03.164972+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:onsite_or_hybrid"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a1f9aff3f2WQON",
-      "company": "See posting",
-      "title": "Reporting Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4491444623/?trackingId�MzMYDd9KgOqKWMcY6HsA%3D%3D&refId=0OqBInEzvCBsq0V%2BY5PShQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Byaq%2BXReyTlGev7p42Sjlkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5-null-q9jfse~mwp1j2pb~y6-null-null&eid=q9jfse-mwp1j2pb-y6&otpToken=OTI5NjI4NjU0NGViMDk2NWFiNzg2ZWFkMDNmOTFlYzg0YmFmMTRiZmY4NjAxNGIyM2IxOWE2ZmQxNGFlNWY0YzJjOWFmNWNmNzE3ZTI5ZDQwNTc3MTk3ZDgwMzE3NjU5ZTc3NmM0ZTkyYmVmOTE1Yjc5Y2NiZDZlYjhiZDFjMDViNDk3ZWYyNDU2Y2IzMjJjNDQsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-20T16:00:20.466021+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a1f9affa03YiPM",
-      "company": "See posting",
-      "title": "Customer Service Analytics & Insights Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4482255521/?trackingId=%2BU2s11%2B6UOQYtTFPFgr34A%3D%3D&refId�dd%2BHo2n5VHbea%2F6LYTHQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BEisD%2FxKpT7SeSprfUZ0gZw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2liV2lQGpGysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2-null-q9jfse~mwox8ptw~po-null-null&eid=q9jfse-mwox8ptw-po&otpToken=YTQ3ZTM0ZmRhODEzNjcyYjFiNmNmMzNlYzU0MGVlMzQwMGMyY2YxMTg4ZTgyNDA3MTY3M2E1MTllOTZhZjVjNzBkN2JiMDQ2NjNhY2I5Mzg2NWU3NGQxMzEyYjU5NTY0ZDJiY2JlNmRhMzVmNTY5MWJlMjM3YzNlY2EyYjcwNzAxMDM4NmM1OWUxN2ZlMjllNzQsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-20T16:00:22.019556+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a1e5352188VGB2",
       "company": "One Inc",
       "title": "Data Analyst I",
@@ -8047,7 +7941,12 @@
     "https://www.linkedin.com/jobs/view/4458786842/",
     "https://www.linkedin.com/jobs/view/4492474211/",
     "https://www.linkedin.com/comm/jobs/view/4492443279/?trackingId=XJgSqtQSQcsbHXGiO3hVTw%3D%3D&refId=fT8F774WdXJKKES6eDkwcA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BtYFYPFGSSvCGJjZiB8ac2g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0Gr3Ibvt5qyIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492443279_ssid_8461940610_fmid_q9jfse~mwp5tdaf~nr_crv_1&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492443279_ssid_8461940610_fmid_q9jfse~mwp5tdaf~nr_crv_1-null-q9jfse~mwp5tdaf~nr-null-null&eid=q9jfse-mwp5tdaf-nr&otpToken=YzliYjVlNTZjOWMxOGI4NDg3MzVmNjFhMWM0MmE4Nzk2NDhhNTFlYWQ5ZjM5Yjk2YmJiMWE5ZGJiOTJjNDZhODFiMzQyODNiOTViMWQ4NTY0ODA0NzNhYjgzOTcxM2RjMjZlYTlkNzg0YjQ5MTg2NzUzOTMzMzc2ODE1MDZkYzU3ZmRjMzA2N2JlNzE4ZGFjM2EsMiwx",
-    "https://www.linkedin.com/comm/jobs/view/4490831072/?trackingId=MRLIqUAGSs5EBv83u8gB2Q%3D%3D&refId=0OqBInEzvCBsq0V%2BY5PShQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Byaq%2BXReyTlGev7p42Sjlkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4490831072_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4490831072_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5-null-q9jfse~mwp1j2pb~y6-null-null&eid=q9jfse-mwp1j2pb-y6&otpToken=OTI5NjI4NjU0NGViMDk2NWFiNzg2ZWFkMDNmOTFlYzg0YmFmMTRiZmY4NjAxNGIyM2IxOWE2ZmQxNGFlNWY0YzJjOWFmNWNmNzE3ZTI5ZDQwNTc3MTk3ZDgwMzE3NjU5ZTc3NmM0ZTkyYmVmOTE1Yjc5Y2NiZDZlYjhiZDFjMDViNDk3ZWYyNDU2Y2IzMjJjNDQsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4490831072/?trackingId=MRLIqUAGSs5EBv83u8gB2Q%3D%3D&refId=0OqBInEzvCBsq0V%2BY5PShQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Byaq%2BXReyTlGev7p42Sjlkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4490831072_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4490831072_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5-null-q9jfse~mwp1j2pb~y6-null-null&eid=q9jfse-mwp1j2pb-y6&otpToken=OTI5NjI4NjU0NGViMDk2NWFiNzg2ZWFkMDNmOTFlYzg0YmFmMTRiZmY4NjAxNGIyM2IxOWE2ZmQxNGFlNWY0YzJjOWFmNWNmNzE3ZTI5ZDQwNTc3MTk3ZDgwMzE3NjU5ZTc3NmM0ZTkyYmVmOTE1Yjc5Y2NiZDZlYjhiZDFjMDViNDk3ZWYyNDU2Y2IzMjJjNDQsMiwx",
+    "https://www.linkedin.com/jobs/view/4490891258/",
+    "https://www.linkedin.com/jobs/view/4492934406/",
+    "https://www.linkedin.com/jobs/view/4492568782/",
+    "https://www.linkedin.com/comm/jobs/view/4491444623/?trackingId�MzMYDd9KgOqKWMcY6HsA%3D%3D&refId=0OqBInEzvCBsq0V%2BY5PShQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Byaq%2BXReyTlGev7p42Sjlkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5-null-q9jfse~mwp1j2pb~y6-null-null&eid=q9jfse-mwp1j2pb-y6&otpToken=OTI5NjI4NjU0NGViMDk2NWFiNzg2ZWFkMDNmOTFlYzg0YmFmMTRiZmY4NjAxNGIyM2IxOWE2ZmQxNGFlNWY0YzJjOWFmNWNmNzE3ZTI5ZDQwNTc3MTk3ZDgwMzE3NjU5ZTc3NmM0ZTkyYmVmOTE1Yjc5Y2NiZDZlYjhiZDFjMDViNDk3ZWYyNDU2Y2IzMjJjNDQsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4482255521/?trackingId=%2BU2s11%2B6UOQYtTFPFgr34A%3D%3D&refId�dd%2BHo2n5VHbea%2F6LYTHQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BEisD%2FxKpT7SeSprfUZ0gZw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2liV2lQGpGysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2-null-q9jfse~mwox8ptw~po-null-null&eid=q9jfse-mwox8ptw-po&otpToken=YTQ3ZTM0ZmRhODEzNjcyYjFiNmNmMzNlYzU0MGVlMzQwMGMyY2YxMTg4ZTgyNDA3MTY3M2E1MTllOTZhZjVjNzBkN2JiMDQ2NjNhY2I5Mzg2NWU3NGQxMzEyYjU5NTY0ZDJiY2JlNmRhMzVmNTY5MWJlMjM3YzNlY2EyYjcwNzAxMDM4NmM1OWUxN2ZlMjllNzQsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -15829,8 +15728,28 @@
     {
       "k": "checkout com|data analyst payment success",
       "at": "2026-11-20T21:15:31.663Z"
+    },
+    {
+      "k": "fulcrum digital|business analyst",
+      "at": "2026-11-20T22:09:31.451Z"
+    },
+    {
+      "k": "national real estate insurance group|data analyst",
+      "at": "2026-11-20T22:09:31.451Z"
+    },
+    {
+      "k": "superworq|data analytics engineer",
+      "at": "2026-11-20T22:09:31.452Z"
+    },
+    {
+      "k": "see posting|reporting analyst",
+      "at": "2026-11-20T22:09:31.452Z"
+    },
+    {
+      "k": "see posting|customer service analytics insights analyst",
+      "at": "2026-11-20T22:09:31.452Z"
     }
   ],
   "lastRun": "2026-11-20T16:00:34.324611+00:00",
-  "savedAt": "2026-11-20T22:09:00.162Z"
+  "savedAt": "2026-11-20T22:09:31.452Z"
 }
