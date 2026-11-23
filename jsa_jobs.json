@@ -1678,288 +1678,6 @@
   ],
   "jobs": [
     {
-      "id": "1a2093fa290XdBV",
-      "company": "Deloitte",
-      "title": "Business Data Analyst",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492918861/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:31:35.056798+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a2093ffcb1Likf",
-      "company": "Speria",
-      "title": "Business Analyst , Engineering, Swine Division",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4493213680/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:31:58.129271+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a20943f1f2qo7b",
-      "company": "Lockheed Martin",
-      "title": "Multi Functional Info Systems Analyst - E2",
-      "location": "Marietta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4491936481/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:36:17.522028+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a2094ddabcVPQS",
-      "company": "Highbrow Technology Inc",
-      "title": "Application Systems Analyst (Hybrid/Need Local to NC)",
-      "location": "Raleigh, NC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492616763/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:47:06.940667+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a20951e9460lU-",
-      "company": "US Tech Solutions",
-      "title": "Business Analyst – SQL / SQL Server / Application Testing # 26-29499",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492597613/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:51:32.806227+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a20951f1c0-hEr",
-      "company": "SYSTEMTEC",
-      "title": "Business System Analyst",
-      "location": "Columbia, South Carolina Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492802260/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:51:34.976962+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a20951ffecoCeT",
-      "company": "InterSources Inc",
-      "title": "Technical Business Analyst(UI/UX)",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492591699/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:51:38.604424+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a209520561AVRI",
-      "company": "Technix LLC",
-      "title": "Technical Business Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492314153/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:51:40.001767+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a209521563UeTw",
-      "company": "V Group Inc.",
-      "title": "Information Technology Business Analyst",
-      "location": "Columbia, SC",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492945549/",
-      "source": "LinkedIn",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:51:44.099335+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a20958fd19Cmnb",
-      "company": "NMDP",
-      "title": "Product Analyst, Member Experience",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4492853714/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:59:16.633297+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:sdlc/wireframes/user_stories"
-      ],
-      "loc_class": "us_remote",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a209591e42EO07",
-      "company": "Capax RM",
-      "title": "System Analyst",
-      "location": "Houston, TX",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4493797181/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:59:25.122790+00:00",
-      "notes": "",
-      "remote_search": true,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "review",
-      "filter_reasons": [
-        "jd_term:erp_implementation"
-      ],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "Review"
-    },
-    {
-      "id": "1a2093fb1f33-jh",
-      "company": "MetLife",
-      "title": "Data & Operational Insight Analyst - 21457",
-      "location": "",
-      "salary": "",
-      "url": "https://builtin.com/job/data-operational-insight-analyst-21457/12363958?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a203ca42b1-0d84b055-13cc-46f2-ad04-07c43ec00f98-000000/VTvFiRQcVBnk3piLVrQj2xLa8pcG4",
-      "source": "Builtin",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:31:38.995663+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2093fb1f3Rd72",
-      "company": "Argyle",
-      "title": "Revenue Operations Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://builtin.com/job/revenue-operations-analyst/12355932?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a203ca42b1-0d84b055-13cc-46f2-ad04-07c43ec00f98-000000/sVISpYuBjJiI43tvvOHkHzsbnrEG4",
-      "source": "Builtin",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:31:38.995687+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
       "id": "1a2093fecda7jR2",
       "company": "DHL Supply Chain",
       "title": "Business Data Analyst II",
@@ -1976,126 +1694,6 @@
       "filter_status": "pass",
       "filter_reasons": [],
       "loc_class": "allowed",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2093fee1dS3D8",
-      "company": "See posting",
-      "title": "Criminal Data Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAFz-_hCZfcY6Iy91rSrY3hUMpd09bv5fHM574ATAa4smG1spHr0eIcTGZI1pIDzXc6ynuFf0QBg3DZmi9-I4nGHZW3cvBSLzruPrcU9FZJxEwawBjd7im_c4ewmh5XmpREKup0uSfthB1zlAhZpQmQavJc0szRfpvVbyGfRd_b6ft_6880RFI2jwY4qPsXQzhvOvBuZLc0SBPswGErZt2mTsSI8M8Y_thtNoFsCdP9jNQVxNPTJ3EX8Wls5nyGPcLLriVSCgmMLYW_7Aw4EefdUpI03PhDiEOeJPf32WaP-lF6N5SZTEa8fFMLL1KqIfGZ0BzPcNwgHW7lOmaTBhSsGdCCzQ2BE50lW6DWie44u1I3mGosJ-Q-aISXMf6SNWA6X0vuyxbQjvNkJL4jNnrL0?tsid\u00111000153&auth_token=5_1795366340_jjIXsQjuhTii5WHal2d7CXklCRUwXUffxAl7fPluKho&contact_id�f05452&expires\u001795711940",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:31:54.397260+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2093ff56bcw1V",
-      "company": "See posting",
-      "title": "IT Business Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAHAYMiocdTKf3gpuuspzHX9sgGubtIw91UDrgdhVgRR0kYusu4rk-aNicdoSEyZqzbcbku0kLpejWgHBTL4ApNLkspyxqY3MSZJ-6D_rx1efIlULWP_CYlvzNR_R94Q7LIhTW7EaFWxAakKtRJg76xKyIF50uXToRTA0v1SnhxNMICwjcxhLO2u1tsUjJ8-AJiQ_T2TazFYDIw193OAVyxzD6katXMB_kKNkV3bhgd2xgw5OyLkCNOj2NIKkkjf1gTbdFSth625rMHVW8KaKs1yhNUX2AMXC88ik0EtpGIRApoMWR6XQj6Xf0VKYngNygIn-eutQnzuNSbRpofmqAFXgPAxr8YEczcQ5z1LTvzSGu1XhlLUQxjJ1_bHktSAGwSlUVSxGRwJaaBUfMT7hedd?tsid\u00111000153&auth_token=5_1795274038_F5Tl9ixaiY5QEPmlH80qT55iaVRphcQS48reHz4fdJo&contact_id�f05452&expires\u001795619638",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:31:56.267312+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2093ff56bM5HZ",
-      "company": "See posting",
-      "title": "Data Control Analyst 2",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/km/AAHZrt8wsMS5VAvjHQgv8mzeoGoGxc4rCGra_Pfw30bPowF1tD9wjZOlU_73Wg5-cpmRdoXqJt2eqQLQzd2XeXVD11-bCneOgf4vzEQX9c_l7WeNhfXTO5zic_cQa3v-iKsm0qX4WFN3EItNGmjEUpdlLTSjRCxgAeI6eEl2SXdGfGq3rSyMo2USHijZzMqBu6kChNer0e9Y-DyA1W_p_EeVB4n1oecUTnfPZjcWtQuAeBjfiDM3hGSIuBKpzsgKoApbwbm4KNCtkcwWSN_SMTAe1eImXwKx_Rt5zsZV6h2Q8SWxsS3A_MS_rHX1QwIE9pasfouYojx8wlwxfE0QlOzVwPEIbKbgAzrXUIz2KG5wKJjVO34OETvBNEvjM1vsS0PJWhHSuNVoiTbphx8R?tsid\u00111000153&auth_token=5_1795274038_F5Tl9ixaiY5QEPmlH80qT55iaVRphcQS48reHz4fdJo&contact_id�f05452&expires\u001795619638",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:31:56.267663+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2093ff56b9VZx",
-      "company": "See posting",
-      "title": "Data Analytics Translator (Business Analyst)",
-      "location": "",
-      "salary": "",
-      "url": "https://www.ziprecruiter.com/ekm/AAGdv8mlS5z8WdV83oUszeBr6LuSps-8cbpW0EKD02Ipq5z5gStteE8cUmlMXJGDkd16d8yKOn0uRBfVMHH2Ogwid_zLGfrYEWzO-WmeIJV37rfZg3SasdPluqB_HAArAmjjrmfWhYqMnaJcR7enecaQ_9cqbJaRhfMS1cccbBAwC3yIp7SSIcSkz0BwrVjum3_BRwxfvPIfLf9-7GUVIfPCNqERSIV81W_OO7J2PEseDxRxQUI01o1aekC1J-GOEbIdHTAPupUQZSzuKOrapO9imKuwihXZWpDCEeqlIvP5PfJBmmx_pntl_wUq9LKr40NBfkXhwmfO7T6RC4pulfAXlFJ3fCC7Te-86m4H3rDlzEy12N4RMQ0O4Pf_88byWBCKZ2KJqLrYidVzv_RJfj2O?tsid\u00111000153",
-      "source": "ZipRecruiter",
-      "status": "Review",
-      "viewed": false,
-      "dateAdded": "2026-11-23T16:31:56.267775+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a209400c87xQxT",
-      "company": "State Farm",
-      "title": "Business Analyst",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4492855114/?trackingId�Q5Q%2BWoXaft8Zwd4AYxeA%3D%3D&refId\u00129nlzOxMsi83kX1BaX7nw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BzJpJlJ0LTVGYkpOog8eFpg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0nOKno1W3OBYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492855114_ssid_8709018482_fmid_q9jfse~mwsm4qhu~lh_crv_9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492855114_ssid_8709018482_fmid_q9jfse~mwsm4qhu~lh_crv_9-null-q9jfse~mwsm4qhu~lh-null-null&eid=q9jfse-mwsm4qhu-lh&otpToken=MjEzOTgyY2U1NzAwMzczM2RlZjgwYTIyNmM1NTliNTgxZGVkMmRiNGJhNDQwZWYxODc3NGJkNWIwM2RkYTc3ZGFkNTZhZjY0ZDdjMGE2MDI2NTViNWQ3ZDA0OWY2MzBlNTU2OGZjZjZhMjNkYmU0YjhhMTQ3OWZjMTVmMzI0NGRjZjIwMGU4ZTlkYzU4ZTQwYTAsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:32:02.183359+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
-      "filter_version": "2026-10-09.1"
-    },
-    {
-      "id": "1a2094020c2mp7j",
-      "company": "See posting",
-      "title": "Data Analyst - Payment Success",
-      "location": "",
-      "salary": "",
-      "url": "https://www.linkedin.com/comm/jobs/view/4490480826/?trackingId=tmzZusrxumLxTFGPhUAyTQ%3D%3D&refId=lr0IZ2LcH82MKB1mnRsX9Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2Fdc7N5aSTIOUmHGJpiSCNw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4490480826_ssid_15324419412_fmid_q9jfse~mwp1j2pb~wh_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4490480826_ssid_15324419412_fmid_q9jfse~mwp1j2pb~wh_crv_4-null-q9jfse~mwp1j2pb~wh-null-null&eid=q9jfse-mwp1j2pb-wh&otpToken=N2EwZDg4ODEwNzUyM2RkYzllMWY3ZDE4ZTA4MmUwNzNlNWY4NTJkNWFkNmI0Y2MwYTQ1ZTk5YWJlOWE3MGRjNzRlODFiZWMwMWFkZWY0ZWU2YjY0ZjM4MzczYTI2NTM5MWY5N2M3ZGM3MjdmOGVkNDFmM2VjNGQ1YjhmZTE2MjIxNWEyYzgwMmMyMDQyOTNhOGUsMiwx",
-      "source": "LinkedIn",
-      "status": "Review",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:32:07.362058+00:00",
-      "notes": "",
-      "via": "email",
-      "filter_status": "review",
-      "filter_reasons": [
-        "location_unknown"
-      ],
-      "loc_class": "unknown",
       "filter_version": "2026-10-09.1"
     },
     {
@@ -8415,7 +8013,26 @@
     "https://www.linkedin.com/comm/jobs/view/4492592907/?trackingId=ZEKtcAcCGfeksRhxRLTX%2BA%3D%3D&refId=oIJ%2FQSJxjUeg6atEh4pzxQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwrkCTb8QTA6XhlT2eWukiA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0jhQ19_YNqCsw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4492592907_ssid_8461940610_fmid_q9jfse~mwsyzopc~hc_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4492592907_ssid_8461940610_fmid_q9jfse~mwsyzopc~hc_crv_5-null-q9jfse~mwsyzopc~hc-null-null&eid=q9jfse-mwsyzopc-hc&otpToken=ZDMxYTEzNzc5NjQ3YmIzMmU1YjRkZDc5MjZhMGYwNDU1ZTdmNDQ4YzVhNTg4MTc2MDhiZGM5OTRmNTIzNmY5NjI5ZjBlOTAxM2M3OGM5OGI1MDY4NGQzOWZkZmRjNTcyZDYwYjhmNjVjMmVlZDI4ZDU5YjBmNGIyNDNhNGUwZjgwM2M5MjM5NjA3YTkxYjU3NzQsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4492146268/?trackingId=N9xw4FM5sE7Lk2bxArbAeg%3D%3D&refId=WipjIugbo6ZC1u1O8nyxwQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B6h2u1ImfQYS1HX6txm%2BAag%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3KaBLXjSO2zYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492146268_ssid_5216629873_fmid_q9jfse~mwqgyxi3~ty_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492146268_ssid_5216629873_fmid_q9jfse~mwqgyxi3~ty_crv_5-null-q9jfse~mwqgyxi3~ty-null-null&eid=q9jfse-mwqgyxi3-ty&otpToken=ZTg2ZGUwZjNkOTkzYTIxYjM0ZDcyODFlZjdmMDYzMTJjZGIxMmUzMzBmOTA4MDgzYWQ1Y2Y4ZDFiNDExNzJkMGM4ZWI3MGQzOGE1ZTM5NGU4M2Q1YzQwNzZmZjlmZjI1ZDFkNTdiNzY0ZGI2YmFmODc0YTk1NzdmNjVmYTcyYjRlODkyNTQ3OGVjNjliZDMwYTYsMiwx",
     "https://www.linkedin.com/comm/jobs/view/4492865030/?trackingId=fMqfKg3l8z1nF7y18s%2Fk4A%3D%3D&refId=PB25fM8hm0hFG2E80WufBQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BwbGHEIEUSH2W3rBxSbOfpA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig,-sSWj8v2CIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4492865030_ssid_8758102954_fmid_q9jfse~mwtbumtj~w8_crv_6&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4492865030_ssid_8758102954_fmid_q9jfse~mwtbumtj~w8_crv_6-null-q9jfse~mwtbumtj~w8-null-null&eid=q9jfse-mwtbumtj-w8&otpToken=M2MwYjY3YWFlMjQyOWE0Y2EyYzQxMWE0NzVlMmEwZDllNDE4MDNjYmIxMDExMjM3MDQyYmE4OWEzMWE3OGIxYmVhNWRjMWVmM2QxOGNkNDU2Y2RhMzEzYTMzZjdiYWNkMWQwZTZlYjAxNDgwMDQ5NTYxMjc3NmY4NzQxZTNmY2JlYzQ5MmJhNWQ4MDdlZDJiMzUsMiwx",
-    "https://www.linkedin.com/comm/jobs/view/4492729245/?trackingId=%2Bv1N8y6xugytIlvvOREgwA%3D%3D&refId=ks1UxuDguZmUVUHFdGlB%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2UCHj%2BKbQWqgWmgF8TWRqw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3VgzEJwDDaAIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492729245_ssid_8461940610_fmid_q9jfse~mwraz71d~qz_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492729245_ssid_8461940610_fmid_q9jfse~mwraz71d~qz_crv_4-null-q9jfse~mwraz71d~qz-null-null&eid=q9jfse-mwraz71d-qz&otpToken=OGVmZGU0YTE4OWY5YTk0NTk4ZjY3YjlmMTg2ZTAwNDNkYWVhOWRkOTRiZTdiMGE1YzQ4MzIwOTM4MDhiNzJlMWYzMzI4ZjI1ODNlNGE1ZWU1OTQ1NmUyZmRkN2Y5ZmY3ZjFmMTg3YzQ0OWE0ZWYxMTI2Zjc0NjAxYThjMWU3NjI1ODZjMzRiODJkZDk2ZTY4YjYsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4492729245/?trackingId=%2Bv1N8y6xugytIlvvOREgwA%3D%3D&refId=ks1UxuDguZmUVUHFdGlB%2FA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B2UCHj%2BKbQWqgWmgF8TWRqw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3VgzEJwDDaAIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492729245_ssid_8461940610_fmid_q9jfse~mwraz71d~qz_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492729245_ssid_8461940610_fmid_q9jfse~mwraz71d~qz_crv_4-null-q9jfse~mwraz71d~qz-null-null&eid=q9jfse-mwraz71d-qz&otpToken=OGVmZGU0YTE4OWY5YTk0NTk4ZjY3YjlmMTg2ZTAwNDNkYWVhOWRkOTRiZTdiMGE1YzQ4MzIwOTM4MDhiNzJlMWYzMzI4ZjI1ODNlNGE1ZWU1OTQ1NmUyZmRkN2Y5ZmY3ZjFmMTg3YzQ0OWE0ZWYxMTI2Zjc0NjAxYThjMWU3NjI1ODZjMzRiODJkZDk2ZTY4YjYsMiwx",
+    "https://www.linkedin.com/jobs/view/4492918861/",
+    "https://www.linkedin.com/jobs/view/4493213680/",
+    "https://www.linkedin.com/jobs/view/4491936481/",
+    "https://www.linkedin.com/jobs/view/4492616763/",
+    "https://www.linkedin.com/jobs/view/4492597613/",
+    "https://www.linkedin.com/jobs/view/4492802260/",
+    "https://www.linkedin.com/jobs/view/4492591699/",
+    "https://www.linkedin.com/jobs/view/4492314153/",
+    "https://www.linkedin.com/jobs/view/4492945549/",
+    "https://www.linkedin.com/jobs/view/4492853714/",
+    "https://www.linkedin.com/jobs/view/4493797181/",
+    "https://builtin.com/job/data-operational-insight-analyst-21457/12363958?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a203ca42b1-0d84b055-13cc-46f2-ad04-07c43ec00f98-000000/VTvFiRQcVBnk3piLVrQj2xLa8pcG4",
+    "https://builtin.com/job/revenue-operations-analyst/12355932?i�ea6fd3-1714-41e3-9718-644dd260d9a0&utm_campaign=job_preference_email_weekly&utm_medium=email&utm_source=ses&preference_ide538522-a60f-4476-a0e9-d96738215511/1/010101a203ca42b1-0d84b055-13cc-46f2-ad04-07c43ec00f98-000000/sVISpYuBjJiI43tvvOHkHzsbnrEG4",
+    "https://www.ziprecruiter.com/km/AAFz-_hCZfcY6Iy91rSrY3hUMpd09bv5fHM574ATAa4smG1spHr0eIcTGZI1pIDzXc6ynuFf0QBg3DZmi9-I4nGHZW3cvBSLzruPrcU9FZJxEwawBjd7im_c4ewmh5XmpREKup0uSfthB1zlAhZpQmQavJc0szRfpvVbyGfRd_b6ft_6880RFI2jwY4qPsXQzhvOvBuZLc0SBPswGErZt2mTsSI8M8Y_thtNoFsCdP9jNQVxNPTJ3EX8Wls5nyGPcLLriVSCgmMLYW_7Aw4EefdUpI03PhDiEOeJPf32WaP-lF6N5SZTEa8fFMLL1KqIfGZ0BzPcNwgHW7lOmaTBhSsGdCCzQ2BE50lW6DWie44u1I3mGosJ-Q-aISXMf6SNWA6X0vuyxbQjvNkJL4jNnrL0?tsid\u00111000153&auth_token=5_1795366340_jjIXsQjuhTii5WHal2d7CXklCRUwXUffxAl7fPluKho&contact_id�f05452&expires\u001795711940",
+    "https://www.ziprecruiter.com/km/AAHAYMiocdTKf3gpuuspzHX9sgGubtIw91UDrgdhVgRR0kYusu4rk-aNicdoSEyZqzbcbku0kLpejWgHBTL4ApNLkspyxqY3MSZJ-6D_rx1efIlULWP_CYlvzNR_R94Q7LIhTW7EaFWxAakKtRJg76xKyIF50uXToRTA0v1SnhxNMICwjcxhLO2u1tsUjJ8-AJiQ_T2TazFYDIw193OAVyxzD6katXMB_kKNkV3bhgd2xgw5OyLkCNOj2NIKkkjf1gTbdFSth625rMHVW8KaKs1yhNUX2AMXC88ik0EtpGIRApoMWR6XQj6Xf0VKYngNygIn-eutQnzuNSbRpofmqAFXgPAxr8YEczcQ5z1LTvzSGu1XhlLUQxjJ1_bHktSAGwSlUVSxGRwJaaBUfMT7hedd?tsid\u00111000153&auth_token=5_1795274038_F5Tl9ixaiY5QEPmlH80qT55iaVRphcQS48reHz4fdJo&contact_id�f05452&expires\u001795619638",
+    "https://www.ziprecruiter.com/km/AAHZrt8wsMS5VAvjHQgv8mzeoGoGxc4rCGra_Pfw30bPowF1tD9wjZOlU_73Wg5-cpmRdoXqJt2eqQLQzd2XeXVD11-bCneOgf4vzEQX9c_l7WeNhfXTO5zic_cQa3v-iKsm0qX4WFN3EItNGmjEUpdlLTSjRCxgAeI6eEl2SXdGfGq3rSyMo2USHijZzMqBu6kChNer0e9Y-DyA1W_p_EeVB4n1oecUTnfPZjcWtQuAeBjfiDM3hGSIuBKpzsgKoApbwbm4KNCtkcwWSN_SMTAe1eImXwKx_Rt5zsZV6h2Q8SWxsS3A_MS_rHX1QwIE9pasfouYojx8wlwxfE0QlOzVwPEIbKbgAzrXUIz2KG5wKJjVO34OETvBNEvjM1vsS0PJWhHSuNVoiTbphx8R?tsid\u00111000153&auth_token=5_1795274038_F5Tl9ixaiY5QEPmlH80qT55iaVRphcQS48reHz4fdJo&contact_id�f05452&expires\u001795619638",
+    "https://www.ziprecruiter.com/ekm/AAGdv8mlS5z8WdV83oUszeBr6LuSps-8cbpW0EKD02Ipq5z5gStteE8cUmlMXJGDkd16d8yKOn0uRBfVMHH2Ogwid_zLGfrYEWzO-WmeIJV37rfZg3SasdPluqB_HAArAmjjrmfWhYqMnaJcR7enecaQ_9cqbJaRhfMS1cccbBAwC3yIp7SSIcSkz0BwrVjum3_BRwxfvPIfLf9-7GUVIfPCNqERSIV81W_OO7J2PEseDxRxQUI01o1aekC1J-GOEbIdHTAPupUQZSzuKOrapO9imKuwihXZWpDCEeqlIvP5PfJBmmx_pntl_wUq9LKr40NBfkXhwmfO7T6RC4pulfAXlFJ3fCC7Te-86m4H3rDlzEy12N4RMQ0O4Pf_88byWBCKZ2KJqLrYidVzv_RJfj2O?tsid\u00111000153",
+    "https://www.linkedin.com/comm/jobs/view/4492855114/?trackingId�Q5Q%2BWoXaft8Zwd4AYxeA%3D%3D&refId\u00129nlzOxMsi83kX1BaX7nw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BzJpJlJ0LTVGYkpOog8eFpg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0nOKno1W3OBYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492855114_ssid_8709018482_fmid_q9jfse~mwsm4qhu~lh_crv_9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_2_jobid_4492855114_ssid_8709018482_fmid_q9jfse~mwsm4qhu~lh_crv_9-null-q9jfse~mwsm4qhu~lh-null-null&eid=q9jfse-mwsm4qhu-lh&otpToken=MjEzOTgyY2U1NzAwMzczM2RlZjgwYTIyNmM1NTliNTgxZGVkMmRiNGJhNDQwZWYxODc3NGJkNWIwM2RkYTc3ZGFkNTZhZjY0ZDdjMGE2MDI2NTViNWQ3ZDA0OWY2MzBlNTU2OGZjZjZhMjNkYmU0YjhhMTQ3OWZjMTVmMzI0NGRjZjIwMGU4ZTlkYzU4ZTQwYTAsMiwx",
+    "https://www.linkedin.com/comm/jobs/view/4490480826/?trackingId=tmzZusrxumLxTFGPhUAyTQ%3D%3D&refId=lr0IZ2LcH82MKB1mnRsX9Q%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2Fdc7N5aSTIOUmHGJpiSCNw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4490480826_ssid_15324419412_fmid_q9jfse~mwp1j2pb~wh_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4490480826_ssid_15324419412_fmid_q9jfse~mwp1j2pb~wh_crv_4-null-q9jfse~mwp1j2pb~wh-null-null&eid=q9jfse-mwp1j2pb-wh&otpToken=N2EwZDg4ODEwNzUyM2RkYzllMWY3ZDE4ZTA4MmUwNzNlNWY4NTJkNWFkNmI0Y2MwYTQ1ZTk5YWJlOWE3MGRjNzRlODFiZWMwMWFkZWY0ZWU2YjY0ZjM4MzczYTI2NTM5MWY5N2M3ZGM3MjdmOGVkNDFmM2VjNGQ1YjhmZTE2MjIxNWEyYzgwMmMyMDQyOTNhOGUsMiwx"
   ],
   "dismissedKeys": [
     {
@@ -16369,8 +15986,84 @@
     {
       "k": "metlife|data operational insight analyst",
       "at": "2026-11-23T19:10:08.788Z"
+    },
+    {
+      "k": "deloitte|business data analyst",
+      "at": "2026-11-23T19:18:42.489Z"
+    },
+    {
+      "k": "speria|business analyst engineering swine division",
+      "at": "2026-11-23T19:18:42.489Z"
+    },
+    {
+      "k": "lockheed martin|multi functional info systems analyst e2",
+      "at": "2026-11-23T19:18:42.490Z"
+    },
+    {
+      "k": "highbrow technology|application systems analyst",
+      "at": "2026-11-23T19:18:42.490Z"
+    },
+    {
+      "k": "us tech solutions|business analyst sql sql server application testing 26 29499",
+      "at": "2026-11-23T19:18:42.490Z"
+    },
+    {
+      "k": "systemtec|business system analyst",
+      "at": "2026-11-23T19:18:42.490Z"
+    },
+    {
+      "k": "intersources|technical business analyst ui ux",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "technix|technical business analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "v group|information technology business analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "nmdp|product analyst member experience",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "capax rm|system analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "metlife|data operational insight analyst 21457",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "argyle|revenue operations analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "see posting|criminal data analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "see posting|it business analyst",
+      "at": "2026-11-23T19:18:42.491Z"
+    },
+    {
+      "k": "see posting|data control analyst 2",
+      "at": "2026-11-23T19:18:42.492Z"
+    },
+    {
+      "k": "see posting|data analytics translator business analyst",
+      "at": "2026-11-23T19:18:42.492Z"
+    },
+    {
+      "k": "state farm|business analyst",
+      "at": "2026-11-23T19:18:42.492Z"
+    },
+    {
+      "k": "see posting|data analyst payment success",
+      "at": "2026-11-23T19:18:42.492Z"
     }
   ],
   "lastRun": "2026-11-23T16:32:36.605686+00:00",
-  "savedAt": "2026-11-23T19:18:17.406Z"
+  "savedAt": "2026-11-23T19:18:42.492Z"
 }
