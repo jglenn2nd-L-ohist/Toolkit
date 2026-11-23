@@ -1678,26 +1678,6 @@
   ],
   "jobs": [
     {
-      "id": "1a2093f98deDTlF",
-      "company": "OHG Brands",
-      "title": "BI Analyst, Performance Analytics",
-      "location": "Atlanta, GA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/4493200657/",
-      "source": "LinkedIn",
-      "viewed": true,
-      "dateAdded": "2026-11-23T16:31:32.574502+00:00",
-      "notes": "",
-      "remote_search": false,
-      "via": "proactive",
-      "enriched": true,
-      "filter_status": "pass",
-      "filter_reasons": [],
-      "loc_class": "allowed",
-      "filter_version": "2026-10-09.1",
-      "status": "New"
-    },
-    {
       "id": "1a2093fa290XdBV",
       "company": "Deloitte",
       "title": "Business Data Analyst",
@@ -9133,7 +9113,8 @@
     "https://www.linkedin.com/jobs/view/4492934406/",
     "https://www.linkedin.com/jobs/view/4492568782/",
     "https://www.linkedin.com/comm/jobs/view/4491444623/?trackingId�MzMYDd9KgOqKWMcY6HsA%3D%3D&refId=0OqBInEzvCBsq0V%2BY5PShQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Byaq%2BXReyTlGev7p42Sjlkg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig8aOiVPDfyysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4491444623_ssid_5216629873_fmid_q9jfse~mwp1j2pb~y6_crv_5-null-q9jfse~mwp1j2pb~y6-null-null&eid=q9jfse-mwp1j2pb-y6&otpToken=OTI5NjI4NjU0NGViMDk2NWFiNzg2ZWFkMDNmOTFlYzg0YmFmMTRiZmY4NjAxNGIyM2IxOWE2ZmQxNGFlNWY0YzJjOWFmNWNmNzE3ZTI5ZDQwNTc3MTk3ZDgwMzE3NjU5ZTc3NmM0ZTkyYmVmOTE1Yjc5Y2NiZDZlYjhiZDFjMDViNDk3ZWYyNDU2Y2IzMjJjNDQsMiwx",
-    "https://www.linkedin.com/comm/jobs/view/4482255521/?trackingId=%2BU2s11%2B6UOQYtTFPFgr34A%3D%3D&refId�dd%2BHo2n5VHbea%2F6LYTHQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BEisD%2FxKpT7SeSprfUZ0gZw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2liV2lQGpGysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2-null-q9jfse~mwox8ptw~po-null-null&eid=q9jfse-mwox8ptw-po&otpToken=YTQ3ZTM0ZmRhODEzNjcyYjFiNmNmMzNlYzU0MGVlMzQwMGMyY2YxMTg4ZTgyNDA3MTY3M2E1MTllOTZhZjVjNzBkN2JiMDQ2NjNhY2I5Mzg2NWU3NGQxMzEyYjU5NTY0ZDJiY2JlNmRhMzVmNTY5MWJlMjM3YzNlY2EyYjcwNzAxMDM4NmM1OWUxN2ZlMjllNzQsMiwx"
+    "https://www.linkedin.com/comm/jobs/view/4482255521/?trackingId=%2BU2s11%2B6UOQYtTFPFgr34A%3D%3D&refId�dd%2BHo2n5VHbea%2F6LYTHQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BEisD%2FxKpT7SeSprfUZ0gZw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2liV2lQGpGysw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4482255521_ssid_9107021378_fmid_q9jfse~mwox8ptw~po_crv_2-null-q9jfse~mwox8ptw~po-null-null&eid=q9jfse-mwox8ptw-po&otpToken=YTQ3ZTM0ZmRhODEzNjcyYjFiNmNmMzNlYzU0MGVlMzQwMGMyY2YxMTg4ZTgyNDA3MTY3M2E1MTllOTZhZjVjNzBkN2JiMDQ2NjNhY2I5Mzg2NWU3NGQxMzEyYjU5NTY0ZDJiY2JlNmRhMzVmNTY5MWJlMjM3YzNlY2EyYjcwNzAxMDM4NmM1OWUxN2ZlMjllNzQsMiwx",
+    "https://www.linkedin.com/jobs/view/4493200657/"
   ],
   "dismissedKeys": [
     {
@@ -16935,8 +16916,12 @@
     {
       "k": "see posting|customer service analytics insights analyst",
       "at": "2026-11-20T22:09:31.452Z"
+    },
+    {
+      "k": "ohg brands|bi analyst performance analytics",
+      "at": "2026-11-23T17:50:09.204Z"
     }
   ],
   "lastRun": "2026-11-23T16:32:36.605686+00:00",
-  "savedAt": "2026-11-23T17:22:18.055Z"
+  "savedAt": "2026-11-23T17:50:09.204Z"
 }
