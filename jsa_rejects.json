@@ -1,6 +1,94 @@
 {
   "rejects": [
     {
+      "title": "Business Analyst Intern",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492350730/?trackingId=YQOA6TaNFyv9bRHvFk8RmA%3D%3D&refId=Ukx5FTm0l22v4aThrvEMTg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B6MqaKkJFSU2OwbT07CQzKg%3D%3D&midToken=AQEh9l5-mxCz-A&midSig/CSzv7FMYDsw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4492350730_ssid_8694211818_fmid_q9jfse~mwtyhz4s~xn_crv_1&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_0_jobid_4492350730_ssid_8694211818_fmid_q9jfse~mwtyhz4s~xn_crv_1-null-q9jfse~mwtyhz4s~xn-null-null&eid=q9jfse-mwtyhz4s-xn&otpToken=ZjAyMmM1NWY5OGY5YjQzYWQ4ZGY4MjI5NTBhNDg5MDcxODYyMjJjODRlODM2MDE4ODJmNDAzMmM3NGEzNmZmODhkZDJhZjU1YzVkODkwZGFlMDFiMWYzNTAxNDliYjhmODg4NjlkOWVjNjAwNWE4YWEyYzlkZjZiNTZhMzZlMDk4ZDc5MWEyMDI3YmE4Zjk4ZmIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:intern",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:42.337265+00:00"
+    },
+    {
+      "title": "Analyst I",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492598514/?trackingId=wExphxatwNX5rqPZN83%2BCA%3D%3D&refId=zpPmkMVwIE0hNWxo8adKfQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BHOH6%2BkRmSZWiuDXWGPRkdA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0R4ruDpg7yCcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492598514_ssid_8367968258_fmid_q9jfse~mwsupcr9~v2_crv_1&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492598514_ssid_8367968258_fmid_q9jfse~mwsupcr9~v2_crv_1-null-q9jfse~mwsupcr9~v2-null-null&eid=q9jfse-mwsupcr9-v2&otpToken=YmFkYzEwY2E4NzFmOGNhMmYzYjk0MmQ4OGI3MjlkNzFjYTE4NmE3YTVmODgwMjVkZmIzNGY5ZDRlZGU1NDNhYWYzZjhjMDNkZDM2OGZhMjNjMmU0NDUyNWU4NjU4NGQxMDY2YWJjZGUyYmM4YTMzMmQ5OTVhNmYzNmJlZjM4MjgwMTgyY2Q4YTFlMDgzYzdiNWIsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:43.178701+00:00"
+    },
+    {
+      "title": "Strategy Operations Analyst",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492323425/?trackingId=QqluOnLLZzXcb5PZjkcdWA%3D%3D&refId=NPs%2FAgdPsKJqdaHvMCBB%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bx0MFwcdrRYumPXsbZi7XfA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3G2sXWWD0qDsw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492323425_ssid_15402374820_fmid_q9jfse~mwtxa8tm~2o_crv_9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492323425_ssid_15402374820_fmid_q9jfse~mwtxa8tm~2o_crv_9-null-q9jfse~mwtxa8tm~2o-null-null&eid=q9jfse-mwtxa8tm-2o&otpToken=N2Y2M2FjZWRiN2UwMTdlZGFlYmYxZTU2ODA0ZWZiMjI1OTVjNGIxNTE5Yjk2ZDRlNDZmYTMzYzI4MDQwZDAwNmE2ODc2OWFiNTEyYzBiN2YyNGIzZWQwMTQzYTM0NjIyZjU0YzVlYjhjYmQ5ZTYwN2Q0NjBlM2E5YjYyNzMwYzBjZWJmODc1MTQ1MWRlZGQyNGQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:45.030468+00:00"
+    },
+    {
+      "title": "Remote Quality Improvement Data Analyst",
+      "company": "Alignment Health",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492322498/?trackingId\ufffdN5A7a%2FDwKBuZAEOkwK1Q%3D%3D&refId=NPs%2FAgdPsKJqdaHvMCBB%2Bw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bx0MFwcdrRYumPXsbZi7XfA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3G2sXWWD0qDsw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4492322498_ssid_15402374820_fmid_q9jfse~mwtxa8tm~2o_crv_9&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4492322498_ssid_15402374820_fmid_q9jfse~mwtxa8tm~2o_crv_9-null-q9jfse~mwtxa8tm~2o-null-null&eid=q9jfse-mwtxa8tm-2o&otpToken=N2Y2M2FjZWRiN2UwMTdlZGFlYmYxZTU2ODA0ZWZiMjI1OTVjNGIxNTE5Yjk2ZDRlNDZmYTMzYzI4MDQwZDAwNmE2ODc2OWFiNTEyYzBiN2YyNGIzZWQwMTQzYTM0NjIyZjU0YzVlYjhjYmQ5ZTYwN2Q0NjBlM2E5YjYyNzMwYzBjZWJmODc1MTQ1MWRlZGQyNGQsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "healthcare:company"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:45.030496+00:00"
+    },
+    {
+      "title": "Product Quality Analyst Smurfit Westrock &middot; Atlanta Metropolitan Area",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4489190371/?trackingId=geyL8s2kiFjUAcXCDnGbqQ%3D%3D&refId=LfuXtb6mdM9T2M81WBicxA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_jobs_qualification_board%3BOohOMDV%2FQcyGFU4kW0yBrA%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=3GVKlZ7GjwCYw1&trk=eml-email_jobs_qualification_board-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4489190371_fmid_q9jfse~mwtm26bs~2d&trkEmail=eml-email_jobs_qualification_board-JOBS_POSTING_SECTION_1-0-job_card_1_jobid_4489190371_fmid_q9jfse~mwtm26bs~2d-null-q9jfse~mwtm26bs~2d-null-null&eid=q9jfse-mwtm26bs-2d&otpToken=MWRhNmJlZjQyZTJmZmRjYzU3MzI3MmFmMDk3ODNmM2I0NTM0MWI0ZjI2ZWI2M2FlN2RmODQ5NzUxYjYxNDM0ZWZmNjgyMDZkZjk2MGJmOWFjNDMxYTNlYmU0ZjEzZDViMWRjMjc0MzA2MWRmODNhOTYxN2U3YTIzNjEyMTNhNDQwODFiNzFkOWZjNzE2YWE1N2YsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:46.075952+00:00"
+    },
+    {
+      "title": "Co-Op, Operations Planning and Performance - Reporting and Analytics (Spring 2027)",
+      "company": "Delta Air Lines",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492598545/?trackingId=7JH9uwP%2B5QsUjdKtC7cRRQ%3D%3D&refId=fkfjxVyT5PcHKeMvGg%2BSAQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BTXQjpbefR4%2Bqxc5QD6zTDw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig,-sSWj8v2CIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492598545_ssid_8694211818_fmid_q9jfse~mwtbumtj~l_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4492598545_ssid_8694211818_fmid_q9jfse~mwtbumtj~l_crv_2-null-q9jfse~mwtbumtj~l-null-null&eid=q9jfse-mwtbumtj-l&otpToken=MjI4NDUzNjE3NWZhMzhjZWY1NDNlMmUzY2M0Mzg5ZmYzYTMxOWNlNWE4ZGMzOTY3OWZhYmExNDc4YWRiYTFmNTIwMGZiNjY2OTg3ODY5MDdiNGVhOTEyZjdhZDEzMzFmMzViNjJiNzZmOGQxMjRmNTBlMWQxZDM5MGNhZjVhNTM5Y2MwMWMwMDAxOTA2NDJkN2UsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:co-op"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:47.421745+00:00"
+    },
+    {
+      "title": "Analyst, Trade Credit-2",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492818671/?trackingId=R57vtc58jN5nt9JsMvhMFw%3D%3D&refId=fkfjxVyT5PcHKeMvGg%2BSAQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BTXQjpbefR4%2Bqxc5QD6zTDw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig,-sSWj8v2CIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492818671_ssid_8694211818_fmid_q9jfse~mwtbumtj~l_crv_2&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4492818671_ssid_8694211818_fmid_q9jfse~mwtbumtj~l_crv_2-null-q9jfse~mwtbumtj~l-null-null&eid=q9jfse-mwtbumtj-l&otpToken=MjI4NDUzNjE3NWZhMzhjZWY1NDNlMmUzY2M0Mzg5ZmYzYTMxOWNlNWE4ZGMzOTY3OWZhYmExNDc4YWRiYTFmNTIwMGZiNjY2OTg3ODY5MDdiNGVhOTEyZjdhZDEzMzFmMzViNjJiNzZmOGQxMjRmNTBlMWQxZDM5MGNhZjVhNTM5Y2MwMWMwMDAxOTA2NDJkN2UsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-24T03:59:47.421784+00:00"
+    },
+    {
       "title": "Lead Data Analyst",
       "company": "Anonymous",
       "location": "Alpharetta, GA",
@@ -18240,95 +18328,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-23T16:59:20.525762+00:00"
-    },
-    {
-      "title": "Digital/Ecom Product Analyst",
-      "company": "Altar'd State",
-      "location": "Knoxville, TN",
-      "url": "https://www.linkedin.com/jobs/view/4450619439/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:TN"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.526012+00:00"
-    },
-    {
-      "title": "Member of Data Staff (Data Scientist)",
-      "company": "Perplexity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4468006520/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:staff",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.526321+00:00"
-    },
-    {
-      "title": "Staff, Product Manager, Product Analytics",
-      "company": "Walmart",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475273168/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:staff",
-        "out_of_area:CA"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.526557+00:00"
-    },
-    {
-      "title": "Senior Analyst, Digital Product Management \u2013 AI",
-      "company": "Digitas North America",
-      "location": "New York, NY",
-      "url": "https://www.linkedin.com/jobs/view/4466583756/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_excluded:senior",
-        "out_of_area:NY"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.526773+00:00"
-    },
-    {
-      "title": "Data Scientist, Product Analytics, XBOX Growth",
-      "company": "Microsoft",
-      "location": "United States",
-      "url": "https://www.linkedin.com/jobs/view/4482473706/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "remote_unverified"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.527044+00:00"
-    },
-    {
-      "title": "DATA TEAM SUPERVISOR",
-      "company": "Gerdau",
-      "location": "Tampa, FL",
-      "url": "https://www.linkedin.com/jobs/view/4493158578/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_not_target"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.527390+00:00"
-    },
-    {
-      "title": "Applications Analyst",
-      "company": "Bath & Body Works",
-      "location": "Columbus, OH",
-      "url": "https://www.linkedin.com/jobs/view/4493213672/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "title_unlisted",
-        "out_of_area:OH"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-23T16:59:20.527648+00:00"
     }
   ]
 }
