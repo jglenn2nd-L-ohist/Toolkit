@@ -1,6 +1,45 @@
 {
   "rejects": [
     {
+      "title": "Credit Risk Analyst",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493024291/?trackingId=UYw7zdG7EtUsnQTY%2BJlrfQ%3D%3D&refId=rfJnyABGP1IBUGbXAU9DTQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B8SlyQCZbQxiYraZI4nJMlQ%3D%3D&midToken=AQEh9l5-mxCz-A&midSig\u000f_7dnm-dWFIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4493024291_ssid_8694211818_fmid_q9jfse~mwwb0oic~j7_crv_3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4493024291_ssid_8694211818_fmid_q9jfse~mwwb0oic~j7_crv_3-null-q9jfse~mwwb0oic~j7-null-null&eid=q9jfse-mwwb0oic-j7&otpToken=NGVkNGIwZWRjNmI2YjI2NTkzZGM4MTFjNDI3YjY0YjA2ODg0MmY0MWFlNDQ5NzM0NjBiY2EwZTM1MjA4MGNjZTU0YWRjMzcyNmFiMGNhMDI2NWE0MTYyMzg5NTgyNDM4ODJmZWZhMjhmZWYxYjUyYjE1N2Q5ODFlOGQzZWNlYWJlNWYwZDk1ODc0YzI4ZDI4YzEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:risk",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-25T18:14:50.195545+00:00"
+    },
+    {
+      "title": "Treasury Systems Analyst II, Kyriba & Oracle Fusion",
+      "company": "See posting",
+      "location": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4459421564/?trackingId=W6%2FQ%2FIM2vjjH5GTIaptkHg%3D%3D&refId=YEdC%2FCxd%2BqGyfb1FrHEv4w%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3B%2BOAVy9s0STu8Sb1XbIkQZw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=0UsPMH7COqFcw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4459421564_ssid_8352402866_fmid_q9jfse~mwvtvdgo~fg_crv_8&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_3_jobid_4459421564_ssid_8352402866_fmid_q9jfse~mwvtvdgo~fg_crv_8-null-q9jfse~mwvtvdgo~fg-null-null&eid=q9jfse-mwvtvdgo-fg&otpToken=NDg1NjZkZmUwMjMxY2I5YTA1YzU0NTZmMTNjYTgwMjI0MmYxYmJhNWQyYjFhMDYxYzgwY2NjYjAwNjUwYmRiYTJhY2Q4NWU3YzNkYjUzOTcwOGY1ZTRmMTg2NjZjMjk5YjMxNTdmOWY5MzZlMGQxMzFiM2IxODAyODZiMWM3ODNhNzEwZDI0ZmVhMmJiODI4MDEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_excluded:treasury",
+        "location_unknown"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-25T18:14:50.773837+00:00"
+    },
+    {
+      "title": "Program Analyst",
+      "company": "TalentHop",
+      "location": "United States",
+      "url": "https://www.linkedin.com/comm/jobs/view/4492604565/?trackingId=zzB4YU2pBT3eOg28mihOeg%3D%3D&refId=wY8E74IBXla%2BADaZDdmSDw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3Bdq0ZKE2tQQ6Xir9Hh4ac1g%3D%3D&midToken=AQEh9l5-mxCz-A&midSig+BGa-TAaGEYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4492604565_ssid_8461940610_fmid_q9jfse~mwvlar1q~5p_crv_3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4492604565_ssid_8461940610_fmid_q9jfse~mwvlar1q~5p_crv_3-null-q9jfse~mwvlar1q~5p-null-null&eid=q9jfse-mwvlar1q-5p&otpToken=NTllZGQxNDAzYWE0NGI0Nzk4MmY4MTcxMTIzNTViNTc2YWZlNWY4YjRiMzhiYzY2ZGQ4YjZiZGY1MDIzOTcxNDVhODA1ZDBkNjNmZTc1N2NlMWI5YzdhMWYwYzZkYTAxMjAyODQxODNkNzljZmQ1NWI3NzIxM2RhYTJhZjczNzI4NmMzYjVlZmMwNTY0ZjNmZTEsMiwx",
+      "source": "LinkedIn",
+      "filter_reasons": [
+        "title_unlisted",
+        "staffing_outside_atlanta"
+      ],
+      "filter_version": "2026-10-09.1",
+      "dateAdded": "2026-11-25T18:14:51.063843+00:00"
+    },
+    {
       "title": "Strategy Operations Analyst",
       "company": "TalentHop",
       "location": "United States",
@@ -18343,43 +18382,6 @@
       ],
       "filter_version": "2026-10-09.1",
       "dateAdded": "2026-11-24T17:38:30.998395+00:00"
-    },
-    {
-      "title": "IT Business Analyst",
-      "company": "Nissan Motor Corporation",
-      "location": "Franklin, TN",
-      "url": "https://www.linkedin.com/jobs/view/4486848180/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:TN"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-24T17:38:30.998810+00:00"
-    },
-    {
-      "title": "IT Business Analyst",
-      "company": "Rocky Brands, Inc.",
-      "location": "Nelsonville, OH",
-      "url": "https://www.linkedin.com/jobs/view/4492511002/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "out_of_area:OH"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-24T17:38:30.999216+00:00"
-    },
-    {
-      "title": "Epic Revenue Cycle Systems Analyst - Back End",
-      "company": "Chesapeake Regional Healthcare",
-      "location": "Chesapeake, VA",
-      "url": "https://www.linkedin.com/jobs/view/4403157534/",
-      "source": "LinkedIn",
-      "filter_reasons": [
-        "healthcare:company",
-        "out_of_area:VA"
-      ],
-      "filter_version": "2026-10-09.1",
-      "dateAdded": "2026-11-24T17:38:30.999598+00:00"
     }
   ]
 }
