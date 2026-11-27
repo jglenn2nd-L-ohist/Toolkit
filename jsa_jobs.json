@@ -1,39 +1,6 @@
 {
   "runStats": [
     {
-      "at": "2026-10-23T15:06:08.696637+00:00",
-      "runner": "proactive",
-      "rules": "2026-10-09.1",
-      "bySource": {
-        "LinkedIn": {
-          "pass": 4,
-          "review": 0,
-          "reject": 462
-        },
-        "Greenhouse": {
-          "pass": 0,
-          "review": 0,
-          "reject": 8
-        }
-      },
-      "reasons": {
-        "title_excluded": 281,
-        "out_of_area": 246,
-        "title_not_target": 63,
-        "healthcare": 38,
-        "title_unlisted": 35,
-        "staffing_outside_atlanta": 18,
-        "remote_unverified": 10,
-        "foreign": 4,
-        "clearance_required": 2,
-        "jd_term": 1,
-        "location_unknown": 1
-      },
-      "found": 474,
-      "opened": 7,
-      "region": "rotation"
-    },
-    {
       "at": "2026-10-23T17:33:58.402467+00:00",
       "runner": "email",
       "rules": "2026-10-09.1",
@@ -1665,9 +1632,96 @@
       "cards": 3923,
       "searches": 66,
       "complete": 29
+    },
+    {
+      "at": "2026-11-27T16:01:06.855505+00:00",
+      "runner": "email",
+      "rules": "2026-10-09.1",
+      "bySource": {
+        "LinkedIn": {
+          "pass": 4,
+          "review": 2,
+          "reject": 20
+        },
+        "ZipRecruiter": {
+          "pass": 0,
+          "review": 0,
+          "reject": 7
+        }
+      },
+      "reasons": {
+        "title_unlisted": 15,
+        "location_unknown": 14,
+        "title_excluded": 10,
+        "healthcare": 2,
+        "jd_term": 1,
+        "clearance_required": 1
+      },
+      "messages": 46,
+      "found": 129,
+      "known": 96
     }
   ],
   "jobs": [
+    {
+      "id": "1a21dbca4beROJf",
+      "company": "See posting",
+      "title": "Business Analyst Automotive (Remote)",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493090522/?trackingIdO%2BnnXsLEaYrRfJGBY6n%2Bg%3D%3D&refId=gaoqT%2BwovQdSyBN%2BYUqQAA%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BQ3IvafkQRQCjFeOy4eddrw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=1_IzdHzsvGHIw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4493090522_ssid_8461940610_fmid_q9jfse~mwyg6ff8~dr_crv_5&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_1_jobid_4493090522_ssid_8461940610_fmid_q9jfse~mwyg6ff8~dr_crv_5-null-q9jfse~mwyg6ff8~dr-null-null&eid=q9jfse-mwyg6ff8-dr&otpToken=OTNkOWFiYjNlMGQ4NWFkNDMzNzY2ZmIwNTk0NTQ5MTc4MWRiNTUwNjQ3MzUxYTU5MGFiYmI5YzcxYTY4NjYwYTc3ZjJiNWFlYjQ4NTA4ZWI5OTU1NGNiMWU4Y2MwODBkNWNiYzI1NDdlYjEwNGJkNzEzZTQ5YjBmZjJmZDI4YmJiZmQ2OGQ0ZjYxNWRmYjQ5ZmIsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-27T16:00:31.934235+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a21dbcb06cHfuo",
+      "company": "Galderma",
+      "title": "Supply Chain Data & Analytics Analyst",
+      "location": "Miami-Dade County, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4494170305/?trackingId=y4rh61eopcbOI86h1RkLJw%3D%3D&refId=QPfX4Mwu8OSvjrILGfwKwQ%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BjkLwB4JMS%2FeD7eHdscp9qw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig=2lQ9WCJ4_qHYw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4494170305_ssid_8797982178_fmid_q9jfse~mwyor3ms~h1_crv_3&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_5_jobid_4494170305_ssid_8797982178_fmid_q9jfse~mwyor3ms~h1_crv_3-null-q9jfse~mwyor3ms~h1-null-null&eid=q9jfse-mwyor3ms-h1&otpToken=NGY3NGU5ZmQ0MWNkY2NlNDUxNDZhY2M1NDZmOWQ0Njc1ZjVkNGI5ZmQyNjU4YTNiOWMxY2M3M2MyMWE0MWMzZDQ4YzJiOWI3OGVmNTY5MGNiZmUzZTQ1OGY4OWY0OTBhNzMzOTkwZGNhMjg2NGNjMDMyNTlmZDE3NTg5Y2E5YTE1YmJlYjJiZjQxNjU2ZjNiOGUsMiwx",
+      "source": "LinkedIn",
+      "status": "New",
+      "viewed": false,
+      "dateAdded": "2026-11-27T16:00:34.924741+00:00",
+      "notes": "",
+      "enriched": true,
+      "via": "email",
+      "filter_status": "pass",
+      "filter_reasons": [],
+      "loc_class": "allowed",
+      "filter_version": "2026-10-09.1"
+    },
+    {
+      "id": "1a21dbcb539ThwS",
+      "company": "See posting",
+      "title": "Data and Reporting Analyst",
+      "location": "",
+      "salary": "",
+      "url": "https://www.linkedin.com/comm/jobs/view/4494767964/?trackingId\ufffdayHxIZghaIczvrisJy8g%3D%3D&refIdNb6U5pI7%2B3f7bF%2BVg7%2FNg%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_digest_01%3BMZds1%2F0oTziMjehxlr8Dtw%3D%3D&midToken=AQEh9l5-mxCz-A&midSig4rmu1key2Hsw1&trk=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4494767964_ssid_9107021378_fmid_q9jfse~mwy3bhyp~3t_crv_4&trkEmail=eml-email_job_alert_digest_01-primary_job_list-0-job_posting_4_jobid_4494767964_ssid_9107021378_fmid_q9jfse~mwy3bhyp~3t_crv_4-null-q9jfse~mwy3bhyp~3t-null-null&eid=q9jfse-mwy3bhyp-3t&otpToken=ZWFlM2ZiNTBmZTk5NWQ4NjVlYmYyZTQ2MWM2M2NhMTBjYWQxZTkzNGFjNzUzZGEyMmMyNWIxZTViNDM2NjQyNjExOWJlYTE5Y2IzYWZlYWI4NzIwMDA0NTlhZTcwZDY2NmZkNWYwOWY3YjVlM2Y4NzVmNzc0ZjZhNmQwMGIwOWQ5ZmU0NTc5NTlkMjhkNjQ2MzQsMiwx",
+      "source": "LinkedIn",
+      "status": "Review",
+      "viewed": false,
+      "dateAdded": "2026-11-27T16:00:36.153230+00:00",
+      "notes": "",
+      "via": "email",
+      "filter_status": "review",
+      "filter_reasons": [
+        "location_unknown"
+      ],
+      "loc_class": "unknown",
+      "filter_version": "2026-10-09.1"
+    },
     {
       "id": "1a21a67634dKJWV",
       "company": "Enterprise Engineering Inc. (EEI)",
@@ -17438,6 +17492,6 @@
       "at": "2026-11-25T21:14:34.115Z"
     }
   ],
-  "lastRun": "2026-11-26T23:50:54.174446+00:00",
-  "savedAt": "2026-11-27T15:05:00.878519+00:00"
+  "lastRun": "2026-11-27T16:01:07.075351+00:00",
+  "savedAt": "2026-11-27T16:01:07.075351+00:00"
 }
